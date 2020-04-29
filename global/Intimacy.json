@@ -1,0 +1,169 @@
+{
+    "items": [
+        {
+            "lv": [
+                {
+                    "dist": 1, 
+                    "exp": 0, 
+                    "val": 1
+                }, 
+                {
+                    "dist": 1, 
+                    "exp": 200, 
+                    "val": 2
+                }, 
+                {
+                    "dist": 2, 
+                    "exp": 1000, 
+                    "val": 3
+                }, 
+                {
+                    "dist": 2, 
+                    "exp": 3800, 
+                    "val": 4
+                }, 
+                {
+                    "dist": 2, 
+                    "exp": 5000, 
+                    "val": 5
+                }
+            ], 
+            "status": [
+                {
+                    "buff": "BUFF_INTIMACY_01"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_02"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_03"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_04"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_05"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_06"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_07"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_08"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_09"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_10"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_11"
+                }, 
+                {
+                    "buff": "BUFF_INTIMACY_12"
+                }
+            ], 
+            "iname": "INTIMACY"
+        }, 
+        {
+            "lv": [
+                {
+                    "exp": 0, 
+                    "val": 1
+                }, 
+                {
+                    "exp": 100, 
+                    "val": 2
+                }, 
+                {
+                    "exp": 200, 
+                    "val": 3
+                }, 
+                {
+                    "exp": 300, 
+                    "val": 4
+                }, 
+                {
+                    "exp": 400, 
+                    "val": 5
+                }, 
+                {
+                    "exp": 500, 
+                    "val": 6
+                }, 
+                {
+                    "exp": 600, 
+                    "val": 7
+                }, 
+                {
+                    "exp": 700, 
+                    "val": 8
+                }, 
+                {
+                    "exp": 800, 
+                    "val": 9
+                }, 
+                {
+                    "exp": 900, 
+                    "val": 10
+                }
+            ], 
+            "nbbonus": [
+                {
+                    "status": 10, 
+                    "mapefftype": 0, 
+                    "mapeff": 3
+                }, 
+                {
+                    "status": 20, 
+                    "mapefftype": 0, 
+                    "mapeff": 6
+                }, 
+                {
+                    "status": 30, 
+                    "mapefftype": 0, 
+                    "mapeff": 9
+                }, 
+                {
+                    "status": 40, 
+                    "mapefftype": 0, 
+                    "mapeff": 12
+                }, 
+                {
+                    "status": 50, 
+                    "mapefftype": 0, 
+                    "mapeff": 15
+                }, 
+                {
+                    "status": 60, 
+                    "mapefftype": 0, 
+                    "mapeff": 18
+                }, 
+                {
+                    "status": 70, 
+                    "mapefftype": 0, 
+                    "mapeff": 21
+                }, 
+                {
+                    "status": 80, 
+                    "mapefftype": 0, 
+                    "mapeff": 24
+                }, 
+                {
+                    "status": 90, 
+                    "mapefftype": 0, 
+                    "mapeff": 27
+                }, 
+                {
+                    "status": 100, 
+                    "mapefftype": 0, 
+                    "mapeff": 30
+                }
+            ], 
+            "iname": "SYNCHRO"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "rank_max": 1, 
+                    "num": 10000, 
+                    "type": 2, 
+                    "rank_min": 10
+                }, 
+                {
+                    "rank_max": 1, 
+                    "num": 1200, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 10
+                }, 
+                {
+                    "rank_max": 11, 
+                    "num": 5000, 
+                    "type": 2, 
+                    "rank_min": 50
+                }, 
+                {
+                    "rank_max": 11, 
+                    "num": 800, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 50
+                }, 
+                {
+                    "rank_max": 51, 
+                    "num": 3000, 
+                    "type": 2, 
+                    "rank_min": 100
+                }, 
+                {
+                    "rank_max": 51, 
+                    "num": 500, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 100
+                }, 
+                {
+                    "rank_max": 101, 
+                    "num": 2000, 
+                    "type": 2, 
+                    "rank_min": 5000
+                }, 
+                {
+                    "rank_max": 101, 
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 5000
+                }, 
+                {
+                    "rank_max": 5001, 
+                    "num": 1000, 
+                    "type": 2, 
+                    "rank_min": 10000
+                }, 
+                {
+                    "rank_max": 5001, 
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 10000
+                }, 
+                {
+                    "rank_max": 10001, 
+                    "num": 500, 
+                    "type": 2
+                }, 
+                {
+                    "rank_max": 10001, 
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }
+            ], 
+            "iname": "ARENA_DREWARD_001"
+        }, 
+        {
+            "rewards": [
+                {
+                    "rank_max": 1, 
+                    "num": 20000, 
+                    "type": 2, 
+                    "rank_min": 10
+                }, 
+                {
+                    "rank_max": 1, 
+                    "num": 1200, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 10
+                }, 
+                {
+                    "rank_max": 11, 
+                    "num": 10000, 
+                    "type": 2, 
+                    "rank_min": 50
+                }, 
+                {
+                    "rank_max": 11, 
+                    "num": 1000, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 50
+                }, 
+                {
+                    "rank_max": 51, 
+                    "num": 5000, 
+                    "type": 2, 
+                    "rank_min": 100
+                }, 
+                {
+                    "rank_max": 51, 
+                    "num": 800, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 100
+                }, 
+                {
+                    "rank_max": 101, 
+                    "num": 3000, 
+                    "type": 2, 
+                    "rank_min": 1000
+                }, 
+                {
+                    "rank_max": 101, 
+                    "num": 500, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 1000
+                }, 
+                {
+                    "rank_max": 1001, 
+                    "num": 2000, 
+                    "type": 2, 
+                    "rank_min": 5000
+                }, 
+                {
+                    "rank_max": 1001, 
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 5000
+                }, 
+                {
+                    "rank_max": 5001, 
+                    "num": 1000, 
+                    "type": 2, 
+                    "rank_min": 10000
+                }, 
+                {
+                    "rank_max": 5001, 
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA", 
+                    "rank_min": 10000
+                }, 
+                {
+                    "rank_max": 10001, 
+                    "num": 500, 
+                    "type": 2
+                }, 
+                {
+                    "rank_max": 10001, 
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }
+            ], 
+            "iname": "ARENA_DREWARD_002"
+        }
+    ]
+}

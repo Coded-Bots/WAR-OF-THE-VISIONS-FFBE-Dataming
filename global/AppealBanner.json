@@ -1,0 +1,245 @@
+{
+    "items": [
+        {
+            "start_at": "2020-02-25", 
+            "iname": "ev_ff14_01", 
+            "end_at": "2020-04-14 23:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 1, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-02-25", 
+            "iname": "GachaBanner_FF14_01", 
+            "sval": "GachaBanner_FF14_01", 
+            "end_at": "2020-04-14 23:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 2, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-02-25", 
+            "iname": "ev_anv_19_10", 
+            "end_at": "2020-03-31 23:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 3, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-02-25", 
+            "iname": "LAPS_MULTI_0001", 
+            "end_at": "2020-03-31 23:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "MultiQuest"
+            }, 
+            "transition_destination": 5, 
+            "id": 4, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-02-25", 
+            "iname": "LAPS_ARENA_0001", 
+            "end_at": "2020-04-07 20:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "Arena"
+            }, 
+            "transition_destination": 7, 
+            "id": 5, 
+            "appeal_category": 3
+        }, 
+        {
+            "start_at": "2020-02-25", 
+            "iname": "ev_gl_1m_dsq", 
+            "end_at": "2020-04-07 20:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 6, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-02-25", 
+            "iname": "ev_arti_crft_01", 
+            "end_at": "2020-04-14 23:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 7, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-07 21:30:00", 
+            "iname": "ev_01_01", 
+            "end_at": "2020-04-21 17:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 8, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-07 21:30:00", 
+            "iname": "GachaBanner_0008", 
+            "sval": "GachaBanner_0008", 
+            "end_at": "2020-04-21 17:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 9, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-04-07 21:30:00", 
+            "iname": "ev_jp_001", 
+            "end_at": "2020-04-14 23:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 10, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-15", 
+            "iname": "GachaBanner_Global_0010", 
+            "sval": "GachaBanner_Global_0010", 
+            "end_at": "2020-04-21 17:59:59", 
+            "priority": 0, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 11, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-04-15", 
+            "iname": "ev_etre_01", 
+            "end_at": "2020-04-28 23:59:59", 
+            "priority": 6, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 12, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-21 18:30:00", 
+            "iname": "GachaBanner_global_FFT_14", 
+            "sval": "LAPS_SHOP_LIMITED_FFT_01", 
+            "end_at": "2020-05-12 17:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 2, 
+            "id": 13, 
+            "appeal_category": 1
+        }, 
+        {
+            "start_at": "2020-04-21 18:30:00", 
+            "iname": "GachaBanner_FFT_13", 
+            "sval": "GachaBanner_FFT_13", 
+            "end_at": "2020-05-12 17:59:59", 
+            "priority": 2, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 14, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-04-21 18:30:00", 
+            "iname": "ev_fft_01", 
+            "sval": "ev_fft_01", 
+            "end_at": "2020-05-12 17:59:59", 
+            "priority": 3, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 15, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-21 18:30:00", 
+            "iname": "ev_art_secret_02", 
+            "end_at": "2020-05-05 23:59:59", 
+            "priority": 5, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 16, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-21 18:30:00", 
+            "iname": "ev_gl_3m", 
+            "end_at": "2020-05-05 23:59:59", 
+            "priority": 6, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 17, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-04-29", 
+            "iname": "GachaBanner_Global_0013", 
+            "sval": "GachaBanner_Global_0013", 
+            "end_at": "2020-05-05 23:59:59", 
+            "priority": 4, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 18, 
+            "appeal_category": 2
+        }
+    ]
+}

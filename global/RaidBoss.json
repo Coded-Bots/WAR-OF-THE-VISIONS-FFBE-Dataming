@@ -1,0 +1,183 @@
+{
+    "items": [
+        {
+            "rwd_smvp": "RAID_RWDLV_03", 
+            "constant": "RAID_CONST_01", 
+            "iname": "RAID_BOSS_01", 
+            "rwd_fou": "RAID_RWDLV_01", 
+            "unit_id": "UN_LW_S_IFRT", 
+            "rwd_ent": "RAID_RWDLV_02", 
+            "param": [
+                {
+                    "lv_min": 1, 
+                    "lim": 21600, 
+                    "l_lim": 10800, 
+                    "quest_id": "QE_TEST_RAID_S", 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "lim": 43200, 
+                    "l_lim": 21600, 
+                    "quest_id": "QE_TEST_RAID_M", 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "lim": 64800, 
+                    "l_lim": 32400, 
+                    "quest_id": "QE_TEST_RAID_L", 
+                    "lv_max": 99
+                }
+            ], 
+            "rwd_mvp": "RAID_RWDLV_02", 
+            "rwd_nmvp": "RAID_RWDLV_04"
+        }, 
+        {
+            "rwd_smvp": "RAID_RWDLV_03", 
+            "constant": "RAID_CONST_02", 
+            "iname": "RAID_BOSS_02", 
+            "rwd_fou": "RAID_RWDLV_01", 
+            "unit_id": "UN_LW_E_BOMB_02", 
+            "rwd_ent": "RAID_RWDLV_02", 
+            "param": [
+                {
+                    "lv_min": 1, 
+                    "lim": 21600, 
+                    "l_lim": 10800, 
+                    "quest_id": "QE_TEST_RAID_S", 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "lim": 43200, 
+                    "l_lim": 21600, 
+                    "quest_id": "QE_TEST_RAID_M", 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "lim": 64800, 
+                    "l_lim": 32400, 
+                    "quest_id": "QE_TEST_RAID_L", 
+                    "lv_max": 99
+                }
+            ], 
+            "rwd_mvp": "RAID_RWDLV_02", 
+            "rwd_nmvp": "RAID_RWDLV_04"
+        }, 
+        {
+            "rwd_smvp": "R_0001_B1_D2_LV", 
+            "constant": "RAID_CONST_01", 
+            "iname": "RAID_BOSS_02_01", 
+            "rwd_fou": "R_0001_B1_F_LV", 
+            "unit_id": "UN_LW_E_IGNT", 
+            "rwd_ent": "R_0001_B1_E_LV", 
+            "param": [
+                {
+                    "lv_min": 1, 
+                    "lim": 21600, 
+                    "l_lim": 10800, 
+                    "quest_id": "QE_RAID_IGNT_1", 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "lim": 43200, 
+                    "l_lim": 21600, 
+                    "quest_id": "QE_RAID_IGNT_2", 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "lim": 64800, 
+                    "l_lim": 32400, 
+                    "quest_id": "QE_RAID_IGNT_3", 
+                    "lv_max": 99
+                }
+            ], 
+            "rwd_mvp": "R_0001_B1_D1_LV", 
+            "rwd_nmvp": "R_0001_B1_D3_LV"
+        }, 
+        {
+            "rwd_smvp": "R_0001_B2_D2_LV", 
+            "constant": "RAID_CONST_01", 
+            "iname": "RAID_BOSS_02_02", 
+            "rwd_fou": "R_0001_B2_F_LV", 
+            "unit_id": "UN_LW_E_IGNT_01", 
+            "rwd_ent": "R_0001_B2_E_LV", 
+            "param": [
+                {
+                    "lv_min": 1, 
+                    "lim": 21600, 
+                    "l_lim": 10800, 
+                    "quest_id": "QE_RAID_IGNT01_1", 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "lim": 43200, 
+                    "l_lim": 21600, 
+                    "quest_id": "QE_RAID_IGNT01_2", 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "lim": 64800, 
+                    "l_lim": 32400, 
+                    "quest_id": "QE_RAID_IGNT01_3", 
+                    "lv_max": 99
+                }
+            ], 
+            "rwd_mvp": "R_0001_B2_D1_LV", 
+            "rwd_nmvp": "R_0001_B2_D3_LV"
+        }, 
+        {
+            "rwd_smvp": "RAID_FF14_RW04", 
+            "constant": "RAID_CONST_05", 
+            "iname": "RAID_BOSS_03", 
+            "rwd_fou": "RAID_FF14_RW01", 
+            "unit_id": "UN_LW_E_FF14_RAID", 
+            "rwd_ent": "RAID_FF14_RW02", 
+            "param": [
+                {
+                    "lv_min": 1, 
+                    "lim": 21600, 
+                    "l_lim": 10800, 
+                    "quest_id": "QE_RAID_FF14_1", 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "lim": 43200, 
+                    "l_lim": 21600, 
+                    "quest_id": "QE_RAID_FF14_2", 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "lim": 64800, 
+                    "l_lim": 32400, 
+                    "quest_id": "QE_RAID_FF14_3", 
+                    "lv_max": 90
+                }, 
+                {
+                    "lv_min": 91, 
+                    "lim": 86400, 
+                    "l_lim": 43200, 
+                    "quest_id": "QE_RAID_FF14_4", 
+                    "lv_max": 120
+                }, 
+                {
+                    "lv_min": 121, 
+                    "lim": 108000, 
+                    "l_lim": 54000, 
+                    "quest_id": "QE_RAID_FF14_5", 
+                    "lv_max": 150
+                }
+            ], 
+            "rwd_mvp": "RAID_FF14_RW03", 
+            "rwd_nmvp": "RAID_FF14_RW05"
+        }
+    ]
+}

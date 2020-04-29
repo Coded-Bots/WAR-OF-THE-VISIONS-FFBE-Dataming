@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "pri": 10, 
+            "type": 1, 
+            "iname": "TIPS_ALL_001"
+        }, 
+        {
+            "pri": 10, 
+            "type": 1, 
+            "iname": "TIPS_ALL_002"
+        }, 
+        {
+            "pri": 10, 
+            "type": 1, 
+            "iname": "TIPS_ALL_003"
+        }, 
+        {
+            "pri": 10, 
+            "type": 1, 
+            "iname": "TIPS_ALL_004"
+        }, 
+        {
+            "pri": 10, 
+            "type": 1, 
+            "iname": "TIPS_ALL_006"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_001"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_003"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_004"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_002"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_005"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_006"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_007"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_008"
+        }, 
+        {
+            "pri": 30, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_009"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_010"
+        }, 
+        {
+            "pri": 20, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_011"
+        }, 
+        {
+            "pri": 30, 
+            "type": 2, 
+            "iname": "TIPS_ALLQE_012"
+        }, 
+        {
+            "pri": 20, 
+            "type": 6, 
+            "iname": "TIPS_DUEL_001"
+        }, 
+        {
+            "pri": 20, 
+            "type": 6, 
+            "iname": "TIPS_DUEL_002"
+        }, 
+        {
+            "pri": 20, 
+            "type": 6, 
+            "iname": "TIPS_DUEL_003"
+        }, 
+        {
+            "pri": 20, 
+            "type": 9, 
+            "iname": "TIPS_MULTI_001"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "guidance": "Quest", 
+            "iname": "Party"
+        }, 
+        {
+            "guidance": "UnitStrength", 
+            "iname": "Unit"
+        }, 
+        {
+            "guidance": "UnitStrength", 
+            "iname": "UnitJobStrength"
+        }, 
+        {
+            "guidance": "UnitStrength", 
+            "iname": "UnitAbilitybord"
+        }, 
+        {
+            "guidance": "UnitStrength", 
+            "iname": "UnitAbilityStrength"
+        }, 
+        {
+            "guidance": "UnitStrength", 
+            "iname": "UnitStrengthLB"
+        }, 
+        {
+            "guidance": "UnitAwake", 
+            "iname": "UnitAwake"
+        }, 
+        {
+            "guidance": "UnitAwake", 
+            "iname": "UnitRank"
+        }, 
+        {
+            "guidance": "ArtifactCraft", 
+            "iname": "Artifact"
+        }, 
+        {
+            "guidance": "ArtifactCraft", 
+            "iname": "ArtifactCraft"
+        }, 
+        {
+            "guidance": "ArtifactCraft", 
+            "iname": "ArtifactAwake"
+        }, 
+        {
+            "guidance": "ArtifactCraft", 
+            "iname": "UnitArtifactFav"
+        }, 
+        {
+            "guidance": "UnitAwake", 
+            "iname": "UnitSubJob"
+        }, 
+        {
+            "guidance": "UnitAwake", 
+            "iname": "UnitAbilitySet"
+        }, 
+        {
+            "guidance": "EventQuest", 
+            "iname": "EventQuest"
+        }, 
+        {
+            "guidance": "VisionCard", 
+            "iname": "VisionCard"
+        }, 
+        {
+            "guidance": "ExplorationChocobo", 
+            "iname": "ExplorationChocobo"
+        }, 
+        {
+            "guidance": "ExplorationChocobo", 
+            "iname": "NetherBeast"
+        }, 
+        {
+            "guidance": "ExplorationChocobo", 
+            "iname": "NBeastQuest"
+        }, 
+        {
+            "guidance": "MultiQuest", 
+            "iname": "MultiQuest"
+        }, 
+        {
+            "guidance": "GuildJoin", 
+            "iname": "Guild"
+        }, 
+        {
+            "guidance": "Arena", 
+            "iname": "Arena"
+        }, 
+        {
+            "guidance": "FreeMatch", 
+            "iname": "Match"
+        }, 
+        {
+            "guidance": "Battle1", 
+            "iname": "SupportUnit"
+        }, 
+        {
+            "guidance": "Battle1", 
+            "iname": "Mission"
+        }, 
+        {
+            "guidance": "SubQuest", 
+            "iname": "HardQuest"
+        }, 
+        {
+            "guidance": "SubQuest", 
+            "iname": "CharaQuest"
+        }
+    ]
+}

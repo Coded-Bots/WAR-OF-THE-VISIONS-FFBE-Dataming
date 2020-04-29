@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "iname": "BFE_SALAD", 
+            "value": 25, 
+            "effect": 0
+        }, 
+        {
+            "iname": "BFE_SOUP", 
+            "value": 50, 
+            "effect": 0
+        }, 
+        {
+            "iname": "BFE_STEAK", 
+            "value": 75, 
+            "effect": 0
+        }
+    ]
+}

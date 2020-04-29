@@ -1,0 +1,117 @@
+{
+    "items": [
+        {
+            "ibuftag": [
+                1
+            ], 
+            "iname": "TAIL_PLAIN", 
+            "ecost": 1, 
+            "color": [
+                196, 
+                196, 
+                196
+            ], 
+            "ecosttag": [
+                1, 
+                2
+            ], 
+            "cost": 1, 
+            "buf": "BUFF_GEO_PLAIN"
+        }, 
+        {
+            "ibuftag": [
+                1
+            ], 
+            "iname": "TAIL_GRASS", 
+            "ecost": 1, 
+            "color": [
+                0, 
+                255, 
+                0
+            ], 
+            "ecosttag": [
+                1, 
+                2
+            ], 
+            "cost": 2, 
+            "buf": "BUFF_GEO_GRASS"
+        }, 
+        {
+            "ibuftag": [
+                1
+            ], 
+            "iname": "TAIL_STONE", 
+            "ecost": 1, 
+            "color": [
+                128, 
+                128, 
+                128
+            ], 
+            "ecosttag": [
+                1, 
+                2
+            ], 
+            "cost": 1
+        }, 
+        {
+            "ibuftag": [
+                1
+            ], 
+            "iname": "TAIL_SAND", 
+            "ecost": 1, 
+            "color": [
+                128, 
+                128, 
+                0
+            ], 
+            "ecosttag": [
+                1, 
+                2
+            ], 
+            "cost": 2
+        }, 
+        {
+            "ibuftag": [
+                1
+            ], 
+            "iname": "TAIL_WATER", 
+            "ecost": 1, 
+            "color": [
+                0, 
+                0, 
+                255
+            ], 
+            "ecosttag": [
+                1, 
+                2
+            ], 
+            "cost": 2
+        }, 
+        {
+            "ibuftag": [
+                1
+            ], 
+            "iname": "TAIL_MAGMA", 
+            "ecost": 1, 
+            "color": [
+                255, 
+                0, 
+                0
+            ], 
+            "ecosttag": [
+                1, 
+                2
+            ], 
+            "cost": 98
+        }, 
+        {
+            "color": [
+                0, 
+                0, 
+                0
+            ], 
+            "cost": 99, 
+            "iname": "TAIL_KEEP_OUT"
+        }
+    ]
+}

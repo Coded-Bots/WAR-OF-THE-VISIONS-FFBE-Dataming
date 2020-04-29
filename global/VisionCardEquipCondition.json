@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "series": [
+                1
+            ], 
+            "elements": [
+                0, 
+                6, 
+                7
+            ], 
+            "births": [
+                2
+            ], 
+            "iname": "VEC_SAMPLE", 
+            "sex": 1
+        }
+    ]
+}

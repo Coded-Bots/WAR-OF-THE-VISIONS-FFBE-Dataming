@@ -1,0 +1,727 @@
+{
+    "items": [
+        {
+            "curve": [
+                {
+                    "lv": 99, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "N_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 99, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SR_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SB_R1_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 80, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SB_R2_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 99, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SB_R3_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 150, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "RAID_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 20, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SKILL_DEFAULT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 100, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SKILL_100"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 80, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SKILL_80"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 999, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SKILL_999"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 4, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SKILL_4"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 15, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "SKILL_15"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 30, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_50"
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -40, 
+                    "atk": -50, 
+                    "lv": 1, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -50, 
+                    "avd": -75, 
+                    "mnd": -75, 
+                    "crta": 0, 
+                    "def": -75
+                }
+            ], 
+            "type": "ARTIFACT_CRAFT"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 1, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_TRUST"
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": 0, 
+                    "atk": -20, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -20, 
+                    "avd": -75, 
+                    "mnd": -75, 
+                    "crta": 0, 
+                    "def": -75
+                }
+            ], 
+            "type": "AFGROW_VIT_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -10, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": 15, 
+                    "atk": 5, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": 5, 
+                    "avd": -10, 
+                    "mnd": -10, 
+                    "crta": 0, 
+                    "def": -10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -40, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -50, 
+                    "avd": -75, 
+                    "mnd": -75, 
+                    "crta": 0, 
+                    "def": -75
+                }
+            ], 
+            "type": "AFGROW_ASS_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -10, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": -5, 
+                    "atk": 0, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": -15, 
+                    "avd": -10, 
+                    "mnd": -10, 
+                    "crta": 0, 
+                    "def": -10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -40, 
+                    "atk": -50, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "avd": -75, 
+                    "mnd": -75, 
+                    "crta": 0, 
+                    "def": -75
+                }
+            ], 
+            "type": "AFGROW_MAG_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -10, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": -5, 
+                    "atk": -15, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "avd": -10, 
+                    "mnd": -10, 
+                    "crta": 0, 
+                    "def": -10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": 0, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -30, 
+                    "atk": -30, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -30, 
+                    "avd": -75, 
+                    "mnd": -75, 
+                    "crta": 0, 
+                    "def": -75
+                }
+            ], 
+            "type": "AFGROW_AIM_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": 5, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": 6, 
+                    "atk": -3, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": -3, 
+                    "avd": -10, 
+                    "mnd": -10, 
+                    "crta": 0, 
+                    "def": -10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -30, 
+                    "atk": -30, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -30, 
+                    "avd": 0, 
+                    "mnd": -60, 
+                    "crta": 0, 
+                    "def": -60
+                }
+            ], 
+            "type": "AFGROW_DOD_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -10, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": 6, 
+                    "atk": -3, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": -3, 
+                    "avd": 5, 
+                    "mnd": -7, 
+                    "crta": 0, 
+                    "def": -7
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -50, 
+                    "crt": 0, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -20, 
+                    "atk": -20, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -20, 
+                    "avd": -75, 
+                    "mnd": -75, 
+                    "crta": 0, 
+                    "def": -75
+                }
+            ], 
+            "type": "AFGROW_CRI_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -5, 
+                    "crt": 5, 
+                    "spd": 0, 
+                    "hp": 10, 
+                    "atk": 5, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": 5, 
+                    "avd": -10, 
+                    "mnd": -10, 
+                    "crta": 0, 
+                    "def": -10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -30, 
+                    "atk": -50, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -50, 
+                    "avd": -75, 
+                    "mnd": -50, 
+                    "crta": 0, 
+                    "def": 0
+                }
+            ], 
+            "type": "AFGROW_SLD_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -10, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": 6, 
+                    "atk": -15, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": -15, 
+                    "avd": -10, 
+                    "mnd": -5, 
+                    "crta": 0, 
+                    "def": 5
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 0, 
+                    "hit": -75, 
+                    "crt": -75, 
+                    "val": 1, 
+                    "spd": 0, 
+                    "hp": -30, 
+                    "atk": -50, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "num": 1, 
+                    "mp": 0, 
+                    "mag": -50, 
+                    "avd": -75, 
+                    "mnd": 0, 
+                    "crta": 0, 
+                    "def": -50
+                }
+            ], 
+            "type": "AFGROW_BAR_50", 
+            "rstatus": [
+                {
+                    "dex": 0, 
+                    "hit": -10, 
+                    "crt": -10, 
+                    "spd": 0, 
+                    "hp": 6, 
+                    "atk": -15, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": -15, 
+                    "avd": -10, 
+                    "mnd": 5, 
+                    "crta": 0, 
+                    "def": -5
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 30, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCGROW_N"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 40, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCGROW_R"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 60, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCGROW_SR"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 70, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCGROW_SSR"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 99, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCGROW_UR"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 99, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCGROW_LR"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 4, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "VCAWAKE"
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "hp": 10, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_VITAL", 
+            "rstatus": [
+                {
+                    "hp": 10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "dex": 9, 
+                    "hit": 8, 
+                    "crt": 12, 
+                    "val": 1, 
+                    "spd": 10, 
+                    "hp": 1, 
+                    "atk": 4, 
+                    "lv": 50, 
+                    "ap": 3, 
+                    "num": 1, 
+                    "mp": 3, 
+                    "mag": 6, 
+                    "avd": 11, 
+                    "mnd": 7, 
+                    "crta": 13, 
+                    "def": 5
+                }
+            ], 
+            "type": "ARTIFACT_ASSAULT", 
+            "rstatus": [
+                {
+                    "dex": 9, 
+                    "hit": 8, 
+                    "crt": 12, 
+                    "spd": 10, 
+                    "hp": 1, 
+                    "atk": 4, 
+                    "ap": 3, 
+                    "mp": 2, 
+                    "mag": 6, 
+                    "avd": 11, 
+                    "mnd": 7, 
+                    "crta": 13, 
+                    "def": 5
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "num": 1, 
+                    "mag": 10, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_MAGIC", 
+            "rstatus": [
+                {
+                    "mnd": -5, 
+                    "mag": 10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "num": 1, 
+                    "hit": 10, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_AIM", 
+            "rstatus": [
+                {
+                    "hit": 10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "avd": 10, 
+                    "num": 1, 
+                    "spd": 10, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_DODGE", 
+            "rstatus": [
+                {
+                    "dex": 10, 
+                    "avd": 10, 
+                    "spd": 10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "val": 1, 
+                    "crt": 10, 
+                    "crta": 10, 
+                    "lv": 50, 
+                    "ap": 10, 
+                    "num": 1
+                }
+            ], 
+            "type": "ARTIFACT_CRTICAL", 
+            "rstatus": [
+                {
+                    "ap": 10, 
+                    "crta": 10, 
+                    "crt": 10
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "num": 1, 
+                    "mnd": 10, 
+                    "def": 10, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_SHIELD", 
+            "rstatus": [
+                {
+                    "mag": -5, 
+                    "mnd": 10, 
+                    "mp": -5, 
+                    "def": 10, 
+                    "atk": -5
+                }
+            ]
+        }, 
+        {
+            "curve": [
+                {
+                    "lv": 50, 
+                    "num": 1, 
+                    "mnd": 10, 
+                    "def": 10, 
+                    "val": 1
+                }
+            ], 
+            "type": "ARTIFACT_BARRIER", 
+            "rstatus": [
+                {
+                    "mag": -5, 
+                    "mnd": 10, 
+                    "mp": -5, 
+                    "def": 10, 
+                    "atk": -5
+                }
+            ]
+        }
+    ]
+}

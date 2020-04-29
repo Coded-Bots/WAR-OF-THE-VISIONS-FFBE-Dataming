@@ -1,0 +1,574 @@
+{
+    "items": [
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_STRN", 
+            "type": 1, 
+            "iname": "COND_HA_LW_STRN"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_ELDE", 
+            "type": 1, 
+            "iname": "COND_HA_LW_ELDE"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_ROBB", 
+            "type": 1, 
+            "iname": "COND_HA_LW_ROBB"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_ENBT", 
+            "type": 1, 
+            "iname": "COND_HA_LW_ENBT"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_ZIZA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_ZIZA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_AILN", 
+            "type": 1, 
+            "iname": "COND_HA_LW_AILN"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MDNA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MDNA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_AYKA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_AYKA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_HLNA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_HLNA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_LILS", 
+            "type": 1, 
+            "iname": "COND_HA_LW_LILS"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_RAMD", 
+            "type": 1, 
+            "iname": "COND_HA_LW_RAMD"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_OOOO", 
+            "type": 1, 
+            "iname": "COND_HA_LW_OOOO"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_LRNZ", 
+            "type": 1, 
+            "iname": "COND_HA_LW_LRNZ"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_RIRY", 
+            "type": 1, 
+            "iname": "COND_HA_LW_RIRY"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_VSTR", 
+            "type": 1, 
+            "iname": "COND_HA_LW_VSTR"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_CLEY", 
+            "type": 1, 
+            "iname": "COND_HA_LW_CLEY"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_KADI", 
+            "type": 1, 
+            "iname": "COND_HA_LW_KADI"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MRLK", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MRLK"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MGRT", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MGRT"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_PRAY", 
+            "type": 1, 
+            "iname": "COND_HA_LW_PRAY"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_BYLO", 
+            "type": 1, 
+            "iname": "COND_HA_LW_BYLO"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_RYER", 
+            "type": 1, 
+            "iname": "COND_HA_LW_RYER"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_SCIA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_SCIA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_VRID", 
+            "type": 1, 
+            "iname": "COND_HA_LW_VRID"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_NAIA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_NAIA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_SRJS", 
+            "type": 1, 
+            "iname": "COND_HA_LW_SRJS"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_UNII", 
+            "type": 1, 
+            "iname": "COND_HA_LW_UNII"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_SEVR", 
+            "type": 1, 
+            "iname": "COND_HA_LW_SEVR"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_VADM", 
+            "type": 1, 
+            "iname": "COND_HA_LW_VADM"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MURM", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MURM"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_PHBE", 
+            "type": 1, 
+            "iname": "COND_HA_LW_PHBE"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_RART", 
+            "type": 1, 
+            "iname": "COND_HA_LW_RART"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MICE", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MICE"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MIIA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MIIA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_ZZAN", 
+            "type": 1, 
+            "iname": "COND_HA_LW_ZZAN"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_SDLX", 
+            "type": 1, 
+            "iname": "COND_HA_LW_SDLX"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_FDRC", 
+            "type": 1, 
+            "iname": "COND_HA_LW_FDRC"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_YERM", 
+            "type": 1, 
+            "iname": "COND_HA_LW_YERM"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_NASR", 
+            "type": 1, 
+            "iname": "COND_HA_LW_NASR"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_MACR", 
+            "type": 1, 
+            "iname": "COND_HA_LW_MACR"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_FINA", 
+            "type": 1, 
+            "iname": "COND_HA_LW_FINA"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_SZRT", 
+            "type": 1, 
+            "iname": "COND_HA_LW_SZRT"
+        }, 
+        {
+            "value_i1": 1, 
+            "value_s1": "UN_LW_P_GLMS", 
+            "type": 1, 
+            "iname": "COND_HA_LW_GLMS"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MONT", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MONT"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_STRN", 
+            "type": 1, 
+            "iname": "COND_CH_LW_STRN"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_ELDE", 
+            "type": 1, 
+            "iname": "COND_CH_LW_ELDE"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_ROBB", 
+            "type": 1, 
+            "iname": "COND_CH_LW_ROBB"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_ENBT", 
+            "type": 1, 
+            "iname": "COND_CH_LW_ENBT"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_ZIZA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_ZIZA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_AILN", 
+            "type": 1, 
+            "iname": "COND_CH_LW_AILN"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MDNA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MDNA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_AYKA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_AYKA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_HLNA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_HLNA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_LILS", 
+            "type": 1, 
+            "iname": "COND_CH_LW_LILS"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_RAMD", 
+            "type": 1, 
+            "iname": "COND_CH_LW_RAMD"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_OOOO", 
+            "type": 1, 
+            "iname": "COND_CH_LW_OOOO"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_LRNZ", 
+            "type": 1, 
+            "iname": "COND_CH_LW_LRNZ"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_RIRY", 
+            "type": 1, 
+            "iname": "COND_CH_LW_RIRY"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_VSTR", 
+            "type": 1, 
+            "iname": "COND_CH_LW_VSTR"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_CLEY", 
+            "type": 1, 
+            "iname": "COND_CH_LW_CLEY"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_KADI", 
+            "type": 1, 
+            "iname": "COND_CH_LW_KADI"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MRLK", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MRLK"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MGRT", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MGRT"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_PRAY", 
+            "type": 1, 
+            "iname": "COND_CH_LW_PRAY"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_BYLO", 
+            "type": 1, 
+            "iname": "COND_CH_LW_BYLO"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_RYER", 
+            "type": 1, 
+            "iname": "COND_CH_LW_RYER"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_SCIA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_SCIA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_VRID", 
+            "type": 1, 
+            "iname": "COND_CH_LW_VRID"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_NAIA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_NAIA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_SRJS", 
+            "type": 1, 
+            "iname": "COND_CH_LW_SRJS"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_UNII", 
+            "type": 1, 
+            "iname": "COND_CH_LW_UNII"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_SEVR", 
+            "type": 1, 
+            "iname": "COND_CH_LW_SEVR"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_VADM", 
+            "type": 1, 
+            "iname": "COND_CH_LW_VADM"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MURM", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MURM"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_PHBE", 
+            "type": 1, 
+            "iname": "COND_CH_LW_PHBE"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_RART", 
+            "type": 1, 
+            "iname": "COND_CH_LW_RART"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MICE", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MICE"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MIIA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MIIA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_ZZAN", 
+            "type": 1, 
+            "iname": "COND_CH_LW_ZZAN"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_GLMS", 
+            "type": 1, 
+            "iname": "COND_CH_LW_GLMS"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_FF14_P_YSTL", 
+            "type": 1, 
+            "iname": "COND_CH_FF14_YST"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_FF14_P_TNCR", 
+            "type": 1, 
+            "iname": "COND_CH_FF14_TNC"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MACR", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MACR"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_SZRT", 
+            "type": 1, 
+            "iname": "COND_CH_LW_SZRT"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_FINA", 
+            "type": 1, 
+            "iname": "COND_CH_LW_FINA"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_FDRC", 
+            "type": 1, 
+            "iname": "COND_CH_LW_FDRC"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_SDLX", 
+            "type": 1, 
+            "iname": "COND_CH_LW_SDLX"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_RAMD_01", 
+            "type": 1, 
+            "iname": "COND_CH_LW_RA_01"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_YERM", 
+            "type": 1, 
+            "iname": "COND_CH_LW_YERM"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_NASR", 
+            "type": 1, 
+            "iname": "COND_CH_LW_NASR"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_MACR_01", 
+            "type": 1, 
+            "iname": "COND_CH_LW_MA_01"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_LW_P_ETRE", 
+            "type": 1, 
+            "iname": "COND_CH_LW_ETRE"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_FFT_P_RAMZ", 
+            "type": 1, 
+            "iname": "COND_CH_FFT_RAMZ"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_FFT_P_GFGR", 
+            "type": 1, 
+            "iname": "COND_CH_FFT_GFGR"
+        }, 
+        {
+            "value_i1": 40, 
+            "value_s1": "UN_FFT_P_ORND", 
+            "type": 1, 
+            "iname": "COND_CH_FFT_ORND"
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "items": [
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1900, 
+                    "fever_rate": 1900, 
+                    "drop_id": 1, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 57855, 
+                    "fever_rate": 37733, 
+                    "drop_id": 1101, 
+                    "fix_rate": -2012
+                }, 
+                {
+                    "rate": 31500, 
+                    "fever_rate": 47250, 
+                    "drop_id": 1201, 
+                    "fix_rate": 1575
+                }, 
+                {
+                    "rate": 8745, 
+                    "fever_rate": 13117, 
+                    "drop_id": 1301, 
+                    "fix_rate": 437
+                }
+            ], 
+            "area_iname": "AD_AREA_WATER_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1900, 
+                    "fever_rate": 1900, 
+                    "drop_id": 1, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 37733, 
+                    "fever_rate": 17610, 
+                    "drop_id": 1101, 
+                    "fix_rate": -2012
+                }, 
+                {
+                    "rate": 47250, 
+                    "fever_rate": 63000, 
+                    "drop_id": 1201, 
+                    "fix_rate": 1575
+                }, 
+                {
+                    "rate": 13117, 
+                    "fever_rate": 17490, 
+                    "drop_id": 1301, 
+                    "fix_rate": 437
+                }
+            ], 
+            "area_iname": "AD_AREA_WATER_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1600, 
+                    "fever_rate": 1600, 
+                    "drop_id": 2, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 61215, 
+                    "fever_rate": 42623, 
+                    "drop_id": 2101, 
+                    "fix_rate": -1860
+                }, 
+                {
+                    "rate": 28500, 
+                    "fever_rate": 42750, 
+                    "drop_id": 2201, 
+                    "fix_rate": 1425
+                }, 
+                {
+                    "rate": 8685, 
+                    "fever_rate": 13027, 
+                    "drop_id": 2301, 
+                    "fix_rate": 435
+                }
+            ], 
+            "area_iname": "AD_AREA_FIRE_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1600, 
+                    "fever_rate": 1600, 
+                    "drop_id": 2, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 42623, 
+                    "fever_rate": 24030, 
+                    "drop_id": 2101, 
+                    "fix_rate": -1860
+                }, 
+                {
+                    "rate": 42750, 
+                    "fever_rate": 57000, 
+                    "drop_id": 2201, 
+                    "fix_rate": 1425
+                }, 
+                {
+                    "rate": 13027, 
+                    "fever_rate": 17370, 
+                    "drop_id": 2301, 
+                    "fix_rate": 435
+                }
+            ], 
+            "area_iname": "AD_AREA_FIRE_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1300, 
+                    "fever_rate": 1300, 
+                    "drop_id": 3, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 55200, 
+                    "fever_rate": 33450, 
+                    "drop_id": 3101, 
+                    "fix_rate": -2175
+                }, 
+                {
+                    "rate": 34815, 
+                    "fever_rate": 52223, 
+                    "drop_id": 3201, 
+                    "fix_rate": 1741
+                }, 
+                {
+                    "rate": 8685, 
+                    "fever_rate": 13027, 
+                    "drop_id": 3301, 
+                    "fix_rate": 434
+                }
+            ], 
+            "area_iname": "AD_AREA_SOIL_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1300, 
+                    "fever_rate": 1300, 
+                    "drop_id": 3, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 33450, 
+                    "fever_rate": 11700, 
+                    "drop_id": 3101, 
+                    "fix_rate": -2175
+                }, 
+                {
+                    "rate": 52223, 
+                    "fever_rate": 69630, 
+                    "drop_id": 3201, 
+                    "fix_rate": 1741
+                }, 
+                {
+                    "rate": 13027, 
+                    "fever_rate": 17370, 
+                    "drop_id": 3301, 
+                    "fix_rate": 434
+                }
+            ], 
+            "area_iname": "AD_AREA_SOIL_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1350, 
+                    "fever_rate": 1350, 
+                    "drop_id": 4, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 57650, 
+                    "fever_rate": 37150, 
+                    "drop_id": 4101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 31815, 
+                    "fever_rate": 47723, 
+                    "drop_id": 4201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 9185, 
+                    "fever_rate": 13777, 
+                    "drop_id": 4301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_ICE_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1350, 
+                    "fever_rate": 1350, 
+                    "drop_id": 4, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 37150, 
+                    "fever_rate": 16650, 
+                    "drop_id": 4101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 47723, 
+                    "fever_rate": 63630, 
+                    "drop_id": 4201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 13777, 
+                    "fever_rate": 18370, 
+                    "drop_id": 4301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_ICE_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1700, 
+                    "fever_rate": 1700, 
+                    "drop_id": 5, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 57300, 
+                    "fever_rate": 36800, 
+                    "drop_id": 5101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 31815, 
+                    "fever_rate": 47723, 
+                    "drop_id": 5201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 9185, 
+                    "fever_rate": 13777, 
+                    "drop_id": 5301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_THUNDER_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1700, 
+                    "fever_rate": 1700, 
+                    "drop_id": 5, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 36800, 
+                    "fever_rate": 16300, 
+                    "drop_id": 5101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 47723, 
+                    "fever_rate": 63630, 
+                    "drop_id": 5201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 13777, 
+                    "fever_rate": 18370, 
+                    "drop_id": 5301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_THUNDER_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1000, 
+                    "fever_rate": 1000, 
+                    "drop_id": 6, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 58000, 
+                    "fever_rate": 37500, 
+                    "drop_id": 6101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 31815, 
+                    "fever_rate": 47723, 
+                    "drop_id": 6201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 9185, 
+                    "fever_rate": 13777, 
+                    "drop_id": 6301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_DARK_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1000, 
+                    "fever_rate": 1000, 
+                    "drop_id": 6, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 37500, 
+                    "fever_rate": 17000, 
+                    "drop_id": 6101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 47723, 
+                    "fever_rate": 63630, 
+                    "drop_id": 6201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 13777, 
+                    "fever_rate": 18370, 
+                    "drop_id": 6301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_DARK_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1300, 
+                    "fever_rate": 1300, 
+                    "drop_id": 7, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 57700, 
+                    "fever_rate": 37200, 
+                    "drop_id": 7101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 31815, 
+                    "fever_rate": 47723, 
+                    "drop_id": 7201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 9185, 
+                    "fever_rate": 13777, 
+                    "drop_id": 7301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_SHINE_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1300, 
+                    "fever_rate": 1300, 
+                    "drop_id": 7, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 37200, 
+                    "fever_rate": 16700, 
+                    "drop_id": 7101, 
+                    "fix_rate": -2050
+                }, 
+                {
+                    "rate": 47723, 
+                    "fever_rate": 63630, 
+                    "drop_id": 7201, 
+                    "fix_rate": 1591
+                }, 
+                {
+                    "rate": 13777, 
+                    "fever_rate": 18370, 
+                    "drop_id": 7301, 
+                    "fix_rate": 459
+                }
+            ], 
+            "area_iname": "AD_AREA_SHINE_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 1600, 
+                    "fever_rate": 1600, 
+                    "drop_id": 8, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 54900, 
+                    "fever_rate": 33150, 
+                    "drop_id": 8101, 
+                    "fix_rate": -2175
+                }, 
+                {
+                    "rate": 34815, 
+                    "fever_rate": 52223, 
+                    "drop_id": 8201, 
+                    "fix_rate": 1741
+                }, 
+                {
+                    "rate": 8685, 
+                    "fever_rate": 13027, 
+                    "drop_id": 8301, 
+                    "fix_rate": 434
+                }
+            ], 
+            "area_iname": "AD_AREA_WIND_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 1600, 
+                    "fever_rate": 1600, 
+                    "drop_id": 8, 
+                    "fix_rate": 0
+                }, 
+                {
+                    "rate": 33150, 
+                    "fever_rate": 11400, 
+                    "drop_id": 8101, 
+                    "fix_rate": -2175
+                }, 
+                {
+                    "rate": 52223, 
+                    "fever_rate": 69630, 
+                    "drop_id": 8201, 
+                    "fix_rate": 1741
+                }, 
+                {
+                    "rate": 13027, 
+                    "fever_rate": 17370, 
+                    "drop_id": 8301, 
+                    "fix_rate": 434
+                }
+            ], 
+            "area_iname": "AD_AREA_WIND_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 86530, 
+                    "fever_rate": 77560, 
+                    "drop_id": 11101, 
+                    "fix_rate": -897
+                }, 
+                {
+                    "rate": 9000, 
+                    "fever_rate": 13500, 
+                    "drop_id": 11201, 
+                    "fix_rate": 450
+                }, 
+                {
+                    "rate": 4470, 
+                    "fever_rate": 8940, 
+                    "drop_id": 11301, 
+                    "fix_rate": 447
+                }
+            ], 
+            "area_iname": "AD_AREA_AF_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 77560, 
+                    "fever_rate": 68590, 
+                    "drop_id": 11101, 
+                    "fix_rate": -897
+                }, 
+                {
+                    "rate": 13500, 
+                    "fever_rate": 18000, 
+                    "drop_id": 11201, 
+                    "fix_rate": 450
+                }, 
+                {
+                    "rate": 8940, 
+                    "fever_rate": 13410, 
+                    "drop_id": 11301, 
+                    "fix_rate": 447
+                }
+            ], 
+            "area_iname": "AD_AREA_AF_01"
+        }, 
+        {
+            "campaign_string": "default", 
+            "drop": [
+                {
+                    "rate": 64000, 
+                    "fever_rate": 46000, 
+                    "drop_id": 12101, 
+                    "fix_rate": -1800
+                }, 
+                {
+                    "rate": 24000, 
+                    "fever_rate": 36000, 
+                    "drop_id": 12201, 
+                    "fix_rate": 1200
+                }, 
+                {
+                    "rate": 12000, 
+                    "fever_rate": 18000, 
+                    "drop_id": 12301, 
+                    "fix_rate": 600
+                }
+            ], 
+            "area_iname": "AD_AREA_SM_01"
+        }, 
+        {
+            "campaign_string": "campaign_1", 
+            "drop": [
+                {
+                    "rate": 46000, 
+                    "fever_rate": 28000, 
+                    "drop_id": 12101, 
+                    "fix_rate": -1800
+                }, 
+                {
+                    "rate": 36000, 
+                    "fever_rate": 48000, 
+                    "drop_id": 12201, 
+                    "fix_rate": 1200
+                }, 
+                {
+                    "rate": 18000, 
+                    "fever_rate": 24000, 
+                    "drop_id": 12301, 
+                    "fix_rate": 600
+                }
+            ], 
+            "area_iname": "AD_AREA_SM_01"
+        }
+    ]
+}

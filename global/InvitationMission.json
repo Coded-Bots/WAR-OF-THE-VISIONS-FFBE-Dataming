@@ -1,0 +1,85 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 200
+                }
+            ], 
+            "iname": "IM_1", 
+            "condition": {
+                "ival": 1, 
+                "type": 0
+            }
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 50
+                }
+            ], 
+            "iname": "IM_2", 
+            "condition": {
+                "ival": 3, 
+                "type": 0
+            }
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 50
+                }
+            ], 
+            "iname": "IM_3", 
+            "condition": {
+                "ival": 7, 
+                "type": 0
+            }
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 50
+                }
+            ], 
+            "iname": "IM_4", 
+            "condition": {
+                "sval": "CM_PRO_001_1", 
+                "ival": 8, 
+                "type": 1
+            }
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 50
+                }
+            ], 
+            "iname": "IM_5", 
+            "condition": {
+                "sval": "CM_PRO_001_2", 
+                "ival": 8, 
+                "type": 1
+            }
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 200
+                }
+            ], 
+            "iname": "IM_6", 
+            "condition": {
+                "sval": "CM_PRO_001_3", 
+                "ival": 8, 
+                "type": 1
+            }
+        }
+    ]
+}

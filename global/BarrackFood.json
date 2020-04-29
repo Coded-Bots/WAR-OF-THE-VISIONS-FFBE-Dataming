@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "item_id": "IT_GU_FOOD_01", 
+            "is_default": 1, 
+            "cost": 5000, 
+            "iname": "BF_CANDY", 
+            "payment_type": 0
+        }, 
+        {
+            "item_id": "IT_GU_FOOD_02", 
+            "is_default": 1, 
+            "cost": 7500, 
+            "iname": "BF_MEET", 
+            "payment_type": 0
+        }, 
+        {
+            "item_id": "IT_GU_FOOD_03", 
+            "is_default": 1, 
+            "cost": 10000, 
+            "iname": "BF_MANZYU", 
+            "payment_type": 0
+        }, 
+        {
+            "effect_time": 3600, 
+            "iname": "BF_SALAD", 
+            "cost": 50000, 
+            "effect_id": "BFE_SALAD", 
+            "payment_type": 0, 
+            "item_id": "IT_GU_FOOD_04"
+        }, 
+        {
+            "effect_time": 3600, 
+            "iname": "BF_SOUP", 
+            "cost": 100, 
+            "effect_id": "BFE_SOUP", 
+            "payment_type": 1, 
+            "item_id": "IT_GU_FOOD_05"
+        }, 
+        {
+            "effect_time": 3600, 
+            "iname": "BF_STEAK", 
+            "cost": 200, 
+            "effect_id": "BFE_STEAK", 
+            "payment_type": 1, 
+            "item_id": "IT_GU_FOOD_06"
+        }
+    ]
+}

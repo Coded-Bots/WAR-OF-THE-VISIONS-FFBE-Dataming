@@ -1,0 +1,304 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 1000
+                }
+            ], 
+            "iname": "AR_LV1_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 2000
+                }
+            ], 
+            "iname": "AR_LV2_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 3000
+                }
+            ], 
+            "iname": "AR_LV3_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 4000
+                }
+            ], 
+            "iname": "AR_LV4_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 5000
+                }
+            ], 
+            "iname": "AR_LV5_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 5000
+                }
+            ], 
+            "iname": "AR_LV1_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 10000
+                }
+            ], 
+            "iname": "AR_LV2_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 15000
+                }
+            ], 
+            "iname": "AR_LV3_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 20000
+                }
+            ], 
+            "iname": "AR_LV4_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 25000
+                }
+            ], 
+            "iname": "AR_LV5_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 10000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 10
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV1_10"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 20000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 10
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV2_10"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 30000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 15
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }, 
+                {
+                    "item_id": "IT_ACTP_01", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV3_10"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 40000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 20
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }, 
+                {
+                    "item_id": "IT_ACTP_01", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV4_10"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 50000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 25
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }, 
+                {
+                    "item_id": "IT_ACTP_01", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV5_10"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 20000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 20
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV1_20"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 40000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 25
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV2_20"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 60000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 30
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }, 
+                {
+                    "item_id": "IT_ACTP_01", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV3_20"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 80000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 40
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }, 
+                {
+                    "item_id": "IT_ACTP_01", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV4_20"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 2, 
+                    "num": 100000
+                }, 
+                {
+                    "reward_type": 3, 
+                    "num": 50
+                }, 
+                {
+                    "item_id": "IT_TICKET_STORY", 
+                    "reward_type": 0, 
+                    "num": 1
+                }, 
+                {
+                    "item_id": "IT_ACTP_01", 
+                    "reward_type": 0, 
+                    "num": 1
+                }
+            ], 
+            "iname": "AR_LV5_20"
+        }
+    ]
+}

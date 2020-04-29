@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "num": 12000, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 6000, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMDMRR_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 11250, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 5500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMDMRR_2"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 11000, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 5000, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMDMRR_3"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10750, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 4500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMDMRR_4"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10500, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 4000, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMDMRR_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10250, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 3500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMDMRR_6"
+        }
+    ]
+}

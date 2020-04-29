@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "max_level": 20, 
+            "min_level": 1, 
+            "id": 1
+        }, 
+        {
+            "max_level": 40, 
+            "min_level": 21, 
+            "id": 2
+        }, 
+        {
+            "max_level": 60, 
+            "min_level": 41, 
+            "id": 3
+        }, 
+        {
+            "max_level": 84, 
+            "min_level": 61, 
+            "id": 4
+        }, 
+        {
+            "max_level": 90, 
+            "min_level": 85, 
+            "id": 5
+        }, 
+        {
+            "max_level": 100, 
+            "min_level": 91, 
+            "id": 6
+        }, 
+        {
+            "max_level": 134, 
+            "min_level": 101, 
+            "id": 7
+        }, 
+        {
+            "max_level": 150, 
+            "min_level": 135, 
+            "id": 8
+        }, 
+        {
+            "max_level": 260, 
+            "min_level": 151, 
+            "id": 9
+        }
+    ]
+}

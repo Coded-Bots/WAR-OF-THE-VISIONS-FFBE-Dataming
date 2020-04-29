@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "has_limited": 1, 
+            "num": 5, 
+            "type": 0, 
+            "iname": "IT_US_POTION"
+        }, 
+        {
+            "has_limited": 1, 
+            "num": 10, 
+            "type": 0, 
+            "iname": "IT_US_HIPOTION"
+        }, 
+        {
+            "has_limited": 1, 
+            "num": 5, 
+            "type": 0, 
+            "iname": "IT_US_EXPOTION"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "num": 1, 
+            "type": 0, 
+            "id": "GG_DEFAULT", 
+            "iname": "IT_EC_GUILD"
+        }, 
+        {
+            "num": 1, 
+            "type": 0, 
+            "id": "GG_CONST_01", 
+            "iname": "IT_GU_FOOD_01"
+        }, 
+        {
+            "begin_at": "2019/11/23 5:00:00", 
+            "iname": "IT_EC_GUILD", 
+            "end_at": "2019/12/01 4:59:59", 
+            "num": 2, 
+            "type": 0, 
+            "id": "GG_LIMIT_0001"
+        }, 
+        {
+            "begin_at": "2020/04/01", 
+            "iname": "IT_EC_GUILD", 
+            "end_at": "2020/04/08 23:59:59", 
+            "num": 3, 
+            "type": 0, 
+            "id": "GG_LIMIT_0002"
+        }, 
+        {
+            "begin_at": "2020/04/15", 
+            "iname": "IT_EC_GUILD", 
+            "end_at": "2020/04/21 17:59:59", 
+            "num": 3, 
+            "type": 0, 
+            "id": "GG_LIMIT_0003"
+        }
+    ]
+}
