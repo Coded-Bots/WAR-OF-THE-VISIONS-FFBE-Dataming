@@ -1,0 +1,108 @@
+{
+    "items": [
+        {
+            "iname": "CH_WD_0101", 
+            "area": [
+                {
+                    "sval": "SE_WD_010101", 
+                    "type": 1, 
+                    "name": "area_01"
+                }, 
+                {
+                    "line_area_name_1": "area_01", 
+                    "sval": "SE_WD_010102", 
+                    "type": 1, 
+                    "name": "area_02"
+                }, 
+                {
+                    "line_area_name_1": "area_02", 
+                    "sval": "SE_WD_010103", 
+                    "type": 1, 
+                    "name": "area_03"
+                }, 
+                {
+                    "line_area_name_1": "area_05", 
+                    "sval": "SE_WD_010105", 
+                    "type": 1, 
+                    "name": "area_04"
+                }, 
+                {
+                    "line_area_name_1": "area_02", 
+                    "sval": "SE_WD_010104", 
+                    "type": 1, 
+                    "name": "area_05"
+                }, 
+                {
+                    "line_area_name_1": "area_05", 
+                    "sval": "SE_WD_010107", 
+                    "type": 1, 
+                    "name": "area_06"
+                }, 
+                {
+                    "line_area_name_1": "area_06", 
+                    "sval": "SE_WD_010108", 
+                    "type": 1, 
+                    "name": "area_07"
+                }, 
+                {
+                    "line_area_name_1": "area_05", 
+                    "sval": "SE_WD_010106", 
+                    "type": 1, 
+                    "name": "area_08"
+                }, 
+                {
+                    "line_area_name_1": "area_07", 
+                    "sval": "SE_WD_010109", 
+                    "type": 1, 
+                    "name": "area_09"
+                }, 
+                {
+                    "line_area_name_1": "area_09", 
+                    "sval": "SE_WD_010110", 
+                    "type": 1, 
+                    "name": "area_10"
+                }
+            ]
+        }, 
+        {
+            "iname": "CH_WD_0102", 
+            "area": [
+                {
+                    "sval": "SE_WD_010201", 
+                    "type": 1, 
+                    "name": "area_01"
+                }, 
+                {
+                    "line_area_name_1": "area_01", 
+                    "sval": "SE_WD_010202", 
+                    "type": 1, 
+                    "name": "area_02"
+                }, 
+                {
+                    "line_area_name_1": "area_02", 
+                    "sval": "SE_WD_010203", 
+                    "type": 1, 
+                    "name": "area_03"
+                }, 
+                {
+                    "line_area_name_1": "area_02", 
+                    "sval": "SE_WD_010204", 
+                    "type": 1, 
+                    "name": "area_04"
+                }, 
+                {
+                    "line_area_name_1": "area_02", 
+                    "sval": "SE_WD_010205", 
+                    "type": 1, 
+                    "name": "area_05"
+                }, 
+                {
+                    "line_area_name_1": "area_05", 
+                    "sval": "SE_WD_010206", 
+                    "type": 1, 
+                    "name": "area_06"
+                }
+            ]
+        }
+    ]
+}

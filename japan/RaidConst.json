@@ -1,0 +1,146 @@
+{
+    "items": [
+        {
+            "constant": [
+                {
+                    "lv_min": 1, 
+                    "const2": 15, 
+                    "const1": 500, 
+                    "const3": 1, 
+                    "lv_max": 10
+                }, 
+                {
+                    "lv_min": 11, 
+                    "const2": 15, 
+                    "const1": 400, 
+                    "const3": 1, 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "const2": 15, 
+                    "const1": 250, 
+                    "const3": 1, 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "const2": 15, 
+                    "const1": 125, 
+                    "const3": 1, 
+                    "lv_max": 99
+                }, 
+                {
+                    "lv_min": 100, 
+                    "const2": 15, 
+                    "const1": 100, 
+                    "const3": 1, 
+                    "lv_max": 999
+                }
+            ], 
+            "iname": "RAID_CONST_01"
+        }, 
+        {
+            "constant": [
+                {
+                    "lv_min": 1, 
+                    "const2": 10, 
+                    "const1": 100, 
+                    "const3": 1, 
+                    "lv_max": 50
+                }, 
+                {
+                    "lv_min": 51, 
+                    "const2": 10, 
+                    "const1": 100, 
+                    "const3": 1, 
+                    "lv_max": 99
+                }, 
+                {
+                    "lv_min": 100, 
+                    "const2": 10, 
+                    "const1": 100, 
+                    "const3": 1, 
+                    "lv_max": 999
+                }
+            ], 
+            "iname": "RAID_CONST_02"
+        }, 
+        {
+            "constant": [
+                {
+                    "lv_min": 1, 
+                    "const2": 10, 
+                    "const1": 100, 
+                    "const3": 1, 
+                    "lv_max": 999
+                }
+            ], 
+            "iname": "RAID_CONST_03"
+        }, 
+        {
+            "constant": [
+                {
+                    "lv_min": 1, 
+                    "const2": 10, 
+                    "const1": 100, 
+                    "const3": 1, 
+                    "lv_max": 999
+                }
+            ], 
+            "iname": "RAID_CONST_04"
+        }, 
+        {
+            "constant": [
+                {
+                    "lv_min": 1, 
+                    "const2": 15, 
+                    "const1": 1000, 
+                    "const3": 1, 
+                    "lv_max": 30
+                }, 
+                {
+                    "lv_min": 31, 
+                    "const2": 15, 
+                    "const1": 1000, 
+                    "const3": 1, 
+                    "lv_max": 60
+                }, 
+                {
+                    "lv_min": 61, 
+                    "const2": 15, 
+                    "const1": 1000, 
+                    "const3": 1, 
+                    "lv_max": 90
+                }, 
+                {
+                    "lv_min": 91, 
+                    "const2": 15, 
+                    "const1": 1000, 
+                    "const3": 1, 
+                    "lv_max": 120
+                }, 
+                {
+                    "lv_min": 121, 
+                    "const2": 15, 
+                    "const1": 1000, 
+                    "const3": 1, 
+                    "lv_max": 999
+                }
+            ], 
+            "iname": "RAID_CONST_05"
+        }, 
+        {
+            "constant": [
+                {
+                    "lv_min": 1, 
+                    "const2": 15, 
+                    "const1": 1000, 
+                    "const3": 1, 
+                    "lv_max": 10
+                }
+            ], 
+            "iname": "RAID_CONST_06"
+        }
+    ]
+}

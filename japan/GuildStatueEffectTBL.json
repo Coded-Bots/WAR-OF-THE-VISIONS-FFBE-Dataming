@@ -1,0 +1,670 @@
+{
+    "items": [
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 3
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV1"
+                }
+            ], 
+            "iname": "GSE_SNAKE_1"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 10, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 5, 
+                    "value": "GSI_COW"
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 7
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV2"
+                }
+            ], 
+            "iname": "GSE_SNAKE_2"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 10, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV3"
+                }
+            ], 
+            "iname": "GSE_SNAKE_3"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV4"
+                }
+            ], 
+            "iname": "GSE_SNAKE_4"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV5"
+                }
+            ], 
+            "iname": "GSE_SNAKE_5"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV6"
+                }
+            ], 
+            "iname": "GSE_SNAKE_6"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV7"
+                }
+            ], 
+            "iname": "GSE_SNAKE_7"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV8"
+                }
+            ], 
+            "iname": "GSE_SNAKE_8"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV9"
+                }
+            ], 
+            "iname": "GSE_SNAKE_9"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 2, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 4, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_SNAKE_LV10"
+                }
+            ], 
+            "iname": "GSE_SNAKE_10"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV1"
+                }
+            ], 
+            "iname": "GSE_COW_1"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 5, 
+                    "value": "GSI_GIRAFFE"
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV2"
+                }
+            ], 
+            "iname": "GSE_COW_2"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV3"
+                }
+            ], 
+            "iname": "GSE_COW_3"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV4"
+                }
+            ], 
+            "iname": "GSE_COW_4"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV5"
+                }
+            ], 
+            "iname": "GSE_COW_5"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV6"
+                }
+            ], 
+            "iname": "GSE_COW_6"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV7"
+                }
+            ], 
+            "iname": "GSE_COW_7"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV8"
+                }
+            ], 
+            "iname": "GSE_COW_8"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV9"
+                }
+            ], 
+            "iname": "GSE_COW_9"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_COW_LV10"
+                }
+            ], 
+            "iname": "GSE_COW_10"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV1"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_1"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 8, 
+                    "value": 1
+                }, 
+                {
+                    "scope": 0, 
+                    "effect_type": 5, 
+                    "value": "GSI_LION"
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV2"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_2"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 8, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV3"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_3"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 8, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV4"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_4"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 8, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV5"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_5"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 9, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV6"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_6"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 9, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV7"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_7"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 9, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV8"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_8"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 9, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV9"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_9"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 9, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_GIRAFFE_LV10"
+                }
+            ], 
+            "iname": "GSE_GIRAFFE_10"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV1"
+                }
+            ], 
+            "iname": "GSE_LION_1"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV2"
+                }
+            ], 
+            "iname": "GSE_LION_2"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV3"
+                }
+            ], 
+            "iname": "GSE_LION_3"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV4"
+                }
+            ], 
+            "iname": "GSE_LION_4"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 6, 
+                    "value": 1
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV5"
+                }
+            ], 
+            "iname": "GSE_LION_5"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV6"
+                }
+            ], 
+            "iname": "GSE_LION_6"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV7"
+                }
+            ], 
+            "iname": "GSE_LION_7"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV8"
+                }
+            ], 
+            "iname": "GSE_LION_8"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV9"
+                }
+            ], 
+            "iname": "GSE_LION_9"
+        }, 
+        {
+            "statueparam": [
+                {
+                    "scope": 0, 
+                    "effect_type": 0
+                }
+            ], 
+            "unitparam": [
+                {
+                    "effect_id": "BUFF_GSE_LION_LV10"
+                }
+            ], 
+            "iname": "GSE_LION_10"
+        }
+    ]
+}

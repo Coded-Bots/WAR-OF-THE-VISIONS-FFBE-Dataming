@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 3
+                }
+            ], 
+            "level": 1
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 4
+                }
+            ], 
+            "level": 2
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 5
+                }
+            ], 
+            "level": 3
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 6
+                }
+            ], 
+            "level": 4
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 7
+                }
+            ], 
+            "level": 5
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 8
+                }
+            ], 
+            "level": 6
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 9
+                }
+            ], 
+            "level": 7
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 10
+                }
+            ], 
+            "level": 8
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 11
+                }
+            ], 
+            "level": 9
+        }, 
+        {
+            "reward": [
+                {
+                    "item_id": "IT_EC_GUILD", 
+                    "reward_type": 0, 
+                    "num": 12
+                }
+            ], 
+            "level": 10
+        }
+    ]
+}

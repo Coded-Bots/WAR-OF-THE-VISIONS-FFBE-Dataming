@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "num": 2000, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 2500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMPWR_DIAMOND_MASTER"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1000, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 1500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMPWR_DIAMOND_3"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 600, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMPWR_PLATINUM_3"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 250, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMPWR_GOLD3"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_MATCH"
+                }, 
+                {
+                    "num": 250, 
+                    "type": 3
+                }
+            ], 
+            "iname": "CMPWR_SILVER3"
+        }
+    ]
+}

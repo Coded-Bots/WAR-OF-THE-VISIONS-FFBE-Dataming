@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "slot": 1, 
+            "iname": "PB_LGB_Noraml01", 
+            "sex": 0, 
+            "rarity_max": 5, 
+            "rarity_min": 0, 
+            "order": 1
+        }, 
+        {
+            "slot": 2, 
+            "iname": "PB_LGB_Normal02", 
+            "sex": 0, 
+            "rarity_max": 5, 
+            "rarity_min": 0, 
+            "order": 2
+        }, 
+        {
+            "slot": 3, 
+            "iname": "PB_LGB_Normal03", 
+            "sex": 0, 
+            "rarity_max": 5, 
+            "rarity_min": 0, 
+            "order": 3
+        }
+    ]
+}

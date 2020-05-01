@@ -1,0 +1,1305 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_GACHA_01", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_001"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_002"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_GACHA_01", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_003"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_004"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_SSR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_005"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_006"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_G_N_TW_10", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_007"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_008"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_G_N_TW_10", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_009"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_GACHA_10", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 200, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_010"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_LSWORD", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_LSWORD", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_EX1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SOIL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_011"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_DARK", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_012"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_WIND", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WIND", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_013"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_ICE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ICE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_014"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 2, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_SSR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 300, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_015"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_WATER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WATER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_016"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_THUNDER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_THUNDER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_017"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_FIRE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_FIRE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_018"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SHINE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_019"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_LSWORD", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_LSWORD", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_EX2"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 1, 
+                    "iname": "AF_LW_BSW_011", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 0, 
+                    "iname": "IT_EC_TOWER_001", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_01_020"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_GACHA_01", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_FIRE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_FIRE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_001"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SHINE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_002"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SOIL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_003"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_DARK", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK", 
+                    "round": 0
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 12500, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_004"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 2, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_SSR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 1, 
+                    "iname": "AF_FFT_SWO_002", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_ICE_02", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_005"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_WATER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WATER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_006"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_THUNDER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_THUNDER", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_007"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_ICE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ICE", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 15, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_008"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_N_GACHA_10", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_WIND", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WIND", 
+                    "round": 0
+                }, 
+                {
+                    "num": 15, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 15, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_009"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_SWORD", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_EX1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 200, 
+                    "type": 3, 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "round": 0
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_GACHA_10", 
+                    "round": 0
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_ICE_02", 
+                    "round": 0
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_SWORD", 
+                    "round": 0
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2, 
+                    "round": 1
+                }, 
+                {
+                    "num": 2, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_ICE_02", 
+                    "round": 1
+                }
+            ], 
+            "iname": "TWR_02_010"
+        }
+    ]
+}

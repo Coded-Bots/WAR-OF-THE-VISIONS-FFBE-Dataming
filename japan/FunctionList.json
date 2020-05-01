@@ -1,0 +1,157 @@
+{
+    "items": [
+        {
+            "effect_date": 7, 
+            "function_id": 1, 
+            "id": 1, 
+            "hardquest_add_num": 10
+        }, 
+        {
+            "effect_date": 7, 
+            "upbringing_quest_add_num": 3, 
+            "function_id": 7, 
+            "id": 2, 
+            "specific_quest_session_id": "SE_EV_UNITEXP_01"
+        }, 
+        {
+            "effect_date": 7, 
+            "upbringing_quest_add_num": 3, 
+            "function_id": 7, 
+            "id": 3, 
+            "specific_quest_session_id": "SE_EV_GIL_01"
+        }, 
+        {
+            "effect_date": 7, 
+            "upbringing_quest_add_num": 3, 
+            "function_id": 7, 
+            "id": 4, 
+            "specific_quest_session_id": "SE_EV_AFEXP_01"
+        }, 
+        {
+            "effect_date": 7, 
+            "upbringing_quest_add_num": 3, 
+            "function_id": 7, 
+            "id": 5, 
+            "specific_quest_session_id": "SE_EV_VCEXP_01"
+        }, 
+        {
+            "effect_date": 7, 
+            "upbringing_quest_add_num": 3, 
+            "function_id": 7, 
+            "id": 6, 
+            "specific_quest_session_id": "SE_EV_WAEXP_01"
+        }, 
+        {
+            "effect_date": 7, 
+            "quest_up_rate": 100, 
+            "function_id": 2, 
+            "id": 7
+        }, 
+        {
+            "effect_date": 7, 
+            "quest_up_rate": 100, 
+            "function_id": 3, 
+            "id": 8
+        }, 
+        {
+            "effect_date": 7, 
+            "function_id": 8, 
+            "id": 9, 
+            "artifact_free_reset_add_num": 1
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 15, 
+                    "eff_dst": 0
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 10
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 15, 
+                    "eff_dst": 3
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 11
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 15, 
+                    "eff_dst": 5
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 12
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 3, 
+                    "eff_dst": 6
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 13
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 3, 
+                    "eff_dst": 4
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 14
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 3, 
+                    "eff_dst": 10
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 15
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 3, 
+                    "eff_dst": 7
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 16
+        }, 
+        {
+            "artifact_growth_rate_up": [
+                {
+                    "val": 3, 
+                    "eff_dst": 11
+                }
+            ], 
+            "effect_date": 7, 
+            "function_id": 9, 
+            "id": 17
+        }, 
+        {
+            "effect_date": 10, 
+            "function_id": 1, 
+            "id": 9999, 
+            "hardquest_add_num": 10
+        }
+    ]
+}

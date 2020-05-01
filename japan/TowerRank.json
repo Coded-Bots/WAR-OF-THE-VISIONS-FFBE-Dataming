@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "score": 13, 
+            "iname": "S"
+        }, 
+        {
+            "score": 15, 
+            "iname": "A+"
+        }, 
+        {
+            "score": 18, 
+            "iname": "A"
+        }, 
+        {
+            "score": 20, 
+            "iname": "A-"
+        }, 
+        {
+            "score": 23, 
+            "iname": "B+"
+        }, 
+        {
+            "score": 25, 
+            "iname": "B"
+        }, 
+        {
+            "score": 30, 
+            "iname": "B-"
+        }, 
+        {
+            "score": 33, 
+            "iname": "C+"
+        }, 
+        {
+            "score": 35, 
+            "iname": "C"
+        }, 
+        {
+            "score": 40, 
+            "iname": "C-"
+        }, 
+        {
+            "score": 43, 
+            "iname": "D+"
+        }, 
+        {
+            "score": 45, 
+            "iname": "D"
+        }, 
+        {
+            "score": 50, 
+            "iname": "D-"
+        }, 
+        {
+            "score": 53, 
+            "iname": "E+"
+        }, 
+        {
+            "score": 55, 
+            "iname": "E"
+        }, 
+        {
+            "score": 60, 
+            "iname": "E-"
+        }
+    ]
+}

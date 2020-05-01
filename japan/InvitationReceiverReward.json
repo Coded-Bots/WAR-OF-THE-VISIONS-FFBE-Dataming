@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "num": 500, 
+                    "type": 3
+                }
+            ], 
+            "iname": "IRR_1"
+        }
+    ]
+}

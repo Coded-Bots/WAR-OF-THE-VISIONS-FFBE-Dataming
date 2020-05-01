@@ -1,0 +1,97 @@
+{
+    "items": [
+        {
+            "full_pt": 100, 
+            "iname": "MPG_DAILY_001", 
+            "progress": [
+                {
+                    "total_pt": 50, 
+                    "reward2": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_VC_EXP_03"
+                    }, 
+                    "reward3": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_US_EXP_03"
+                    }, 
+                    "reward4": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_FIRE"
+                    }, 
+                    "reward5": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_WATER"
+                    }, 
+                    "img": 3, 
+                    "reward1": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_CG_02"
+                    }, 
+                    "type": 1
+                }, 
+                {
+                    "total_pt": 80, 
+                    "reward2": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_THUNDER"
+                    }, 
+                    "reward3": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_SOIL"
+                    }, 
+                    "reward4": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_WIND"
+                    }, 
+                    "reward5": {
+                        "num": 10, 
+                        "type": 3
+                    }, 
+                    "img": 2, 
+                    "reward1": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_AF_EXP_03"
+                    }, 
+                    "type": 1
+                }, 
+                {
+                    "total_pt": 100, 
+                    "reward2": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_SHINE"
+                    }, 
+                    "reward3": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_DARK"
+                    }, 
+                    "reward4": {
+                        "num": 50, 
+                        "type": 3
+                    }, 
+                    "reward5": {
+                        "num": 10, 
+                        "type": 9
+                    }, 
+                    "img": 1, 
+                    "reward1": {
+                        "num": 1, 
+                        "type": 0, 
+                        "iname": "IT_PI_COM_ICE"
+                    }, 
+                    "type": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "items": [
+        {
+            "campaigns": [
+                {
+                    "start_at": "2019/01/01 5:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2019/04/01 5:00"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_AAA_AAA"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2019/01/01 5:00", 
+                    "type": 0, 
+                    "value": 250, 
+                    "end_at": "2019/04/01 5:00"
+                }, 
+                {
+                    "start_at": "2019/01/01 5:00", 
+                    "type": 1, 
+                    "value": 5, 
+                    "end_at": "2019/04/01 5:00"
+                }
+            ], 
+            "duel_type": 1, 
+            "iname": "CMP_BBB_BBB"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2019/01/01 5:00", 
+                    "type": 0, 
+                    "value": 300, 
+                    "end_at": "2019/04/01 5:00"
+                }
+            ], 
+            "duel_type": 2, 
+            "iname": "CMP_CCC_CCC"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2019/11/27 5:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2019/12/01 5:00"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_191127"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2019/12/10 5:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2019/12/19 5:00"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_191210"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2020/1/1 0:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/1/8 23:59:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200101"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2020/1/23 0:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/1/31 23:59:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200123"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2020/2/22 0:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/2/29 23:59:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200222"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2020/3/26 0:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/3/31 23:59:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200326"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2020/4/23 0:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/4/30 23:59:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200423"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2019/11/27 5:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2019/12/01 5:00"
+                }
+            ], 
+            "duel_type": 2, 
+            "iname": "CMP_FREE_191127"
+        }
+    ]
+}

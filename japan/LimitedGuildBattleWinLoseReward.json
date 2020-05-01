@@ -1,0 +1,199 @@
+{
+    "items": [
+        {
+            "star_rate": 20, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 10, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 1, 
+            "iname": "WR_LGBP_001_W1"
+        }, 
+        {
+            "star_rate": 40, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 20, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 1, 
+            "iname": "WR_LGBP_001_W2"
+        }, 
+        {
+            "star_rate": 60, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 30, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 1, 
+            "iname": "WR_LGBP_001_W3"
+        }, 
+        {
+            "star_rate": 80, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 60, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 1, 
+            "iname": "WR_LGBP_001_W4"
+        }, 
+        {
+            "star_rate": 100, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 100, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 1, 
+            "iname": "WR_LGBP_001_W5"
+        }, 
+        {
+            "star_rate": 20, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 3, 
+            "iname": "WR_LGBP_001_D1"
+        }, 
+        {
+            "star_rate": 40, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 2, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 3, 
+            "iname": "WR_LGBP_001_D2"
+        }, 
+        {
+            "star_rate": 60, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 3, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 3, 
+            "iname": "WR_LGBP_001_D3"
+        }, 
+        {
+            "star_rate": 80, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 6, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 3, 
+            "iname": "WR_LGBP_001_D4"
+        }, 
+        {
+            "star_rate": 100, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 10, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 3, 
+            "iname": "WR_LGBP_001_D5"
+        }, 
+        {
+            "star_rate": 20, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 2, 
+            "iname": "WR_LGBP_001_L1"
+        }, 
+        {
+            "star_rate": 40, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 2, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 2, 
+            "iname": "WR_LGBP_001_L2"
+        }, 
+        {
+            "star_rate": 60, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 3, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 2, 
+            "iname": "WR_LGBP_001_L3"
+        }, 
+        {
+            "star_rate": 80, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 6, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 2, 
+            "iname": "WR_LGBP_001_L4"
+        }, 
+        {
+            "star_rate": 100, 
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 10, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "WR_LGBP_001", 
+            "win_draw_lose": 2, 
+            "iname": "WR_LGBP_001_L5"
+        }
+    ]
+}

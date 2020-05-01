@@ -1,0 +1,982 @@
+{
+    "items": [
+        {
+            "achieve_condition": {
+                "sval": [
+                    "UN_LW_E_WOLF"
+                ], 
+                "ival": 10, 
+                "type": 2
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_FIRE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01010105"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010101_01", 
+            "section": "SE_WD_010101", 
+            "chk_ver": "SQ_WD_010101_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 10, 
+                "type": 28
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WATER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01010110"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010101_02", 
+            "section": "SE_WD_010101", 
+            "chk_ver": "SQ_WD_010101_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 25
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WIND"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01010210"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010102_01", 
+            "section": "SE_WD_010102", 
+            "chk_ver": "SQ_WD_010102_01"
+        }, 
+        {
+            "achieve_condition": {
+                "sval": [
+                    "IT_AF_MAT_HEART_01"
+                ], 
+                "ival": 10, 
+                "type": 3
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01010305"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010102_02", 
+            "section": "SE_WD_010102", 
+            "chk_ver": "SQ_WD_010102_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 60
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_THUNDER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01010310"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010103_01", 
+            "section": "SE_WD_010103", 
+            "chk_ver": "SQ_WD_010103_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 13
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ICE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01020105"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010103_02", 
+            "section": "SE_WD_010103", 
+            "chk_ver": "SQ_WD_010103_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 48
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01020110"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010104_01", 
+            "section": "SE_WD_010104", 
+            "chk_ver": "SQ_WD_010104_01"
+        }, 
+        {
+            "achieve_condition": {
+                "sval": [
+                    "QE_EV_UNITEXP_02"
+                ], 
+                "ival": 1, 
+                "type": 6
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01020205"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010104_02", 
+            "section": "SE_WD_010104", 
+            "chk_ver": "SQ_WD_010104_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 10, 
+                "type": 55
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_FIRE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01020210"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010105_01", 
+            "section": "SE_WD_010105", 
+            "chk_ver": "SQ_WD_010105_01"
+        }, 
+        {
+            "achieve_condition": {
+                "sval": [
+                    "QE_EV_GIL_02", 
+                    "QE_EV_GIL_D2"
+                ], 
+                "ival": 1, 
+                "type": 6
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WATER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01020305"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010105_02", 
+            "section": "SE_WD_010105", 
+            "chk_ver": "SQ_WD_010105_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 14
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WIND"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01020310"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010106_01", 
+            "section": "SE_WD_010106", 
+            "chk_ver": "SQ_WD_010106_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 9
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01030105"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010106_02", 
+            "section": "SE_WD_010106", 
+            "chk_ver": "SQ_WD_010106_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 29
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_THUNDER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01030110"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010107_01", 
+            "section": "SE_WD_010107", 
+            "chk_ver": "SQ_WD_010107_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 26
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ICE"
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01030205"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010107_02", 
+            "section": "SE_WD_010107", 
+            "chk_ver": "SQ_WD_010107_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 30
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01030210"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010108_01", 
+            "section": "SE_WD_010108", 
+            "chk_ver": "SQ_WD_010108_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 14
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01030305"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010108_02", 
+            "section": "SE_WD_010108", 
+            "chk_ver": "SQ_WD_010108_02"
+        }, 
+        {
+            "achieve_condition": {
+                "sval": [
+                    "QE_EV_UNITEXP_03"
+                ], 
+                "ival": 1, 
+                "type": 6
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_FIRE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01030310"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010109_01", 
+            "section": "SE_WD_010109", 
+            "chk_ver": "SQ_WD_010109_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 10, 
+                "type": 24
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WATER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01040105"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010109_02", 
+            "section": "SE_WD_010109", 
+            "chk_ver": "SQ_WD_010109_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 33
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WIND"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01040110"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010110_01", 
+            "section": "SE_WD_010110", 
+            "chk_ver": "SQ_WD_010110_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 57
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "sval": [
+                    "QE_ST_01040205"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010110_02", 
+            "section": "SE_WD_010110", 
+            "chk_ver": "SQ_WD_010110_02"
+        }, 
+        {
+            "achieve_condition": {
+                "sval": [
+                    "QE_EV_WAEXP_03"
+                ], 
+                "ival": 1, 
+                "type": 6
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_THUNDER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010201_01", 
+            "section": "SE_WD_010201", 
+            "chk_ver": "SQ_WD_010201_01"
+        }, 
+        {
+            "achieve_condition": {
+                "sval": [
+                    "QE_EV_VCEXP_03"
+                ], 
+                "ival": 1, 
+                "type": 6
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ICE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010201_02", 
+            "section": "SE_WD_010201", 
+            "chk_ver": "SQ_WD_010201_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 30, 
+                "type": 77
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010202_01", 
+            "section": "SE_WD_010202", 
+            "chk_ver": "SQ_WD_010202_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 23
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010202_02", 
+            "section": "SE_WD_010202", 
+            "chk_ver": "SQ_WD_010202_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 22
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_FIRE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010203_01", 
+            "section": "SE_WD_010203", 
+            "chk_ver": "SQ_WD_010203_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 61
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WATER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010203_02", 
+            "section": "SE_WD_010203", 
+            "chk_ver": "SQ_WD_010203_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 62
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_WIND"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010204_01", 
+            "section": "SE_WD_010204", 
+            "chk_ver": "SQ_WD_010204_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 1, 
+                "type": 27
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010204_02", 
+            "section": "SE_WD_010204", 
+            "chk_ver": "SQ_WD_010204_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 10, 
+                "type": 60
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_THUNDER"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010205_01", 
+            "section": "SE_WD_010205", 
+            "chk_ver": "SQ_WD_010205_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 10, 
+                "type": 14
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ICE"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010205_02", 
+            "section": "SE_WD_010205", 
+            "chk_ver": "SQ_WD_010205_02"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 26
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE"
+                }, 
+                {
+                    "num": 20000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010206_01", 
+            "section": "SE_WD_010206", 
+            "chk_ver": "SQ_WD_010206_01"
+        }, 
+        {
+            "achieve_condition": {
+                "ival": 5, 
+                "type": 33
+            }, 
+            "rewards": [
+                {
+                    "num": 100, 
+                    "type": 3
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK"
+                }, 
+                {
+                    "num": 10000, 
+                    "type": 2
+                }
+            ], 
+            "open_condition": {
+                "ival": 1, 
+                "type": 1
+            }, 
+            "iname": "SQ_WD_010206_02", 
+            "section": "SE_WD_010206", 
+            "chk_ver": "SQ_WD_010206_02"
+        }
+    ]
+}

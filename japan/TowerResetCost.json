@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "costs": [
+                {
+                    "cost": 0, 
+                    "round": 0
+                }, 
+                {
+                    "cost": 500, 
+                    "round": 1
+                }
+            ], 
+            "iname": "TW_01_COST"
+        }
+    ]
+}

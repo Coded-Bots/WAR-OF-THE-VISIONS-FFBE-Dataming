@@ -1,0 +1,1113 @@
+{
+    "items": [
+        {
+            "vision_init_lv": 1, 
+            "adventure_add_gil": 6, 
+            "vision_awakes": [
+                {
+                    "lv": 10
+                }, 
+                {
+                    "lv": 15, 
+                    "piece": 5, 
+                    "cost": 100, 
+                    "ball": 1
+                }, 
+                {
+                    "lv": 20, 
+                    "piece": 10, 
+                    "cost": 200, 
+                    "ball": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "piece": 15, 
+                    "cost": 300, 
+                    "ball": 5
+                }, 
+                {
+                    "lv": 30, 
+                    "piece": 25, 
+                    "cost": 500, 
+                    "ball": 10
+                }
+            ], 
+            "arti_reset_gil": 20000, 
+            "vision_exp_gil_coef": 10000, 
+            "awakes": [
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 30, 
+                    "ap": 0, 
+                    "lb_lv": 5, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 1, 
+                    "atk": 0, 
+                    "lv": 35, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 1000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 1, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 40, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 4000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 3, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 2, 
+                    "atk": 0, 
+                    "lv": 45, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 16000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 5, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 64000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 10, 
+                    "trm": 1, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 64, 
+                    "ap": 0, 
+                    "lb_lv": 20, 
+                    "cost": 256000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "luk": 0, 
+                    "spd": 0
+                }
+            ], 
+            "ranks": [
+                {
+                    "lv": 0, 
+                    "job": 6, 
+                    "piece": 0, 
+                    "ball": 0, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 5, 
+                    "job": 9, 
+                    "piece": 5, 
+                    "ball": 1, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 10, 
+                    "job": 9, 
+                    "piece": 10, 
+                    "ball": 1, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 15, 
+                    "job": 12, 
+                    "piece": 20, 
+                    "ball": 2, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "job": 12, 
+                    "piece": 40, 
+                    "ball": 2, 
+                    "af": 3
+                }, 
+                {
+                    "ball": 3, 
+                    "trm": 1, 
+                    "af": 3, 
+                    "lv": 35, 
+                    "job": 15, 
+                    "piece": 50
+                }
+            ], 
+            "db_item_name": "IT_AW_VBALL_N", 
+            "arti_reset": [
+                {
+                    "mat_num": 1, 
+                    "mat": "IT_AF_RESET"
+                }
+            ], 
+            "af_dis_cost": 1000, 
+            "adventure_add_exp": 30, 
+            "piece": 25, 
+            "adventure_gil_per_second": 60, 
+            "minawk": 1, 
+            "adventure_exp_per_second": 60
+        }, 
+        {
+            "vision_init_lv": 1, 
+            "adventure_add_gil": 8, 
+            "vision_awakes": [
+                {
+                    "lv": 20
+                }, 
+                {
+                    "lv": 25, 
+                    "piece": 10, 
+                    "cost": 1000, 
+                    "ball": 1
+                }, 
+                {
+                    "lv": 30, 
+                    "piece": 20, 
+                    "cost": 3000, 
+                    "ball": 2
+                }, 
+                {
+                    "lv": 35, 
+                    "piece": 30, 
+                    "cost": 5000, 
+                    "ball": 5
+                }, 
+                {
+                    "lv": 40, 
+                    "piece": 50, 
+                    "cost": 8000, 
+                    "ball": 10
+                }
+            ], 
+            "arti_reset_gil": 20000, 
+            "vision_exp_gil_coef": 15000, 
+            "awakes": [
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 30, 
+                    "ap": 0, 
+                    "lb_lv": 5, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 1, 
+                    "atk": 0, 
+                    "lv": 35, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 1000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 1, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 40, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 4000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 3, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 2, 
+                    "atk": 0, 
+                    "lv": 45, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 16000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 5, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 64000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 10, 
+                    "trm": 1, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 64, 
+                    "ap": 0, 
+                    "lb_lv": 20, 
+                    "cost": 256000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "luk": 0, 
+                    "spd": 0
+                }
+            ], 
+            "ranks": [
+                {
+                    "lv": 0, 
+                    "job": 6, 
+                    "piece": 0, 
+                    "ball": 0, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 5, 
+                    "job": 9, 
+                    "piece": 10, 
+                    "ball": 1, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 10, 
+                    "job": 9, 
+                    "piece": 20, 
+                    "ball": 1, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 15, 
+                    "job": 12, 
+                    "piece": 40, 
+                    "ball": 2, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "job": 12, 
+                    "piece": 80, 
+                    "ball": 2, 
+                    "af": 3
+                }, 
+                {
+                    "ball": 3, 
+                    "trm": 1, 
+                    "af": 3, 
+                    "lv": 35, 
+                    "job": 15, 
+                    "piece": 100
+                }
+            ], 
+            "db_item_name": "IT_AW_VBALL_R", 
+            "arti_reset": [
+                {
+                    "mat_num": 1, 
+                    "mat": "IT_AF_RESET"
+                }
+            ], 
+            "af_dis_cost": 2000, 
+            "adventure_add_exp": 33, 
+            "piece": 50, 
+            "adventure_gil_per_second": 60, 
+            "minawk": 1, 
+            "adventure_exp_per_second": 60
+        }, 
+        {
+            "vision_init_lv": 1, 
+            "adventure_add_gil": 10, 
+            "vision_awakes": [
+                {
+                    "lv": 20
+                }, 
+                {
+                    "lv": 30, 
+                    "piece": 15, 
+                    "cost": 6000, 
+                    "ball": 1
+                }, 
+                {
+                    "lv": 40, 
+                    "piece": 30, 
+                    "cost": 10000, 
+                    "ball": 2
+                }, 
+                {
+                    "lv": 50, 
+                    "piece": 45, 
+                    "cost": 16000, 
+                    "ball": 5
+                }, 
+                {
+                    "lv": 60, 
+                    "piece": 75, 
+                    "cost": 30000, 
+                    "ball": 10
+                }
+            ], 
+            "arti_reset_gil": 50000, 
+            "vision_exp_gil_coef": 15000, 
+            "awakes": [
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 30, 
+                    "ap": 0, 
+                    "lb_lv": 5, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 1, 
+                    "atk": 0, 
+                    "lv": 35, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 1000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 1, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 40, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 4000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 3, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 2, 
+                    "atk": 0, 
+                    "lv": 45, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 16000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 5, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 64000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 10, 
+                    "trm": 1, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 64, 
+                    "ap": 0, 
+                    "lb_lv": 20, 
+                    "cost": 256000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "luk": 0, 
+                    "spd": 0
+                }
+            ], 
+            "ranks": [
+                {
+                    "lv": 0, 
+                    "job": 6, 
+                    "piece": 0, 
+                    "ball": 0, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 5, 
+                    "job": 9, 
+                    "piece": 15, 
+                    "ball": 1, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 10, 
+                    "job": 9, 
+                    "piece": 30, 
+                    "ball": 1, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 15, 
+                    "job": 12, 
+                    "piece": 60, 
+                    "ball": 2, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "job": 12, 
+                    "piece": 120, 
+                    "ball": 2, 
+                    "af": 3
+                }, 
+                {
+                    "ball": 3, 
+                    "trm": 1, 
+                    "af": 3, 
+                    "lv": 35, 
+                    "job": 15, 
+                    "piece": 150
+                }
+            ], 
+            "db_item_name": "IT_AW_VBALL_SR", 
+            "arti_reset": [
+                {
+                    "mat_num": 2, 
+                    "mat": "IT_AF_RESET"
+                }
+            ], 
+            "af_dis_cost": 4000, 
+            "adventure_add_exp": 37, 
+            "piece": 75, 
+            "adventure_gil_per_second": 60, 
+            "minawk": 1, 
+            "adventure_exp_per_second": 60
+        }, 
+        {
+            "vision_init_lv": 1, 
+            "adventure_add_gil": 13, 
+            "vision_awakes": [
+                {
+                    "lv": 30
+                }, 
+                {
+                    "lv": 40, 
+                    "piece": 20, 
+                    "cost": 20000, 
+                    "ball": 1
+                }, 
+                {
+                    "lv": 50, 
+                    "piece": 40, 
+                    "cost": 40000, 
+                    "ball": 2
+                }, 
+                {
+                    "lv": 60, 
+                    "piece": 60, 
+                    "cost": 80000, 
+                    "ball": 5
+                }, 
+                {
+                    "lv": 70, 
+                    "piece": 100, 
+                    "cost": 140000, 
+                    "ball": 10
+                }
+            ], 
+            "arti_reset_gil": 100000, 
+            "vision_exp_gil_coef": 20000, 
+            "awakes": [
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 30, 
+                    "ap": 0, 
+                    "lb_lv": 5, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 1, 
+                    "atk": 0, 
+                    "lv": 35, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 1000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 1, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 40, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 4000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 3, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 2, 
+                    "atk": 0, 
+                    "lv": 45, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 16000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 5, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 64000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 10, 
+                    "trm": 1, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 64, 
+                    "ap": 0, 
+                    "lb_lv": 20, 
+                    "cost": 256000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "luk": 0, 
+                    "spd": 0
+                }
+            ], 
+            "ranks": [
+                {
+                    "lv": 0, 
+                    "job": 6, 
+                    "piece": 0, 
+                    "ball": 0, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 5, 
+                    "job": 9, 
+                    "piece": 20, 
+                    "ball": 1, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 10, 
+                    "job": 9, 
+                    "piece": 40, 
+                    "ball": 1, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 15, 
+                    "job": 12, 
+                    "piece": 80, 
+                    "ball": 2, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "job": 12, 
+                    "piece": 160, 
+                    "ball": 2, 
+                    "af": 3
+                }, 
+                {
+                    "ball": 3, 
+                    "trm": 1, 
+                    "af": 3, 
+                    "lv": 35, 
+                    "job": 15, 
+                    "piece": 200
+                }
+            ], 
+            "db_item_name": "IT_AW_VBALL_SSR", 
+            "arti_reset": [
+                {
+                    "mat_num": 3, 
+                    "mat": "IT_AF_RESET"
+                }
+            ], 
+            "af_dis_cost": 4000, 
+            "adventure_add_exp": 41, 
+            "piece": 100, 
+            "adventure_gil_per_second": 60, 
+            "minawk": 1, 
+            "adventure_exp_per_second": 60
+        }, 
+        {
+            "vision_init_lv": 1, 
+            "adventure_add_gil": 16, 
+            "vision_awakes": [
+                {
+                    "lv": 40
+                }, 
+                {
+                    "lv": 55, 
+                    "piece": 25, 
+                    "cost": 50000, 
+                    "ball": 1
+                }, 
+                {
+                    "lv": 70, 
+                    "piece": 50, 
+                    "cost": 125000, 
+                    "ball": 2
+                }, 
+                {
+                    "lv": 85, 
+                    "piece": 75, 
+                    "cost": 250000, 
+                    "ball": 5
+                }, 
+                {
+                    "lv": 99, 
+                    "piece": 125, 
+                    "cost": 500000, 
+                    "ball": 10
+                }
+            ], 
+            "arti_reset_gil": 200000, 
+            "vision_exp_gil_coef": 20000, 
+            "awakes": [
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 30, 
+                    "ap": 0, 
+                    "lb_lv": 5, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 1, 
+                    "atk": 0, 
+                    "lv": 35, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 1000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 1, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 40, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 4000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 3, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 2, 
+                    "atk": 0, 
+                    "lv": 45, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 16000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 5, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 64000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 10, 
+                    "trm": 1, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 64, 
+                    "ap": 0, 
+                    "lb_lv": 20, 
+                    "cost": 256000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "luk": 0, 
+                    "spd": 0
+                }
+            ], 
+            "ranks": [
+                {
+                    "lv": 0, 
+                    "job": 6, 
+                    "piece": 0, 
+                    "ball": 0, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 5, 
+                    "job": 9, 
+                    "piece": 40, 
+                    "ball": 1, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 10, 
+                    "job": 9, 
+                    "piece": 80, 
+                    "ball": 1, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 15, 
+                    "job": 12, 
+                    "piece": 120, 
+                    "ball": 2, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "job": 12, 
+                    "piece": 160, 
+                    "ball": 2, 
+                    "af": 3
+                }, 
+                {
+                    "ball": 3, 
+                    "trm": 1, 
+                    "af": 3, 
+                    "lv": 35, 
+                    "job": 15, 
+                    "piece": 200
+                }
+            ], 
+            "db_item_name": "IT_AW_VBALL_UR", 
+            "arti_reset": [
+                {
+                    "mat_num": 5, 
+                    "mat": "IT_AF_RESET"
+                }
+            ], 
+            "af_dis_cost": 8000, 
+            "adventure_add_exp": 45, 
+            "piece": 150, 
+            "adventure_gil_per_second": 60, 
+            "minawk": 1, 
+            "adventure_exp_per_second": 60
+        }, 
+        {
+            "adventure_add_gil": 20, 
+            "arti_reset_gil": 200000, 
+            "awakes": [
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 30, 
+                    "ap": 0, 
+                    "lb_lv": 5, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 0, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 1, 
+                    "atk": 0, 
+                    "lv": 35, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 1000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 1, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 40, 
+                    "ap": 0, 
+                    "lb_lv": 10, 
+                    "cost": 4000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 3, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "job": 2, 
+                    "atk": 0, 
+                    "lv": 45, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 16000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 5, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 50, 
+                    "ap": 0, 
+                    "lb_lv": 15, 
+                    "cost": 64000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 0, 
+                    "ball": 10, 
+                    "trm": 1, 
+                    "mat1": "IT_UN_AW_FIRE,1", 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "lv": 64, 
+                    "ap": 0, 
+                    "lb_lv": 20, 
+                    "cost": 256000, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "mat2": "IT_UN_AW_FIRE,1", 
+                    "luk": 0, 
+                    "spd": 0
+                }
+            ], 
+            "ranks": [
+                {
+                    "lv": 0, 
+                    "job": 6, 
+                    "piece": 0, 
+                    "ball": 0, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 5, 
+                    "job": 9, 
+                    "piece": 80, 
+                    "ball": 1, 
+                    "af": 1
+                }, 
+                {
+                    "lv": 10, 
+                    "job": 9, 
+                    "piece": 240, 
+                    "ball": 1, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 15, 
+                    "job": 12, 
+                    "piece": 240, 
+                    "ball": 2, 
+                    "af": 2
+                }, 
+                {
+                    "lv": 25, 
+                    "job": 12, 
+                    "piece": 320, 
+                    "ball": 2, 
+                    "af": 3
+                }, 
+                {
+                    "ball": 3, 
+                    "trm": 1, 
+                    "af": 3, 
+                    "lv": 35, 
+                    "job": 15, 
+                    "piece": 400
+                }
+            ], 
+            "db_item_name": "IT_AW_VBALL_UR", 
+            "arti_reset": [
+                {
+                    "mat_num": 5, 
+                    "mat": "IT_AF_RESET"
+                }
+            ], 
+            "af_dis_cost": 12000, 
+            "adventure_add_exp": 50, 
+            "piece": 200, 
+            "adventure_gil_per_second": 60, 
+            "minawk": 1, 
+            "adventure_exp_per_second": 60
+        }
+    ]
+}

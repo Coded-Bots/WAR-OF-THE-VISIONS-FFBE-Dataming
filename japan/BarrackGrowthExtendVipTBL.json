@@ -1,0 +1,69 @@
+{
+    "items": [
+        {
+            "iname": "BGE_VIP_TBL", 
+            "level": [
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 0
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 0
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 10
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 20
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 30
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 40
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 50
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 60
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 70
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 80
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 90
+                }, 
+                {
+                    "faith": 0, 
+                    "brave": 0, 
+                    "job_point": 100
+                }
+            ]
+        }
+    ]
+}

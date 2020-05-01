@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "count": 1, 
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }, 
+                {
+                    "count": 2, 
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }, 
+                {
+                    "count": 3, 
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }, 
+                {
+                    "count": 4, 
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }, 
+                {
+                    "count": 5, 
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_EC_ARENA"
+                }
+            ], 
+            "iname": "ARENA_JREWARD_001"
+        }
+    ]
+}

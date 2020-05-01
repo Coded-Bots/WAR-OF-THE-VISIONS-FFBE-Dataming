@@ -1,0 +1,100 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 1, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 2, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_2"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 3, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_3"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 4, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_4"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 5, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 6, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_6"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 7, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_7"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "entry_count": 8, 
+            "tag": "ER_LGBP_001", 
+            "iname": "ER_LGBP_001_8"
+        }
+    ]
+}

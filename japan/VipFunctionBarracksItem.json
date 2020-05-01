@@ -1,0 +1,43 @@
+{
+    "items": [
+        {
+            "barracks_item": [
+                {
+                    "item_id": "IT_GU_FOOD_04", 
+                    "type": 0
+                }
+            ], 
+            "id": 1
+        }, 
+        {
+            "barracks_item": [
+                {
+                    "item_id": "IT_GU_FOOD_04", 
+                    "type": 0
+                }, 
+                {
+                    "item_id": "IT_GU_FOOD_05", 
+                    "type": 0
+                }
+            ], 
+            "id": 2
+        }, 
+        {
+            "barracks_item": [
+                {
+                    "item_id": "IT_GU_FOOD_04", 
+                    "type": 0
+                }, 
+                {
+                    "item_id": "IT_GU_FOOD_05", 
+                    "type": 0
+                }, 
+                {
+                    "item_id": "IT_GU_FOOD_06", 
+                    "type": 0
+                }
+            ], 
+            "id": 3
+        }
+    ]
+}

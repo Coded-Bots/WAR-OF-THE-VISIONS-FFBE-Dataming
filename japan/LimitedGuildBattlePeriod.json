@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "close_at": "2020/04/01", 
+            "start_at": "2020/03/20", 
+            "iname": "LGBP_001", 
+            "ranking_reward": "RR_LGBP_001", 
+            "end_at": "2020/03/31 23:00:00"
+        }
+    ]
+}

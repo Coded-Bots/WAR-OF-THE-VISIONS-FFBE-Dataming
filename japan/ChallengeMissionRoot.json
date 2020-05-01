@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "priority": 2, 
+            "banner": "ChallengeTab_0001", 
+            "iname": "CM_PRO_001"
+        }, 
+        {
+            "priority": 1, 
+            "begin_at": "2020/04/22 11:00:00", 
+            "banner": "ChallengeTab_FFT_02", 
+            "iname": "CM_PRO_006", 
+            "end_at": "2020/05/14 9:59:59"
+        }, 
+        {
+            "priority": 1, 
+            "begin_at": "2020/04/22 10:10:00", 
+            "banner": "ChallengeTab_FFT_01", 
+            "iname": "CM_PRO_002", 
+            "end_at": "2020/05/14 9:59:59"
+        }, 
+        {
+            "priority": 1, 
+            "begin_at": "2020/03/01", 
+            "banner": "ChallengeTab_1000DL", 
+            "iname": "CM_PRO_003", 
+            "end_at": "2020/03/18 14:59:59"
+        }, 
+        {
+            "priority": 1, 
+            "begin_at": "2020/03/25 15:00:00", 
+            "banner": "ChallengeTab_FF1", 
+            "iname": "CM_PRO_005", 
+            "end_at": "2020/04/08 14:59:59"
+        }, 
+        {
+            "priority": 1, 
+            "begin_at": "2020/03/17 10:30:00", 
+            "banner": "ChallengeTab_MOBIUS", 
+            "iname": "CM_PRO_004", 
+            "end_at": "2020/03/31 23:59:59"
+        }
+    ]
+}

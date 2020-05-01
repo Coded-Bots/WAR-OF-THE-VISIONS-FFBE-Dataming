@@ -1,0 +1,798 @@
+{
+    "items": [
+        {
+            "skip": 0, 
+            "tips": 0, 
+            "iname": "Battle1", 
+            "trg": 0
+        }, 
+        {
+            "skip": 0, 
+            "tips": 0, 
+            "iname": "Battle2", 
+            "trg": 0
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 2000, 
+                    "type": 3
+                }
+            ], 
+            "iname": "Gacha", 
+            "tuto": 4, 
+            "desc_emo": 0, 
+            "skip": 0, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 0, 
+            "act": "HOME", 
+            "tips": 0, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "Quest", 
+            "tuto": 5, 
+            "skip": 0, 
+            "guidance": "Gacha", 
+            "trg": 1, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_qst_sty_01", 
+                "gid_qst_sty_02"
+            ], 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "ChallengeMission", 
+            "tuto": 7, 
+            "skip": 0, 
+            "guidance": "Quest", 
+            "trg": 1, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_clg_01", 
+                "gid_clg_02", 
+                "gid_clg_03", 
+                "gid_clg_04"
+            ], 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 4000, 
+                    "type": 2
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_EXP_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_JB_IM_ANGEL_1"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_JB_MM_ALL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_JB_EM_SOIL_1"
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_JB_SWORD_01"
+                }
+            ], 
+            "iname": "UnitStrength", 
+            "tuto": 10, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "guidance": "ChallengeMission", 
+            "jp": 34, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 1, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_unt_stg_01", 
+                "gid_unt_stg_02", 
+                "gid_unt_stg_03"
+            ], 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1000, 
+                    "type": 2
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SOIL"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SOIL_R2"
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_MONT"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_SSR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SOIL"
+                }
+            ], 
+            "iname": "UnitAwake", 
+            "tuto": 12, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_unt_awk_01", 
+                "gid_unt_awk_02", 
+                "gid_unt_awk_03"
+            ], 
+            "value1": "QE_ST_01010102", 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 25000, 
+                    "type": 2
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_EXP_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_LW_SWO_001"
+                }, 
+                {
+                    "num": 12, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_HEART_01"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_AF_AW_SWORD"
+                }
+            ], 
+            "iname": "ArtifactCraft", 
+            "tuto": 21, 
+            "desc_emo": 1, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 1, 
+            "tips_imgs": [
+                "gid_aft_01", 
+                "gid_aft_02", 
+                "gid_aft_03", 
+                "gid_aft_04", 
+                "gid_aft_05"
+            ], 
+            "assistance_id": "AF_LW_SWO_001", 
+            "value1": "QE_ST_01010103", 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "EventQuest", 
+            "tuto": 25, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_qst_evt_01", 
+                "gid_qst_evt_02"
+            ], 
+            "value1": "QE_ST_01010104", 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1500, 
+                    "type": 2
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_FIRE_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_FIRE_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_FIRE_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_FIRE_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_ICE_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_ICE_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_ICE_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_ICE_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WIND_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WIND_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WIND_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WIND_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_THUNDER_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_THUNDER_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_THUNDER_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_THUNDER_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SOIL_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SOIL_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SOIL_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SOIL_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WATER_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WATER_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WATER_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_WATER_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SHINE_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SHINE_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SHINE_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SHINE_04"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_DARK_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_DARK_02"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_DARK_03"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_DARK_04"
+                }
+            ], 
+            "iname": "VisionCard", 
+            "tuto": 26, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_vcd_01", 
+                "gid_vcd_02"
+            ], 
+            "value1": "QE_ST_01010105", 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AD_TICKET_2"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SOIL_01"
+                }
+            ], 
+            "iname": "ExplorationChocobo", 
+            "tuto": 18, 
+            "desc_emo": 1, 
+            "trg_sub": 10, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 1, 
+            "skip": 1, 
+            "value1": "QE_ST_01010107", 
+            "act": "HOME", 
+            "tips_imgs": [
+                "gid_chb_01", 
+                "gid_chb_02", 
+                "gid_chb_03", 
+                "gid_chb_04"
+            ], 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "Party", 
+            "tuto": 9, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "guidance": "UnitStrength", 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 1, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_pty_01", 
+                "gid_pty_02"
+            ], 
+            "act": "PARTY", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "value1_sub": "QE_ST_01010110", 
+            "tuto": 28, 
+            "desc_emo": 1, 
+            "trg_sub": 4, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 1, 
+            "skip": 1, 
+            "value1": 10, 
+            "act": "HOME", 
+            "tips_imgs": [
+                "gid_qst_mlt_01", 
+                "gid_qst_mlt_02"
+            ], 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD", 
+            "iname": "MultiQuest"
+        }, 
+        {
+            "iname": "Arena", 
+            "tuto": 29, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_arn_01", 
+                "gid_arn_02", 
+                "gid_arn_03"
+            ], 
+            "value1": 12, 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "FreeMatch", 
+            "tuto": 35, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_mtc_ff_01", 
+                "gid_mtc_cls_01", 
+                "gid_mtc_cls_02"
+            ], 
+            "value1": 15, 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "GuildJoin", 
+            "tuto": 30, 
+            "desc_emo": 1, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 1, 
+            "value1": 10, 
+            "act": "HOME", 
+            "tips": 0, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "GuildAttendance", 
+            "tuto": 31, 
+            "desc_emo": 1, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 1, 
+            "tips_imgs": [
+                "gid_gld_lby_01", 
+                "gid_gld_lby_02"
+            ], 
+            "act": "GUILD_LOBBY", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "GuildBarracks", 
+            "tuto": 32, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_gld_brk_01"
+            ], 
+            "act": "GUILD_BARRACKS", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_GU_EXP_S2_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_GU_EXP_S3_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_GU_EXP_S4_01"
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_GU_EXP_S1_01"
+                }
+            ], 
+            "iname": "GuildStone", 
+            "tuto": 33, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_gld_stn_01"
+            ], 
+            "act": "GUILD_STONE", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "GuildBattle", 
+            "tuto": 34, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_gld_btl_01", 
+                "gid_gld_btl_02", 
+                "gid_gld_btl_03"
+            ], 
+            "act": "GUILD_BATTLE", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "UnitIntimacy", 
+            "tuto": 17, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 8, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_unt_itm_01", 
+                "gid_unt_itm_02"
+            ], 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "SubQuest", 
+            "tuto": 24, 
+            "desc_emo": 2, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 2, 
+            "tips_imgs": [
+                "gid_qst_sub_01"
+            ], 
+            "value1": "QE_ST_01010105", 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 3500, 
+                    "type": 2
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_JB_IM_ANGEL_1"
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_JB_MM_ALL"
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_JB_EM_SOIL_1"
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_JB_SWORD_01"
+                }
+            ], 
+            "iname": "Unitsubjob", 
+            "tuto": 13, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "jp": 150, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "value1": 300, 
+            "act": "HOME", 
+            "tips": 0, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "HardQuest", 
+            "tuto": 22, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "value1": 300, 
+            "act": "HOME", 
+            "tips": 0, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 1000, 
+                    "type": 2
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_SB_EXP_SOIL_01"
+                }
+            ], 
+            "iname": "NetherBeast", 
+            "tuto": 27, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "value1": 300, 
+            "act": "HOME", 
+            "tips": 0, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "value1_sub": "QE_ST_01010105", 
+            "tuto": 38, 
+            "desc_emo": 0, 
+            "trg_sub": 4, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "skip": 1, 
+            "value1": 30, 
+            "act": "HOME", 
+            "tips_imgs": [
+                "gid_qst_chr_01"
+            ], 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD", 
+            "iname": "CharaQuest"
+        }, 
+        {
+            "iname": "Tower", 
+            "tuto": 40, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_tow_01", 
+                "gid_tow_02", 
+                "gid_tow_03"
+            ], 
+            "act": "TOWER_LOBBY", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "ItemExchange", 
+            "tuto": 39, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 2, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_itm_exc_01", 
+                "gid_itm_exc_02", 
+                "gid_itm_exc_03"
+            ], 
+            "value1": 300, 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "start_at": "2020/03/14 11:00:00", 
+            "iname": "SupportUnit", 
+            "tuto": 23, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 4, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_spt_unt_01"
+            ], 
+            "value1": "QE_ST_01010108", 
+            "act": "HOME", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
+        }
+    ]
+}

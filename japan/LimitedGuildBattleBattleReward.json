@@ -1,0 +1,148 @@
+{
+    "items": [
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 1, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 1, 
+            "iname": "BR_LGBP_001_1"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 2, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 2, 
+            "iname": "BR_LGBP_001_2"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 3, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 3, 
+            "iname": "BR_LGBP_001_3"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 4, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 4, 
+            "iname": "BR_LGBP_001_4"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 5, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 5, 
+            "iname": "BR_LGBP_001_5"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 6, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 6, 
+            "iname": "BR_LGBP_001_6"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 7, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 7, 
+            "iname": "BR_LGBP_001_7"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 8, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 8, 
+            "iname": "BR_LGBP_001_8"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 9, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 9, 
+            "iname": "BR_LGBP_001_9"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 10, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 10, 
+            "iname": "BR_LGBP_001_10"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 11, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 11, 
+            "iname": "BR_LGBP_001_11"
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 0, 
+                    "num": 12, 
+                    "iname": "IT_EC_GUILD"
+                }
+            ], 
+            "tag": "BR_LGBP_001", 
+            "star": 12, 
+            "iname": "BR_LGBP_001_12"
+        }
+    ]
+}
