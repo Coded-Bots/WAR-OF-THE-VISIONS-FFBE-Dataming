@@ -70,6 +70,12 @@
                     "rate": 100, 
                     "num": 1, 
                     "type": 0, 
+                    "iname": "IT_PI_LW_KTON"
+                }, 
+                {
+                    "rate": 100, 
+                    "num": 1, 
+                    "type": 0, 
                     "iname": "IT_PI_LW_AILN"
                 }, 
                 {
@@ -183,6 +189,12 @@
         }, 
         {
             "rewards": [
+                {
+                    "rate": 100, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_WHIS"
+                }, 
                 {
                     "rate": 100, 
                     "num": 1, 

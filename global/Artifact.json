@@ -28352,6 +28352,93 @@
             "collaboType": 1
         }, 
         {
+            "sell": 0, 
+            "status": [
+                {
+                    "avd": 12, 
+                    "hp": 142, 
+                    "spd": 5, 
+                    "crta": 12
+                }, 
+                {
+                    "avd": 12, 
+                    "hp": 142, 
+                    "spd": 5, 
+                    "crta": 12
+                }
+            ], 
+            "skl1": [
+                "SK_ARW_LW_KTON_1_1"
+            ], 
+            "rare": 4, 
+            "iname": "AF_ARW_LW_KTON_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                22
+            ], 
+            "asset": "LAPSwpn_arw_004", 
+            "skl3": [
+                "SK_ARW_LW_KTON_1_1"
+            ], 
+            "skl2": [
+                "SK_ARW_LW_KTON_1_1"
+            ], 
+            "equip": "AEC_ACCE", 
+            "trust": 1, 
+            "type": 2, 
+            "skl4": [
+                "SK_ARW_LW_KTON_1_1"
+            ], 
+            "skl5": [
+                "SK_ARW_LW_KTON_1_1"
+            ]
+        }, 
+        {
+            "sell": 0, 
+            "status": [
+                {
+                    "hp": 240, 
+                    "mp": 15
+                }, 
+                {
+                    "hp": 240, 
+                    "mp": 15
+                }
+            ], 
+            "skl1": [
+                "SK_HAT_LW_WHIS_1_1", 
+                "SK_HAT_LW_WHIS_1_2"
+            ], 
+            "rare": 4, 
+            "iname": "AF_HAT_LW_WHIS_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                22
+            ], 
+            "asset": "LAPSwpn_hat_008", 
+            "skl3": [
+                "SK_HAT_LW_WHIS_1_1", 
+                "SK_HAT_LW_WHIS_1_2"
+            ], 
+            "skl2": [
+                "SK_HAT_LW_WHIS_1_1", 
+                "SK_HAT_LW_WHIS_1_2"
+            ], 
+            "equip": "AEC_ACCE", 
+            "trust": 1, 
+            "type": 2, 
+            "skl4": [
+                "SK_HAT_LW_WHIS_1_1", 
+                "SK_HAT_LW_WHIS_1_2"
+            ], 
+            "skl5": [
+                "SK_HAT_LW_WHIS_1_1", 
+                "SK_HAT_LW_WHIS_1_2"
+            ]
+        }, 
+        {
             "sell": 25000, 
             "status": [
                 {
@@ -28902,6 +28989,65 @@
             "equip": "AEC_SWORD", 
             "type": 0, 
             "collaboType": 1
+        }, 
+        {
+            "sell": 10000, 
+            "status": [
+                {
+                    "hp": 4, 
+                    "hit": 1, 
+                    "atk": 9, 
+                    "mag": 7, 
+                    "crt": 1
+                }, 
+                {
+                    "hp": 69, 
+                    "hit": 17, 
+                    "atk": 168, 
+                    "mag": 126, 
+                    "crt": 13
+                }
+            ], 
+            "rare": 3, 
+            "iname": "AF_SWO_LW_WHIS_2", 
+            "rtype": "AF_LOT_50", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                2
+            ], 
+            "asset": "LAPSwpn_swo_011", 
+            "type": 0
+        }, 
+        {
+            "sell": 25000, 
+            "status": [
+                {
+                    "hp": 11, 
+                    "hit": 1, 
+                    "atk": 10, 
+                    "mag": 2, 
+                    "crt": 1
+                }, 
+                {
+                    "hp": 205, 
+                    "hit": 11, 
+                    "atk": 189, 
+                    "mag": 21, 
+                    "crt": 17
+                }
+            ], 
+            "rare": 3, 
+            "iname": "AF_NKN_LW_KTON_2", 
+            "rtype": "AF_LOT_50", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                6
+            ], 
+            "asset": "LAPSwpn_nkn_006", 
+            "equip": "AEC_NINJA", 
+            "type": 0
         }
     ]
 }

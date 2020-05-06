@@ -164,7 +164,7 @@
             "iname": "GachaBanner_global_FFT_14", 
             "sval": "LAPS_SHOP_LIMITED_FFT_01", 
             "end_at": "2020-05-12 17:59:59", 
-            "priority": 1, 
+            "priority": 2, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -178,7 +178,7 @@
             "iname": "GachaBanner_FFT_13", 
             "sval": "GachaBanner_FFT_13", 
             "end_at": "2020-05-12 17:59:59", 
-            "priority": 2, 
+            "priority": 3, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -192,7 +192,7 @@
             "iname": "ev_fft_01", 
             "sval": "ev_fft_01", 
             "end_at": "2020-05-12 17:59:59", 
-            "priority": 3, 
+            "priority": 4, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -239,6 +239,20 @@
             }, 
             "transition_destination": 0, 
             "id": 18, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-05-06", 
+            "iname": "GachaBanner_Global_0022", 
+            "sval": "GachaBanner_Global_0022", 
+            "end_at": "2020-05-19 23:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 19, 
             "appeal_category": 2
         }
     ]

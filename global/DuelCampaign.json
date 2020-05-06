@@ -77,6 +77,18 @@
             ], 
             "duel_type": 2, 
             "iname": "CMP_FREE_191127"
+        }, 
+        {
+            "campaigns": [
+                {
+                    "start_at": "2020/05/11 00:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/05/17 23:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200506"
         }
     ]
 }

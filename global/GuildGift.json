@@ -35,6 +35,14 @@
             "num": 3, 
             "type": 0, 
             "id": "GG_LIMIT_0003"
+        }, 
+        {
+            "begin_at": "2020/05/06", 
+            "iname": "IT_EC_GUILD", 
+            "end_at": "2020/05/12 17:59:59", 
+            "num": 3, 
+            "type": 0, 
+            "id": "GG_LIMIT_0004"
         }
     ]
 }

@@ -4830,6 +4830,30 @@
             "collaboType": 1
         }, 
         {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_PI_LW_WHIS", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 1
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_PI_LW_KTON", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 1
+        }, 
+        {
             "sell": 10, 
             "ac": 9999, 
             "buy": 30000, 
@@ -7680,6 +7704,17 @@
             "buy": 9999, 
             "rare": 0, 
             "iname": "IT_EC_SUMMON_04_B", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 16, 
+            "icon": "IT_EC_SUMMON"
+        }, 
+        {
+            "sell": 10, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 0, 
+            "iname": "IT_EC_SUMMON_05_A", 
             "mc": 9999, 
             "is_valuables": 1, 
             "type": 16, 
