@@ -139,6 +139,12 @@
             "skip_ticket": "IT_TICKET_STORY"
         }, 
         {
+            "chap": "CH_ST_0108", 
+            "back_unit": "UN_LW_P_MONT", 
+            "iname": "SE_ST_010803", 
+            "skip_ticket": "IT_TICKET_STORY"
+        }, 
+        {
             "chap": "CH_WD_0101", 
             "iname": "SE_WD_010101", 
             "skip_ticket": "IT_TICKET_STORY"

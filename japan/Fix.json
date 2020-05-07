@@ -1553,7 +1553,7 @@
         {
             "type": 0, 
             "iname": "raid_host_bonus", 
-            "value": 1
+            "value": 100
         }
     ]
 }

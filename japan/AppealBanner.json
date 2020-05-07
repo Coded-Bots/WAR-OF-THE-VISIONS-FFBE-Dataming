@@ -1355,7 +1355,7 @@
             "iname": "ev_fft_02", 
             "sval": "ev_fft_02", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 8, 
+            "priority": 9, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -1397,7 +1397,7 @@
             "iname": "GachaBanner_0100", 
             "sval": "GachaBanner_0100", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 1, 
+            "priority": 2, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -1411,7 +1411,7 @@
             "iname": "GachaBanner_0099", 
             "sval": "GachaBanner_0099", 
             "end_at": "2020/05/21 14:59:59", 
-            "priority": 2, 
+            "priority": 3, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -1425,7 +1425,7 @@
             "iname": "GachaBanner_0096", 
             "sval": "GachaBanner_0096", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 3, 
+            "priority": 4, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -1439,7 +1439,7 @@
             "iname": "ev_tower_fft_01", 
             "sval": "ev_tower_fft_01", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 4, 
+            "priority": 5, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "Tower"
@@ -1453,7 +1453,7 @@
             "iname": "GachaBanner_FFT_14_R", 
             "sval": "GachaBanner_FFT_14_R", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 5, 
+            "priority": 6, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -1467,7 +1467,7 @@
             "iname": "GachaBanner_FFT_13_R", 
             "sval": "GachaBanner_FFT_13_R", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 6, 
+            "priority": 7, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -1481,13 +1481,111 @@
             "iname": "ev_arti_crft_04", 
             "sval": "ev_arti_crft_04", 
             "end_at": "2020/05/14 9:59:59", 
-            "priority": 7, 
+            "priority": 8, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
             }, 
             "transition_destination": 4, 
             "id": 107, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/07 15:00:00", 
+            "iname": "ev_cdown_01_1", 
+            "sval": "ev_cdown_01_1", 
+            "end_at": "2020/05/08 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 108, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/08 5:00:00", 
+            "iname": "ev_cdown_01_2", 
+            "sval": "ev_cdown_01_2", 
+            "end_at": "2020/05/09 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 109, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/09 5:00:00", 
+            "iname": "ev_cdown_01_3", 
+            "sval": "ev_cdown_01_3", 
+            "end_at": "2020/05/10 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 110, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/10 5:00:00", 
+            "iname": "ev_cdown_01_4", 
+            "sval": "ev_cdown_01_4", 
+            "end_at": "2020/05/11 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 111, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/11 5:00:00", 
+            "iname": "ev_cdown_01_5", 
+            "sval": "ev_cdown_01_5", 
+            "end_at": "2020/05/12 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 112, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/12 5:00:00", 
+            "iname": "ev_cdown_01_6", 
+            "sval": "ev_cdown_01_6", 
+            "end_at": "2020/05/13 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 113, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020/05/13 5:00:00", 
+            "iname": "ev_cdown_01_7", 
+            "sval": "ev_cdown_01_7", 
+            "end_at": "2020/05/14 4:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 114, 
             "appeal_category": 0
         }
     ]

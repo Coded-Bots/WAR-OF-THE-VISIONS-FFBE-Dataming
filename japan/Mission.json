@@ -1775,6 +1775,70 @@
         {
             "rewards": [
                 {
+                    "num": 25, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_SHINE"
+                }, 
+                {
+                    "num": 25, 
+                    "type": 0, 
+                    "iname": "IT_UN_AW_DARK"
+                }
+            ], 
+            "iname": "M_ST_0008_03", 
+            "priority": 100049, 
+            "chk_ver": "M_ST_0024", 
+            "grpID": "MG_STORY_001", 
+            "condition": {
+                "sval": [
+                    "QE_ST_01080305"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }
+        }, 
+        {
+            "rewards": [
+                {
+                    "num": 25, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_SHINE"
+                }, 
+                {
+                    "num": 25, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_DARK"
+                }, 
+                {
+                    "num": 2, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL"
+                }, 
+                {
+                    "num": 6, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR"
+                }, 
+                {
+                    "num": 1000, 
+                    "type": 3
+                }
+            ], 
+            "iname": "M_ST_0008_03_2", 
+            "priority": 100050, 
+            "chk_ver": "M_ST_0024_2", 
+            "grpID": "MG_STORY_001", 
+            "condition": {
+                "sval": [
+                    "QE_ST_01080310"
+                ], 
+                "ival": 1, 
+                "type": 1
+            }
+        }, 
+        {
+            "rewards": [
+                {
                     "num": 10000, 
                     "type": 2
                 }, 
@@ -8145,7 +8209,7 @@
             "iname": "M_ART_SCR_06", 
             "priority": 200090, 
             "chk_ver": "M_ART_SCR_06", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_02"
@@ -8180,7 +8244,7 @@
             "iname": "M_ART_SCR_07", 
             "priority": 200091, 
             "chk_ver": "M_ART_SCR_07", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_02"
@@ -8215,7 +8279,7 @@
             "iname": "M_ART_SCR_08", 
             "priority": 200092, 
             "chk_ver": "M_ART_SCR_08", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_02"
@@ -8250,7 +8314,7 @@
             "iname": "M_ART_SCR_09", 
             "priority": 200093, 
             "chk_ver": "M_ART_SCR_09", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_02"
@@ -8289,7 +8353,7 @@
             "iname": "M_ART_SCR_10", 
             "priority": 200094, 
             "chk_ver": "M_ART_SCR_10", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_02"
@@ -8339,7 +8403,7 @@
             "iname": "M_MU_ART_SCR_04", 
             "priority": 200095, 
             "chk_ver": "M_MU_ART_SCR_04", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_02"
@@ -8374,7 +8438,7 @@
             "iname": "M_MU_ART_SCR_05", 
             "priority": 200096, 
             "chk_ver": "M_MU_ART_SCR_05", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_02"
@@ -8413,7 +8477,7 @@
             "iname": "M_MU_ART_SCR_06", 
             "priority": 200097, 
             "chk_ver": "M_MU_ART_SCR_06", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_01", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_02"
@@ -8751,7 +8815,7 @@
             "iname": "M_ART_SCR_16", 
             "priority": 200106, 
             "chk_ver": "M_ART_SCR_16", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_04"
@@ -8786,7 +8850,7 @@
             "iname": "M_ART_SCR_17", 
             "priority": 200107, 
             "chk_ver": "M_ART_SCR_17", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_04"
@@ -8821,7 +8885,7 @@
             "iname": "M_ART_SCR_18", 
             "priority": 200108, 
             "chk_ver": "M_ART_SCR_18", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_04"
@@ -8856,7 +8920,7 @@
             "iname": "M_ART_SCR_19", 
             "priority": 200109, 
             "chk_ver": "M_ART_SCR_19", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_04"
@@ -8895,7 +8959,7 @@
             "iname": "M_ART_SCR_20", 
             "priority": 200110, 
             "chk_ver": "M_ART_SCR_20", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_04"
@@ -8945,7 +9009,7 @@
             "iname": "M_MU_ART_SCR_10", 
             "priority": 200111, 
             "chk_ver": "M_MU_ART_SCR_10", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_04"
@@ -8980,7 +9044,7 @@
             "iname": "M_MU_ART_SCR_11", 
             "priority": 200112, 
             "chk_ver": "M_MU_ART_SCR_11", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_04"
@@ -9019,7 +9083,7 @@
             "iname": "M_MU_ART_SCR_12", 
             "priority": 200113, 
             "chk_ver": "M_MU_ART_SCR_12", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_04"
@@ -9054,7 +9118,7 @@
             "iname": "M_ART_SCR_21", 
             "priority": 200114, 
             "chk_ver": "M_ART_SCR_21", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_05"
@@ -9089,7 +9153,7 @@
             "iname": "M_ART_SCR_22", 
             "priority": 200115, 
             "chk_ver": "M_ART_SCR_22", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_05"
@@ -9124,7 +9188,7 @@
             "iname": "M_ART_SCR_23", 
             "priority": 200116, 
             "chk_ver": "M_ART_SCR_23", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_05"
@@ -9159,7 +9223,7 @@
             "iname": "M_ART_SCR_24", 
             "priority": 200117, 
             "chk_ver": "M_ART_SCR_24", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_05"
@@ -9198,7 +9262,7 @@
             "iname": "M_ART_SCR_25", 
             "priority": 200117, 
             "chk_ver": "M_ART_SCR_25", 
-            "grpID": "MG_EV_ART_SCR_NO", 
+            "grpID": "MG_EV_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_EV_ART_SCR_05"
@@ -9248,7 +9312,7 @@
             "iname": "M_MU_ART_SCR_13", 
             "priority": 200118, 
             "chk_ver": "M_MU_ART_SCR_13", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_05"
@@ -9283,7 +9347,7 @@
             "iname": "M_MU_ART_SCR_14", 
             "priority": 200119, 
             "chk_ver": "M_MU_ART_SCR_14", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_05"
@@ -9322,7 +9386,7 @@
             "iname": "M_MU_ART_SCR_15", 
             "priority": 200120, 
             "chk_ver": "M_MU_ART_SCR_15", 
-            "grpID": "MG_MU_ART_SCR_NO", 
+            "grpID": "MG_MU_ART_SCR_02", 
             "condition": {
                 "sval": [
                     "QE_MU_EV_SCR_05"
