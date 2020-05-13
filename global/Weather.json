@@ -189,6 +189,25 @@
             "effect": "eff_bg_dark_field", 
             "geo": "Dark   ", 
             "icon": "Icon_Shiny"
+        }, 
+        {
+            "iname": "WTH_NONE", 
+            "buffs": [
+                {
+                    "side": 1, 
+                    "buff1": "BUFF_WTH_NONE"
+                }
+            ], 
+            "color": [
+                128, 
+                128, 
+                128, 
+                255
+            ], 
+            "clock_time": 40, 
+            "effect": "eff_bg_dark_field", 
+            "geo": "Sun    ", 
+            "icon": "Icon_Shiny"
         }
     ]
 }

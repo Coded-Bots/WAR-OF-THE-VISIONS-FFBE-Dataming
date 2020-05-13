@@ -3416,6 +3416,54 @@
         {
             "whole_challenge_limit": 1, 
             "end": "2020/05/19 23:59:59", 
+            "iname": "CP_GL_STORY_004", 
+            "ap_rate": 1, 
+            "exp_unit": 2, 
+            "quest_type": 1, 
+            "arti_rank": 1, 
+            "start": "2020/05/12 18:30:00", 
+            "drop_num": 1, 
+            "section_inames": [
+                "SE_ST_010101", 
+                "SE_ST_010102", 
+                "SE_ST_010103", 
+                "SE_ST_010201", 
+                "SE_ST_010202", 
+                "SE_ST_010203", 
+                "SE_ST_010301", 
+                "SE_ST_010302", 
+                "SE_ST_010303", 
+                "SE_ST_010401", 
+                "SE_ST_010402", 
+                "SE_ST_010403"
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "drop_rate": 1
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "end": "2020/05/19 23:59:59", 
+            "iname": "CP_GL_STORY_005", 
+            "ap_rate": 1, 
+            "exp_unit": 2, 
+            "quest_type": 1, 
+            "arti_rank": 1, 
+            "start": "2020/05/12 18:30:00", 
+            "drop_num": 1, 
+            "section_inames": [
+                "SE_ST_010501", 
+                "SE_ST_010502", 
+                "SE_ST_010503", 
+                "SE_ST_010601"
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "drop_rate": 1
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "end": "2020/05/19 23:59:59", 
             "iname": "CP_200506_1", 
             "ap_rate": 1, 
             "exp_unit": 1, 
@@ -3520,6 +3568,27 @@
             "quest_type": 2, 
             "arti_rank": 1, 
             "start": "2020/05/11", 
+            "drop_num": 2, 
+            "section_inames": [
+                "SE_EV_UNITEXP_01", 
+                "SE_EV_GIL_01", 
+                "SE_EV_AFEXP_01", 
+                "SE_EV_VCEXP_01", 
+                "SE_EV_WAEXP_01"
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "drop_rate": 1
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "end": "2020/05/18 23:59:59", 
+            "iname": "CP_GL_200518_MON", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "start": "2020/05/18", 
             "drop_num": 2, 
             "section_inames": [
                 "SE_EV_UNITEXP_01", 

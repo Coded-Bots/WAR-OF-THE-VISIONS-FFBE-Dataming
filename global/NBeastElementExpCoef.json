@@ -31,6 +31,17 @@
         {
             "eda": 100, 
             "iname": "SB_EXP_DARK_01"
+        }, 
+        {
+            "ewi": 75, 
+            "eda": 75, 
+            "iname": "SB_EXP_NONE_01", 
+            "ewa": 75, 
+            "efi": 75, 
+            "eic": 75, 
+            "eth": 75, 
+            "eea": 75, 
+            "esh": 75
         }
     ]
 }

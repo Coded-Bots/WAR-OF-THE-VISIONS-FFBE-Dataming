@@ -5678,6 +5678,32 @@
             "type": 28
         }, 
         {
+            "sell": 50, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 2, 
+            "iname": "IT_SB_AW_ODIN_R2", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "val": 300, 
+            "coin": 10, 
+            "type": 28
+        }, 
+        {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_SB_AW_ODIN_R3", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "val": 300, 
+            "coin": 10, 
+            "type": 28
+        }, 
+        {
             "sell": 10, 
             "ac": 9999, 
             "buy": 30000, 
@@ -8268,6 +8294,18 @@
             "collaboType": 1
         }, 
         {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_VPI_LW_NEWYEAR", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
             "sell": 500, 
             "ac": 9999, 
             "buy": 30000, 
@@ -8291,6 +8329,18 @@
             "coin": 30000, 
             "type": 36, 
             "collaboType": 1
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_VPI_LW_ODIN", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
         }, 
         {
             "sell": 100, 

@@ -4,7 +4,7 @@
             "image": "ev_gil_002", 
             "time": [
                 {
-                    "start_wdays": 4, 
+                    "start_wdays": 6, 
                     "start_time": "00:00:00", 
                     "end_wdays": 0, 
                     "end_time": "23:59:59"
@@ -617,6 +617,13 @@
             "image": "ev_jp_001", 
             "end": "2020/05/12 17:59:59", 
             "iname": "SE_EV_JP_001", 
+            "event_type": 1
+        }, 
+        {
+            "start": "2020/05/12 18:30:00", 
+            "image": "ev_arti_crft_02", 
+            "end": "2020/05/26 23:59:59", 
+            "iname": "SE_EV_ART_CRF_02", 
             "event_type": 1
         }
     ]

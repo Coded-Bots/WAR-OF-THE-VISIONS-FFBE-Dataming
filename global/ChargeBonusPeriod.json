@@ -65,6 +65,12 @@
             "charge_bonus_id": "CHARGE_BONUS_GL_0005", 
             "iname": "BONUS_PERIOD_GL_06", 
             "end_at": "2020-05-12 17:59:59"
+        }, 
+        {
+            "begin_at": "2020-05-12 18:30:00", 
+            "charge_bonus_id": "CHARGE_BONUS_GL_0006", 
+            "iname": "BONUS_PERIOD_GL_07", 
+            "end_at": "2020-05-19 23:59:59"
         }
     ]
 }

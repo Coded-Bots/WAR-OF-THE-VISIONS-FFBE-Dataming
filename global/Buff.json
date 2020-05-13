@@ -2999,6 +2999,28 @@
             "type2": 24
         }, 
         {
+            "iname": "BUFF_ODIN_M_04", 
+            "calc1": 30, 
+            "chktiming": 1, 
+            "turn": 1, 
+            "rate": 10, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 111
+        }, 
+        {
+            "iname": "BUFF_ODIN_M_02", 
+            "calc1": 1, 
+            "val11": 20, 
+            "chktiming": 2, 
+            "turn": 1, 
+            "rate": -1, 
+            "timing": 2, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 42
+        }, 
+        {
             "iname": "BUFF_IGNT_M_01_01", 
             "calc1": 2, 
             "val11": 500, 
@@ -5168,6 +5190,36 @@
             "type1": 26
         }, 
         {
+            "iname": "BUFF_VC_LW_ODIN_GS", 
+            "calc1": 1, 
+            "val11": 12, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 6, 
+            "chktgt": 0, 
+            "type1": 310
+        }, 
+        {
+            "iname": "BUFF_VC_LW_ODIN_GSAW", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 310
+        }, 
+        {
+            "iname": "BUFF_VC_LW_ODIN_GSMAX", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 310
+        }, 
+        {
             "iname": "BUFF_VC_LW_IGNT_GS", 
             "calc1": 3, 
             "val11": 10, 
@@ -5393,6 +5445,34 @@
             "type1": 120, 
             "tag1": [
                 104
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_NEWYEAR_GS", 
+            "calc1": 30, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                109
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_NEWYEAR_GSAW", 
+            "calc1": 30, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                109
             ]
         }, 
         {
@@ -6102,6 +6182,48 @@
             "type1": 89
         }, 
         {
+            "iname": "BUFF_VC_LW_ODIN_P", 
+            "calc1": 30, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_ODIN_PAW", 
+            "calc1": 30, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_ODIN_PMAX", 
+            "calc1": 30, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
             "iname": "BUFF_VC_LW_FAMILY_P", 
             "calc1": 2, 
             "val11": 5, 
@@ -6256,6 +6378,26 @@
             "val1": 1, 
             "chktgt": 0, 
             "type1": 49
+        }, 
+        {
+            "iname": "BUFF_VC_LW_NEWYEAR_P", 
+            "calc1": 2, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 23
+        }, 
+        {
+            "iname": "BUFF_VC_LW_NEWYEAR_PAW", 
+            "calc1": 2, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 23
         }, 
         {
             "iname": "BUFF_VC_LW_MOGL_P", 
@@ -9140,6 +9282,16 @@
             "type2": 23
         }, 
         {
+            "iname": "BUFF_WTH_NONE", 
+            "calc1": 1, 
+            "val11": 40, 
+            "chktiming": 20, 
+            "timing": 10, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 158
+        }, 
+        {
             "iname": "BUFF_GEO_PLAIN", 
             "calc1": 2, 
             "val11": 10, 
@@ -9914,6 +10066,26 @@
             "val1": 1, 
             "chktgt": 0, 
             "type1": 21
+        }, 
+        {
+            "iname": "BUFF_BTL_DF_1-80_U", 
+            "calc1": 1, 
+            "val11": 80, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 22
+        }, 
+        {
+            "iname": "BUFF_BTL_MDF_1-80_U", 
+            "calc1": 1, 
+            "val11": 80, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 24
         }, 
         {
             "iname": "BUFF_BTL_MAG_1-999_U", 
@@ -13879,6 +14051,376 @@
             "type1": 119, 
             "tag1": [
                 9
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_01", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 155
+        }, 
+        {
+            "iname": "BUFF_ODIN_02", 
+            "calc1": 30, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                107
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_03", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 156
+        }, 
+        {
+            "iname": "BUFF_ODIN_04", 
+            "calc1": 30, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_05", 
+            "calc1": 2, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 21
+        }, 
+        {
+            "iname": "BUFF_ODIN_06", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_ODIN_07", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_ODIN_08", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 155
+        }, 
+        {
+            "iname": "BUFF_ODIN_09", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_10", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_11", 
+            "calc1": 30, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                107
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_12", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 156
+        }, 
+        {
+            "iname": "BUFF_ODIN_13", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_14", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_15", 
+            "calc1": 30, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_16", 
+            "calc1": 2, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 21
+        }, 
+        {
+            "iname": "BUFF_ODIN_17", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "iname": "BUFF_ODIN_18", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "iname": "BUFF_ODIN_19", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_ODIN_20", 
+            "calc1": 3, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_21", 
+            "calc1": 3, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_22", 
+            "calc1": 30, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                107
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_23", 
+            "calc1": 30, 
+            "val11": 6, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 6, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                107
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_24", 
+            "calc1": 1, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_25", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 61
+        }, 
+        {
+            "iname": "BUFF_ODIN_26", 
+            "calc1": 30, 
+            "val11": 6, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 6, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_27", 
+            "calc1": 30, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_28", 
+            "calc1": 3, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "iname": "BUFF_ODIN_29", 
+            "calc1": 3, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "iname": "BUFF_ODIN_30", 
+            "calc1": 1, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_ODIN_31", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_ODIN_32", 
+            "calc1": 30, 
+            "val11": 10, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                107
+            ]
+        }, 
+        {
+            "iname": "BUFF_ODIN_33", 
+            "calc1": 30, 
+            "val11": 10, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                101
             ]
         }, 
         {

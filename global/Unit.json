@@ -6386,6 +6386,229 @@
         {
             "status": [
                 {
+                    "dex": 51, 
+                    "efi": -20, 
+                    "ama": -30, 
+                    "spd": 23, 
+                    "hp": 173, 
+                    "cch": -5, 
+                    "abl": -30, 
+                    "atk": 47, 
+                    "mov": 3, 
+                    "ap": 46, 
+                    "cfr": 40, 
+                    "mp": 38, 
+                    "mag": 21, 
+                    "cst": -35, 
+                    "dmax": 9999, 
+                    "luk": 43, 
+                    "mnd": 0, 
+                    "jmp": 1, 
+                    "def": 0, 
+                    "asl": 5
+                }, 
+                {
+                    "dex": 91, 
+                    "efi": -20, 
+                    "ama": -30, 
+                    "spd": 27, 
+                    "hp": 664, 
+                    "cch": -5, 
+                    "abl": -30, 
+                    "atk": 78, 
+                    "mov": 3, 
+                    "ap": 57, 
+                    "cfr": 40, 
+                    "mp": 60, 
+                    "mag": 35, 
+                    "cst": -35, 
+                    "dmax": 9999, 
+                    "luk": 72, 
+                    "mnd": 0, 
+                    "jmp": 1, 
+                    "def": 0, 
+                    "asl": 5
+                }
+            ], 
+            "anm_type": 1, 
+            "rare": 2, 
+            "iname": "UN_LW_E_SRJS", 
+            "personal": 2, 
+            "atkskl": "SK_LW_LAN_ATK", 
+            "elem": [
+                2
+            ], 
+            "sex": 1, 
+            "ai": "AI_PLAYER_LW_LAN", 
+            "body_type": "MM", 
+            "cost": 40, 
+            "birth": 5, 
+            "jobsets": [
+                "JB_LW_LAN_ICE", 
+                "JB_LW_PLD_ICE", 
+                "JB_LW_CLR_ICE"
+            ], 
+            "charaId": "LAPSsrjs", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                1
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 60, 
+                    "dmax": 9999, 
+                    "efi": 10, 
+                    "ama": -20, 
+                    "spd": 24, 
+                    "hp": 168, 
+                    "cch": 15, 
+                    "atk": 37, 
+                    "cbl": 50, 
+                    "mov": 3, 
+                    "ap": 46, 
+                    "api": 5, 
+                    "mp": 39, 
+                    "mag": 23, 
+                    "jmp": 3, 
+                    "eth": -20, 
+                    "luk": 50, 
+                    "mnd": 0, 
+                    "csw": -25, 
+                    "def": 0, 
+                    "asl": -30
+                }, 
+                {
+                    "dex": 109, 
+                    "dmax": 9999, 
+                    "efi": 10, 
+                    "ama": -20, 
+                    "spd": 28, 
+                    "hp": 606, 
+                    "cch": 15, 
+                    "atk": 63, 
+                    "cbl": 50, 
+                    "mov": 3, 
+                    "ap": 57, 
+                    "api": 5, 
+                    "mp": 60, 
+                    "mag": 39, 
+                    "jmp": 3, 
+                    "eth": -20, 
+                    "luk": 85, 
+                    "mnd": 0, 
+                    "csw": -25, 
+                    "def": 0, 
+                    "asl": -30
+                }
+            ], 
+            "anm_type": 1, 
+            "rare": 2, 
+            "iname": "UN_LW_E_UNII", 
+            "personal": 2, 
+            "atkskl": "SK_LW_HUN_ATK", 
+            "elem": [
+                6
+            ], 
+            "sex": 1, 
+            "ai": "AI_PLAYER_LW_HUN", 
+            "body_type": "S", 
+            "cost": 40, 
+            "birth": 5, 
+            "jobsets": [
+                "JB_LW_HUN_WATER", 
+                "JB_LW_BLM_WATR", 
+                "JB_LW_MGK_WATR"
+            ], 
+            "charaId": "LAPSunii", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                1
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 51, 
+                    "csl": 50, 
+                    "ash": -15, 
+                    "efi": 10, 
+                    "dmax": 9999, 
+                    "spd": 23, 
+                    "hp": 153, 
+                    "abl": -15, 
+                    "atk": 23, 
+                    "mov": 3, 
+                    "ap": 48, 
+                    "api": -35, 
+                    "mp": 40, 
+                    "mag": 50, 
+                    "cpa": -25, 
+                    "eth": -20, 
+                    "luk": 50, 
+                    "mnd": 0, 
+                    "jmp": 1, 
+                    "def": 0, 
+                    "asl": -35
+                }, 
+                {
+                    "dex": 91, 
+                    "csl": 50, 
+                    "ash": -15, 
+                    "efi": 10, 
+                    "dmax": 9999, 
+                    "spd": 27, 
+                    "hp": 526, 
+                    "abl": -15, 
+                    "atk": 38, 
+                    "mov": 3, 
+                    "ap": 59, 
+                    "api": -35, 
+                    "mp": 63, 
+                    "mag": 83, 
+                    "cpa": -25, 
+                    "eth": -20, 
+                    "luk": 84, 
+                    "mnd": 0, 
+                    "jmp": 1, 
+                    "def": 0, 
+                    "asl": -35
+                }
+            ], 
+            "anm_type": 1, 
+            "rare": 2, 
+            "iname": "UN_LW_E_SEVR", 
+            "personal": 8, 
+            "atkskl": "SK_LW_BLM_ATK", 
+            "elem": [
+                6
+            ], 
+            "sex": 1, 
+            "ai": "AI_PLAYER_LW_BLM", 
+            "body_type": "MM", 
+            "cost": 40, 
+            "birth": 5, 
+            "jobsets": [
+                "JB_LW_BLM_WATR", 
+                "JB_LW_RDM_WATR", 
+                "JB_LW_MNK_WATER"
+            ], 
+            "charaId": "LAPSsevr", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                1
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
                     "dex": 91, 
                     "ash": 10, 
                     "ama": -10, 
@@ -12385,6 +12608,88 @@
         {
             "status": [
                 {
+                    "cda": 70, 
+                    "cdo": 100, 
+                    "cpe": 100, 
+                    "ap": 59, 
+                    "spd": 19, 
+                    "csl": 70, 
+                    "ewi": -10, 
+                    "mnd": 0, 
+                    "cst": 100, 
+                    "luk": 90, 
+                    "jmp": 1, 
+                    "ama": -20, 
+                    "hp": 208, 
+                    "mov": 3, 
+                    "mag": 29, 
+                    "dmax": 9999, 
+                    "ash": 10, 
+                    "iniap": -59, 
+                    "cmu": 70, 
+                    "dex": 96, 
+                    "cpo": 100, 
+                    "cpa": 70, 
+                    "atk": 63, 
+                    "mp": 50, 
+                    "eth": 10, 
+                    "def": 0
+                }, 
+                {
+                    "cda": 70, 
+                    "cdo": 100, 
+                    "cpe": 100, 
+                    "ap": 93, 
+                    "spd": 54, 
+                    "csl": 70, 
+                    "ewi": -10, 
+                    "mnd": 0, 
+                    "cst": 100, 
+                    "luk": 241, 
+                    "jmp": 1, 
+                    "ama": -20, 
+                    "hp": 2380, 
+                    "mov": 3, 
+                    "mag": 73, 
+                    "dmax": 9999, 
+                    "ash": 10, 
+                    "iniap": -93, 
+                    "cmu": 70, 
+                    "dex": 242, 
+                    "cpo": 100, 
+                    "cpa": 70, 
+                    "atk": 180, 
+                    "mp": 91, 
+                    "eth": 10, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_MABR_03", 
+            "atkskl": "SK_MABR_ATK", 
+            "personal": 1, 
+            "steal": "ST_LW_MABR_02", 
+            "base_unit_iname": "UN_LW_E_MABR_02", 
+            "elem": [
+                4
+            ], 
+            "sex": 3, 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "body_type": "MO", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSmabr", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                6
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
                     "dex": 92, 
                     "iniap": -38, 
                     "spd": 23, 
@@ -14870,6 +15175,90 @@
         {
             "status": [
                 {
+                    "cda": 50, 
+                    "cdm": 5, 
+                    "cdo": 100, 
+                    "cpe": 100, 
+                    "ap": 48, 
+                    "spd": 35, 
+                    "cfr": 100, 
+                    "abl": -10, 
+                    "efi": 20, 
+                    "cst": 100, 
+                    "csw": 50, 
+                    "luk": 60, 
+                    "jmp": 4, 
+                    "hp": 840, 
+                    "mov": 5, 
+                    "mnd": 0, 
+                    "mag": 23, 
+                    "dmax": 9999, 
+                    "ash": 10, 
+                    "iniap": -48, 
+                    "dex": 100, 
+                    "cpo": 100, 
+                    "cpa": 50, 
+                    "atk": 66, 
+                    "mp": 80, 
+                    "eth": -10, 
+                    "def": 0
+                }, 
+                {
+                    "cda": 50, 
+                    "cdm": 5, 
+                    "cdo": 100, 
+                    "cpe": 100, 
+                    "ap": 300, 
+                    "spd": 78, 
+                    "cfr": 100, 
+                    "abl": -10, 
+                    "efi": 20, 
+                    "cst": 100, 
+                    "csw": 50, 
+                    "luk": 223, 
+                    "jmp": 4, 
+                    "hp": 6720, 
+                    "mov": 5, 
+                    "mnd": 0, 
+                    "mag": 59, 
+                    "dmax": 9999, 
+                    "ash": 10, 
+                    "iniap": -300, 
+                    "dex": 221, 
+                    "cpo": 100, 
+                    "cpa": 50, 
+                    "atk": 333, 
+                    "mp": 292, 
+                    "eth": -10, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_IGNT_2", 
+            "personal": 1, 
+            "atkskl": "SK_IGNT_ATK", 
+            "elem": [
+                6
+            ], 
+            "sex": 3, 
+            "no_kb": 1, 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "body_type": "MO", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSignt", 
+            "grow": "RAID_DEFAULT", 
+            "height": 210, 
+            "type": 7, 
+            "species": [
+                4
+            ], 
+            "size": 1
+        }, 
+        {
+            "status": [
+                {
                     "dex": 85, 
                     "ama": -10, 
                     "spd": 26, 
@@ -15495,6 +15884,95 @@
             "size": 0
         }, 
         {
+            "status": [
+                {
+                    "cda": 100, 
+                    "cbe": 100, 
+                    "cdm": 100, 
+                    "cdo": 100, 
+                    "cbl": 100, 
+                    "cpe": 100, 
+                    "ap": 48, 
+                    "spd": 25, 
+                    "csl": 100, 
+                    "cfr": 100, 
+                    "cst": 100, 
+                    "csw": 100, 
+                    "luk": 95, 
+                    "jmp": 1, 
+                    "cch": 100, 
+                    "hp": 50, 
+                    "mov": 3, 
+                    "mnd": 80, 
+                    "mag": 23, 
+                    "dmax": 10000, 
+                    "iniap": -48, 
+                    "dex": 95, 
+                    "cpo": 100, 
+                    "cpa": 100, 
+                    "atk": 50, 
+                    "mp": 40, 
+                    "cmu": 100, 
+                    "ccf": 100, 
+                    "def": 80
+                }, 
+                {
+                    "cda": 100, 
+                    "cbe": 100, 
+                    "cdm": 100, 
+                    "cdo": 100, 
+                    "cbl": 100, 
+                    "cpe": 100, 
+                    "ap": 75, 
+                    "spd": 55, 
+                    "csl": 100, 
+                    "cfr": 100, 
+                    "cst": 100, 
+                    "csw": 100, 
+                    "luk": 222, 
+                    "jmp": 1, 
+                    "cch": 100, 
+                    "hp": 500, 
+                    "mov": 3, 
+                    "mnd": 80, 
+                    "mag": 59, 
+                    "dmax": 10000, 
+                    "iniap": -75, 
+                    "dex": 241, 
+                    "cpo": 100, 
+                    "cpa": 100, 
+                    "atk": 150, 
+                    "mp": 73, 
+                    "cmu": 100, 
+                    "ccf": 100, 
+                    "def": 80
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_CACT_02", 
+            "atkskl": "SK_CACT_ATK", 
+            "personal": 1, 
+            "steal": "ST_LW_CACT", 
+            "base_unit_iname": "UN_LW_E_CACT_01", 
+            "elem": [
+                4
+            ], 
+            "sex": 3, 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "body_type": "MO", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPScact", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                6, 
+                14
+            ], 
+            "size": 0
+        }, 
+        {
             "cost": 0, 
             "anm_type": 2, 
             "rare": 0, 
@@ -15792,6 +16270,63 @@
             "size": 1
         }, 
         {
+            "status": [
+                {
+                    "dex": 104, 
+                    "iniap": -72, 
+                    "spd": 19, 
+                    "hp": 241, 
+                    "atk": 56, 
+                    "mov": 0, 
+                    "ap": 72, 
+                    "mp": 60, 
+                    "mag": 28, 
+                    "dmax": 9999, 
+                    "luk": 96, 
+                    "mnd": 0, 
+                    "jmp": 0, 
+                    "def": 0
+                }, 
+                {
+                    "dex": 243, 
+                    "iniap": -144, 
+                    "spd": 71, 
+                    "hp": 5218, 
+                    "atk": 154, 
+                    "mov": 0, 
+                    "ap": 144, 
+                    "mp": 150, 
+                    "mag": 92, 
+                    "dmax": 9999, 
+                    "luk": 229, 
+                    "mnd": 0, 
+                    "jmp": 0, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_ODIN", 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "atkskl": "SK_ODIN_ATK", 
+            "elem": [
+                0
+            ], 
+            "sex": 3, 
+            "no_kb": 1, 
+            "body_type": "NB_M", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSodin", 
+            "grow": "SR_DEFAULT", 
+            "height": 280, 
+            "type": 8, 
+            "species": [
+                2
+            ], 
+            "size": 1
+        }, 
+        {
             "cost": 0, 
             "anm_type": 2, 
             "rare": 0, 
@@ -15883,6 +16418,105 @@
             "grow": "SR_DEFAULT", 
             "height": 280, 
             "type": 8, 
+            "species": [
+                2
+            ], 
+            "size": 1
+        }, 
+        {
+            "status": [
+                {
+                    "cda": 100, 
+                    "cbe": 0, 
+                    "cdm": 100, 
+                    "cdo": 100, 
+                    "cbl": 0, 
+                    "cpe": 0, 
+                    "ap": 60, 
+                    "cfr": 100, 
+                    "api": -10, 
+                    "spd": 27, 
+                    "csl": 0, 
+                    "mnd": 0, 
+                    "abl": 10, 
+                    "cst": 30, 
+                    "csw": 0, 
+                    "luk": 96, 
+                    "jmp": 4, 
+                    "cch": 100, 
+                    "ama": -15, 
+                    "hp": 211, 
+                    "mov": 5, 
+                    "mag": 28, 
+                    "dmax": 9999, 
+                    "ash": 5, 
+                    "iniap": -72, 
+                    "cmu": 0, 
+                    "asl": 25, 
+                    "dex": 104, 
+                    "cpo": 100, 
+                    "cpa": 30, 
+                    "atk": 56, 
+                    "mp": 55, 
+                    "eth": -30, 
+                    "ccf": 100, 
+                    "def": 0
+                }, 
+                {
+                    "cda": 100, 
+                    "cbe": 0, 
+                    "cdm": 100, 
+                    "cdo": 100, 
+                    "cbl": 0, 
+                    "cpe": 0, 
+                    "ap": 140, 
+                    "cfr": 100, 
+                    "api": -10, 
+                    "spd": 102, 
+                    "csl": 0, 
+                    "mnd": 0, 
+                    "abl": 10, 
+                    "cst": 30, 
+                    "csw": 0, 
+                    "luk": 229, 
+                    "jmp": 4, 
+                    "cch": 100, 
+                    "ama": -15, 
+                    "hp": 5250, 
+                    "mov": 5, 
+                    "mag": 92, 
+                    "dmax": 9999, 
+                    "ash": 5, 
+                    "iniap": -144, 
+                    "cmu": 0, 
+                    "asl": 25, 
+                    "dex": 243, 
+                    "cpo": 100, 
+                    "cpa": 30, 
+                    "atk": 154, 
+                    "mp": 150, 
+                    "eth": -30, 
+                    "ccf": 100, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_ODIN_SIREN", 
+            "atkskl": "SK_ODIN_ATK", 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "base_unit_iname": "UN_LW_E_ODIN", 
+            "elem": [
+                0
+            ], 
+            "sex": 3, 
+            "no_kb": 1, 
+            "body_type": "NB_M", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSodin", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
             "species": [
                 2
             ], 
@@ -21409,6 +22043,149 @@
             "size": 0
         }, 
         {
+            "status": [
+                {
+                    "dex": 25, 
+                    "hp": 90, 
+                    "atk": 33, 
+                    "mov": 0, 
+                    "ap": 25, 
+                    "mp": 20, 
+                    "mag": 14, 
+                    "luk": 30, 
+                    "spd": 12, 
+                    "jmp": 0
+                }, 
+                {
+                    "dex": 38, 
+                    "hp": 412, 
+                    "atk": 53, 
+                    "mov": 0, 
+                    "ap": 32, 
+                    "mp": 28, 
+                    "mag": 24, 
+                    "luk": 44, 
+                    "spd": 15, 
+                    "jmp": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_ODIN", 
+            "atkskl": "SK_SMN_ODIN", 
+            "elem": [
+                0
+            ], 
+            "sex": 3, 
+            "body_type": "NB_M", 
+            "cost": 40, 
+            "nb_exp_coef_id": "SB_EXP_NONE_01", 
+            "birth": 1, 
+            "nb_lv_tbl": "SB_LVTBL_UR_01", 
+            "charaId": "LAPSodin", 
+            "grow": "SB_R1_DEFAULT", 
+            "nb_awake_id": [
+                "UN_LW_S_ODIN_AW1"
+            ], 
+            "type": 1, 
+            "species": [
+                2
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 40, 
+                    "hp": 432, 
+                    "atk": 55, 
+                    "mov": 0, 
+                    "ap": 33, 
+                    "mp": 29, 
+                    "mag": 24, 
+                    "luk": 46, 
+                    "spd": 16, 
+                    "jmp": 0
+                }, 
+                {
+                    "dex": 55, 
+                    "hp": 823, 
+                    "atk": 80, 
+                    "mov": 0, 
+                    "ap": 40, 
+                    "mp": 37, 
+                    "mag": 34, 
+                    "luk": 62, 
+                    "spd": 19, 
+                    "jmp": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_ODIN_AW1", 
+            "atkskl": "SK_SMN_ODIN", 
+            "elem": [
+                0
+            ], 
+            "sex": 3, 
+            "body_type": "NB_M", 
+            "cost": 40, 
+            "birth": 1, 
+            "charaId": "LAPSodin", 
+            "grow": "SB_R2_DEFAULT", 
+            "type": 11, 
+            "species": [
+                2
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 56, 
+                    "hp": 831, 
+                    "atk": 80, 
+                    "mov": 0, 
+                    "ap": 40, 
+                    "mp": 37, 
+                    "mag": 34, 
+                    "luk": 62, 
+                    "spd": 19, 
+                    "jmp": 0
+                }, 
+                {
+                    "dex": 63, 
+                    "hp": 1007, 
+                    "atk": 94, 
+                    "mov": 0, 
+                    "ap": 44, 
+                    "mp": 42, 
+                    "mag": 39, 
+                    "luk": 69, 
+                    "spd": 20, 
+                    "jmp": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_ODIN_AW2", 
+            "atkskl": "SK_SMN_ODIN", 
+            "elem": [
+                0
+            ], 
+            "sex": 3, 
+            "body_type": "NB_M", 
+            "cost": 40, 
+            "birth": 1, 
+            "charaId": "LAPSodin", 
+            "grow": "SB_R3_DEFAULT", 
+            "type": 11, 
+            "species": [
+                2
+            ], 
+            "size": 0
+        }, 
+        {
             "anm_type": 3, 
             "rare": 0, 
             "iname": "UN_GM_TREASURE", 
@@ -21608,6 +22385,30 @@
             "sex": 3, 
             "cost": 1, 
             "height": 10, 
+            "type": 10, 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 1, 
+                    "spd": 1, 
+                    "hp": 1000, 
+                    "atk": 1, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": 1, 
+                    "luk": 1, 
+                    "mnd": 1, 
+                    "def": 1
+                }
+            ], 
+            "rare": 0, 
+            "iname": "UN_GM_PLACED_FENC", 
+            "notsmn": 1, 
+            "stop": 1, 
+            "sex": 3, 
+            "cost": 1, 
             "type": 10, 
             "size": 0
         }

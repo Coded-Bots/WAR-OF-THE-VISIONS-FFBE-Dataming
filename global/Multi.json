@@ -112,6 +112,13 @@
             "end": "2020/05/05 23:59:59", 
             "iname": "SE_MU_EV_SCR_01", 
             "event_type": 1
+        }, 
+        {
+            "start": "2020/05/12 18:30:00", 
+            "image": "ev_arti_crft_02", 
+            "end": "2020/05/26 23:59:59", 
+            "iname": "SE_MU_ART_CRF_02", 
+            "event_type": 1
         }
     ]
 }

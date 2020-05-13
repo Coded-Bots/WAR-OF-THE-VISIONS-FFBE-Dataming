@@ -150,7 +150,7 @@
             "start_at": "2020-04-15", 
             "iname": "ev_etre_01", 
             "end_at": "2020-04-28 23:59:59", 
-            "priority": 6, 
+            "priority": 0, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -164,7 +164,7 @@
             "iname": "GachaBanner_global_FFT_14", 
             "sval": "LAPS_SHOP_LIMITED_FFT_01", 
             "end_at": "2020-05-12 17:59:59", 
-            "priority": 2, 
+            "priority": 0, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -178,7 +178,7 @@
             "iname": "GachaBanner_FFT_13", 
             "sval": "GachaBanner_FFT_13", 
             "end_at": "2020-05-12 17:59:59", 
-            "priority": 3, 
+            "priority": 0, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -192,7 +192,7 @@
             "iname": "ev_fft_01", 
             "sval": "ev_fft_01", 
             "end_at": "2020-05-12 17:59:59", 
-            "priority": 4, 
+            "priority": 0, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -205,7 +205,7 @@
             "start_at": "2020-04-21 18:30:00", 
             "iname": "ev_art_secret_02", 
             "end_at": "2020-05-05 23:59:59", 
-            "priority": 5, 
+            "priority": 0, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -218,7 +218,7 @@
             "start_at": "2020-04-21 18:30:00", 
             "iname": "ev_gl_3m", 
             "end_at": "2020-05-05 23:59:59", 
-            "priority": 6, 
+            "priority": 0, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -232,7 +232,7 @@
             "iname": "GachaBanner_Global_0013", 
             "sval": "GachaBanner_Global_0013", 
             "end_at": "2020-05-05 23:59:59", 
-            "priority": 4, 
+            "priority": 0, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -245,14 +245,70 @@
             "start_at": "2020-05-06", 
             "iname": "GachaBanner_Global_0022", 
             "sval": "GachaBanner_Global_0022", 
-            "end_at": "2020-05-19 23:59:59", 
-            "priority": 1, 
+            "end_at": "2020-05-12 18:29:59", 
+            "priority": 0, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
             }, 
             "transition_destination": 0, 
             "id": 19, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-05-12 18:30:00", 
+            "iname": "GachaBanner_Global_0021", 
+            "sval": "GachaBanner_Global_0021", 
+            "end_at": "2020-05-26 23:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 20, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-05-12 18:30:00", 
+            "iname": "ev_arti_crft_02", 
+            "sval": "ev_arti_crft_02", 
+            "end_at": "2020-05-26 23:59:00", 
+            "priority": 2, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 21, 
+            "appeal_category": 0
+        }, 
+        {
+            "start_at": "2020-05-12 18:30:00", 
+            "iname": "GachaBanner_Global_0017", 
+            "sval": "GachaBanner_Global_0017", 
+            "end_at": "2020-05-19 23:59:59", 
+            "priority": 3, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 22, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020-05-12 18:30:00", 
+            "iname": "GachaBanner_0033", 
+            "sval": "GachaBanner_0033", 
+            "end_at": "2020-05-19 23:59:59", 
+            "priority": 4, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 23, 
             "appeal_category": 2
         }
     ]

@@ -92,6 +92,13 @@
             "iname": "MG_MP_QEST_04"
         }, 
         {
+            "category": 3, 
+            "begin_at": "2020/05/12 18:30:00", 
+            "packID": "MP_QEST_05", 
+            "type": 2, 
+            "iname": "MG_MP_QEST_05"
+        }, 
+        {
             "category": 7, 
             "begin_at": "2020/04/13", 
             "type": 1, 
@@ -146,6 +153,20 @@
             "type": 2, 
             "iname": "MG_EV_ART_CRF_01", 
             "end_at": "2020/04/14 23:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/12 18:30:00", 
+            "type": 2, 
+            "iname": "MG_EV_ART_CRF_02", 
+            "end_at": "2020/05/26 23:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/12 18:30:00", 
+            "type": 2, 
+            "iname": "MG_MU_ART_CRF_02", 
+            "end_at": "2020/05/26 23:59:59"
         }, 
         {
             "category": 2, 

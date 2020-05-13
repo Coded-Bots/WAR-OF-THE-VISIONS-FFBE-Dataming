@@ -293,6 +293,36 @@
             "icon": "FF14Mv1"
         }, 
         {
+            "sell": 800, 
+            "status": [
+                {
+                    "hp": 25, 
+                    "atk": 25, 
+                    "mag": 25
+                }, 
+                {
+                    "hp": 200, 
+                    "atk": 100, 
+                    "mag": 100
+                }
+            ], 
+            "add_card_skill_buff_awake": "SK_VC_LW_NEWYEAR_GSAW", 
+            "rare": 3, 
+            "iname": "VC_LW_NEWYEAR", 
+            "piece_num": 20, 
+            "sell_mdl": 20, 
+            "self_buff": "SK_VC_LW_NEWYEAR_P", 
+            "add_self_buff_awake": "SK_VC_LW_NEWYEAR_PAW", 
+            "cost": 50, 
+            "en_cost": 1000, 
+            "en_exp": 10000, 
+            "db_num": 1, 
+            "card_skill": "SK_VC_LW_NEWYEAR_GS", 
+            "piece": "IT_VPI_LW_NEWYEAR", 
+            "type": 0, 
+            "icon": "LAPSNewy"
+        }, 
+        {
             "sell": 1000, 
             "status": [
                 {
@@ -842,6 +872,39 @@
             "piece": "IT_VPI_LW_OGRE", 
             "type": 0, 
             "icon": "LAPSOgre"
+        }, 
+        {
+            "sell": 1000, 
+            "status": [
+                {
+                    "hp": 46, 
+                    "atk": 36, 
+                    "mag": 10
+                }, 
+                {
+                    "hp": 362, 
+                    "atk": 142, 
+                    "mag": 38
+                }
+            ], 
+            "add_card_skill_buff_awake": "SK_VC_LW_ODIN_GSAW", 
+            "rare": 4, 
+            "iname": "VC_LW_ODIN", 
+            "piece_num": 25, 
+            "add_card_skill_buff_lvmax": "SK_VC_LW_ODIN_GSMAX", 
+            "first_bonus_unit": "UN_LW_S_ODIN", 
+            "sell_mdl": 100, 
+            "self_buff": "SK_VC_LW_ODIN_P", 
+            "add_self_buff_lvmax": "SK_VC_LW_ODIN_PMAX", 
+            "add_self_buff_awake": "SK_VC_LW_ODIN_PAW", 
+            "cost": 70, 
+            "en_cost": 2000, 
+            "en_exp": 20000, 
+            "db_num": 1, 
+            "card_skill": "SK_VC_LW_ODIN_GS", 
+            "piece": "IT_VPI_LW_ODIN", 
+            "type": 0, 
+            "icon": "LAPSOdin"
         }, 
         {
             "sell": 600, 
