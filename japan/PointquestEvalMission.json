@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "awards": [
+                {
+                    "limen": 5, 
+                    "reward_id": "RWD_MG_PT0001_N1", 
+                    "img": 3
+                }, 
+                {
+                    "limen": 10, 
+                    "reward_id": "RWD_MG_PT0001_N2", 
+                    "img": 2
+                }, 
+                {
+                    "limen": 15, 
+                    "reward_id": "RWD_MG_PT0001_N3", 
+                    "img": 1
+                }
+            ], 
+            "iname": "EVL_MIPG_PT0001_N01"
+        }, 
+        {
+            "awards": [
+                {
+                    "limen": 5, 
+                    "reward_id": "RWD_MG_PT0001_H1", 
+                    "img": 3
+                }, 
+                {
+                    "limen": 10, 
+                    "reward_id": "RWD_MG_PT0001_H2", 
+                    "img": 2
+                }, 
+                {
+                    "limen": 15, 
+                    "reward_id": "RWD_MG_PT0001_H3", 
+                    "img": 1
+                }
+            ], 
+            "iname": "EVL_MIPG_PT0001_H01"
+        }
+    ]
+}

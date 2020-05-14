@@ -270,6 +270,20 @@
                     "lv_min": 20
                 }
             ]
+        }, 
+        {
+            "slot_info": [
+                {
+                    "type_s": 1, 
+                    "party_type": 1, 
+                    "type_3": 0, 
+                    "type_2": 0, 
+                    "type_1": 0, 
+                    "type_5": 0, 
+                    "type_4": 0
+                }
+            ], 
+            "iname": "PR_NO_YOHEI"
         }
     ]
 }

@@ -12,7 +12,8 @@
             "drop_num": 2, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -26,9 +27,11 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/01 4:59:59", 
             "iname": "CP_191114_THU", 
@@ -49,6 +52,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/02 4:59:59", 
             "iname": "CP_191115_FRI", 
@@ -69,6 +73,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/03 4:59:59", 
             "iname": "CP_191116_SAT", 
@@ -86,6 +91,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/05 4:59:59", 
             "iname": "CP_191118_MON", 
@@ -107,6 +113,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/06 4:59:59", 
             "iname": "CP_191119_TUE", 
@@ -127,6 +134,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/07 4:59:59", 
             "iname": "CP_191120_WED", 
@@ -147,6 +155,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/08 4:59:59", 
             "iname": "CP_191114_THU", 
@@ -167,6 +176,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/09 4:59:59", 
             "iname": "CP_191115_FRI", 
@@ -187,6 +197,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/10 4:59:59", 
             "iname": "CP_191116_SAT", 
@@ -204,6 +215,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/12 4:59:59", 
             "iname": "CP_191118_MON", 
@@ -225,6 +237,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/13 4:59:59", 
             "iname": "CP_191119_TUE", 
@@ -245,6 +258,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/14 4:59:59", 
             "iname": "CP_191120_WED", 
@@ -265,6 +279,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/15 4:59:59", 
             "iname": "CP_191114_THU", 
@@ -285,6 +300,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/16 4:59:59", 
             "iname": "CP_191115_FRI", 
@@ -305,6 +321,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/17 4:59:59", 
             "iname": "CP_191116_SAT", 
@@ -322,6 +339,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/19 4:59:59", 
             "iname": "CP_191118_MON", 
@@ -343,6 +361,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/20 4:59:59", 
             "iname": "CP_191119_TUE", 
@@ -363,6 +382,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/21 4:59:59", 
             "iname": "CP_191120_WED", 
@@ -383,6 +403,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/22 4:59:59", 
             "iname": "CP_191121_THU", 
@@ -403,6 +424,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/23 4:59:59", 
             "iname": "CP_191122_FRI", 
@@ -423,6 +445,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/24 4:59:59", 
             "iname": "CP_191123_SAT", 
@@ -440,6 +463,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/26 4:59:59", 
             "iname": "CP_191125_MON", 
@@ -461,6 +485,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/27 4:59:59", 
             "iname": "CP_191126_TUE", 
@@ -481,6 +506,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/28 4:59:59", 
             "iname": "CP_191127_WED", 
@@ -501,6 +527,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/29 4:59:59", 
             "iname": "CP_191128_THU", 
@@ -521,6 +548,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/30 4:59:59", 
             "iname": "CP_191129_FRI", 
@@ -541,6 +569,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/01 4:59:59", 
             "iname": "CP_191130_SAT", 
@@ -558,6 +587,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/03 4:59:59", 
             "iname": "CP_191202_MON", 
@@ -579,6 +609,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/04 4:59:59", 
             "iname": "CP_191203_TUE", 
@@ -599,6 +630,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/05 4:59:59", 
             "iname": "CP_191204_WED", 
@@ -619,6 +651,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/06 4:59:59", 
             "iname": "CP_191205_THU", 
@@ -639,6 +672,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/07 4:59:59", 
             "iname": "CP_191206_FRI", 
@@ -659,6 +693,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/08 4:59:59", 
             "iname": "CP_191207_SAT", 
@@ -676,6 +711,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/10 4:59:59", 
             "iname": "CP_191209_MON", 
@@ -697,6 +733,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/11 4:59:59", 
             "iname": "CP_191210_TUE", 
@@ -717,6 +754,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/12 4:59:59", 
             "iname": "CP_191211_WED", 
@@ -737,6 +775,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/13 4:59:59", 
             "iname": "CP_191212_THU", 
@@ -757,6 +796,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/14 4:59:59", 
             "iname": "CP_191213_FRI", 
@@ -777,6 +817,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/15 4:59:59", 
             "iname": "CP_191214_SAT", 
@@ -794,6 +835,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/17 4:59:59", 
             "iname": "CP_191216_MON", 
@@ -825,9 +867,11 @@
                 "SE_EV_AW_WIND", 
                 "SE_EV_SM_FIRE_01", 
                 "SE_EV_SM_WIND_01"
-            ]
+            ], 
+            "gil_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/19 4:59:59", 
             "iname": "CP_191218_WED", 
@@ -848,6 +892,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/20 4:59:59", 
             "iname": "CP_191219_THU", 
@@ -868,6 +913,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/21 4:59:59", 
             "iname": "CP_191220_FRI", 
@@ -888,6 +934,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/22 4:59:59", 
             "iname": "CP_191221_SAT", 
@@ -905,6 +952,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/24 4:59:59", 
             "iname": "CP_191223_MON", 
@@ -926,6 +974,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/25 4:59:59", 
             "iname": "CP_191224_TUE", 
@@ -946,6 +995,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/26 4:59:59", 
             "iname": "CP_191225_WED", 
@@ -966,6 +1016,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/27 4:59:59", 
             "iname": "CP_191226_THU", 
@@ -986,6 +1037,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/28 4:59:59", 
             "iname": "CP_191227_FRI", 
@@ -1006,6 +1058,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/29 4:59:59", 
             "iname": "CP_191228_SAT", 
@@ -1023,6 +1076,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/18 14:59:59", 
             "iname": "CP_191209_1", 
@@ -1048,6 +1102,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/18 14:59:59", 
             "iname": "CP_191209_2", 
@@ -1072,6 +1127,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/31 4:59:59", 
             "iname": "CP_191230_MON", 
@@ -1093,6 +1149,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/01 4:59:59", 
             "iname": "CP_191231_TUE", 
@@ -1113,6 +1170,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/02 4:59:59", 
             "iname": "CP_200101_WED", 
@@ -1133,6 +1191,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/03 4:59:59", 
             "iname": "CP_200102_THU", 
@@ -1153,6 +1212,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/04 4:59:59", 
             "iname": "CP_200103_FRI", 
@@ -1173,6 +1233,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/05 4:59:59", 
             "iname": "CP_200104_SAT", 
@@ -1190,6 +1251,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/09 4:59:59", 
             "iname": "CP_200105_1", 
@@ -1215,6 +1277,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/09 4:59:59", 
             "iname": "CP_200105_2", 
@@ -1239,6 +1302,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/07 4:59:59", 
             "iname": "CP_200106_MON", 
@@ -1260,6 +1324,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/10 4:59:59", 
             "iname": "CP_200109_THU", 
@@ -1280,6 +1345,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/11 4:59:59", 
             "iname": "CP_200110_FRI", 
@@ -1300,6 +1366,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/12 4:59:59", 
             "iname": "CP_200111_SAT", 
@@ -1317,6 +1384,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/14 4:59:59", 
             "iname": "CP_200113_MON", 
@@ -1338,6 +1406,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/15 4:59:59", 
             "iname": "CP_200114_TUE", 
@@ -1358,6 +1427,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/16 4:59:59", 
             "iname": "CP_200115_WED", 
@@ -1378,6 +1448,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/17 4:59:59", 
             "iname": "CP_200116_THU", 
@@ -1398,6 +1469,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/18 4:59:59", 
             "iname": "CP_200117_FRI", 
@@ -1418,6 +1490,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/19 4:59:59", 
             "iname": "CP_200118_SAT", 
@@ -1435,6 +1508,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/21 4:59:59", 
             "iname": "CP_200120_MON", 
@@ -1456,6 +1530,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/22 4:59:59", 
             "iname": "CP_200121_TUE", 
@@ -1476,6 +1551,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/23 4:59:59", 
             "iname": "CP_200122_WED", 
@@ -1496,6 +1572,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/24 4:59:59", 
             "iname": "CP_200123_THU", 
@@ -1516,6 +1593,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/25 4:59:59", 
             "iname": "CP_200124_FRI", 
@@ -1536,6 +1614,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/26 4:59:59", 
             "iname": "CP_200125_SAT", 
@@ -1553,6 +1632,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/28 4:59:59", 
             "iname": "CP_200126_MON", 
@@ -1574,6 +1654,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/29 4:59:59", 
             "iname": "CP_200128_TUE", 
@@ -1594,6 +1675,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/30 4:59:59", 
             "iname": "CP_200129_WED", 
@@ -1614,6 +1696,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/31 4:59:59", 
             "iname": "CP_200130_THU", 
@@ -1634,6 +1717,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/01 4:59:59", 
             "iname": "CP_200131_FRI", 
@@ -1654,6 +1738,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/02 4:59:59", 
             "iname": "CP_200201_SAT", 
@@ -1671,6 +1756,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/04 4:59:59", 
             "iname": "CP_200203_MON", 
@@ -1692,6 +1778,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/05 4:59:59", 
             "iname": "CP_200204_TUE", 
@@ -1712,6 +1799,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/06 4:59:59", 
             "iname": "CP_200205_WED", 
@@ -1732,6 +1820,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/07 4:59:59", 
             "iname": "CP_200206_THU", 
@@ -1752,6 +1841,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/08 4:59:59", 
             "iname": "CP_200207_FRI", 
@@ -1772,6 +1862,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/09 4:59:59", 
             "iname": "CP_200208_SAT", 
@@ -1789,6 +1880,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/11 4:59:59", 
             "iname": "CP_200210_MON", 
@@ -1810,6 +1902,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/12 4:59:59", 
             "iname": "CP_200211_TUE", 
@@ -1830,6 +1923,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/13 4:59:59", 
             "iname": "CP_200212_WED", 
@@ -1850,6 +1944,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/14 4:59:59", 
             "iname": "CP_200213_THU", 
@@ -1870,6 +1965,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/15 4:59:59", 
             "iname": "CP_200214_FRI", 
@@ -1890,6 +1986,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/16 4:59:59", 
             "iname": "CP_200215_SAT", 
@@ -1907,6 +2004,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/18 4:59:59", 
             "iname": "CP_200217_MON", 
@@ -1928,6 +2026,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/19 4:59:59", 
             "iname": "CP_200218_TUE", 
@@ -1948,6 +2047,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/20 4:59:59", 
             "iname": "CP_200219_WED", 
@@ -1968,6 +2068,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/21 4:59:59", 
             "iname": "CP_200220_THU", 
@@ -1988,6 +2089,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/22 4:59:59", 
             "iname": "CP_200221_FRI", 
@@ -2008,6 +2110,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/23 4:59:59", 
             "iname": "CP_200222_SAT", 
@@ -2025,6 +2128,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200224_MON", 
             "ap_rate": 1, 
@@ -2052,6 +2156,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200225_TUE", 
             "ap_rate": 1, 
@@ -2078,6 +2183,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200226_WED", 
             "ap_rate": 1, 
@@ -2104,6 +2210,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200227_THU", 
             "ap_rate": 1, 
@@ -2130,6 +2237,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200228_FRI", 
             "ap_rate": 1, 
@@ -2156,6 +2264,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200229_SAT", 
             "ap_rate": 1, 
@@ -2179,6 +2288,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/01 4:59:59", 
             "iname": "CP_191114_THU_M", 
@@ -2199,6 +2309,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/02 4:59:59", 
             "iname": "CP_191115_FRI_M", 
@@ -2219,6 +2330,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/03 4:59:59", 
             "iname": "CP_191116_SAT_M", 
@@ -2236,6 +2348,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/06 4:59:59", 
             "iname": "CP_191119_TUE_M", 
@@ -2256,6 +2369,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/07 4:59:59", 
             "iname": "CP_191120_WED_M", 
@@ -2276,6 +2390,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/08 4:59:59", 
             "iname": "CP_191114_THU_M", 
@@ -2296,6 +2411,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/09 4:59:59", 
             "iname": "CP_191115_FRI_M", 
@@ -2316,6 +2432,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/10 4:59:59", 
             "iname": "CP_191116_SAT_M", 
@@ -2333,6 +2450,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/13 4:59:59", 
             "iname": "CP_191119_TUE_M", 
@@ -2353,6 +2471,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/14 4:59:59", 
             "iname": "CP_191120_WED_M", 
@@ -2373,6 +2492,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/15 4:59:59", 
             "iname": "CP_191114_THU_M", 
@@ -2393,6 +2513,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/16 4:59:59", 
             "iname": "CP_191115_FRI_M", 
@@ -2413,6 +2534,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/17 4:59:59", 
             "iname": "CP_191116_SAT_M", 
@@ -2430,6 +2552,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/19 4:59:59", 
             "iname": "CP_191119_TUE_M", 
@@ -2450,6 +2573,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/20 4:59:59", 
             "iname": "CP_191120_WED_M", 
@@ -2470,6 +2594,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/22 4:59:59", 
             "iname": "CP_191121_THU_M", 
@@ -2490,6 +2615,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/23 4:59:59", 
             "iname": "CP_191122_FRI_M", 
@@ -2510,6 +2636,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/24 4:59:59", 
             "iname": "CP_191123_SAT_M", 
@@ -2527,6 +2654,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/27 4:59:59", 
             "iname": "CP_191126_TUE_M", 
@@ -2547,6 +2675,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/28 4:59:59", 
             "iname": "CP_191127_WED_M", 
@@ -2567,6 +2696,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/29 4:59:59", 
             "iname": "CP_191128_THU_M", 
@@ -2587,6 +2717,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/30 4:59:59", 
             "iname": "CP_191129_FRI_M", 
@@ -2607,6 +2738,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/01 4:59:59", 
             "iname": "CP_191130_SAT_M", 
@@ -2624,6 +2756,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/04 4:59:59", 
             "iname": "CP_191203_TUE_M", 
@@ -2644,6 +2777,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/05 4:59:59", 
             "iname": "CP_191204_WED_M", 
@@ -2664,6 +2798,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/06 4:59:59", 
             "iname": "CP_191205_THU_M", 
@@ -2684,6 +2819,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/07 4:59:59", 
             "iname": "CP_191206_FRI_M", 
@@ -2704,6 +2840,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/08 4:59:59", 
             "iname": "CP_191207_SAT_M", 
@@ -2721,6 +2858,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/11 4:59:59", 
             "iname": "CP_191210_TUE_M", 
@@ -2741,6 +2879,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/12 4:59:59", 
             "iname": "CP_191211_WED_M", 
@@ -2761,6 +2900,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/13 4:59:59", 
             "iname": "CP_191212_THU_M", 
@@ -2781,6 +2921,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/14 4:59:59", 
             "iname": "CP_191213_FRI_M", 
@@ -2801,6 +2942,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/15 4:59:59", 
             "iname": "CP_191214_SAT_M", 
@@ -2818,6 +2960,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/18 4:59:59", 
             "iname": "CP_191217_TUE_M", 
@@ -2838,6 +2981,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/19 4:59:59", 
             "iname": "CP_191218_WED_M", 
@@ -2858,6 +3002,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/20 4:59:59", 
             "iname": "CP_191219_THU_M", 
@@ -2878,6 +3023,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/21 4:59:59", 
             "iname": "CP_191220_FRI_M", 
@@ -2898,6 +3044,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/22 4:59:59", 
             "iname": "CP_191221_SAT_M", 
@@ -2915,6 +3062,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/25 4:59:59", 
             "iname": "CP_191224_TUE_M", 
@@ -2935,6 +3083,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/26 4:59:59", 
             "iname": "CP_191225_WED_M", 
@@ -2955,6 +3104,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/27 4:59:59", 
             "iname": "CP_191226_THU_M", 
@@ -2975,6 +3125,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/28 4:59:59", 
             "iname": "CP_191227_FRI_M", 
@@ -2995,6 +3146,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/29 4:59:59", 
             "iname": "CP_191228_SAT_M", 
@@ -3012,6 +3164,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/18 14:59:59", 
             "iname": "CP_191209_M1", 
@@ -3037,6 +3190,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/18 14:59:59", 
             "iname": "CP_191209_M2", 
@@ -3061,6 +3215,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/01 4:59:59", 
             "iname": "CP_191231_TUE_M", 
@@ -3081,6 +3236,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/02 4:59:59", 
             "iname": "CP_200101_WED_M", 
@@ -3101,6 +3257,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/03 4:59:59", 
             "iname": "CP_200102_THU_M", 
@@ -3121,6 +3278,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/04 4:59:59", 
             "iname": "CP_200103_FRI_M", 
@@ -3141,6 +3299,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/05 4:59:59", 
             "iname": "CP_200104_SAT_M", 
@@ -3158,6 +3317,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/09 4:59:59", 
             "iname": "CP_200105_M1", 
@@ -3183,6 +3343,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/09 4:59:59", 
             "iname": "CP_200105_M2", 
@@ -3207,6 +3368,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/10 4:59:59", 
             "iname": "CP_200109_THU_M", 
@@ -3227,6 +3389,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/11 4:59:59", 
             "iname": "CP_200110_FRI_M", 
@@ -3247,6 +3410,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/12 4:59:59", 
             "iname": "CP_200111_SAT_M", 
@@ -3264,6 +3428,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/15 4:59:59", 
             "iname": "CP_200114_TUE_M", 
@@ -3284,6 +3449,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/16 4:59:59", 
             "iname": "CP_200115_WED_M", 
@@ -3304,6 +3470,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/17 4:59:59", 
             "iname": "CP_200116_THU_M", 
@@ -3324,6 +3491,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/18 4:59:59", 
             "iname": "CP_200117_FRI_M", 
@@ -3344,6 +3512,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/19 4:59:59", 
             "iname": "CP_200118_SAT_M", 
@@ -3361,6 +3530,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/22 4:59:59", 
             "iname": "CP_200121_TUE_M", 
@@ -3381,6 +3551,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/23 4:59:59", 
             "iname": "CP_200122_WED_M", 
@@ -3401,6 +3572,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/24 4:59:59", 
             "iname": "CP_200123_THU_M", 
@@ -3421,6 +3593,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/25 4:59:59", 
             "iname": "CP_200124_FRI_M", 
@@ -3441,6 +3614,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/26 4:59:59", 
             "iname": "CP_200125_SAT_M", 
@@ -3458,6 +3632,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/29 4:59:59", 
             "iname": "CP_200128_TUE_M", 
@@ -3478,6 +3653,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/30 4:59:59", 
             "iname": "CP_200129_WED_M", 
@@ -3498,6 +3674,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/31 4:59:59", 
             "iname": "CP_200130_THU_M", 
@@ -3518,6 +3695,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/01 4:59:59", 
             "iname": "CP_200131_FRI_M", 
@@ -3538,6 +3716,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/02 4:59:59", 
             "iname": "CP_200201_SAT_M", 
@@ -3555,6 +3734,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/05 4:59:59", 
             "iname": "CP_200204_TUE_M", 
@@ -3575,6 +3755,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/06 4:59:59", 
             "iname": "CP_200205_WED_M", 
@@ -3595,6 +3776,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/07 4:59:59", 
             "iname": "CP_200206_THU_M", 
@@ -3615,6 +3797,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/08 4:59:59", 
             "iname": "CP_200207_FRI_M", 
@@ -3635,6 +3818,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/09 4:59:59", 
             "iname": "CP_200208_SAT_M", 
@@ -3652,6 +3836,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/12 4:59:59", 
             "iname": "CP_200211_TUE_M", 
@@ -3672,6 +3857,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/13 4:59:59", 
             "iname": "CP_200212_WED_M", 
@@ -3692,6 +3878,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/14 4:59:59", 
             "iname": "CP_200213_THU_M", 
@@ -3712,6 +3899,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/15 4:59:59", 
             "iname": "CP_200214_FRI_M", 
@@ -3732,6 +3920,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/16 4:59:59", 
             "iname": "CP_200215_SAT_M", 
@@ -3749,6 +3938,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/19 4:59:59", 
             "iname": "CP_200218_TUE_M", 
@@ -3769,6 +3959,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/20 4:59:59", 
             "iname": "CP_200219_WED_M", 
@@ -3789,6 +3980,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/21 4:59:59", 
             "iname": "CP_200220_THU_M", 
@@ -3809,6 +4001,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/22 4:59:59", 
             "iname": "CP_200221_FRI_M", 
@@ -3829,6 +4022,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/23 4:59:59", 
             "iname": "CP_200222_SAT_M", 
@@ -3846,6 +4040,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200225_TUE_M", 
             "ap_rate": 1, 
@@ -3872,6 +4067,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200226_WED_M", 
             "ap_rate": 1, 
@@ -3898,6 +4094,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200227_THU_M", 
             "ap_rate": 1, 
@@ -3924,6 +4121,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200228_FRI_M", 
             "ap_rate": 1, 
@@ -3950,6 +4148,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "iname": "CP_200229_SAT_M", 
             "ap_rate": 1, 
@@ -3973,6 +4172,7 @@
             ]
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/11/25 14:30:00", 
             "iname": "CP_FF14_001", 
@@ -3991,6 +4191,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/06 14:59:00", 
             "iname": "CP_FF14_002", 
@@ -4009,6 +4210,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/16 4:59:59", 
             "iname": "CP_ST_1912_001", 
@@ -4039,6 +4241,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2019/12/26 18:29:59", 
             "iname": "CP_ST_1912_002", 
@@ -4069,6 +4272,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/04 23:59:59", 
             "iname": "CP_ST_2001_001", 
@@ -4100,6 +4304,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/09 23:59:59", 
             "iname": "CP_ST_2001_002", 
@@ -4132,6 +4337,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/16 4:59:59", 
             "iname": "CP_DY_200109_001", 
@@ -4153,6 +4359,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/01/22 14:59:59", 
             "iname": "CP_ST_2001_003", 
@@ -4185,6 +4392,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/08 14:59:59", 
             "iname": "CP_ST_2002_001", 
@@ -4219,6 +4427,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/02/21 9:59:59", 
             "iname": "CP_ST_2002_002", 
@@ -4253,6 +4462,7 @@
             "drop_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/03/09 14:59:59", 
             "iname": "CP_ST_2002_003", 
@@ -4299,7 +4509,8 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4313,7 +4524,8 @@
             "drop_num": 2, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4327,7 +4539,8 @@
             "drop_num": 2, 
             "drop_rate": 1, 
             "jp_unit": 2, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4341,7 +4554,8 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4355,7 +4569,8 @@
             "drop_num": 2, 
             "drop_rate": 1, 
             "jp_unit": 2, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4369,7 +4584,8 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4383,7 +4599,8 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4397,7 +4614,8 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
             "whole_challenge_limit": 1, 
@@ -4411,9 +4629,11 @@
             "drop_num": 1, 
             "drop_rate": 1, 
             "jp_unit": 1, 
-            "exp_player": 1
+            "exp_player": 1, 
+            "gil_rate": 1
         }, 
         {
+            "gil_rate": 1, 
             "whole_challenge_limit": 1, 
             "end": "2020/05/08 4:59:59", 
             "iname": "CP_DY_2005_001", 
@@ -4433,6 +4653,36 @@
             "jp_unit": 1, 
             "exp_player": 1, 
             "drop_rate": 1
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "end": "2020/05/22 4:59:59", 
+            "iname": "CP_HA_200515", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 3, 
+            "arti_rank": 1, 
+            "start": "2020/05/15 5:00:00", 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "gil_rate": 1
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "end": "2020/05/21 14:59:59", 
+            "iname": "CP_ST_2005_003", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 1, 
+            "arti_rank": 1, 
+            "start": "2020/05/14 10:30:00", 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "jp_unit": 2, 
+            "exp_player": 1, 
+            "gil_rate": 1
         }
     ]
 }

@@ -119069,6 +119069,276 @@
                 }
             ], 
             "iname": "JBLV_LW_CAL_S_DARK"
+        }, 
+        {
+            "items": [
+                {
+                    "eq1": {
+                        "num": 10, 
+                        "iname": "IT_JB_MM_ALL"
+                    }, 
+                    "eq3": {
+                        "num": 10, 
+                        "iname": "IT_JB_EM_DARK_1"
+                    }, 
+                    "gil": 500, 
+                    "eq4": {
+                        "num": 5, 
+                        "iname": "IT_JB_LSWORD_01"
+                    }, 
+                    "eq2": {
+                        "num": 1, 
+                        "iname": "IT_JB_IM_DRAGON_1"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 10, 
+                        "iname": "IT_JB_MM_ALL"
+                    }, 
+                    "eq3": {
+                        "num": 10, 
+                        "iname": "IT_JB_EM_DARK_1"
+                    }, 
+                    "gil": 2000, 
+                    "eq4": {
+                        "num": 5, 
+                        "iname": "IT_JB_LSWORD_01"
+                    }, 
+                    "eq2": {
+                        "num": 1, 
+                        "iname": "IT_JB_IM_DRAGON_1"
+                    }
+                }, 
+                {
+                    "eq2": {
+                        "num": 2, 
+                        "iname": "IT_JB_IM_DRAGON_1"
+                    }, 
+                    "eq3": {
+                        "num": 20, 
+                        "iname": "IT_JB_EM_DARK_1"
+                    }, 
+                    "gil": 5000, 
+                    "eq4": {
+                        "num": 10, 
+                        "iname": "IT_JB_LSWORD_01"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 25, 
+                        "iname": "IT_JB_MM_ALL_2"
+                    }, 
+                    "eq3": {
+                        "num": 10, 
+                        "iname": "IT_JB_EM_DARK_2"
+                    }, 
+                    "gil": 7500, 
+                    "eq4": {
+                        "num": 5, 
+                        "iname": "IT_JB_LSWORD_02"
+                    }, 
+                    "eq2": {
+                        "num": 1, 
+                        "iname": "IT_JB_IM_DRAGON_2"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 50, 
+                        "iname": "IT_JB_MM_ALL_2"
+                    }, 
+                    "eq3": {
+                        "num": 20, 
+                        "iname": "IT_JB_EM_DARK_2"
+                    }, 
+                    "gil": 10000, 
+                    "eq4": {
+                        "num": 10, 
+                        "iname": "IT_JB_LSWORD_02"
+                    }, 
+                    "eq2": {
+                        "num": 2, 
+                        "iname": "IT_JB_IM_DRAGON_2"
+                    }
+                }, 
+                {
+                    "eq2": {
+                        "num": 3, 
+                        "iname": "IT_JB_IM_DRAGON_2"
+                    }, 
+                    "eq3": {
+                        "num": 40, 
+                        "iname": "IT_JB_EM_DARK_2"
+                    }, 
+                    "gil": 12500, 
+                    "eq4": {
+                        "num": 15, 
+                        "iname": "IT_JB_LSWORD_02"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 25, 
+                        "iname": "IT_JB_MM_ALL_3"
+                    }, 
+                    "eq3": {
+                        "num": 10, 
+                        "iname": "IT_JB_EM_DARK_3"
+                    }, 
+                    "gil": 20000, 
+                    "eq4": {
+                        "num": 5, 
+                        "iname": "IT_JB_LSWORD_03"
+                    }, 
+                    "eq2": {
+                        "num": 1, 
+                        "iname": "IT_JB_IM_DRAGON_3"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 50, 
+                        "iname": "IT_JB_MM_ALL_3"
+                    }, 
+                    "eq3": {
+                        "num": 20, 
+                        "iname": "IT_JB_EM_DARK_3"
+                    }, 
+                    "gil": 30000, 
+                    "eq4": {
+                        "num": 10, 
+                        "iname": "IT_JB_LSWORD_03"
+                    }, 
+                    "eq2": {
+                        "num": 2, 
+                        "iname": "IT_JB_IM_DRAGON_3"
+                    }
+                }, 
+                {
+                    "eq2": {
+                        "num": 3, 
+                        "iname": "IT_JB_IM_DRAGON_3"
+                    }, 
+                    "eq3": {
+                        "num": 40, 
+                        "iname": "IT_JB_EM_DARK_3"
+                    }, 
+                    "gil": 50000, 
+                    "eq4": {
+                        "num": 15, 
+                        "iname": "IT_JB_LSWORD_03"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 25, 
+                        "iname": "IT_JB_MM_ALL_4"
+                    }, 
+                    "eq3": {
+                        "num": 10, 
+                        "iname": "IT_JB_EM_DARK_4"
+                    }, 
+                    "gil": 75000, 
+                    "eq4": {
+                        "num": 5, 
+                        "iname": "IT_JB_LSWORD_04"
+                    }, 
+                    "eq2": {
+                        "num": 1, 
+                        "iname": "IT_JB_IM_DRAGON_4"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 50, 
+                        "iname": "IT_JB_MM_ALL_4"
+                    }, 
+                    "eq3": {
+                        "num": 20, 
+                        "iname": "IT_JB_EM_DARK_4"
+                    }, 
+                    "gil": 100000, 
+                    "eq4": {
+                        "num": 10, 
+                        "iname": "IT_JB_LSWORD_04"
+                    }, 
+                    "eq2": {
+                        "num": 2, 
+                        "iname": "IT_JB_IM_DRAGON_4"
+                    }
+                }, 
+                {
+                    "eq2": {
+                        "num": 3, 
+                        "iname": "IT_JB_IM_DRAGON_4"
+                    }, 
+                    "eq3": {
+                        "num": 40, 
+                        "iname": "IT_JB_EM_DARK_4"
+                    }, 
+                    "gil": 250000, 
+                    "eq4": {
+                        "num": 15, 
+                        "iname": "IT_JB_LSWORD_04"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 25, 
+                        "iname": "IT_JB_MM_ALL_5"
+                    }, 
+                    "eq3": {
+                        "num": 10, 
+                        "iname": "IT_JB_EM_DARK_5"
+                    }, 
+                    "gil": 500000, 
+                    "eq4": {
+                        "num": 5, 
+                        "iname": "IT_JB_LSWORD_05"
+                    }, 
+                    "eq2": {
+                        "num": 1, 
+                        "iname": "IT_JB_IM_DRAGON_5"
+                    }
+                }, 
+                {
+                    "eq1": {
+                        "num": 50, 
+                        "iname": "IT_JB_MM_ALL_5"
+                    }, 
+                    "eq3": {
+                        "num": 20, 
+                        "iname": "IT_JB_EM_DARK_5"
+                    }, 
+                    "gil": 750000, 
+                    "eq4": {
+                        "num": 10, 
+                        "iname": "IT_JB_LSWORD_05"
+                    }, 
+                    "eq2": {
+                        "num": 2, 
+                        "iname": "IT_JB_IM_DRAGON_5"
+                    }
+                }, 
+                {
+                    "eq2": {
+                        "num": 3, 
+                        "iname": "IT_JB_IM_DRAGON_5"
+                    }, 
+                    "eq3": {
+                        "num": 40, 
+                        "iname": "IT_JB_EM_DARK_5"
+                    }, 
+                    "gil": 1000000, 
+                    "eq4": {
+                        "num": 15, 
+                        "iname": "IT_JB_LSWORD_05"
+                    }
+                }
+            ], 
+            "iname": "JBLV_LW_STRN_M"
         }
     ]
 }

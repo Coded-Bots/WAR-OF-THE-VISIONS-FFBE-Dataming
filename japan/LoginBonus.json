@@ -3637,6 +3637,94 @@
                 }
             ], 
             "banner": "LoginBonus_PeriodBanner_0024"
+        }, 
+        {
+            "begin_at": "2020/05/14 11:00:00", 
+            "iname": "LB_LIMIT_0025", 
+            "type": 6, 
+            "at_first_already_login_ok": 1, 
+            "end_at": "2020/05/21 14:59:59", 
+            "priority": 2, 
+            "bonuses": [
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 1
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "point": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 2
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_LB_EXP_03", 
+                    "point": 2
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 3
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_US_EXP_04", 
+                    "point": 3
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 4
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_WA_EXP_03", 
+                    "point": 4
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 5
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_SE_PI_COM_01", 
+                    "point": 5
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 6
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_SE_AW-ITEM_03", 
+                    "point": 6
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 7
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "point": 7
+                }
+            ], 
+            "banner": "LoginBonus_PeriodBanner_0025"
         }
     ]
 }

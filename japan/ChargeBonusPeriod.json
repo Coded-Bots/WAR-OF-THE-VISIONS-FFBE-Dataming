@@ -137,6 +137,12 @@
             "charge_bonus_id": "CHARGE_BONUS_0023", 
             "iname": "BONUS_PERIOD_23", 
             "end_at": "2020/05/14 4:59:59"
+        }, 
+        {
+            "begin_at": "2020/05/14 11:00:00", 
+            "charge_bonus_id": "CHARGE_BONUS_0024", 
+            "iname": "BONUS_PERIOD_24", 
+            "end_at": "2020/05/21 4:59:59"
         }
     ]
 }

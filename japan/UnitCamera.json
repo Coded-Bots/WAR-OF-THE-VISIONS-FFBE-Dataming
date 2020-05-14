@@ -1206,6 +1206,30 @@
                 "x": 0, 
                 "z": 0
             }, 
+            "iname": "UN_LW_P_STRN_01", 
+            "camRot": {
+                "y": -180, 
+                "x": 0.26, 
+                "z": 0
+            }, 
+            "unitPos": {
+                "y": 0, 
+                "x": 0, 
+                "z": 0
+            }, 
+            "camPos": {
+                "y": 0.72, 
+                "x": 0.03, 
+                "z": 2.85
+            }, 
+            "type": 1
+        }, 
+        {
+            "unitRot": {
+                "y": 0, 
+                "x": 0, 
+                "z": 0
+            }, 
             "iname": "UN_LW_E_IFRT_RAID", 
             "camRot": {
                 "y": -180, 
@@ -1250,13 +1274,13 @@
         }, 
         {
             "unitRot": {
-                "y": 10, 
+                "y": 0, 
                 "x": 0, 
                 "z": 0
             }, 
-            "iname": "UN_LW_E_IFRT_RAID", 
+            "iname": "UN_LW_E_THDG_PT_NO", 
             "camRot": {
-                "y": -180, 
+                "y": 163, 
                 "x": -8, 
                 "z": 0
             }, 
@@ -1266,8 +1290,32 @@
                 "z": 0
             }, 
             "camPos": {
-                "y": 0.85, 
+                "y": 0.3, 
+                "x": -2.2, 
+                "z": 7.5
+            }, 
+            "type": 1
+        }, 
+        {
+            "unitRot": {
+                "y": 0, 
                 "x": 0, 
+                "z": 0
+            }, 
+            "iname": "UN_LW_E_THDG_PT_HA", 
+            "camRot": {
+                "y": 163, 
+                "x": -8, 
+                "z": 0
+            }, 
+            "unitPos": {
+                "y": 0, 
+                "x": 0, 
+                "z": 0
+            }, 
+            "camPos": {
+                "y": 0.3, 
+                "x": -2.2, 
                 "z": 7.5
             }, 
             "type": 1

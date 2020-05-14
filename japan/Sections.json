@@ -728,6 +728,11 @@
             "hurl": "ev_irdl_01"
         }, 
         {
+            "limit": 1, 
+            "iname": "SE_EV_STRN_01", 
+            "hurl": "ev_strn_01"
+        }, 
+        {
             "iname": "SE_EV_ARENA_1", 
             "hurl": "ev_arena_001"
         }, 
@@ -802,6 +807,11 @@
             "limit": 1, 
             "iname": "SE_EV_CDOWN_01_7", 
             "hurl": "ev_cdown_01"
+        }, 
+        {
+            "hurl": "pt_001", 
+            "iname": "SE_PTQ_0001", 
+            "skip_ticket": "IT_PT_SKIP_001"
         }
     ]
 }

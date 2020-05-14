@@ -655,10 +655,10 @@
             "end_at": "2020/05/24 23:59:59", 
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_017", 
-            "quest_id": "QE_ARENA_00005", 
-            "bonus_unit": "ARENA_BU_00024", 
+            "quest_id": "QE_ARENA_00006", 
+            "bonus_unit": "ARENA_BU_00025", 
             "daily_reward": "ARENA_DREWARD_002", 
-            "thumbnail": "MapIcon_0010"
+            "thumbnail": "MapIcon_0011"
         }, 
         {
             "begin_at": "2020/05/25 0:00:00", 
@@ -667,10 +667,10 @@
             "end_at": "2020/05/31 23:59:59", 
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_018", 
-            "quest_id": "QE_ARENA_00005", 
-            "bonus_unit": "ARENA_BU_00024", 
+            "quest_id": "QE_ARENA_00006", 
+            "bonus_unit": "ARENA_BU_00025", 
             "daily_reward": "ARENA_DREWARD_002", 
-            "thumbnail": "MapIcon_0010"
+            "thumbnail": "MapIcon_0011"
         }, 
         {
             "begin_at": "2020/06/1 0:00:00", 
@@ -679,10 +679,10 @@
             "end_at": "2020/06/7 23:59:59", 
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_011", 
-            "quest_id": "QE_ARENA_00005", 
-            "bonus_unit": "ARENA_BU_00024", 
+            "quest_id": "QE_ARENA_00006", 
+            "bonus_unit": "ARENA_BU_00025", 
             "daily_reward": "ARENA_DREWARD_002", 
-            "thumbnail": "MapIcon_0010"
+            "thumbnail": "MapIcon_0011"
         }
     ]
 }

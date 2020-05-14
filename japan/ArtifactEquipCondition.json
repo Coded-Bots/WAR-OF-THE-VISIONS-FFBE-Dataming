@@ -39,7 +39,8 @@
                 "JB_FFT_GFGR", 
                 "JB_FF1_WROL", 
                 "JB_FFT_AGRA", 
-                "JB_FFT_DELT"
+                "JB_FFT_DELT", 
+                "JB_LW_STRN"
             ], 
             "iname": "AEC_ARM"
         }, 
@@ -66,7 +67,8 @@
                 "JB_FFT_GFGR", 
                 "JB_FF1_WROL", 
                 "JB_FFT_AGRA", 
-                "JB_FFT_DELT"
+                "JB_FFT_DELT", 
+                "JB_LW_STRN"
             ], 
             "iname": "AEC_HELM"
         }, 
@@ -186,7 +188,8 @@
                 "JB_FFT_AGRA", 
                 "JB_FFT_DELT", 
                 "JB_FFT_MSTD", 
-                "JB_LW_CAL_FIRE"
+                "JB_LW_CAL_FIRE", 
+                "JB_LW_STRN"
             ], 
             "iname": "AEC_ACCE"
         }, 
@@ -236,7 +239,8 @@
                 "JB_LW_WAR", 
                 "JB_FFT_RAMZ", 
                 "JB_FFT_GFGR", 
-                "JB_FFT_DELT"
+                "JB_FFT_DELT", 
+                "JB_LW_STRN"
             ], 
             "iname": "AEC_ACCE_1"
         }, 
@@ -261,7 +265,8 @@
         {
             "jobs": [
                 "JB_LW_SWN_FIRE", 
-                "JB_LW_RAIN"
+                "JB_LW_RAIN", 
+                "JB_LW_STRN"
             ], 
             "iname": "AEC_BSWORD"
         }, 

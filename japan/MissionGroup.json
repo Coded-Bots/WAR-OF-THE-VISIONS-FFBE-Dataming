@@ -105,6 +105,55 @@
             "end_at": "2020/03/25 4:59:59"
         }, 
         {
+            "category": 2, 
+            "begin_at": "2020/05/15 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_1", 
+            "end_at": "2020/05/16 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/16 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_2", 
+            "end_at": "2020/05/17 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/17 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_3", 
+            "end_at": "2020/05/18 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/18 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_4", 
+            "end_at": "2020/05/19 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/19 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_5", 
+            "end_at": "2020/05/20 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/20 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_6", 
+            "end_at": "2020/05/21 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/05/21 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_004_7", 
+            "end_at": "2020/05/22 4:59:59"
+        }, 
+        {
             "category": 3, 
             "type": 2, 
             "iname": "MG_STORY_001"
@@ -223,17 +272,17 @@
         }, 
         {
             "category": 2, 
-            "begin_at": "2020/02/21 11:00:00", 
+            "begin_at": "2020/05/14 10:30:00", 
             "type": 2, 
             "iname": "MG_EV_CSLI_01", 
-            "end_at": "2020/03/10 14:59:59"
+            "end_at": "2020/05/22 23:59:59"
         }, 
         {
             "category": 2, 
-            "begin_at": "2020/02/21 11:00:00", 
+            "begin_at": "2020/05/14 10:30:00", 
             "type": 2, 
             "iname": "MG_MU_CSLI_01", 
-            "end_at": "2020/03/10 14:59:59"
+            "end_at": "2020/05/22 23:59:59"
         }, 
         {
             "category": 2, 
@@ -265,17 +314,17 @@
         }, 
         {
             "category": 2, 
-            "begin_at": "2020/01/15 15:00:00", 
+            "begin_at": "2020/05/14 10:30:00", 
             "type": 2, 
             "iname": "MG_EV_ART_CRF_03", 
-            "end_at": "2020/02/01 14:59:59"
+            "end_at": "2020/05/22 23:59:59"
         }, 
         {
             "category": 2, 
-            "begin_at": "2020/01/15 15:00:00", 
+            "begin_at": "2020/05/14 10:30:00", 
             "type": 2, 
             "iname": "MG_MU_ART_CRF_03", 
-            "end_at": "2020/02/01 14:59:59"
+            "end_at": "2020/05/22 23:59:59"
         }, 
         {
             "category": 2, 
@@ -517,6 +566,13 @@
         }, 
         {
             "category": 6, 
+            "begin_at": "2020/05/14 10:30:00", 
+            "type": 2, 
+            "iname": "MG_P_STRN_01", 
+            "end_at": "2020/05/31 23:59:59"
+        }, 
+        {
+            "category": 6, 
             "type": 2, 
             "iname": "MG_PR_001"
         }, 
@@ -600,6 +656,13 @@
             "packID": "MP_QEST_07", 
             "type": 2, 
             "iname": "MG_MP_QEST_07"
+        }, 
+        {
+            "category": 3, 
+            "begin_at": "2020/05/14 10:30:00", 
+            "packID": "MP_QEST_08", 
+            "type": 2, 
+            "iname": "MG_MP_QEST_08"
         }, 
         {
             "category": 7, 

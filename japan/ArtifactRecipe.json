@@ -13436,6 +13436,258 @@
             "gil": 15000, 
             "recipe": "IT_AF_FFT_ACC_001", 
             "iname": "AF_FFT_ACC_001_5"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_ACC_001"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MABR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_LESS_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_ACC_001", 
+            "iname": "AF_LW_ACC_001"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_ACC_001"
+                }, 
+                {
+                    "lv": 1, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001"
+                }, 
+                {
+                    "lv": 1, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MABR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_LESS_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_ACC_001", 
+            "iname": "AF_LW_ACC_001_1"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_ACC_001"
+                }, 
+                {
+                    "lv": 10, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_1"
+                }, 
+                {
+                    "lv": 10, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_1"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MABR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_LESS_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_ACC_001", 
+            "iname": "AF_LW_ACC_001_2"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_ACC_001"
+                }, 
+                {
+                    "lv": 20, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_2"
+                }, 
+                {
+                    "lv": 20, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_2"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MABR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_LESS_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_ACC_001", 
+            "iname": "AF_LW_ACC_001_3"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_ACC_001"
+                }, 
+                {
+                    "lv": 30, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_3"
+                }, 
+                {
+                    "lv": 30, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_3"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MABR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_LESS_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_ACC_001", 
+            "iname": "AF_LW_ACC_001_4"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_ACC_001"
+                }, 
+                {
+                    "lv": 40, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_4"
+                }, 
+                {
+                    "lv": 40, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_ACC_001_4"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_HEART_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MABR"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_LESS_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_ACC_001", 
+            "iname": "AF_LW_ACC_001_5"
         }
     ]
 }

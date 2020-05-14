@@ -64,6 +64,10 @@
                 {
                     "thumbnail": "MapIcon_0010", 
                     "quest_id": "QE_PVP_FRI_0005"
+                }, 
+                {
+                    "thumbnail": "MapIcon_0011", 
+                    "quest_id": "QE_PVP_FRI_0006"
                 }
             ], 
             "duel_type": 3, 

@@ -793,6 +793,22 @@
             "act": "HOME", 
             "tips": 1, 
             "desc_unit_skip": "UN_LW_TU_RAMD"
+        }, 
+        {
+            "iname": "Pointquest", 
+            "tuto": 41, 
+            "desc_emo": 0, 
+            "skip": 1, 
+            "desc_unit": "UN_LW_TU_RAMD", 
+            "trg": 100, 
+            "desc_emo_skip": 0, 
+            "tips_imgs": [
+                "gid_qst_evt_01", 
+                "gid_qst_evt_02"
+            ], 
+            "act": "POINTQUEST_ROOT", 
+            "tips": 1, 
+            "desc_unit_skip": "UN_LW_TU_RAMD"
         }
     ]
 }

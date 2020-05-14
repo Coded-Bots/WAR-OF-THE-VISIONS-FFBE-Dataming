@@ -1,0 +1,394 @@
+{
+    "items": [
+        {
+            "random_item_id": "RANDOM_ITEM_0001", 
+            "rare": 0, 
+            "items": [
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SWORD_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_LSWORD_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_JSWORD_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_FIST_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SPEAR_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SSWORD_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_KUNAI_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_BOW_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_GUN_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_STAFF_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_MACE_01", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_AXE_01", 
+                    "rate": 1
+                }
+            ]
+        }, 
+        {
+            "random_item_id": "RANDOM_ITEM_0002", 
+            "rare": 1, 
+            "items": [
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SWORD_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_LSWORD_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_JSWORD_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_FIST_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SPEAR_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SSWORD_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_KUNAI_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_BOW_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_GUN_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_STAFF_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_MACE_02", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_AXE_02", 
+                    "rate": 1
+                }
+            ]
+        }, 
+        {
+            "random_item_id": "RANDOM_ITEM_0003", 
+            "rare": 2, 
+            "items": [
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SWORD_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_LSWORD_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_JSWORD_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_FIST_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SPEAR_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SSWORD_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_KUNAI_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_BOW_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_GUN_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_STAFF_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_MACE_03", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_AXE_03", 
+                    "rate": 1
+                }
+            ]
+        }, 
+        {
+            "random_item_id": "RANDOM_ITEM_0004", 
+            "rare": 3, 
+            "items": [
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SWORD_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_LSWORD_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_JSWORD_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_FIST_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SPEAR_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SSWORD_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_KUNAI_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_BOW_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_GUN_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_STAFF_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_MACE_04", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_AXE_04", 
+                    "rate": 1
+                }
+            ]
+        }, 
+        {
+            "random_item_id": "RANDOM_ITEM_0005", 
+            "rare": 4, 
+            "items": [
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SWORD_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_LSWORD_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_JSWORD_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_FIST_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SPEAR_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_SSWORD_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_KUNAI_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_BOW_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_GUN_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_STAFF_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_MACE_05", 
+                    "rate": 1
+                }, 
+                {
+                    "item_num": 1, 
+                    "item_type": 0, 
+                    "item_iname": "IT_JB_AXE_05", 
+                    "rate": 1
+                }
+            ]
+        }
+    ]
+}

@@ -304,14 +304,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1200, 
-                    "fever_rate": 1200, 
+                    "rate": 1250, 
+                    "fever_rate": 1250, 
                     "drop_id": 6, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 57800, 
-                    "fever_rate": 37300, 
+                    "rate": 57750, 
+                    "fever_rate": 37250, 
                     "drop_id": 6101, 
                     "fix_rate": -2050
                 }, 
@@ -334,14 +334,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1200, 
-                    "fever_rate": 1200, 
+                    "rate": 1250, 
+                    "fever_rate": 1250, 
                     "drop_id": 6, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 37300, 
-                    "fever_rate": 16800, 
+                    "rate": 37250, 
+                    "fever_rate": 16750, 
                     "drop_id": 6101, 
                     "fix_rate": -2050
                 }, 

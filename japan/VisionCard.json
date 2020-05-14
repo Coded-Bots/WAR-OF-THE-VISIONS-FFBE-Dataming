@@ -20,10 +20,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_GLEM_GSMAX", 
             "first_bonus_unit": "UN_LW_S_GLEM", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_GLEM_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_GLEM_PMAX", 
+                    "self_buff": "SK_VC_LW_GLEM_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_GLEM_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_GLEM_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_GLEM_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -53,10 +57,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_IFRT_GSMAX", 
             "first_bonus_unit": "UN_LW_S_IFRT", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_IFRT_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_IFRT_PMAX", 
+                    "self_buff": "SK_VC_LW_IFRT_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_IFRT_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_IFRT_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_IFRT_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -86,10 +94,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_SIRE_GSMAX", 
             "first_bonus_unit": "UN_LW_S_SIRE", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_SIRE_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_SIRE_PMAX", 
+                    "self_buff": "SK_VC_LW_SIRE_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_SIRE_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_SIRE_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_SIRE_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -119,10 +131,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_RAMU_GSMAX", 
             "first_bonus_unit": "UN_LW_S_RAMU", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_RAMU_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_RAMU_PMAX", 
+                    "self_buff": "SK_VC_LW_RAMU_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_RAMU_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_RAMU_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_RAMU_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -151,10 +167,14 @@
             "iname": "VC_LW_SOKYU", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_SOKYU_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_SOKYU_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_SOKYU_PMAX", 
+                    "self_buff": "SK_VC_LW_SOKYU_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_SOKYU_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_SOKYU_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_SOKYU_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -183,10 +203,14 @@
             "iname": "VC_LW_TRAINING", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_TRAINING_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_TRAINING_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_TRAINING_PMAX", 
+                    "self_buff": "SK_VC_LW_TRAINING_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_TRAINING_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_TRAINING_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_TRAINING_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -215,10 +239,14 @@
             "iname": "VC_LW_MACR", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_MACR_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_MACR_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_MACR_PMAX", 
+                    "self_buff": "SK_VC_LW_MACR_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_MACR_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_MACR_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_MACR_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -247,10 +275,14 @@
             "iname": "VC_LW_MURG", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_MURG_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_MURG_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_MURG_PMAX", 
+                    "self_buff": "SK_VC_LW_MURG_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_MURG_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_MURG_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_MURG_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -279,10 +311,14 @@
             "iname": "VC_LW_GRSR", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_GRSR_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_GRSR_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_GRSR_PMAX", 
+                    "self_buff": "SK_VC_LW_GRSR_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_GRSR_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_GRSR_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_GRSR_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -311,11 +347,15 @@
             "iname": "VC_FF14_MV1", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_FF14_MV1_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_FF14_MV1_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_FF14_MV1_PMAX", 
+                    "self_buff": "SK_VC_FF14_MV1_P"
+                }
+            ], 
             "sell_mdl": 100, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_FF14_MV1_P", 
-            "add_self_buff_lvmax": "SK_VC_FF14_MV1_PMAX", 
-            "add_self_buff_awake": "SK_VC_FF14_MV1_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -345,10 +385,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_SHIV_GSMAX", 
             "first_bonus_unit": "UN_LW_S_SHIV", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_SHIV_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_SHIV_PMAX", 
+                    "self_buff": "SK_VC_LW_SHIV_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_SHIV_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_SHIV_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_SHIV_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -377,10 +421,14 @@
             "iname": "VC_LW_HOLYNIGHT", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_HOLYNIGHT_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_HOLYNIGHT_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_HOLYNIGHT_PMAX", 
+                    "self_buff": "SK_VC_LW_HOLYNIGHT_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_HOLYNIGHT_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_HOLYNIGHT_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_HOLYNIGHT_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -409,11 +457,15 @@
             "iname": "VC_FFT_MV1", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_FFT_MV1_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_FFT_MV1_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_FFT_MV1_PMAX", 
+                    "self_buff": "SK_VC_FFT_MV1_P"
+                }
+            ], 
             "sell_mdl": 100, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_FFT_MV1_P", 
-            "add_self_buff_lvmax": "SK_VC_FFT_MV1_PMAX", 
-            "add_self_buff_awake": "SK_VC_FFT_MV1_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -443,10 +495,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_ODIN_GSMAX", 
             "first_bonus_unit": "UN_LW_S_ODIN", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_ODIN_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_ODIN_PMAX", 
+                    "self_buff": "SK_VC_LW_ODIN_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_ODIN_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_ODIN_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_ODIN_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -476,10 +532,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_TSLP_GSMAX", 
             "first_bonus_unit": "UN_LW_S_TSLP", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_TSLP_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_TSLP_PMAX", 
+                    "self_buff": "SK_VC_LW_TSLP_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_TSLP_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_TSLP_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_TSLP_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -508,10 +568,14 @@
             "iname": "VC_LW_VALE1", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_VALE1_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_VALE1_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_VALE1_PMAX", 
+                    "self_buff": "SK_VC_LW_VALE1_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_VALE1_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_VALE1_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_VALE1_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -541,10 +605,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_THDG_GSMAX", 
             "first_bonus_unit": "UN_LW_S_THDG", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_THDG_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_THDG_PMAX", 
+                    "self_buff": "SK_VC_LW_THDG_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_THDG_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_THDG_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_THDG_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -573,11 +641,15 @@
             "iname": "VC_MBFF_MV1", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_MBFF_MV1_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_MBFF_MV1_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_MBFF_MV1_PMAX", 
+                    "self_buff": "SK_VC_MBFF_MV1_P"
+                }
+            ], 
             "sell_mdl": 100, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_MBFF_MV1_P", 
-            "add_self_buff_lvmax": "SK_VC_MBFF_MV1_PMAX", 
-            "add_self_buff_awake": "SK_VC_MBFF_MV1_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -607,11 +679,15 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_FF01_DMAC_GSMAX", 
             "first_bonus_unit": "UN_FF01_S_WRMC", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_FF01_DMAC_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_FF01_DMAC_PMAX", 
+                    "self_buff": "SK_VC_FF01_DMAC_P"
+                }
+            ], 
             "sell_mdl": 100, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_FF01_DMAC_P", 
-            "add_self_buff_lvmax": "SK_VC_FF01_DMAC_PMAX", 
-            "add_self_buff_awake": "SK_VC_FF01_DMAC_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -640,11 +716,15 @@
             "iname": "VC_FFT_MV3", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_FFT_MV3_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_FFT_MV3_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_FFT_MV3_PMAX", 
+                    "self_buff": "SK_VC_FFT_MV3_P"
+                }
+            ], 
             "sell_mdl": 100, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_FFT_MV3_P", 
-            "add_self_buff_lvmax": "SK_VC_FFT_MV3_PMAX", 
-            "add_self_buff_awake": "SK_VC_FFT_MV3_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -673,10 +753,14 @@
             "iname": "VC_LW_CBVPARTY1", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_CBVPARTY1_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_CBVPARTY1_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_CBVPARTY1_PMAX", 
+                    "self_buff": "SK_VC_LW_CBVPARTY1_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_CBVPARTY1_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_CBVPARTY1_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_CBVPARTY1_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -706,10 +790,14 @@
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_DABL_GSMAX", 
             "first_bonus_unit": "UN_LW_S_DABL", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_DABL_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_DABL_PMAX", 
+                    "self_buff": "SK_VC_LW_DABL_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_DABL_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_DABL_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_DABL_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -738,10 +826,14 @@
             "iname": "VC_LW_ROBUST", 
             "piece_num": 25, 
             "add_card_skill_buff_lvmax": "SK_VC_LW_ROBUST_GSMAX", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_ROBUST_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_ROBUST_PMAX", 
+                    "self_buff": "SK_VC_LW_ROBUST_P"
+                }
+            ], 
             "sell_mdl": 100, 
-            "self_buff": "SK_VC_LW_ROBUST_P", 
-            "add_self_buff_lvmax": "SK_VC_LW_ROBUST_PMAX", 
-            "add_self_buff_awake": "SK_VC_LW_ROBUST_PAW", 
             "cost": 70, 
             "en_cost": 2000, 
             "en_exp": 20000, 
@@ -770,9 +862,13 @@
             "iname": "VC_LW_IGNT", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_IGNT", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_IGNT_PAW", 
+                    "self_buff": "SK_VC_LW_IGNT_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_IGNT_P", 
-            "add_self_buff_awake": "SK_VC_LW_IGNT_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -801,9 +897,13 @@
             "iname": "VC_LW_BHMT", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_BHMT", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_BHMT_PAW", 
+                    "self_buff": "SK_VC_LW_BHMT_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_BHMT_P", 
-            "add_self_buff_awake": "SK_VC_LW_BHMT_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -832,9 +932,13 @@
             "iname": "VC_LW_MABR", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_MABR", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_MABR_PAW", 
+                    "self_buff": "SK_VC_LW_MABR_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_MABR_P", 
-            "add_self_buff_awake": "SK_VC_LW_MABR_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -862,9 +966,13 @@
             "rare": 3, 
             "iname": "VC_LW_FAMILY", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_FAMILY_PAW", 
+                    "self_buff": "SK_VC_LW_FAMILY_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_FAMILY_P", 
-            "add_self_buff_awake": "SK_VC_LW_FAMILY_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -892,9 +1000,13 @@
             "rare": 3, 
             "iname": "VC_LW_KTON", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_KTON_PAW", 
+                    "self_buff": "SK_VC_LW_KTON_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_KTON_P", 
-            "add_self_buff_awake": "SK_VC_LW_KTON_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -922,9 +1034,13 @@
             "rare": 3, 
             "iname": "VC_LW_PROPOSE", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_PROPOSE_PAW", 
+                    "self_buff": "SK_VC_LW_PROPOSE_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_PROPOSE_P", 
-            "add_self_buff_awake": "SK_VC_LW_PROPOSE_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -952,9 +1068,13 @@
             "rare": 3, 
             "iname": "VC_LW_SDLX", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_SDLX_PAW", 
+                    "self_buff": "SK_VC_LW_SDLX_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_SDLX_P", 
-            "add_self_buff_awake": "SK_VC_LW_SDLX_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -982,9 +1102,13 @@
             "rare": 3, 
             "iname": "VC_LW_TEAPARTY", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_TEAPARTY_PAW", 
+                    "self_buff": "SK_VC_LW_TEAPARTY_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_TEAPARTY_P", 
-            "add_self_buff_awake": "SK_VC_LW_TEAPARTY_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1012,9 +1136,13 @@
             "rare": 3, 
             "iname": "VC_LW_HUNT", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_HUNT_PAW", 
+                    "self_buff": "SK_VC_LW_HUNT_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_HUNT_P", 
-            "add_self_buff_awake": "SK_VC_LW_HUNT_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1042,10 +1170,14 @@
             "rare": 3, 
             "iname": "VC_FF14_MV2", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_FF14_MV2_PAW", 
+                    "self_buff": "SK_VC_FF14_MV2_P"
+                }
+            ], 
             "sell_mdl": 20, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_FF14_MV2_P", 
-            "add_self_buff_awake": "SK_VC_FF14_MV2_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1074,9 +1206,13 @@
             "iname": "VC_LW_MOGL", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_MOGL", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_MOGL_PAW", 
+                    "self_buff": "SK_VC_LW_MOGL_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_MOGL_P", 
-            "add_self_buff_awake": "SK_VC_LW_MOGL_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1104,9 +1240,13 @@
             "rare": 3, 
             "iname": "VC_LW_NEWYEAR", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_NEWYEAR_PAW", 
+                    "self_buff": "SK_VC_LW_NEWYEAR_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_NEWYEAR_P", 
-            "add_self_buff_awake": "SK_VC_LW_NEWYEAR_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1135,9 +1275,13 @@
             "iname": "VC_LW_LAMA_01", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_LAMA_01", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_LAMA_01_PAW", 
+                    "self_buff": "SK_VC_LW_LAMA_01_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_LAMA_01_P", 
-            "add_self_buff_awake": "SK_VC_LW_LAMA_01_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1165,9 +1309,13 @@
             "rare": 3, 
             "iname": "VC_LW_GUARD", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_GUARD_PAW", 
+                    "self_buff": "SK_VC_LW_GUARD_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_GUARD_P", 
-            "add_self_buff_awake": "SK_VC_LW_GUARD_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1195,9 +1343,13 @@
             "rare": 3, 
             "iname": "VC_LW_LILS", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_LILS_PAW", 
+                    "self_buff": "SK_VC_LW_LILS_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_LILS_P", 
-            "add_self_buff_awake": "SK_VC_LW_LILS_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1225,9 +1377,13 @@
             "rare": 3, 
             "iname": "VC_LW_VALE2", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_VALE2_PAW", 
+                    "self_buff": "SK_VC_LW_VALE2_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_VALE2_P", 
-            "add_self_buff_awake": "SK_VC_LW_VALE2_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1256,9 +1412,13 @@
             "iname": "VC_LW_OCHU", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_OCHU", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_OCHU_PAW", 
+                    "self_buff": "SK_VC_LW_OCHU_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_OCHU_P", 
-            "add_self_buff_awake": "SK_VC_LW_OCHU_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1286,9 +1446,13 @@
             "rare": 3, 
             "iname": "VC_LW_ADLD", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_ADLD_PAW", 
+                    "self_buff": "SK_VC_LW_ADLD_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_ADLD_P", 
-            "add_self_buff_awake": "SK_VC_LW_ADLD_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1316,9 +1480,13 @@
             "rare": 3, 
             "iname": "VC_LW_WHITEDAY1", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_WHITEDAY1_PAW", 
+                    "self_buff": "SK_VC_LW_WHITEDAY1_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_WHITEDAY1_P", 
-            "add_self_buff_awake": "SK_VC_LW_WHITEDAY1_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1346,9 +1514,13 @@
             "rare": 3, 
             "iname": "VC_LW_VNLA2", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_VNLA2_PAW", 
+                    "self_buff": "SK_VC_LW_VNLA2_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_VNLA2_P", 
-            "add_self_buff_awake": "SK_VC_LW_VNLA2_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1376,10 +1548,14 @@
             "rare": 3, 
             "iname": "VC_MBFF_MV2", 
             "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_MBFF_MV2_PAW", 
+                    "self_buff": "SK_VC_MBFF_MV2_P"
+                }
+            ], 
             "sell_mdl": 20, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_MBFF_MV2_P", 
-            "add_self_buff_awake": "SK_VC_MBFF_MV2_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1408,10 +1584,14 @@
             "iname": "VC_FFT_MV2", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_FFT_S_CHCB_01", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_FFT_MV2_PAW", 
+                    "self_buff": "SK_VC_FFT_MV2_P"
+                }
+            ], 
             "sell_mdl": 20, 
             "collaboType": 1, 
-            "self_buff": "SK_VC_FFT_MV2_P", 
-            "add_self_buff_awake": "SK_VC_FFT_MV2_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1440,9 +1620,13 @@
             "iname": "VC_LW_MDFY", 
             "piece_num": 20, 
             "first_bonus_unit": "UN_LW_S_MDFY", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_MDFY_PAW", 
+                    "self_buff": "SK_VC_LW_MDFY_P"
+                }
+            ], 
             "sell_mdl": 20, 
-            "self_buff": "SK_VC_LW_MDFY_P", 
-            "add_self_buff_awake": "SK_VC_LW_MDFY_PAW", 
             "cost": 50, 
             "en_cost": 1000, 
             "en_exp": 10000, 
@@ -1470,8 +1654,12 @@
             "rare": 2, 
             "iname": "VC_LW_CACT", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_CACT_P"
+                }
+            ], 
             "sell_mdl": 0, 
-            "self_buff": "SK_VC_LW_CACT_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1499,8 +1687,12 @@
             "rare": 2, 
             "iname": "VC_LW_ARMN_01", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_ARMN_01_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_ARMN_01_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1528,8 +1720,12 @@
             "rare": 2, 
             "iname": "VC_LW_ZUUU", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_ZUUU_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_ZUUU_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1557,8 +1753,12 @@
             "rare": 2, 
             "iname": "VC_LW_OGRE", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_OGRE_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_OGRE_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1586,8 +1786,12 @@
             "rare": 2, 
             "iname": "VC_LW_BOMB", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_BOMB_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_BOMB_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1614,8 +1818,12 @@
             "rare": 2, 
             "iname": "VC_LW_BYLO", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_BYLO_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_BYLO_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1642,8 +1850,12 @@
             "rare": 2, 
             "iname": "VC_LW_RART", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_RART_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_RART_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1670,8 +1882,12 @@
             "rare": 2, 
             "iname": "VC_LW_RYER", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_RYER_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_RYER_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1698,8 +1914,12 @@
             "rare": 2, 
             "iname": "VC_LW_VNLA", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_VNLA_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_VNLA_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1726,8 +1946,12 @@
             "rare": 2, 
             "iname": "VC_LW_RIRY", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_RIRY_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_RIRY_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1754,8 +1978,12 @@
             "rare": 2, 
             "iname": "VC_LW_JOBCRYSTAL", 
             "piece_num": 15, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_JOBCRYSTAL_P"
+                }
+            ], 
             "sell_mdl": 5, 
-            "self_buff": "SK_VC_LW_JOBCRYSTAL_P", 
             "cost": 40, 
             "en_cost": 400, 
             "en_exp": 4000, 
@@ -1782,8 +2010,12 @@
             "rare": 1, 
             "iname": "VC_LW_LEONIS", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_LEONIS_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_LEONIS_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1810,8 +2042,12 @@
             "rare": 1, 
             "iname": "VC_LW_HOURN", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_HOURN_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_HOURN_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1838,8 +2074,12 @@
             "rare": 1, 
             "iname": "VC_LW_FENICE", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_FENICE_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_FENICE_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1866,8 +2106,12 @@
             "rare": 1, 
             "iname": "VC_LW_WEZETT", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_WEZETT_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_WEZETT_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1894,8 +2138,12 @@
             "rare": 1, 
             "iname": "VC_LW_CRYSTAL", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_CRYSTAL_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_CRYSTAL_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1922,8 +2170,12 @@
             "rare": 1, 
             "iname": "VC_LW_LEONIS2", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_LEONIS2_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_LEONIS2_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1950,8 +2202,12 @@
             "rare": 1, 
             "iname": "VC_LW_HOURN2", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_HOURN2_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_HOURN2_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -1978,8 +2234,12 @@
             "rare": 1, 
             "iname": "VC_LW_FENICE2", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_FENICE2_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_FENICE2_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -2006,8 +2266,12 @@
             "rare": 1, 
             "iname": "VC_LW_WEZETT2", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_WEZETT2_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_WEZETT2_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -2034,8 +2298,12 @@
             "rare": 1, 
             "iname": "VC_LW_DYNVERK", 
             "piece_num": 10, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_DYNVERK_P"
+                }
+            ], 
             "sell_mdl": 1, 
-            "self_buff": "SK_VC_LW_DYNVERK_P", 
             "cost": 30, 
             "en_cost": 200, 
             "en_exp": 2000, 
@@ -2062,8 +2330,12 @@
             "rare": 0, 
             "iname": "VC_LW_TRSV_01", 
             "piece_num": 5, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_TRSV_01_P"
+                }
+            ], 
             "sell_mdl": 0, 
-            "self_buff": "SK_VC_LW_TRSV_01_P", 
             "cost": 20, 
             "en_cost": 50, 
             "en_exp": 500, 
@@ -2090,8 +2362,12 @@
             "rare": 0, 
             "iname": "VC_LW_TRSV_02", 
             "piece_num": 5, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_TRSV_02_P"
+                }
+            ], 
             "sell_mdl": 0, 
-            "self_buff": "SK_VC_LW_TRSV_02_P", 
             "cost": 20, 
             "en_cost": 50, 
             "en_exp": 500, 
@@ -2118,8 +2394,12 @@
             "rare": 0, 
             "iname": "VC_LW_MIRROR", 
             "piece_num": 5, 
+            "self_buffs": [
+                {
+                    "self_buff": "SK_VC_LW_MIRROR_P"
+                }
+            ], 
             "sell_mdl": 0, 
-            "self_buff": "SK_VC_LW_MIRROR_P", 
             "cost": 20, 
             "en_cost": 50, 
             "en_exp": 500, 

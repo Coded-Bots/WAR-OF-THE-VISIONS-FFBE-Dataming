@@ -43293,6 +43293,200 @@
             "role": 3, 
             "lvtbl_sub": "JBLV_LW_CAL_S_DARK", 
             "type": 2
+        }, 
+        {
+            "equips": [
+                3, 
+                18, 
+                20, 
+                22
+            ], 
+            "iname": "JB_LW_STRN", 
+            "mdl": "LAPSstrn", 
+            "sub_rate": 50, 
+            "ranks": [
+                {
+                    "dex": 0, 
+                    "iniap": -82, 
+                    "hp": 0, 
+                    "atk": 0, 
+                    "ap": 0, 
+                    "mp": 0, 
+                    "mag": 0, 
+                    "luk": 0, 
+                    "spd": 0
+                }, 
+                {
+                    "dex": 589, 
+                    "iniap": -82, 
+                    "hp": 200, 
+                    "atk": 1280, 
+                    "ap": 589, 
+                    "mp": 589, 
+                    "mag": 205, 
+                    "luk": 870, 
+                    "spd": 589
+                }, 
+                {
+                    "dex": 933, 
+                    "eqid1": "IT_JB_MM_LW_STRN,1", 
+                    "s_eqid1": "IT_JB_MM_LW_STRN,1", 
+                    "iniap": -82, 
+                    "hp": 800, 
+                    "atk": 2028, 
+                    "ap": 933, 
+                    "mp": 933, 
+                    "mag": 325, 
+                    "luk": 1379, 
+                    "spd": 933
+                }, 
+                {
+                    "dex": 1177, 
+                    "iniap": -82, 
+                    "hp": 1040, 
+                    "atk": 2560, 
+                    "ap": 1177, 
+                    "mp": 1177, 
+                    "mag": 410, 
+                    "luk": 1741, 
+                    "spd": 1177
+                }, 
+                {
+                    "dex": 1367, 
+                    "iniap": -82, 
+                    "hp": 1280, 
+                    "atk": 2972, 
+                    "ap": 1367, 
+                    "mp": 1367, 
+                    "mag": 475, 
+                    "luk": 2021, 
+                    "spd": 1367
+                }, 
+                {
+                    "dex": 1522, 
+                    "eqid1": "IT_JB_MM_LW_STRN_2,2", 
+                    "s_eqid1": "IT_JB_MM_LW_STRN_2,2", 
+                    "iniap": -82, 
+                    "hp": 2000, 
+                    "atk": 3308, 
+                    "ap": 1522, 
+                    "mp": 1522, 
+                    "mag": 529, 
+                    "luk": 2250, 
+                    "spd": 1522
+                }, 
+                {
+                    "dex": 1653, 
+                    "iniap": -82, 
+                    "hp": 2240, 
+                    "atk": 3593, 
+                    "ap": 1653, 
+                    "mp": 1653, 
+                    "mag": 575, 
+                    "luk": 2443, 
+                    "spd": 1653
+                }, 
+                {
+                    "dex": 1766, 
+                    "iniap": -82, 
+                    "hp": 2480, 
+                    "atk": 3839, 
+                    "ap": 1766, 
+                    "mp": 1766, 
+                    "mag": 614, 
+                    "luk": 2611, 
+                    "spd": 1766
+                }, 
+                {
+                    "dex": 1866, 
+                    "eqid1": "IT_JB_MM_LW_STRN_3,3", 
+                    "s_eqid1": "IT_JB_MM_LW_STRN_3,3", 
+                    "iniap": -82, 
+                    "hp": 3200, 
+                    "atk": 4057, 
+                    "ap": 1866, 
+                    "mp": 1866, 
+                    "mag": 649, 
+                    "luk": 2759, 
+                    "spd": 1866
+                }, 
+                {
+                    "dex": 1956, 
+                    "iniap": -82, 
+                    "hp": 3440, 
+                    "atk": 4251, 
+                    "ap": 1956, 
+                    "mp": 1956, 
+                    "mag": 680, 
+                    "luk": 2891, 
+                    "spd": 1956
+                }, 
+                {
+                    "dex": 2037, 
+                    "iniap": -82, 
+                    "hp": 3680, 
+                    "atk": 4427, 
+                    "ap": 2037, 
+                    "mp": 2037, 
+                    "mag": 708, 
+                    "luk": 3011, 
+                    "spd": 2037
+                }, 
+                {
+                    "dex": 2110, 
+                    "eqid1": "IT_JB_MM_LW_STRN_4,4", 
+                    "s_eqid1": "IT_JB_MM_LW_STRN_4,4", 
+                    "iniap": -82, 
+                    "hp": 4400, 
+                    "atk": 4588, 
+                    "ap": 2110, 
+                    "mp": 2110, 
+                    "mag": 734, 
+                    "luk": 3120, 
+                    "spd": 2110
+                }, 
+                {
+                    "dex": 2178, 
+                    "iniap": -82, 
+                    "hp": 4666, 
+                    "atk": 4736, 
+                    "ap": 2178, 
+                    "mp": 2178, 
+                    "mag": 758, 
+                    "luk": 3220, 
+                    "spd": 2178
+                }, 
+                {
+                    "dex": 2241, 
+                    "iniap": -82, 
+                    "hp": 4932, 
+                    "atk": 4873, 
+                    "ap": 2241, 
+                    "mp": 2241, 
+                    "mag": 780, 
+                    "luk": 3313, 
+                    "spd": 2241
+                }, 
+                {
+                    "dex": 2300, 
+                    "eqid1": "IT_JB_MM_LW_STRN_5,5", 
+                    "s_eqid1": "IT_JB_MM_LW_STRN_5,5", 
+                    "iniap": -82, 
+                    "hp": 6000, 
+                    "atk": 5000, 
+                    "ap": 2300, 
+                    "mp": 2300, 
+                    "mag": 800, 
+                    "luk": 3400, 
+                    "spd": 2300
+                }
+            ], 
+            "lvtbl_main": "JBLV_LW_STRN_M", 
+            "move": 3, 
+            "jump": 1, 
+            "role": 1, 
+            "lvtbl_sub": "JBLV_LW_STRN_M", 
+            "type": 1
         }
     ]
 }

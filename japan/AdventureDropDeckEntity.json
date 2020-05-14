@@ -250,6 +250,12 @@
         {
             "rewards": [
                 {
+                    "rate": 50, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_STRN_01"
+                }, 
+                {
                     "rate": 100, 
                     "num": 1, 
                     "type": 0, 
@@ -1501,7 +1507,7 @@
                     "iname": "IT_UN_AW_DARK_R3"
                 }, 
                 {
-                    "rate": 10800, 
+                    "rate": 10750, 
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_AF_MAT_SAP_01"

@@ -56,6 +56,13 @@
             "price": 1000, 
             "banner": "LAPS_SHOP_MISSION_0002_7", 
             "iname": "MP_QEST_07"
+        }, 
+        {
+            "start_at": "2020/05/14 10:30:00", 
+            "currency_type": 2, 
+            "price": 1000, 
+            "banner": "LAPS_SHOP_MISSION_0002_8", 
+            "iname": "MP_QEST_08"
         }
     ]
 }
