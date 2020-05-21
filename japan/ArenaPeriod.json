@@ -668,7 +668,7 @@
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_018", 
             "quest_id": "QE_ARENA_00006", 
-            "bonus_unit": "ARENA_BU_00025", 
+            "bonus_unit": "ARENA_BU_00026", 
             "daily_reward": "ARENA_DREWARD_002", 
             "thumbnail": "MapIcon_0011"
         }, 
@@ -680,7 +680,55 @@
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_011", 
             "quest_id": "QE_ARENA_00006", 
-            "bonus_unit": "ARENA_BU_00025", 
+            "bonus_unit": "ARENA_BU_00026", 
+            "daily_reward": "ARENA_DREWARD_002", 
+            "thumbnail": "MapIcon_0011"
+        }, 
+        {
+            "begin_at": "2020/06/8 0:00:00", 
+            "iname": "ARENA_20200608", 
+            "join_reward": "ARENA_JREWARD_001", 
+            "end_at": "2020/06/14 23:59:59", 
+            "npc_grp_id": "ARENA_NPCGRP01", 
+            "weekly_reward": "ARENA_WREWARD_012", 
+            "quest_id": "QE_ARENA_00005", 
+            "bonus_unit": "ARENA_BU_00026", 
+            "daily_reward": "ARENA_DREWARD_002", 
+            "thumbnail": "MapIcon_0010"
+        }, 
+        {
+            "begin_at": "2020/06/15 0:00:00", 
+            "iname": "ARENA_20200615", 
+            "join_reward": "ARENA_JREWARD_001", 
+            "end_at": "2020/06/21 23:59:59", 
+            "npc_grp_id": "ARENA_NPCGRP01", 
+            "weekly_reward": "ARENA_WREWARD_013", 
+            "quest_id": "QE_ARENA_00006", 
+            "bonus_unit": "ARENA_BU_00026", 
+            "daily_reward": "ARENA_DREWARD_002", 
+            "thumbnail": "MapIcon_0011"
+        }, 
+        {
+            "begin_at": "2020/06/22 0:00:00", 
+            "iname": "ARENA_20200622", 
+            "join_reward": "ARENA_JREWARD_001", 
+            "end_at": "2020/06/28 23:59:59", 
+            "npc_grp_id": "ARENA_NPCGRP01", 
+            "weekly_reward": "ARENA_WREWARD_014", 
+            "quest_id": "QE_ARENA_00006", 
+            "bonus_unit": "ARENA_BU_00026", 
+            "daily_reward": "ARENA_DREWARD_002", 
+            "thumbnail": "MapIcon_0011"
+        }, 
+        {
+            "begin_at": "2020/06/29 0:00:00", 
+            "iname": "ARENA_20200629", 
+            "join_reward": "ARENA_JREWARD_001", 
+            "end_at": "2020/07/5 23:59:59", 
+            "npc_grp_id": "ARENA_NPCGRP01", 
+            "weekly_reward": "ARENA_WREWARD_015", 
+            "quest_id": "QE_ARENA_00006", 
+            "bonus_unit": "ARENA_BU_00026", 
             "daily_reward": "ARENA_DREWARD_002", 
             "thumbnail": "MapIcon_0011"
         }

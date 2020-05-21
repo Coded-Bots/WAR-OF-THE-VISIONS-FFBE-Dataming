@@ -844,6 +844,47 @@
             "icon": "LAPSRobust"
         }, 
         {
+            "sell": 1000, 
+            "status": [
+                {
+                    "dex": 13, 
+                    "hp": 46, 
+                    "spd": 1, 
+                    "atk": 31, 
+                    "mag": 0
+                }, 
+                {
+                    "dex": 50, 
+                    "hp": 362, 
+                    "spd": 4, 
+                    "atk": 120, 
+                    "mag": 0
+                }
+            ], 
+            "add_card_skill_buff_awake": "SK_VC_LW_FNRR_GS_AW", 
+            "rare": 4, 
+            "iname": "VC_LW_FNRR", 
+            "piece_num": 25, 
+            "add_card_skill_buff_lvmax": "SK_VC_LW_FNRR_GSMAX", 
+            "first_bonus_unit": "UN_LW_S_FNRR", 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_FNRR_PAW", 
+                    "add_self_buff_lvmax": "SK_VC_LW_FNRR_PMAX", 
+                    "self_buff": "SK_VC_LW_FNRR_P"
+                }
+            ], 
+            "sell_mdl": 100, 
+            "cost": 70, 
+            "en_cost": 2000, 
+            "en_exp": 20000, 
+            "db_num": 1, 
+            "card_skill": "SK_VC_LW_FNRR_GS", 
+            "piece": "IT_VPI_LW_FNRR", 
+            "type": 0, 
+            "icon": "LAPSFnrr"
+        }, 
+        {
             "sell": 800, 
             "status": [
                 {
@@ -1635,6 +1676,40 @@
             "piece": "IT_VPI_LW_MDFY", 
             "type": 0, 
             "icon": "LAPSMdfy"
+        }, 
+        {
+            "sell": 800, 
+            "status": [
+                {
+                    "hp": 33, 
+                    "atk": 22, 
+                    "mag": 22
+                }, 
+                {
+                    "hp": 268, 
+                    "atk": 91, 
+                    "mag": 89
+                }
+            ], 
+            "add_card_skill_buff_awake": "SK_VC_LW_ORDR_GSAW", 
+            "rare": 3, 
+            "iname": "VC_LW_ORDR", 
+            "piece_num": 20, 
+            "self_buffs": [
+                {
+                    "add_self_buff_awake": "SK_VC_LW_ORDR_PAW", 
+                    "self_buff": "SK_VC_LW_ORDR_P"
+                }
+            ], 
+            "sell_mdl": 20, 
+            "cost": 50, 
+            "en_cost": 1000, 
+            "en_exp": 10000, 
+            "db_num": 1, 
+            "card_skill": "SK_VC_LW_ORDR_GS", 
+            "piece": "IT_VPI_LW_ORDR", 
+            "type": 0, 
+            "icon": "LAPSOrdr"
         }, 
         {
             "sell": 500, 

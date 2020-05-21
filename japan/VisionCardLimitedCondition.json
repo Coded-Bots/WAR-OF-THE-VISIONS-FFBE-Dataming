@@ -1,6 +1,24 @@
 {
     "items": [
         {
+            "births": [
+                4
+            ], 
+            "iname": "VLC_FENICE"
+        }, 
+        {
+            "births": [
+                6
+            ], 
+            "iname": "VLC_CRYSTALFAITH"
+        }, 
+        {
+            "iname": "VLC_DARK", 
+            "elem": [
+                8
+            ]
+        }, 
+        {
             "iname": "VLC_DEBUG_01", 
             "mainjobs": [
                 "JB_LW_WAR_FIRE", 

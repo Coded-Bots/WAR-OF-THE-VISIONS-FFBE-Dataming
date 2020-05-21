@@ -6812,6 +6812,32 @@
             "type": 28
         }, 
         {
+            "sell": 50, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 2, 
+            "iname": "IT_SB_AW_FNRR_R2", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "val": 300, 
+            "coin": 10, 
+            "type": 28
+        }, 
+        {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_SB_AW_FNRR_R3", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "val": 300, 
+            "coin": 10, 
+            "type": 28
+        }, 
+        {
             "sell": 10, 
             "ac": 9999, 
             "buy": 30000, 
@@ -9557,6 +9583,17 @@
             "icon": "IT_US_SE_ITEM_TICKET"
         }, 
         {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 3, 
+            "iname": "IT_US_SE_SB_EXP_05", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
             "sell": 500, 
             "ac": 9999, 
             "buy": 9999, 
@@ -9678,6 +9715,28 @@
             "icon": "IT_US_SE_ITEM_TICKET"
         }, 
         {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 3, 
+            "iname": "IT_US_SE_JB_MM_04_2", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 4, 
+            "iname": "IT_US_SE_JB_MM_05_2", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
             "sell": 500, 
             "ac": 9999, 
             "buy": 9999, 
@@ -9726,6 +9785,28 @@
             "ac": 9999, 
             "buy": 9999, 
             "rare": 4, 
+            "iname": "IT_US_SE_PI_02", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 4, 
+            "iname": "IT_US_SE_VPI_04", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 4, 
             "iname": "IT_US_SE_R_UR_U_03", 
             "mc": 9999, 
             "is_valuables": 1, 
@@ -9742,6 +9823,17 @@
             "is_valuables": 1, 
             "type": 10, 
             "icon": "IT_US_SE_UR_V_TICKET"
+        }, 
+        {
+            "sell": 20, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 1, 
+            "iname": "IT_US_SE_AF_AW_01", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
         }, 
         {
             "sell": 500, 
@@ -10110,6 +10202,18 @@
             "type": 36
         }, 
         {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_VPI_LW_FNRR", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
             "sell": 100, 
             "ac": 9999, 
             "buy": 30000, 
@@ -10382,6 +10486,18 @@
             "buy": 30000, 
             "rare": 3, 
             "iname": "IT_VPI_LW_MDFY", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_VPI_LW_ORDR", 
             "mc": 9999, 
             "is_valuables": 1, 
             "steal": 0, 

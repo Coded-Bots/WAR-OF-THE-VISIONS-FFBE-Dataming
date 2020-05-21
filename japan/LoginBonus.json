@@ -3725,6 +3725,82 @@
                 }
             ], 
             "banner": "LoginBonus_PeriodBanner_0025"
+        }, 
+        {
+            "begin_at": "2020/05/21 15:00:00", 
+            "iname": "LB_LIMIT_0026", 
+            "type": 6, 
+            "at_first_already_login_ok": 1, 
+            "end_at": "2020/05/31 23:59:59", 
+            "priority": 2, 
+            "bonuses": [
+                {
+                    "num": 1000, 
+                    "type": 3, 
+                    "point": 1
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 2
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_04", 
+                    "point": 2
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 3
+                }, 
+                {
+                    "num": 20, 
+                    "type": 0, 
+                    "iname": "IT_ACTP_03", 
+                    "point": 3
+                }, 
+                {
+                    "num": 1000, 
+                    "type": 3, 
+                    "point": 4
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 5
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_04", 
+                    "point": 5
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 6
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_US_SE_SB_EXP_01", 
+                    "point": 6
+                }, 
+                {
+                    "num": 1000, 
+                    "type": 3, 
+                    "point": 7
+                }, 
+                {
+                    "num": 3, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "point": 7
+                }
+            ], 
+            "banner": "LoginBonus_PeriodBanner_0026"
         }
     ]
 }

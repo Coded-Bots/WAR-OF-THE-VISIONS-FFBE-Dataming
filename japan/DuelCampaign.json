@@ -129,6 +129,18 @@
         {
             "campaigns": [
                 {
+                    "start_at": "2020/5/22 0:00", 
+                    "type": 0, 
+                    "value": 200, 
+                    "end_at": "2020/5/31 23:59:59"
+                }
+            ], 
+            "duel_type": 0, 
+            "iname": "CMP_ARENA_200522"
+        }, 
+        {
+            "campaigns": [
+                {
                     "start_at": "2019/11/27 5:00", 
                     "type": 0, 
                     "value": 200, 

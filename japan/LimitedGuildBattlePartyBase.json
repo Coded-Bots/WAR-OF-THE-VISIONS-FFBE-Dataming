@@ -23,6 +23,22 @@
             "rarity_max": 5, 
             "rarity_min": 0, 
             "order": 3
+        }, 
+        {
+            "slot": 4, 
+            "iname": "PB_LGB_Male", 
+            "sex": 1, 
+            "rarity_max": 5, 
+            "rarity_min": 0, 
+            "order": 4
+        }, 
+        {
+            "slot": 5, 
+            "iname": "PB_LGB_Female", 
+            "sex": 2, 
+            "rarity_max": 5, 
+            "rarity_min": 0, 
+            "order": 5
         }
     ]
 }

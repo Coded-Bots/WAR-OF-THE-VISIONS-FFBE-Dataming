@@ -4312,18 +4312,18 @@
                 {
                     "hit": 1, 
                     "crt": 1, 
-                    "hp": 3, 
-                    "atk": 9, 
+                    "hp": 4, 
+                    "atk": 10, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
                     "def": 0
                 }, 
                 {
-                    "hp": 69, 
+                    "hp": 71, 
                     "hit": 17, 
-                    "atk": 189, 
-                    "mag": 21, 
+                    "atk": 202, 
+                    "mag": 13, 
                     "crt": 15
                 }
             ], 
@@ -4366,18 +4366,18 @@
                 {
                     "hit": 1, 
                     "crt": 1, 
-                    "hp": 3, 
-                    "atk": 9, 
+                    "hp": 4, 
+                    "atk": 10, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
                     "def": 0
                 }, 
                 {
-                    "hp": 69, 
+                    "hp": 71, 
                     "hit": 17, 
-                    "atk": 189, 
-                    "mag": 21, 
+                    "atk": 202, 
+                    "mag": 13, 
                     "crt": 15
                 }
             ], 
@@ -4402,11 +4402,11 @@
                 3
             ], 
             "skl2": [
-                "SK_LW_SLASH_1"
+                "SK_LW_DF_SLASH_1"
             ], 
             "asset": "LAPSwpn_bsw_003", 
             "skl3": [
-                "SK_LW_SLASH_1"
+                "SK_LW_DF_SLASH_1"
             ], 
             "randr": [
                 {
@@ -4419,14 +4419,14 @@
             ], 
             "equip": "AEC_BSWORD", 
             "skl1": [
-                "SK_LW_SLASH_1"
+                "SK_LW_DF_SLASH_1"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SLASH_1"
+                "SK_LW_DF_SLASH_1"
             ], 
             "skl5": [
-                "SK_LW_SLASH_1"
+                "SK_LW_DF_SLASH_1"
             ]
         }, 
         {
@@ -4435,18 +4435,18 @@
                 {
                     "hit": 1, 
                     "crt": 1, 
-                    "hp": 3, 
-                    "atk": 9, 
+                    "hp": 4, 
+                    "atk": 10, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
                     "def": 0
                 }, 
                 {
-                    "hp": 69, 
+                    "hp": 71, 
                     "hit": 17, 
-                    "atk": 189, 
-                    "mag": 21, 
+                    "atk": 202, 
+                    "mag": 13, 
                     "crt": 15
                 }
             ], 
@@ -4471,11 +4471,11 @@
                 3
             ], 
             "skl2": [
-                "SK_LW_SLASH_2"
+                "SK_LW_DF_SLASH_2"
             ], 
             "asset": "LAPSwpn_bsw_003", 
             "skl3": [
-                "SK_LW_SLASH_2"
+                "SK_LW_DF_SLASH_2"
             ], 
             "randr": [
                 {
@@ -4488,14 +4488,14 @@
             ], 
             "equip": "AEC_BSWORD", 
             "skl1": [
-                "SK_LW_SLASH_2"
+                "SK_LW_DF_SLASH_2"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SLASH_2"
+                "SK_LW_DF_SLASH_2"
             ], 
             "skl5": [
-                "SK_LW_SLASH_2"
+                "SK_LW_DF_SLASH_2"
             ]
         }, 
         {
@@ -4504,18 +4504,18 @@
                 {
                     "hit": 1, 
                     "crt": 1, 
-                    "hp": 3, 
-                    "atk": 9, 
+                    "hp": 4, 
+                    "atk": 10, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
                     "def": 0
                 }, 
                 {
-                    "hp": 69, 
+                    "hp": 71, 
                     "hit": 17, 
-                    "atk": 189, 
-                    "mag": 21, 
+                    "atk": 202, 
+                    "mag": 13, 
                     "crt": 15
                 }
             ], 
@@ -4540,11 +4540,11 @@
                 3
             ], 
             "skl2": [
-                "SK_LW_SLASH_3"
+                "SK_LW_DF_SLASH_3"
             ], 
             "asset": "LAPSwpn_bsw_003", 
             "skl3": [
-                "SK_LW_SLASH_3"
+                "SK_LW_DF_SLASH_3"
             ], 
             "randr": [
                 {
@@ -4557,14 +4557,14 @@
             ], 
             "equip": "AEC_BSWORD", 
             "skl1": [
-                "SK_LW_SLASH_3"
+                "SK_LW_DF_SLASH_3"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SLASH_3"
+                "SK_LW_DF_SLASH_3"
             ], 
             "skl5": [
-                "SK_LW_SLASH_3"
+                "SK_LW_DF_SLASH_3"
             ]
         }, 
         {
@@ -4573,18 +4573,18 @@
                 {
                     "hit": 1, 
                     "crt": 1, 
-                    "hp": 3, 
-                    "atk": 9, 
+                    "hp": 4, 
+                    "atk": 10, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
                     "def": 0
                 }, 
                 {
-                    "hp": 69, 
+                    "hp": 71, 
                     "hit": 17, 
-                    "atk": 189, 
-                    "mag": 21, 
+                    "atk": 202, 
+                    "mag": 13, 
                     "crt": 15
                 }
             ], 
@@ -4609,11 +4609,11 @@
                 3
             ], 
             "skl2": [
-                "SK_LW_SLASH_4_SSR"
+                "SK_LW_DF_SLASH_4_N_SSR"
             ], 
             "asset": "LAPSwpn_bsw_003", 
             "skl3": [
-                "SK_LW_SLASH_4_SSR"
+                "SK_LW_DF_SLASH_4_N_SSR"
             ], 
             "randr": [
                 {
@@ -4626,14 +4626,14 @@
             ], 
             "equip": "AEC_BSWORD", 
             "skl1": [
-                "SK_LW_SLASH_4_SSR"
+                "SK_LW_DF_SLASH_4_N_SSR"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SLASH_4_SSR"
+                "SK_LW_DF_SLASH_4_N_SSR"
             ], 
             "skl5": [
-                "SK_LW_SLASH_4_SSR"
+                "SK_LW_DF_SLASH_4_N_SSR"
             ]
         }, 
         {
@@ -4642,18 +4642,18 @@
                 {
                     "hit": 1, 
                     "crt": 1, 
-                    "hp": 3, 
-                    "atk": 9, 
+                    "hp": 4, 
+                    "atk": 10, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
                     "def": 0
                 }, 
                 {
-                    "hp": 69, 
+                    "hp": 71, 
                     "hit": 17, 
-                    "atk": 189, 
-                    "mag": 21, 
+                    "atk": 202, 
+                    "mag": 13, 
                     "crt": 15
                 }
             ], 
@@ -4678,11 +4678,11 @@
                 3
             ], 
             "skl2": [
-                "SK_LW_SLASH_5_SSR"
+                "SK_LW_DF_SLASH_5_SSR"
             ], 
             "asset": "LAPSwpn_bsw_003", 
             "skl3": [
-                "SK_LW_SLASH_5_SSR"
+                "SK_LW_DF_SLASH_5_SSR"
             ], 
             "randr": [
                 {
@@ -4695,14 +4695,14 @@
             ], 
             "equip": "AEC_BSWORD", 
             "skl1": [
-                "SK_LW_SLASH_5_SSR"
+                "SK_LW_DF_SLASH_5_SSR"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SLASH_5_SSR"
+                "SK_LW_DF_SLASH_5_SSR"
             ], 
             "skl5": [
-                "SK_LW_SLASH_5_SSR"
+                "SK_LW_DF_SLASH_5_SSR"
             ]
         }, 
         {

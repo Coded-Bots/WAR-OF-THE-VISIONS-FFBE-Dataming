@@ -20526,6 +20526,98 @@
             "size": 1
         }, 
         {
+            "cost": 0, 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_IFRT_QE", 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "atkskl": "SK_IFRT_ATK", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "no_kb": 1, 
+            "body_type": "NB_M", 
+            "tag": [
+                2
+            ], 
+            "status": [
+                {
+                    "cda": 999, 
+                    "cbe": 999, 
+                    "cdm": 50, 
+                    "cdo": 999, 
+                    "cbl": 50, 
+                    "cpe": 999, 
+                    "ap": 72, 
+                    "spd": 30, 
+                    "csl": 50, 
+                    "cfr": 999, 
+                    "ewa": -10, 
+                    "cst": 999, 
+                    "csw": 50, 
+                    "luk": 95, 
+                    "jmp": 4, 
+                    "cch": 999, 
+                    "hp": 240, 
+                    "mov": 5, 
+                    "mnd": 0, 
+                    "mag": 112, 
+                    "dmax": 9999, 
+                    "dex": 104, 
+                    "cpo": 999, 
+                    "cpa": 50, 
+                    "atk": 72, 
+                    "eic": 20, 
+                    "mp": 60, 
+                    "cmu": 999, 
+                    "ccf": 50, 
+                    "def": 0
+                }, 
+                {
+                    "cda": 999, 
+                    "cbe": 999, 
+                    "cdm": 50, 
+                    "cdo": 999, 
+                    "cbl": 50, 
+                    "cpe": 999, 
+                    "ap": 144, 
+                    "spd": 80, 
+                    "csl": 50, 
+                    "cfr": 999, 
+                    "ewa": -10, 
+                    "cst": 999, 
+                    "csw": 50, 
+                    "luk": 234, 
+                    "jmp": 4, 
+                    "cch": 999, 
+                    "hp": 5250, 
+                    "mov": 5, 
+                    "mnd": 0, 
+                    "mag": 285, 
+                    "dmax": 9999, 
+                    "dex": 243, 
+                    "cpo": 999, 
+                    "cpa": 50, 
+                    "atk": 165, 
+                    "eic": 20, 
+                    "mp": 150, 
+                    "cmu": 999, 
+                    "ccf": 50, 
+                    "def": 0
+                }
+            ], 
+            "birth": 1, 
+            "charaId": "LAPSifrt", 
+            "grow": "SR_DEFAULT", 
+            "height": 280, 
+            "type": 8, 
+            "species": [
+                2
+            ], 
+            "size": 1
+        }, 
+        {
             "status": [
                 {
                     "dex": 69, 
@@ -23192,6 +23284,62 @@
         {
             "status": [
                 {
+                    "dex": 104, 
+                    "efi": -10, 
+                    "spd": 19, 
+                    "hp": 241, 
+                    "atk": 56, 
+                    "mov": 5, 
+                    "ap": 72, 
+                    "mp": 60, 
+                    "mag": 28, 
+                    "dmax": 9999, 
+                    "luk": 96, 
+                    "mnd": 0, 
+                    "jmp": 4, 
+                    "def": 0
+                }, 
+                {
+                    "dex": 243, 
+                    "efi": -10, 
+                    "spd": 71, 
+                    "hp": 5218, 
+                    "atk": 154, 
+                    "mov": 5, 
+                    "ap": 144, 
+                    "mp": 150, 
+                    "mag": 92, 
+                    "dmax": 9999, 
+                    "luk": 229, 
+                    "mnd": 0, 
+                    "jmp": 4, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_FNRR", 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "atkskl": "SK_FNRR_ATK", 
+            "elem": [
+                2
+            ], 
+            "sex": 3, 
+            "no_kb": 1, 
+            "body_type": "NB_M", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSfnrr", 
+            "grow": "SR_DEFAULT", 
+            "type": 8, 
+            "species": [
+                2
+            ], 
+            "size": 1
+        }, 
+        {
+            "status": [
+                {
                     "dex": 55, 
                     "mov": 6, 
                     "dmax": 9999, 
@@ -25260,6 +25408,95 @@
             "charaId": "LAPSdabl", 
             "grow": "SR_DEFAULT", 
             "height": 280, 
+            "type": 8, 
+            "species": [
+                2
+            ], 
+            "size": 1
+        }, 
+        {
+            "status": [
+                {
+                    "cda": 50, 
+                    "cbe": 100, 
+                    "cdm": 30, 
+                    "cdo": 100, 
+                    "cbl": 30, 
+                    "cpe": 100, 
+                    "ap": 72, 
+                    "spd": 19, 
+                    "csl": 100, 
+                    "cfr": 100, 
+                    "efi": -10, 
+                    "cst": 50, 
+                    "csw": 30, 
+                    "luk": 96, 
+                    "jmp": 4, 
+                    "cch": 50, 
+                    "hp": 241, 
+                    "mov": 5, 
+                    "mnd": 0, 
+                    "mag": 28, 
+                    "dmax": 9999, 
+                    "asl": -10, 
+                    "dex": 104, 
+                    "cpo": 100, 
+                    "cpa": 100, 
+                    "atk": 56, 
+                    "mp": 60, 
+                    "cmu": 100, 
+                    "ccf": 100, 
+                    "def": 0
+                }, 
+                {
+                    "cda": 50, 
+                    "cbe": 100, 
+                    "cdm": 30, 
+                    "cdo": 100, 
+                    "cbl": 30, 
+                    "cpe": 100, 
+                    "ap": 144, 
+                    "spd": 71, 
+                    "csl": 100, 
+                    "cfr": 100, 
+                    "efi": -10, 
+                    "cst": 50, 
+                    "csw": 30, 
+                    "luk": 229, 
+                    "jmp": 4, 
+                    "cch": 50, 
+                    "hp": 5218, 
+                    "mov": 5, 
+                    "mnd": 0, 
+                    "mag": 92, 
+                    "dmax": 9999, 
+                    "asl": -10, 
+                    "dex": 243, 
+                    "cpo": 100, 
+                    "cpa": 100, 
+                    "atk": 154, 
+                    "mp": 150, 
+                    "cmu": 100, 
+                    "ccf": 100, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_FNRR_SIREN", 
+            "atkskl": "SK_FNRR_ATK", 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "base_unit_iname": "UN_LW_E_FNRR", 
+            "elem": [
+                2
+            ], 
+            "sex": 3, 
+            "no_kb": 1, 
+            "body_type": "NB_M", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSfnrr", 
+            "grow": "SR_DEFAULT", 
             "type": 8, 
             "species": [
                 2
@@ -30715,6 +30952,161 @@
             "cost": 40, 
             "birth": 1, 
             "charaId": "LAPSdabl", 
+            "grow": "SB_R3_DEFAULT", 
+            "type": 11, 
+            "species": [
+                2
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 28, 
+                    "ewi": 10, 
+                    "efi": -10, 
+                    "hp": 88, 
+                    "atk": 35, 
+                    "mov": 0, 
+                    "ap": 26, 
+                    "mp": 19, 
+                    "mag": 15, 
+                    "luk": 29, 
+                    "spd": 10, 
+                    "jmp": 0
+                }, 
+                {
+                    "dex": 42, 
+                    "ewi": 10, 
+                    "efi": -10, 
+                    "hp": 429, 
+                    "atk": 61, 
+                    "mov": 0, 
+                    "ap": 32, 
+                    "mp": 24, 
+                    "mag": 24, 
+                    "luk": 43, 
+                    "spd": 12, 
+                    "jmp": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_FNRR", 
+            "atkskl": "SK_SMN_FNRR", 
+            "elem": [
+                2
+            ], 
+            "sex": 3, 
+            "body_type": "NB_M", 
+            "cost": 40, 
+            "nb_exp_coef_id": "SB_EXP_ICE_01", 
+            "birth": 1, 
+            "nb_lv_tbl": "SB_LVTBL_UR_01", 
+            "charaId": "LAPSfnrr", 
+            "grow": "SB_R1_DEFAULT", 
+            "nb_awake_id": [
+                "UN_LW_S_FNRR_AW1"
+            ], 
+            "type": 1, 
+            "species": [
+                2
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 44, 
+                    "ewi": 10, 
+                    "efi": -10, 
+                    "hp": 472, 
+                    "atk": 64, 
+                    "mov": 0, 
+                    "ap": 33, 
+                    "mp": 25, 
+                    "mag": 25, 
+                    "luk": 45, 
+                    "spd": 12, 
+                    "jmp": 0
+                }, 
+                {
+                    "dex": 60, 
+                    "ewi": 10, 
+                    "efi": -10, 
+                    "hp": 849, 
+                    "atk": 94, 
+                    "mov": 0, 
+                    "ap": 39, 
+                    "mp": 32, 
+                    "mag": 35, 
+                    "luk": 62, 
+                    "spd": 14, 
+                    "jmp": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_FNRR_AW1", 
+            "atkskl": "SK_SMN_FNRR", 
+            "elem": [
+                2
+            ], 
+            "sex": 3, 
+            "body_type": "NB_M", 
+            "cost": 40, 
+            "birth": 1, 
+            "charaId": "LAPSfnrr", 
+            "grow": "SB_R2_DEFAULT", 
+            "type": 11, 
+            "species": [
+                2
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 61, 
+                    "ewi": 10, 
+                    "efi": -10, 
+                    "hp": 891, 
+                    "atk": 95, 
+                    "mov": 0, 
+                    "ap": 39, 
+                    "mp": 32, 
+                    "mag": 35, 
+                    "luk": 62, 
+                    "spd": 14, 
+                    "jmp": 0
+                }, 
+                {
+                    "dex": 68, 
+                    "ewi": 10, 
+                    "efi": -10, 
+                    "hp": 1025, 
+                    "atk": 109, 
+                    "mov": 0, 
+                    "ap": 43, 
+                    "mp": 35, 
+                    "mag": 40, 
+                    "luk": 70, 
+                    "spd": 16, 
+                    "jmp": 0
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_FNRR_AW2", 
+            "atkskl": "SK_SMN_FNRR", 
+            "elem": [
+                2
+            ], 
+            "sex": 3, 
+            "body_type": "NB_M", 
+            "cost": 40, 
+            "birth": 1, 
+            "charaId": "LAPSfnrr", 
             "grow": "SB_R3_DEFAULT", 
             "type": 11, 
             "species": [
