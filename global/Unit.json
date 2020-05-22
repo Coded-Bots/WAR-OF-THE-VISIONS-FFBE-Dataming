@@ -4439,6 +4439,180 @@
             "piece": "IT_PI_LW_KTON"
         }, 
         {
+            "iname": "UN_LW_P_MRND", 
+            "piece_num": 40, 
+            "ai": "AI_PLAYER_LW_RDM", 
+            "sex": 2, 
+            "body_type": "W", 
+            "cost": 80, 
+            "db_num": 1, 
+            "debuff_pri": "DEBUFFPRI_MAGATK", 
+            "trust": "AF_CLT_LW_MRND_1", 
+            "species": [
+                1
+            ], 
+            "size": 0, 
+            "jobsets": [
+                "JB_LW_RDM_WATR", 
+                "JB_LW_TIM_WATER", 
+                "JB_LW_PLD_WATER"
+            ], 
+            "personal": 1, 
+            "limit": "SK_LB_LW_MRND", 
+            "buff_pri": "BUFFPRI_MAGATK", 
+            "awake_tbl_id": "UN_AW_WATER_UR", 
+            "charaId": "LAPSmrnd", 
+            "type": 0, 
+            "status": [
+                {
+                    "dex": 63, 
+                    "ash": -15, 
+                    "efi": 20, 
+                    "dmax": 9999, 
+                    "spd": 29, 
+                    "hp": 263, 
+                    "cch": 10, 
+                    "abl": -5, 
+                    "atk": 71, 
+                    "mov": 3, 
+                    "ap": 75, 
+                    "mp": 62, 
+                    "mag": 78, 
+                    "cpa": 50, 
+                    "cst": 50, 
+                    "eth": -10, 
+                    "luk": 67, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "asl": 10
+                }, 
+                {
+                    "dex": 93, 
+                    "ash": -15, 
+                    "efi": 20, 
+                    "dmax": 9999, 
+                    "spd": 34, 
+                    "hp": 950, 
+                    "cch": 10, 
+                    "abl": -5, 
+                    "atk": 119, 
+                    "mov": 3, 
+                    "ap": 92, 
+                    "mp": 97, 
+                    "mag": 131, 
+                    "cpa": 50, 
+                    "cst": 50, 
+                    "eth": -10, 
+                    "luk": 95, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "asl": 10
+                }
+            ], 
+            "anm_type": 1, 
+            "hasVoice": 1, 
+            "birth": 5, 
+            "grow": "SR_DEFAULT", 
+            "rare": 4, 
+            "atkskl": "SK_LW_RDM_ATK", 
+            "elem": [
+                6
+            ], 
+            "mstskl": "SK_MA_LW_MRND", 
+            "piece": "IT_PI_LW_MRND"
+        }, 
+        {
+            "iname": "UN_LW_P_DRND", 
+            "piece_num": 20, 
+            "ai": "AI_PLAYER_LW_VIK", 
+            "sex": 1, 
+            "body_type": "L", 
+            "cost": 50, 
+            "db_num": 1, 
+            "debuff_pri": "DEBUFFPRI_PHYATK", 
+            "trust": "AF_AXE_LW_DRND_1", 
+            "species": [
+                1
+            ], 
+            "size": 0, 
+            "jobsets": [
+                "JB_LW_VIK_SOIL", 
+                "JB_LW_MNK_SOIL", 
+                "JB_LW_GUN_SOIL"
+            ], 
+            "personal": 9, 
+            "buff_pri": "BUFFPRI_PHYATK", 
+            "awake_tbl_id": "UN_AW_SOIL_SSR", 
+            "charaId": "LAPSdrnd", 
+            "type": 0, 
+            "status": [
+                {
+                    "cdo": 10, 
+                    "cbl": 50, 
+                    "cpe": 50, 
+                    "ap": 56, 
+                    "api": 15, 
+                    "spd": 24, 
+                    "ewi": -15, 
+                    "mnd": 0, 
+                    "abl": 15, 
+                    "cst": -25, 
+                    "luk": 57, 
+                    "jmp": 1, 
+                    "ama": -25, 
+                    "hp": 214, 
+                    "mov": 3, 
+                    "mag": 26, 
+                    "dmax": 9999, 
+                    "ash": -10, 
+                    "asl": -10, 
+                    "dex": 60, 
+                    "atk": 62, 
+                    "mp": 47, 
+                    "eth": 10, 
+                    "def": 0
+                }, 
+                {
+                    "cdo": 10, 
+                    "cbl": 50, 
+                    "cpe": 50, 
+                    "ap": 69, 
+                    "api": 15, 
+                    "spd": 28, 
+                    "ewi": -15, 
+                    "mnd": 0, 
+                    "abl": 15, 
+                    "cst": -25, 
+                    "luk": 81, 
+                    "jmp": 1, 
+                    "ama": -25, 
+                    "hp": 811, 
+                    "mov": 3, 
+                    "mag": 43, 
+                    "dmax": 9999, 
+                    "ash": -10, 
+                    "asl": -10, 
+                    "dex": 90, 
+                    "atk": 104, 
+                    "mp": 74, 
+                    "eth": 10, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 1, 
+            "birth": 6, 
+            "grow": "SR_DEFAULT", 
+            "rare": 3, 
+            "atkskl": "SK_LW_VIK_ATK", 
+            "elem": [
+                4
+            ], 
+            "mstskl": "SK_MA_LW_DRND", 
+            "piece": "IT_PI_LW_DRND"
+        }, 
+        {
             "iname": "UN_LW_P_MURG", 
             "piece_num": 40, 
             "ai": "AI_PLAYER_LW_SWN", 
@@ -6599,6 +6773,160 @@
                 "JB_LW_MNK_WATER"
             ], 
             "charaId": "LAPSsevr", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                1
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "cda": 50, 
+                    "ap": 70, 
+                    "api": 25, 
+                    "spd": 30, 
+                    "mnd": 0, 
+                    "abl": 25, 
+                    "cst": 50, 
+                    "csw": -5, 
+                    "luk": 74, 
+                    "jmp": 1, 
+                    "esh": -10, 
+                    "ama": 25, 
+                    "hp": 193, 
+                    "mov": 3, 
+                    "mag": 44, 
+                    "dmax": 9999, 
+                    "ash": 25, 
+                    "asl": 25, 
+                    "dex": 66, 
+                    "atk": 75, 
+                    "mp": 59, 
+                    "def": 0
+                }, 
+                {
+                    "cda": 50, 
+                    "ap": 87, 
+                    "api": 25, 
+                    "spd": 34, 
+                    "mnd": 0, 
+                    "abl": 25, 
+                    "cst": 50, 
+                    "csw": -5, 
+                    "luk": 105, 
+                    "jmp": 1, 
+                    "esh": -10, 
+                    "ama": 25, 
+                    "hp": 759, 
+                    "mov": 3, 
+                    "mag": 75, 
+                    "dmax": 9999, 
+                    "ash": 25, 
+                    "asl": 25, 
+                    "dex": 98, 
+                    "atk": 126, 
+                    "mp": 92, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 1, 
+            "rare": 4, 
+            "iname": "UN_LW_E_WHIS", 
+            "personal": 2, 
+            "atkskl": "SK_LW_KNT_ATK", 
+            "elem": [
+                8
+            ], 
+            "sex": 2, 
+            "ai": "AI_PLAYER_LW_KNT", 
+            "body_type": "S", 
+            "cost": 70, 
+            "birth": 6, 
+            "jobsets": [
+                "JB_LW_KNT_DARK", 
+                "JB_LW_SAM_DARK", 
+                "JB_LW_MGK_DARK"
+            ], 
+            "charaId": "LAPSwhis", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                1
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "cdm": 50, 
+                    "ap": 71, 
+                    "api": -10, 
+                    "spd": 30, 
+                    "csl": 50, 
+                    "ewi": -10, 
+                    "mnd": 0, 
+                    "abl": 5, 
+                    "luk": 67, 
+                    "jmp": 1, 
+                    "ama": -10, 
+                    "hp": 243, 
+                    "mov": 3, 
+                    "mag": 35, 
+                    "dmax": 9999, 
+                    "asl": 10, 
+                    "dex": 73, 
+                    "atk": 89, 
+                    "mp": 59, 
+                    "eth": 20, 
+                    "ccf": -5, 
+                    "def": 0
+                }, 
+                {
+                    "cdm": 50, 
+                    "ap": 87, 
+                    "api": -10, 
+                    "spd": 35, 
+                    "csl": 50, 
+                    "ewi": -10, 
+                    "mnd": 0, 
+                    "abl": 5, 
+                    "luk": 94, 
+                    "jmp": 1, 
+                    "ama": -10, 
+                    "hp": 781, 
+                    "mov": 3, 
+                    "mag": 58, 
+                    "dmax": 9999, 
+                    "asl": 10, 
+                    "dex": 109, 
+                    "atk": 151, 
+                    "mp": 92, 
+                    "eth": 20, 
+                    "ccf": -5, 
+                    "def": 0
+                }
+            ], 
+            "anm_type": 1, 
+            "rare": 4, 
+            "iname": "UN_LW_E_KTON", 
+            "personal": 2, 
+            "atkskl": "SK_LW_NIN_ATK", 
+            "elem": [
+                4
+            ], 
+            "sex": 2, 
+            "ai": "AI_PLAYER_LW_NIN", 
+            "body_type": "S", 
+            "cost": 80, 
+            "birth": 2, 
+            "jobsets": [
+                "JB_LW_NIN_SOIL", 
+                "JB_LW_SWN_SOIL", 
+                "JB_LW_TIM_SOIL"
+            ], 
+            "charaId": "LAPSkton", 
             "grow": "SR_DEFAULT", 
             "type": 7, 
             "species": [
@@ -14076,6 +14404,219 @@
         {
             "status": [
                 {
+                    "dex": 61, 
+                    "iniap": -40, 
+                    "mov": 3, 
+                    "ash": 10, 
+                    "ama": -25, 
+                    "spd": 27, 
+                    "hp": 170, 
+                    "atk": 53, 
+                    "cbl": -50, 
+                    "cpe": 50, 
+                    "ap": 41, 
+                    "cfr": 100, 
+                    "api": 10, 
+                    "mp": 35, 
+                    "mag": 20, 
+                    "dmax": 9999, 
+                    "luk": 63, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "cch": 25
+                }, 
+                {
+                    "dex": 166, 
+                    "iniap": -62, 
+                    "mov": 3, 
+                    "ash": 10, 
+                    "ama": -25, 
+                    "spd": 52, 
+                    "hp": 750, 
+                    "atk": 134, 
+                    "cbl": -50, 
+                    "cpe": 50, 
+                    "ap": 50, 
+                    "cfr": 100, 
+                    "api": 10, 
+                    "mp": 54, 
+                    "mag": 33, 
+                    "dmax": 9999, 
+                    "luk": 164, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "cch": 25
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_LAMA", 
+            "personal": 1, 
+            "steal": "ST_JB_FIST", 
+            "atkskl": "SK_LAMA_ATK", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "body_type": "MO", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSlama", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                4
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 66, 
+                    "iniap": -43, 
+                    "mov": 3, 
+                    "ash": 15, 
+                    "ama": -15, 
+                    "spd": 29, 
+                    "hp": 237, 
+                    "atk": 83, 
+                    "cbl": -50, 
+                    "cpe": 50, 
+                    "ap": 55, 
+                    "cfr": 100, 
+                    "api": 15, 
+                    "mp": 46, 
+                    "mag": 26, 
+                    "dmax": 9999, 
+                    "luk": 70, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "cch": 25
+                }, 
+                {
+                    "dex": 182, 
+                    "iniap": -66, 
+                    "mov": 3, 
+                    "ash": 15, 
+                    "ama": -15, 
+                    "spd": 58, 
+                    "hp": 1287, 
+                    "atk": 219, 
+                    "cbl": -50, 
+                    "cpe": 50, 
+                    "ap": 67, 
+                    "cfr": 100, 
+                    "api": 15, 
+                    "mp": 72, 
+                    "mag": 44, 
+                    "dmax": 9999, 
+                    "luk": 180, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "cch": 25
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_LAMA_01", 
+            "personal": 1, 
+            "steal": "ST_JB_FIST", 
+            "atkskl": "SK_LAMA_ATK", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "body_type": "MO", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSlama", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                4
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 76, 
+                    "iniap": -49, 
+                    "mov": 3, 
+                    "ash": 25, 
+                    "ama": -10, 
+                    "spd": 32, 
+                    "hp": 296, 
+                    "atk": 111, 
+                    "cbl": -50, 
+                    "cpe": 50, 
+                    "ap": 69, 
+                    "cfr": 100, 
+                    "api": 25, 
+                    "mp": 57, 
+                    "mag": 32, 
+                    "dmax": 9999, 
+                    "luk": 79, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "cch": 25
+                }, 
+                {
+                    "dex": 208, 
+                    "iniap": -76, 
+                    "mov": 3, 
+                    "ash": 25, 
+                    "ama": -10, 
+                    "spd": 66, 
+                    "hp": 1966, 
+                    "atk": 323, 
+                    "cbl": -50, 
+                    "cpe": 50, 
+                    "ap": 84, 
+                    "cfr": 100, 
+                    "api": 25, 
+                    "mp": 90, 
+                    "mag": 55, 
+                    "dmax": 9999, 
+                    "luk": 206, 
+                    "mnd": 0, 
+                    "jmp": 2, 
+                    "def": 0, 
+                    "cch": 25
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_E_LAMA_02", 
+            "personal": 1, 
+            "steal": "ST_JB_FIST", 
+            "atkskl": "SK_LAMA_ATK", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "ai": "AI_ENEMY_ATK_LV3", 
+            "body_type": "MO", 
+            "cost": 0, 
+            "birth": 1, 
+            "charaId": "LAPSlama", 
+            "grow": "SR_DEFAULT", 
+            "type": 7, 
+            "species": [
+                4
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
                     "eda": -25, 
                     "cda": 100, 
                     "cbe": 50, 
@@ -20954,6 +21495,161 @@
             "type": 11, 
             "species": [
                 6
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 21, 
+                    "hp": 85, 
+                    "atk": 21, 
+                    "mov": 0, 
+                    "ap": 20, 
+                    "eic": 5, 
+                    "mp": 20, 
+                    "mag": 21, 
+                    "jmp": 0, 
+                    "luk": 21, 
+                    "spd": 8, 
+                    "ewa": -10
+                }, 
+                {
+                    "dex": 32, 
+                    "hp": 415, 
+                    "atk": 31, 
+                    "mov": 0, 
+                    "ap": 24, 
+                    "eic": 5, 
+                    "mp": 24, 
+                    "mag": 31, 
+                    "jmp": 0, 
+                    "luk": 32, 
+                    "spd": 10, 
+                    "ewa": -10
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_LAMA_01", 
+            "atkskl": "SK_SMN_LAMA", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "body_type": "NB_S", 
+            "cost": 30, 
+            "nb_exp_coef_id": "SB_EXP_FIRE_01", 
+            "birth": 1, 
+            "nb_lv_tbl": "SB_LVTBL_SSR_01", 
+            "charaId": "LAPSlama", 
+            "grow": "SB_R1_DEFAULT", 
+            "nb_awake_id": [
+                "UN_LW_S_LAMA_01_AW1"
+            ], 
+            "type": 1, 
+            "species": [
+                4
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 33, 
+                    "hp": 456, 
+                    "atk": 33, 
+                    "mov": 0, 
+                    "ap": 24, 
+                    "eic": 5, 
+                    "mp": 24, 
+                    "mag": 33, 
+                    "jmp": 0, 
+                    "luk": 33, 
+                    "spd": 10, 
+                    "ewa": -10
+                }, 
+                {
+                    "dex": 46, 
+                    "hp": 821, 
+                    "atk": 48, 
+                    "mov": 0, 
+                    "ap": 25, 
+                    "eic": 5, 
+                    "mp": 25, 
+                    "mag": 48, 
+                    "jmp": 0, 
+                    "luk": 46, 
+                    "spd": 12, 
+                    "ewa": -10
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_LAMA_01_AW1", 
+            "atkskl": "SK_SMN_LAMA", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "body_type": "NB_S", 
+            "cost": 30, 
+            "birth": 1, 
+            "charaId": "LAPSlama", 
+            "grow": "SB_R2_DEFAULT", 
+            "type": 11, 
+            "species": [
+                4
+            ], 
+            "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "dex": 46, 
+                    "hp": 862, 
+                    "atk": 50, 
+                    "mov": 0, 
+                    "ap": 25, 
+                    "eic": 5, 
+                    "mp": 25, 
+                    "mag": 50, 
+                    "jmp": 0, 
+                    "luk": 46, 
+                    "spd": 12, 
+                    "ewa": -10
+                }, 
+                {
+                    "dex": 52, 
+                    "hp": 991, 
+                    "atk": 57, 
+                    "mov": 0, 
+                    "ap": 29, 
+                    "eic": 5, 
+                    "mp": 29, 
+                    "mag": 57, 
+                    "jmp": 0, 
+                    "luk": 52, 
+                    "spd": 13, 
+                    "ewa": -10
+                }
+            ], 
+            "anm_type": 2, 
+            "rare": 0, 
+            "iname": "UN_LW_S_LAMA_01_AW2", 
+            "atkskl": "SK_SMN_LAMA", 
+            "elem": [
+                1
+            ], 
+            "sex": 3, 
+            "body_type": "NB_S", 
+            "cost": 30, 
+            "birth": 1, 
+            "charaId": "LAPSlama", 
+            "grow": "SB_R3_DEFAULT", 
+            "type": 11, 
+            "species": [
+                4
             ], 
             "size": 0
         }, 

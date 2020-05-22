@@ -28439,6 +28439,88 @@
             ]
         }, 
         {
+            "sell": 0, 
+            "status": [
+                {
+                    "hp": 482, 
+                    "crta": 8, 
+                    "def": 10
+                }, 
+                {
+                    "hp": 482, 
+                    "crta": 8, 
+                    "def": 10
+                }
+            ], 
+            "skl1": [
+                "SK_CLT_LW_MRND_1_1"
+            ], 
+            "rare": 4, 
+            "iname": "AF_CLT_LW_MRND_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                21
+            ], 
+            "asset": "LAPSwpn_clt_007", 
+            "skl3": [
+                "SK_CLT_LW_MRND_1_1"
+            ], 
+            "skl2": [
+                "SK_CLT_LW_MRND_1_1"
+            ], 
+            "equip": "AEC_CLOTH", 
+            "trust": 1, 
+            "type": 1, 
+            "skl4": [
+                "SK_CLT_LW_MRND_1_1"
+            ], 
+            "skl5": [
+                "SK_CLT_LW_MRND_1_1"
+            ]
+        }, 
+        {
+            "sell": 0, 
+            "status": [
+                {
+                    "hp": 68, 
+                    "hit": 12, 
+                    "atk": 114
+                }, 
+                {
+                    "hp": 68, 
+                    "hit": 12, 
+                    "atk": 114
+                }
+            ], 
+            "skl1": [
+                "SK_AXE_LW_DRND_1_1"
+            ], 
+            "rare": 3, 
+            "iname": "AF_AXE_LW_DRND_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                8
+            ], 
+            "asset": "LAPSwpn_axe_006", 
+            "skl3": [
+                "SK_AXE_LW_DRND_1_1"
+            ], 
+            "skl2": [
+                "SK_AXE_LW_DRND_1_1"
+            ], 
+            "equip": "AEC_AXE", 
+            "trust": 1, 
+            "type": 0, 
+            "skl4": [
+                "SK_AXE_LW_DRND_1_1"
+            ], 
+            "skl5": [
+                "SK_AXE_LW_DRND_1_1"
+            ]
+        }, 
+        {
             "sell": 25000, 
             "status": [
                 {
@@ -29047,6 +29129,36 @@
             ], 
             "asset": "LAPSwpn_nkn_006", 
             "equip": "AEC_NINJA", 
+            "type": 0
+        }, 
+        {
+            "sell": 25000, 
+            "status": [
+                {
+                    "hp": 4, 
+                    "hit": 1, 
+                    "atk": 9, 
+                    "mag": 7, 
+                    "crt": 1
+                }, 
+                {
+                    "hp": 69, 
+                    "hit": 17, 
+                    "atk": 168, 
+                    "mag": 126, 
+                    "crt": 13
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_SWO_LW_MRND_2", 
+            "rtype": "AF_LOT_50", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                2
+            ], 
+            "asset": "LAPSwpn_swo_010", 
+            "equip": "AEC_SWORD", 
             "type": 0
         }
     ]

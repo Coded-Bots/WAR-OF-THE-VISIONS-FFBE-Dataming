@@ -191,6 +191,20 @@
                     "lvcap": 80
                 }
             ]
+        }, 
+        {
+            "iname": "UN_LW_S_LAMA_01", 
+            "awakes": [
+                {
+                    "lvcap": 50
+                }, 
+                {
+                    "mat1": "IT_SB_AW_FIRE,15", 
+                    "cost": 25000, 
+                    "mat2": "IT_SB_AW_LAMA_01_R2,5", 
+                    "lvcap": 80
+                }
+            ]
         }
     ]
 }
