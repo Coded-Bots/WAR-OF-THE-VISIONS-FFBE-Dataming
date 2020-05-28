@@ -329,6 +329,39 @@
                 }
             ], 
             "iname": "BONUS_GL_005"
+        }, 
+        {
+            "bonuses": [
+                {
+                    "priority": 1, 
+                    "add_exp_speed": 150, 
+                    "unit_group_id": "UNIT_GROUP_GL_21", 
+                    "rate_fix_disp": 0, 
+                    "rate_fix_sub": 10
+                }, 
+                {
+                    "priority": 2, 
+                    "add_exp_speed": 130, 
+                    "unit_group_id": "UNIT_GROUP_GL_22", 
+                    "rate_fix_disp": 1, 
+                    "rate_fix_sub": 5
+                }, 
+                {
+                    "priority": 3, 
+                    "add_exp_speed": 120, 
+                    "unit_group_id": "UNIT_GROUP_GL_23", 
+                    "rate_fix_disp": 2, 
+                    "rate_fix_sub": 2
+                }, 
+                {
+                    "priority": 4, 
+                    "add_exp_speed": 110, 
+                    "unit_group_id": "UNIT_GROUP_GL_24", 
+                    "rate_fix_disp": 3, 
+                    "rate_fix_sub": 1
+                }
+            ], 
+            "iname": "BONUS_GL_006"
         }
     ]
 }

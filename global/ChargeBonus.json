@@ -624,6 +624,49 @@
                     "day": 5
                 }
             ]
+        }, 
+        {
+            "constant_bonus": [
+                {
+                    "item_id": "IT_PI_LW_STRN", 
+                    "num": 5, 
+                    "type": 0
+                }
+            ], 
+            "iname": "CHARGE_BONUS_GL_0008", 
+            "buy_lapis_num": 60, 
+            "day_bonus": [
+                {
+                    "item_id": "IT_JB_MM_ALL_3", 
+                    "num": 100, 
+                    "type": 0, 
+                    "day": 1
+                }, 
+                {
+                    "item_id": "IT_AW_VBALL_UR", 
+                    "num": 1, 
+                    "type": 0, 
+                    "day": 2
+                }, 
+                {
+                    "item_id": "IT_UN_AW_DARK", 
+                    "num": 10, 
+                    "type": 0, 
+                    "day": 3
+                }, 
+                {
+                    "item_id": "IT_PI_COM_DARK", 
+                    "num": 10, 
+                    "type": 0, 
+                    "day": 4
+                }, 
+                {
+                    "item_id": "IT_PI_LW_STRN", 
+                    "num": 15, 
+                    "type": 0, 
+                    "day": 5
+                }
+            ]
         }
     ]
 }

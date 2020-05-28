@@ -519,6 +519,196 @@
             "unit_iname": "UN_LW_P_MDNA"
         }, 
         {
+            "begin_at": "2020/06/01", 
+            "iname": "LB_202006", 
+            "end_at": "2020/06/30 23:59:59", 
+            "priority": 10000, 
+            "bonuses": [
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 1
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_US_EXP_01", 
+                    "point": 2
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_TICKET_STORY", 
+                    "point": 3
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 4
+                }, 
+                {
+                    "num": 100, 
+                    "type": 3, 
+                    "point": 5
+                }, 
+                {
+                    "pickup": 1, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "point": 6
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 7
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_US_EXP_02", 
+                    "point": 8
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "point": 9
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 10
+                }, 
+                {
+                    "pickup": 1, 
+                    "num": 200, 
+                    "type": 3, 
+                    "point": 11
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "point": 12
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 13
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_US_EXP_03", 
+                    "point": 14
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_TICKET_STORY", 
+                    "point": 15
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 16
+                }, 
+                {
+                    "pickup": 1, 
+                    "num": 300, 
+                    "type": 3, 
+                    "point": 17
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "point": 18
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 19
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_02", 
+                    "point": 20
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "point": 21
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 22
+                }, 
+                {
+                    "pickup": 1, 
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 23
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "point": 24
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 25
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_03", 
+                    "point": 26
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "point": 27
+                }, 
+                {
+                    "num": 5, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA", 
+                    "point": 28
+                }, 
+                {
+                    "pickup": 1, 
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 29
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "point": 30
+                }
+            ], 
+            "type": 1, 
+            "unit_iname": "UN_LW_P_LUCA"
+        }, 
+        {
             "begin_at": "2020/02/25", 
             "iname": "LB_LIMIT_GL_0001", 
             "type": 6, 
@@ -1402,6 +1592,70 @@
                 }
             ], 
             "banner": "LoginBonus_PeriodBanner_Global_0005"
+        }, 
+        {
+            "begin_at": "2020/05/27", 
+            "iname": "LB_LIMIT_GL0006", 
+            "type": 6, 
+            "end_at": "2020/06/02 17:59:59", 
+            "priority": 2, 
+            "bonuses": [
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 1
+                }, 
+                {
+                    "num": 5000000, 
+                    "type": 2, 
+                    "point": 1
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 2
+                }, 
+                {
+                    "num": 500, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_02", 
+                    "point": 2
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 3
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_US_GL_SE_SB_EXP_1", 
+                    "point": 3
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 4
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "point": 4
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 5
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_COM_ALL", 
+                    "point": 5
+                }
+            ], 
+            "banner": "LoginBonus_PeriodBanner_Global_0006"
         }
     ]
 }

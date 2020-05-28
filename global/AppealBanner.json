@@ -1,9 +1,9 @@
 {
     "items": [
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "ev_ff14_01", 
-            "end_at": "2020-04-14 23:59:59", 
+            "end_at": "2020/04/14 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -14,10 +14,10 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "GachaBanner_FF14_01", 
             "sval": "GachaBanner_FF14_01", 
-            "end_at": "2020-04-14 23:59:59", 
+            "end_at": "2020/04/14 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -28,9 +28,9 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "ev_anv_19_10", 
-            "end_at": "2020-03-31 23:59:59", 
+            "end_at": "2020/03/31 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -41,9 +41,9 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "LAPS_MULTI_0001", 
-            "end_at": "2020-03-31 23:59:59", 
+            "end_at": "2020/03/31 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -54,9 +54,9 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "LAPS_ARENA_0001", 
-            "end_at": "2020-04-07 20:59:59", 
+            "end_at": "2020/04/07 20:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -67,9 +67,9 @@
             "appeal_category": 3
         }, 
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "ev_gl_1m_dsq", 
-            "end_at": "2020-04-07 20:59:59", 
+            "end_at": "2020/04/07 20:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -80,9 +80,9 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-02-25", 
+            "start_at": "2020/02/25", 
             "iname": "ev_arti_crft_01", 
-            "end_at": "2020-04-14 23:59:59", 
+            "end_at": "2020/04/14 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -93,9 +93,9 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-07 21:30:00", 
+            "start_at": "2020/04/07 21:30:00", 
             "iname": "ev_01_01", 
-            "end_at": "2020-04-21 17:59:59", 
+            "end_at": "2020/04/21 17:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -106,10 +106,10 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-07 21:30:00", 
+            "start_at": "2020/04/07 21:30:00", 
             "iname": "GachaBanner_0008", 
             "sval": "GachaBanner_0008", 
-            "end_at": "2020-04-21 17:59:59", 
+            "end_at": "2020/04/21 17:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -120,9 +120,9 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-04-07 21:30:00", 
+            "start_at": "2020/04/07 21:30:00", 
             "iname": "ev_jp_001", 
-            "end_at": "2020-04-14 23:59:59", 
+            "end_at": "2020/04/14 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -133,10 +133,10 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-15", 
+            "start_at": "2020/04/15", 
             "iname": "GachaBanner_Global_0010", 
             "sval": "GachaBanner_Global_0010", 
-            "end_at": "2020-04-21 17:59:59", 
+            "end_at": "2020/04/21 17:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -147,9 +147,9 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-04-15", 
+            "start_at": "2020/04/15", 
             "iname": "ev_etre_01", 
-            "end_at": "2020-04-28 23:59:59", 
+            "end_at": "2020/04/28 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -160,10 +160,10 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-21 18:30:00", 
+            "start_at": "2020/04/21 18:30:00", 
             "iname": "GachaBanner_global_FFT_14", 
             "sval": "LAPS_SHOP_LIMITED_FFT_01", 
-            "end_at": "2020-05-12 17:59:59", 
+            "end_at": "2020/05/12 17:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -174,10 +174,10 @@
             "appeal_category": 1
         }, 
         {
-            "start_at": "2020-04-21 18:30:00", 
+            "start_at": "2020/04/21 18:30:00", 
             "iname": "GachaBanner_FFT_13", 
             "sval": "GachaBanner_FFT_13", 
-            "end_at": "2020-05-12 17:59:59", 
+            "end_at": "2020/05/12 17:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -188,10 +188,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-04-21 18:30:00", 
+            "start_at": "2020/04/21 18:30:00", 
             "iname": "ev_fft_01", 
             "sval": "ev_fft_01", 
-            "end_at": "2020-05-12 17:59:59", 
+            "end_at": "2020/05/12 17:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -202,9 +202,9 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-21 18:30:00", 
+            "start_at": "2020/04/21 18:30:00", 
             "iname": "ev_art_secret_02", 
-            "end_at": "2020-05-05 23:59:59", 
+            "end_at": "2020/05/05 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -215,9 +215,9 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-21 18:30:00", 
+            "start_at": "2020/04/21 18:30:00", 
             "iname": "ev_gl_3m", 
-            "end_at": "2020-05-05 23:59:59", 
+            "end_at": "2020/05/05 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 1, 
@@ -228,10 +228,10 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-04-29", 
+            "start_at": "2020/04/29", 
             "iname": "GachaBanner_Global_0013", 
             "sval": "GachaBanner_Global_0013", 
-            "end_at": "2020-05-05 23:59:59", 
+            "end_at": "2020/05/05 23:59:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -242,10 +242,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-06", 
+            "start_at": "2020/05/06", 
             "iname": "GachaBanner_Global_0022", 
             "sval": "GachaBanner_Global_0022", 
-            "end_at": "2020-05-12 18:29:59", 
+            "end_at": "2020/05/12 18:29:59", 
             "priority": 0, 
             "setting": {
                 "type": 0, 
@@ -256,10 +256,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-12 18:30:00", 
+            "start_at": "2020/05/12 18:30:00", 
             "iname": "GachaBanner_Global_0021", 
             "sval": "GachaBanner_Global_0021", 
-            "end_at": "2020-05-19 23:59:59", 
+            "end_at": "2020/05/19 23:59:59", 
             "priority": 1, 
             "setting": {
                 "type": 0, 
@@ -270,10 +270,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-12 18:30:00", 
+            "start_at": "2020/05/12 18:30:00", 
             "iname": "ev_arti_crft_02", 
             "sval": "ev_arti_crft_02", 
-            "end_at": "2020-05-19 23:59:00", 
+            "end_at": "2020/05/19 23:59:00", 
             "priority": 2, 
             "setting": {
                 "type": 1, 
@@ -284,10 +284,10 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-05-12 18:30:00", 
+            "start_at": "2020/05/12 18:30:00", 
             "iname": "GachaBanner_Global_0017", 
             "sval": "GachaBanner_Global_0017", 
-            "end_at": "2020-05-19 23:59:59", 
+            "end_at": "2020/05/19 23:59:59", 
             "priority": 3, 
             "setting": {
                 "type": 0, 
@@ -298,10 +298,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-12 18:30:00", 
+            "start_at": "2020/05/12 18:30:00", 
             "iname": "GachaBanner_0033", 
             "sval": "GachaBanner_0033", 
-            "end_at": "2020-05-19 23:59:59", 
+            "end_at": "2020/05/19 23:59:59", 
             "priority": 4, 
             "setting": {
                 "type": 0, 
@@ -312,11 +312,11 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "GachaBanner_Global_0025", 
             "sval": "GachaBanner_Global_0025", 
-            "end_at": "2020-06-02 17:59:59", 
-            "priority": 1, 
+            "end_at": "2020/06/02 17:59:59", 
+            "priority": 3, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -326,11 +326,11 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "ev_beginner_20_01", 
             "sval": "ev_beginner_20_01", 
-            "end_at": "2020-05-26 23:59:59", 
-            "priority": 2, 
+            "end_at": "2020/05/26 23:59:59", 
+            "priority": 0, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -340,11 +340,11 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "ev_arti_crft_03", 
             "sval": "ev_arti_crft_03", 
-            "end_at": "2020-06-02 17:59:59", 
-            "priority": 3, 
+            "end_at": "2020/06/02 17:59:59", 
+            "priority": 4, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -354,11 +354,11 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "ev_art_secret_02", 
             "sval": "ev_art_secret_02", 
-            "end_at": "2020-06-02 17:59:59", 
-            "priority": 4, 
+            "end_at": "2020/06/02 17:59:59", 
+            "priority": 5, 
             "setting": {
                 "type": 1, 
                 "unlock_id": "EventQuest"
@@ -368,11 +368,11 @@
             "appeal_category": 0
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "GachaBanner_Global_0029", 
             "sval": "GachaBanner_Global_0029", 
-            "end_at": "2020-05-26 23:59:59", 
-            "priority": 5, 
+            "end_at": "2020/05/26 23:59:59", 
+            "priority": 0, 
             "setting": {
                 "type": 0, 
                 "unlock_id": "None"
@@ -382,10 +382,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "GachaBanner_0037", 
             "sval": "GachaBanner_0037", 
-            "end_at": "2020-06-02 17:59:59", 
+            "end_at": "2020/06/02 17:59:59", 
             "priority": 6, 
             "setting": {
                 "type": 0, 
@@ -396,10 +396,10 @@
             "appeal_category": 2
         }, 
         {
-            "start_at": "2020-05-20", 
+            "start_at": "2020/05/20", 
             "iname": "GachaBanner_0038", 
             "sval": "GachaBanner_0038", 
-            "end_at": "2020-06-02 17:59:59", 
+            "end_at": "2020/06/02 17:59:59", 
             "priority": 7, 
             "setting": {
                 "type": 0, 
@@ -407,6 +407,34 @@
             }, 
             "transition_destination": 0, 
             "id": 30, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020/05/27", 
+            "iname": "GachaBanner_Global_0035", 
+            "sval": "GachaBanner_Global_0035", 
+            "end_at": "2020/05/31 23:59:59", 
+            "priority": 1, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 31, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020/05/27", 
+            "iname": "GachaBanner_Global_0026", 
+            "sval": "GachaBanner_Global_0026", 
+            "end_at": "2020/06/02 17:59:59", 
+            "priority": 2, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 32, 
             "appeal_category": 2
         }
     ]

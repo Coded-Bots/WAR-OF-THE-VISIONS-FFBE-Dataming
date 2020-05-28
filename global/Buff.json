@@ -2623,6 +2623,77 @@
             "type2": 29
         }, 
         {
+            "iname": "BUFF_LW_WGN_M_1", 
+            "calc1": 1, 
+            "val11": 40, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "timing": 2, 
+            "val1": 20, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "iname": "BUFF_LW_WGN_M_1_S", 
+            "calc1": 1, 
+            "val11": 20, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "timing": 2, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "val21": 20, 
+            "iname": "BUFF_LW_WGN_S_3", 
+            "calc1": 1, 
+            "calc2": 1, 
+            "val11": 30, 
+            "chktiming": 1, 
+            "turn": 3, 
+            "timing": 2, 
+            "val2": 5, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 156, 
+            "type2": 22
+        }, 
+        {
+            "iname": "BUFF_LW_WGN_S_4", 
+            "calc1": 30, 
+            "chktiming": 2, 
+            "turn": 1, 
+            "rate": 25, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 101
+        }, 
+        {
+            "iname": "BUFF_LW_WGN_P_1", 
+            "calc1": 1, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 64
+        }, 
+        {
+            "val21": 40, 
+            "iname": "BUFF_LW_WGN_P_2", 
+            "calc1": 2, 
+            "calc2": 1, 
+            "val11": 12, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val2": 10, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 26, 
+            "type2": 64
+        }, 
+        {
             "iname": "BUFF_LW_BLM_BGN_M_3_T", 
             "calc1": 30, 
             "chktiming": 2, 
@@ -3543,30 +3614,6 @@
             "type1": 70
         }, 
         {
-            "iname": "BUFF_LB_LW_LUCA_01", 
-            "calc1": 30, 
-            "calc2": 30, 
-            "chktiming": 1, 
-            "turn": 3, 
-            "rate": 40, 
-            "timing": 2, 
-            "chktgt": 0, 
-            "type1": 100, 
-            "type2": 99
-        }, 
-        {
-            "iname": "BUFF_LB_LW_LUCA_B_01", 
-            "calc1": 30, 
-            "calc2": 30, 
-            "chktiming": 1, 
-            "turn": 3, 
-            "rate": 50, 
-            "timing": 2, 
-            "chktgt": 0, 
-            "type1": 100, 
-            "type2": 99
-        }, 
-        {
             "iname": "BUFF_LB_LW_YERM_01", 
             "calc1": 1, 
             "val11": -38, 
@@ -3642,6 +3689,30 @@
             "val1": 20, 
             "chktgt": 0, 
             "type1": 95
+        }, 
+        {
+            "iname": "BUFF_LB_LW_LUCA_01", 
+            "calc1": 30, 
+            "calc2": 30, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "rate": 30, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 100, 
+            "type2": 99
+        }, 
+        {
+            "iname": "BUFF_LB_LW_LUCA_B_01", 
+            "calc1": 30, 
+            "calc2": 30, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "rate": 67, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 100, 
+            "type2": 99
         }, 
         {
             "iname": "BUFF_SMN_LAMA", 
@@ -4877,6 +4948,24 @@
             "chktgt": 0, 
             "type1": 1, 
             "type2": 158
+        }, 
+        {
+            "val21": 15, 
+            "iname": "BUFF_MA_LW_P_LUCA", 
+            "tag2": [
+                5
+            ], 
+            "calc1": 2, 
+            "calc2": 30, 
+            "val11": 10, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val2": 15, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 21, 
+            "type2": 119
         }, 
         {
             "iname": "BUFF_VC_LW_GLEM_GS", 
@@ -8528,6 +8617,28 @@
             "val11": 5, 
             "val51": 5, 
             "chktgt": 0
+        }, 
+        {
+            "iname": "BUFF_ARM_LW_LUCA_1_1", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "timing": 2, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 152
+        }, 
+        {
+            "iname": "BUFF_ARM_LW_LUCA_1_2", 
+            "calc1": 2, 
+            "val11": 25, 
+            "chktiming": 1, 
+            "turn": 3, 
+            "timing": 2, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 26
         }, 
         {
             "iname": "BUFF_ROD_LW_HLNA_1_1", 

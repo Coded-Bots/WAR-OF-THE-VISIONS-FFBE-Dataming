@@ -613,9 +613,9 @@
             "event_type": 1
         }, 
         {
-            "start": "2020/04/21 18:30:00", 
+            "start": "2020/05/27", 
             "image": "ev_jp_001", 
-            "end": "2020/05/12 17:59:59", 
+            "end": "2020/06/02 17:59:59", 
             "iname": "SE_EV_JP_001", 
             "event_type": 1
         }, 
@@ -629,7 +629,7 @@
         {
             "start": "2020/05/20", 
             "image": "ev_art_secret_02", 
-            "end": "2020/06/02 17:59:59", 
+            "end": "2020/06/03 23:59:59", 
             "iname": "SE_EV_ART_SCR_02", 
             "event_type": 1
         }, 
@@ -645,6 +645,13 @@
             "image": "ev_beginner_20_01", 
             "end": "2020/05/26 23:59:59", 
             "iname": "SE_EV_BEGN_2001", 
+            "event_type": 1
+        }, 
+        {
+            "start": "2020/05/27", 
+            "image": "ev_summon_010", 
+            "end": "2020/06/09 23:59:59", 
+            "iname": "SE_SB_02", 
             "event_type": 1
         }
     ]

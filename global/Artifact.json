@@ -28521,6 +28521,49 @@
             ]
         }, 
         {
+            "sell": 0, 
+            "status": [
+                {
+                    "avd": 10, 
+                    "hp": 142, 
+                    "spd": 7, 
+                    "def": 5
+                }, 
+                {
+                    "avd": 10, 
+                    "hp": 142, 
+                    "spd": 7, 
+                    "def": 5
+                }
+            ], 
+            "skl1": [
+                "SK_ARM_LW_LUCA_1_1"
+            ], 
+            "rare": 4, 
+            "iname": "AF_ARM_LW_LUCA_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                22
+            ], 
+            "asset": "LAPSwpn_arm_023", 
+            "skl3": [
+                "SK_ARM_LW_LUCA_1_1"
+            ], 
+            "skl2": [
+                "SK_ARM_LW_LUCA_1_1"
+            ], 
+            "equip": "AEC_ACCE_WOMAN", 
+            "trust": 1, 
+            "type": 2, 
+            "skl4": [
+                "SK_ARM_LW_LUCA_1_1"
+            ], 
+            "skl5": [
+                "SK_ARM_LW_LUCA_1_1"
+            ]
+        }, 
+        {
             "sell": 25000, 
             "status": [
                 {
@@ -29159,6 +29202,36 @@
             ], 
             "asset": "LAPSwpn_swo_010", 
             "equip": "AEC_SWORD", 
+            "type": 0
+        }, 
+        {
+            "sell": 25000, 
+            "status": [
+                {
+                    "hp": 7, 
+                    "hit": 1, 
+                    "atk": 10, 
+                    "mag": 2, 
+                    "crt": 1
+                }, 
+                {
+                    "hp": 137, 
+                    "hit": 13, 
+                    "atk": 189, 
+                    "mag": 21, 
+                    "crt": 17
+                }
+            ], 
+            "rare": 3, 
+            "iname": "AF_GUN_LW_LUCA_2", 
+            "rtype": "AF_LOT_50", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                14
+            ], 
+            "asset": "LAPSwpn_gun_007", 
+            "equip": "AEC_GUN", 
             "type": 0
         }
     ]
