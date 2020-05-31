@@ -32300,6 +32300,133 @@
             ]
         }, 
         {
+            "sell": 0, 
+            "status": [
+                {
+                    "hit": 8, 
+                    "hp": 424, 
+                    "mnd": 4, 
+                    "def": 9
+                }, 
+                {
+                    "hit": 8, 
+                    "hp": 424, 
+                    "mnd": 4, 
+                    "def": 9
+                }
+            ], 
+            "skl1": [
+                "SK_ARM_LW_GRSR_1_1"
+            ], 
+            "rare": 4, 
+            "iname": "AF_ARM_LW_GRSR_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                18
+            ], 
+            "asset": "LAPSwpn_arm_027", 
+            "skl3": [
+                "SK_ARM_LW_GRSR_1_1"
+            ], 
+            "skl2": [
+                "SK_ARM_LW_GRSR_1_1"
+            ], 
+            "equip": "AEC_ARM", 
+            "trust": 1, 
+            "type": 1, 
+            "skl4": [
+                "SK_ARM_LW_GRSR_1_1"
+            ], 
+            "skl5": [
+                "SK_ARM_LW_GRSR_1_1"
+            ]
+        }, 
+        {
+            "sell": 0, 
+            "status": [
+                {
+                    "hp": 55, 
+                    "hit": 15, 
+                    "atk": 95, 
+                    "crt": 10
+                }, 
+                {
+                    "hp": 55, 
+                    "hit": 15, 
+                    "atk": 95, 
+                    "crt": 10
+                }
+            ], 
+            "skl1": [
+                "SK_BOW_LW_RRIR_1_1"
+            ], 
+            "rare": 3, 
+            "iname": "AF_BOW_LW_RRIR_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                7
+            ], 
+            "asset": "LAPSwpn_bow_008", 
+            "skl3": [
+                "SK_BOW_LW_RRIR_1_1"
+            ], 
+            "skl2": [
+                "SK_BOW_LW_RRIR_1_1"
+            ], 
+            "equip": "AEC_BOW", 
+            "trust": 1, 
+            "type": 0, 
+            "skl4": [
+                "SK_BOW_LW_RRIR_1_1"
+            ], 
+            "skl5": [
+                "SK_BOW_LW_RRIR_1_1"
+            ]
+        }, 
+        {
+            "sell": 0, 
+            "status": [
+                {
+                    "hp": 396, 
+                    "hit": 15, 
+                    "def": 8
+                }, 
+                {
+                    "hp": 396, 
+                    "hit": 15, 
+                    "def": 8
+                }
+            ], 
+            "skl1": [
+                "SK_CLT_LW_LSWL_1_1"
+            ], 
+            "rare": 4, 
+            "iname": "AF_CLT_LW_LSWL_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                21
+            ], 
+            "asset": "LAPSwpn_clt_012", 
+            "skl3": [
+                "SK_CLT_LW_LSWL_1_1"
+            ], 
+            "skl2": [
+                "SK_CLT_LW_LSWL_1_1"
+            ], 
+            "equip": "AEC_CLOTH", 
+            "trust": 1, 
+            "type": 1, 
+            "skl4": [
+                "SK_CLT_LW_LSWL_1_1"
+            ], 
+            "skl5": [
+                "SK_CLT_LW_LSWL_1_1"
+            ]
+        }, 
+        {
             "sell": 25000, 
             "status": [
                 {
@@ -33298,6 +33425,66 @@
             ], 
             "asset": "LAPSwpn_bsw_008", 
             "equip": "AEC_BSWORD", 
+            "type": 0
+        }, 
+        {
+            "sell": 25000, 
+            "status": [
+                {
+                    "hp": 4, 
+                    "hit": 1, 
+                    "atk": 10, 
+                    "mag": 2, 
+                    "crt": 1
+                }, 
+                {
+                    "hp": 69, 
+                    "hit": 17, 
+                    "atk": 189, 
+                    "mag": 21, 
+                    "crt": 15
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_SPE_LW_GRSR_2", 
+            "rtype": "AF_LOT_50", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                10
+            ], 
+            "asset": "LAPSwpn_spe_014", 
+            "equip": "AEC_BSWORD", 
+            "type": 0
+        }, 
+        {
+            "sell": 25000, 
+            "status": [
+                {
+                    "hp": 4, 
+                    "hit": 1, 
+                    "atk": 10, 
+                    "mag": 2, 
+                    "crt": 1
+                }, 
+                {
+                    "hp": 69, 
+                    "hit": 17, 
+                    "atk": 189, 
+                    "mag": 21, 
+                    "crt": 15
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_KAT_LW_LSWL_2", 
+            "rtype": "AF_LOT_50", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "equip": "AEC_KATANA", 
             "type": 0
         }
     ]

@@ -1207,6 +1207,61 @@
             ]
         }, 
         {
+            "constant_bonus": [
+                {
+                    "item_id": "IT_ACTP_03", 
+                    "num": 3, 
+                    "type": 0
+                }
+            ], 
+            "iname": "CHARGE_BONUS_0026", 
+            "buy_lapis_num": 60, 
+            "day_bonus": [
+                {
+                    "item_id": "IT_VC_EXP_03", 
+                    "num": 50, 
+                    "type": 0, 
+                    "day": 1
+                }, 
+                {
+                    "item_id": "IT_AW_VBALL_UR", 
+                    "num": 1, 
+                    "type": 0, 
+                    "day": 2
+                }, 
+                {
+                    "item_id": "IT_LB_EXP_02", 
+                    "num": 50, 
+                    "type": 0, 
+                    "day": 3
+                }, 
+                {
+                    "item_id": "IT_WA_EXP_02", 
+                    "num": 50, 
+                    "type": 0, 
+                    "day": 4
+                }, 
+                {
+                    "item_id": "IT_AW_VBALL_UR", 
+                    "num": 1, 
+                    "type": 0, 
+                    "day": 5
+                }, 
+                {
+                    "item_id": "IT_AD_TICKET_10", 
+                    "num": 20, 
+                    "type": 0, 
+                    "day": 6
+                }, 
+                {
+                    "item_id": "IT_PI_COM_ALL", 
+                    "num": 1, 
+                    "type": 0, 
+                    "day": 7
+                }
+            ]
+        }, 
+        {
             "iname": "IT_US_EXP_02"
         }
     ]

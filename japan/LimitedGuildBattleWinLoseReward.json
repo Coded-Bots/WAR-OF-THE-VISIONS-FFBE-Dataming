@@ -5,7 +5,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 10, 
+                    "num": 60, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -14,11 +14,11 @@
             "iname": "WR_LGBP_001_W1"
         }, 
         {
-            "star_rate": 40, 
+            "star_rate": 50, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 20, 
+                    "num": 140, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -27,11 +27,11 @@
             "iname": "WR_LGBP_001_W2"
         }, 
         {
-            "star_rate": 60, 
+            "star_rate": 70, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 30, 
+                    "num": 200, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -44,7 +44,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 60, 
+                    "num": 260, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -53,11 +53,11 @@
             "iname": "WR_LGBP_001_W4"
         }, 
         {
-            "star_rate": 100, 
+            "star_rate": 90, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 100, 
+                    "num": 320, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -70,7 +70,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 1, 
+                    "num": 50, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -79,11 +79,11 @@
             "iname": "WR_LGBP_001_D1"
         }, 
         {
-            "star_rate": 40, 
+            "star_rate": 50, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 2, 
+                    "num": 120, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -92,11 +92,11 @@
             "iname": "WR_LGBP_001_D2"
         }, 
         {
-            "star_rate": 60, 
+            "star_rate": 70, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 3, 
+                    "num": 170, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -109,7 +109,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 6, 
+                    "num": 220, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -118,11 +118,11 @@
             "iname": "WR_LGBP_001_D4"
         }, 
         {
-            "star_rate": 100, 
+            "star_rate": 90, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 10, 
+                    "num": 280, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -135,7 +135,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 1, 
+                    "num": 40, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -144,11 +144,11 @@
             "iname": "WR_LGBP_001_L1"
         }, 
         {
-            "star_rate": 40, 
+            "star_rate": 50, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 2, 
+                    "num": 110, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -157,11 +157,11 @@
             "iname": "WR_LGBP_001_L2"
         }, 
         {
-            "star_rate": 60, 
+            "star_rate": 70, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 3, 
+                    "num": 150, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -174,7 +174,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 6, 
+                    "num": 190, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -183,11 +183,11 @@
             "iname": "WR_LGBP_001_L4"
         }, 
         {
-            "star_rate": 100, 
+            "star_rate": 90, 
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 10, 
+                    "num": 240, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 

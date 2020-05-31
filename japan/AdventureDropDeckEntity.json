@@ -6,6 +6,12 @@
                     "rate": 100, 
                     "num": 1, 
                     "type": 0, 
+                    "iname": "IT_PI_LW_GRSR"
+                }, 
+                {
+                    "rate": 100, 
+                    "num": 1, 
+                    "type": 0, 
                     "iname": "IT_PI_LW_IRDL"
                 }, 
                 {
@@ -154,6 +160,12 @@
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_PI_LW_GLMS"
+                }, 
+                {
+                    "rate": 100, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LSWL"
                 }, 
                 {
                     "rate": 100, 
@@ -372,6 +384,12 @@
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_PI_LW_AYKA"
+                }, 
+                {
+                    "rate": 200, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_RRIR"
                 }, 
                 {
                     "rate": 200, 
@@ -736,7 +754,7 @@
                     "iname": "IT_JB_MM_ALL"
                 }, 
                 {
-                    "rate": 18255, 
+                    "rate": 18155, 
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_VC_EXP_01"
@@ -1177,7 +1195,7 @@
                     "iname": "IT_UN_AW_ICE_R3"
                 }, 
                 {
-                    "rate": 10200, 
+                    "rate": 10100, 
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_AF_MAT_LIQUID_01"
@@ -1825,7 +1843,7 @@
                     "iname": "IT_JB_MM_ALL"
                 }, 
                 {
-                    "rate": 15000, 
+                    "rate": 14800, 
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_CG_01"

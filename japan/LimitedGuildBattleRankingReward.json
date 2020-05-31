@@ -3,132 +3,155 @@
         {
             "rewards": [
                 {
+                    "reward_type": 3, 
+                    "num": 3000
+                }, 
+                {
                     "reward_type": 0, 
-                    "num": 100, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 30, 
+                    "iname": "IT_GU_FOOD_06"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
+            "tag": "RR_LGBP_2006", 
             "ranking_to": 1, 
-            "iname": "RR_LGBP_001_1", 
+            "iname": "RR_LGBP_2006_1", 
             "ranking_from": 1
         }, 
         {
             "rewards": [
                 {
+                    "reward_type": 3, 
+                    "num": 2500
+                }, 
+                {
                     "reward_type": 0, 
-                    "num": 60, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 20, 
+                    "iname": "IT_GU_FOOD_06"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
-            "ranking_to": 2, 
-            "iname": "RR_LGBP_001_2", 
+            "tag": "RR_LGBP_2006", 
+            "ranking_to": 10, 
+            "iname": "RR_LGBP_2006_2", 
             "ranking_from": 2
         }, 
         {
             "rewards": [
                 {
+                    "reward_type": 3, 
+                    "num": 2000
+                }, 
+                {
                     "reward_type": 0, 
-                    "num": 40, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 15, 
+                    "iname": "IT_GU_FOOD_06"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
-            "ranking_to": 3, 
-            "iname": "RR_LGBP_001_3", 
-            "ranking_from": 3
+            "tag": "RR_LGBP_2006", 
+            "ranking_to": 50, 
+            "iname": "RR_LGBP_2006_3", 
+            "ranking_from": 11
         }, 
         {
             "rewards": [
                 {
-                    "reward_type": 0, 
-                    "num": 30, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "RR_LGBP_001", 
-            "ranking_to": 50, 
-            "iname": "RR_LGBP_001_4", 
-            "ranking_from": 4
-        }, 
-        {
-            "rewards": [
+                    "reward_type": 3, 
+                    "num": 1500
+                }, 
                 {
                     "reward_type": 0, 
                     "num": 20, 
-                    "iname": "IT_EC_GUILD"
+                    "iname": "IT_GU_FOOD_05"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
+            "tag": "RR_LGBP_2006", 
             "ranking_to": 100, 
-            "iname": "RR_LGBP_001_5", 
+            "iname": "RR_LGBP_2006_4", 
             "ranking_from": 51
         }, 
         {
             "rewards": [
                 {
+                    "reward_type": 3, 
+                    "num": 1000
+                }, 
+                {
                     "reward_type": 0, 
-                    "num": 10, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 15, 
+                    "iname": "IT_GU_FOOD_05"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
+            "tag": "RR_LGBP_2006", 
             "ranking_to": 200, 
-            "iname": "RR_LGBP_001_6", 
+            "iname": "RR_LGBP_2006_5", 
             "ranking_from": 101
         }, 
         {
             "rewards": [
                 {
+                    "reward_type": 3, 
+                    "num": 800
+                }, 
+                {
                     "reward_type": 0, 
-                    "num": 5, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 10, 
+                    "iname": "IT_GU_FOOD_05"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
-            "ranking_to": 300, 
-            "iname": "RR_LGBP_001_7", 
+            "tag": "RR_LGBP_2006", 
+            "ranking_to": 400, 
+            "iname": "RR_LGBP_2006_6", 
             "ranking_from": 201
         }, 
         {
             "rewards": [
                 {
+                    "reward_type": 3, 
+                    "num": 600
+                }, 
+                {
                     "reward_type": 0, 
-                    "num": 3, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 15, 
+                    "iname": "IT_GU_FOOD_04"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
+            "tag": "RR_LGBP_2006", 
+            "ranking_to": 600, 
+            "iname": "RR_LGBP_2006_7", 
+            "ranking_from": 401
+        }, 
+        {
+            "rewards": [
+                {
+                    "reward_type": 3, 
+                    "num": 500
+                }, 
+                {
+                    "reward_type": 0, 
+                    "num": 10, 
+                    "iname": "IT_GU_FOOD_04"
+                }
+            ], 
+            "tag": "RR_LGBP_2006", 
             "ranking_to": 1000, 
-            "iname": "RR_LGBP_001_8", 
-            "ranking_from": 301
+            "iname": "RR_LGBP_2006_8", 
+            "ranking_from": 601
         }, 
         {
             "rewards": [
                 {
-                    "reward_type": 0, 
-                    "num": 2, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "RR_LGBP_001", 
-            "ranking_to": 2000, 
-            "iname": "RR_LGBP_001_9", 
-            "ranking_from": 1001
-        }, 
-        {
-            "rewards": [
+                    "reward_type": 3, 
+                    "num": 200
+                }, 
                 {
                     "reward_type": 0, 
-                    "num": 1, 
-                    "iname": "IT_EC_GUILD"
+                    "num": 5, 
+                    "iname": "IT_GU_FOOD_04"
                 }
             ], 
-            "tag": "RR_LGBP_001", 
+            "tag": "RR_LGBP_2006", 
             "ranking_to": 1000000, 
-            "iname": "RR_LGBP_001_10", 
-            "ranking_from": 2001
+            "iname": "RR_LGBP_2006_9", 
+            "ranking_from": 1001
         }
     ]
 }

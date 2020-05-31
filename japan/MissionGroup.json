@@ -154,6 +154,55 @@
             "end_at": "2020/05/22 4:59:59"
         }, 
         {
+            "category": 2, 
+            "begin_at": "2020/06/01 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_1", 
+            "end_at": "2020/06/02 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/02 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_2", 
+            "end_at": "2020/06/03 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/03 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_3", 
+            "end_at": "2020/06/04 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/04 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_4", 
+            "end_at": "2020/06/05 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/05 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_5", 
+            "end_at": "2020/06/06 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/06 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_6", 
+            "end_at": "2020/06/07 4:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/07 5:00:00", 
+            "type": 1, 
+            "iname": "MG_DAILY_005_7", 
+            "end_at": "2020/06/08 4:59:59"
+        }, 
+        {
             "category": 3, 
             "type": 2, 
             "iname": "MG_STORY_001"
@@ -440,6 +489,27 @@
         }, 
         {
             "category": 2, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_EV05_1_01", 
+            "end_at": "2020/06/18 9:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_EV05_1_02", 
+            "end_at": "2020/06/18 9:59:59"
+        }, 
+        {
+            "category": 2, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MU_EV05_1_02", 
+            "end_at": "2020/06/18 9:59:59"
+        }, 
+        {
+            "category": 2, 
             "begin_at": "2020/05/21 15:00:00", 
             "type": 2, 
             "iname": "MG_EV_ART_SCR_01", 
@@ -598,6 +668,13 @@
             "type": 2, 
             "iname": "MG_P_STRN_01", 
             "end_at": "2020/05/31 23:59:59"
+        }, 
+        {
+            "category": 6, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_P_GRSR", 
+            "end_at": "2020/06/17 9:59:59"
         }, 
         {
             "category": 6, 
@@ -948,6 +1025,55 @@
             "type": 2, 
             "iname": "MG_MONTHLY_005_7", 
             "end_at": "2020/05/31 23:59:59"
+        }, 
+        {
+            "category": 3, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_1", 
+            "end_at": "2020/06/30 23:59:59"
+        }, 
+        {
+            "category": 3, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_2", 
+            "end_at": "2020/06/30 23:59:59"
+        }, 
+        {
+            "category": 4, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_3", 
+            "end_at": "2020/06/30 23:59:59"
+        }, 
+        {
+            "category": 4, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_4", 
+            "end_at": "2020/06/30 23:59:59"
+        }, 
+        {
+            "category": 5, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_5", 
+            "end_at": "2020/06/30 23:59:59"
+        }, 
+        {
+            "category": 6, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_6", 
+            "end_at": "2020/06/30 23:59:59"
+        }, 
+        {
+            "category": 6, 
+            "begin_at": "2020/06/01", 
+            "type": 2, 
+            "iname": "MG_MONTHLY_006_7", 
+            "end_at": "2020/06/30 23:59:59"
         }, 
         {
             "category": 8, 

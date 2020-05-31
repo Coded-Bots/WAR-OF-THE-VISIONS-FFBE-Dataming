@@ -16,7 +16,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 2, 
+                    "num": 1, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -28,7 +28,7 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 3, 
+                    "num": 1, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
@@ -40,109 +40,13 @@
             "rewards": [
                 {
                     "reward_type": 0, 
-                    "num": 4, 
+                    "num": 1, 
                     "iname": "IT_EC_GUILD"
                 }
             ], 
             "tag": "AR_LGBP_001", 
             "iname": "AR_LGBP_001_4", 
             "action_count": 4
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 5, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_5", 
-            "action_count": 5
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 6, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_6", 
-            "action_count": 6
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 7, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_7", 
-            "action_count": 7
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 8, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_8", 
-            "action_count": 8
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 9, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_9", 
-            "action_count": 9
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 10, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_10", 
-            "action_count": 10
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 11, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_11", 
-            "action_count": 11
-        }, 
-        {
-            "rewards": [
-                {
-                    "reward_type": 0, 
-                    "num": 12, 
-                    "iname": "IT_EC_GUILD"
-                }
-            ], 
-            "tag": "AR_LGBP_001", 
-            "iname": "AR_LGBP_001_12", 
-            "action_count": 12
         }
     ]
 }

@@ -637,6 +637,16 @@
         }, 
         {
             "type": 0, 
+            "iname": "atk_chain_bst", 
+            "value": 5
+        }, 
+        {
+            "type": 0, 
+            "iname": "elm_chain_bst", 
+            "value": 5
+        }, 
+        {
+            "type": 0, 
             "iname": "jp_drop1", 
             "value": 50
         }, 
@@ -1483,7 +1493,7 @@
         {
             "type": 2, 
             "iname": "limited_league_guild_battle_require_league", 
-            "value": "GL_BRONZE1"
+            "value": "GL_BRONZE3"
         }, 
         {
             "type": 0, 
@@ -1493,7 +1503,7 @@
         {
             "type": 0, 
             "iname": "limited_league_guild_battle_leader_login_day", 
-            "value": 7
+            "value": 3
         }, 
         {
             "type": 0, 
@@ -1518,7 +1528,7 @@
         {
             "type": 0, 
             "iname": "limited_league_guild_battle_point_k2", 
-            "value": 10
+            "value": 5000
         }, 
         {
             "type": 0, 
@@ -1528,22 +1538,22 @@
         {
             "type": 0, 
             "iname": "limited_league_guild_battle_point_k4", 
-            "value": 10
+            "value": 5
         }, 
         {
             "type": 0, 
             "iname": "limited_league_guild_battle_point_k5", 
-            "value": 10
+            "value": 1
         }, 
         {
             "type": 0, 
             "iname": "limited_league_guild_battle_point_amax", 
-            "value": 30000
+            "value": 100
         }, 
         {
             "type": 0, 
             "iname": "limited_league_guild_battle_point_bmax", 
-            "value": 2
+            "value": 3
         }, 
         {
             "type": 0, 
