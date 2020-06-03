@@ -20,7 +20,7 @@
             "sex": 2
         }, 
         {
-            "charaId": "LAPShlna_01", 
+            "charaId": "LAPShlna", 
             "body_type": "W", 
             "iname": "DU_LW_HLNA_01", 
             "anm_type": 1, 
@@ -440,7 +440,7 @@
             "sex": 2
         }, 
         {
-            "charaId": "LAPSkadi", 
+            "charaId": "LAPSmrlk", 
             "body_type": "S", 
             "iname": "DU_LW_MRLK", 
             "anm_type": 1, 

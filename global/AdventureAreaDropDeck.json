@@ -64,14 +64,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1600, 
-                    "fever_rate": 1600, 
+                    "rate": 2000, 
+                    "fever_rate": 2000, 
                     "drop_id": 2, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 61215, 
-                    "fever_rate": 42623, 
+                    "rate": 60815, 
+                    "fever_rate": 42223, 
                     "drop_id": 2101, 
                     "fix_rate": -1860
                 }, 
@@ -94,14 +94,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1600, 
-                    "fever_rate": 1600, 
+                    "rate": 2000, 
+                    "fever_rate": 2000, 
                     "drop_id": 2, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 42623, 
-                    "fever_rate": 24030, 
+                    "rate": 42223, 
+                    "fever_rate": 23630, 
                     "drop_id": 2101, 
                     "fix_rate": -1860
                 }, 
@@ -124,14 +124,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1300, 
-                    "fever_rate": 1300, 
+                    "rate": 1700, 
+                    "fever_rate": 1700, 
                     "drop_id": 3, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 55200, 
-                    "fever_rate": 33450, 
+                    "rate": 54800, 
+                    "fever_rate": 33050, 
                     "drop_id": 3101, 
                     "fix_rate": -2175
                 }, 
@@ -154,14 +154,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1300, 
-                    "fever_rate": 1300, 
+                    "rate": 1700, 
+                    "fever_rate": 1700, 
                     "drop_id": 3, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 33450, 
-                    "fever_rate": 11700, 
+                    "rate": 33050, 
+                    "fever_rate": 11300, 
                     "drop_id": 3101, 
                     "fix_rate": -2175
                 }, 
@@ -184,14 +184,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1350, 
-                    "fever_rate": 1350, 
+                    "rate": 1450, 
+                    "fever_rate": 1450, 
                     "drop_id": 4, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 57650, 
-                    "fever_rate": 37150, 
+                    "rate": 57550, 
+                    "fever_rate": 37050, 
                     "drop_id": 4101, 
                     "fix_rate": -2050
                 }, 
@@ -214,14 +214,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1350, 
-                    "fever_rate": 1350, 
+                    "rate": 1450, 
+                    "fever_rate": 1450, 
                     "drop_id": 4, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 37150, 
-                    "fever_rate": 16650, 
+                    "rate": 37050, 
+                    "fever_rate": 16550, 
                     "drop_id": 4101, 
                     "fix_rate": -2050
                 }, 
@@ -244,14 +244,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1700, 
-                    "fever_rate": 1700, 
+                    "rate": 2100, 
+                    "fever_rate": 2100, 
                     "drop_id": 5, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 57300, 
-                    "fever_rate": 36800, 
+                    "rate": 56900, 
+                    "fever_rate": 36400, 
                     "drop_id": 5101, 
                     "fix_rate": -2050
                 }, 
@@ -274,14 +274,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1700, 
-                    "fever_rate": 1700, 
+                    "rate": 2100, 
+                    "fever_rate": 2100, 
                     "drop_id": 5, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 36800, 
-                    "fever_rate": 16300, 
+                    "rate": 36400, 
+                    "fever_rate": 15900, 
                     "drop_id": 5101, 
                     "fix_rate": -2050
                 }, 
@@ -304,14 +304,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1000, 
-                    "fever_rate": 1000, 
+                    "rate": 1200, 
+                    "fever_rate": 1200, 
                     "drop_id": 6, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 58000, 
-                    "fever_rate": 37500, 
+                    "rate": 57800, 
+                    "fever_rate": 37300, 
                     "drop_id": 6101, 
                     "fix_rate": -2050
                 }, 
@@ -334,14 +334,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1000, 
-                    "fever_rate": 1000, 
+                    "rate": 1200, 
+                    "fever_rate": 1200, 
                     "drop_id": 6, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 37500, 
-                    "fever_rate": 17000, 
+                    "rate": 37300, 
+                    "fever_rate": 16800, 
                     "drop_id": 6101, 
                     "fix_rate": -2050
                 }, 
@@ -424,14 +424,14 @@
             "campaign_string": "default", 
             "drop": [
                 {
-                    "rate": 1600, 
-                    "fever_rate": 1600, 
+                    "rate": 2000, 
+                    "fever_rate": 2000, 
                     "drop_id": 8, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 54900, 
-                    "fever_rate": 33150, 
+                    "rate": 54500, 
+                    "fever_rate": 32750, 
                     "drop_id": 8101, 
                     "fix_rate": -2175
                 }, 
@@ -454,14 +454,14 @@
             "campaign_string": "campaign_1", 
             "drop": [
                 {
-                    "rate": 1600, 
-                    "fever_rate": 1600, 
+                    "rate": 2000, 
+                    "fever_rate": 2000, 
                     "drop_id": 8, 
                     "fix_rate": 0
                 }, 
                 {
-                    "rate": 33150, 
-                    "fever_rate": 11400, 
+                    "rate": 32750, 
+                    "fever_rate": 11000, 
                     "drop_id": 8101, 
                     "fix_rate": -2175
                 }, 

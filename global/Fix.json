@@ -328,7 +328,7 @@
         {
             "type": 0, 
             "iname": "dmg_atkbuf_max", 
-            "value": 100
+            "value": 200
         }, 
         {
             "type": 0, 
@@ -379,6 +379,21 @@
             "type": 0, 
             "iname": "buf_ct_min", 
             "value": -50
+        }, 
+        {
+            "type": 0, 
+            "iname": "buf_pdign_max", 
+            "value": 90
+        }, 
+        {
+            "type": 0, 
+            "iname": "dmg_hatedown", 
+            "value": 2
+        }, 
+        {
+            "type": 0, 
+            "iname": "dmg_hateup", 
+            "value": 2
         }, 
         {
             "type": 0, 
@@ -938,7 +953,7 @@
         {
             "type": 0, 
             "iname": "raid_match_ap_max", 
-            "value": 100
+            "value": 50
         }, 
         {
             "type": 0, 
@@ -1013,12 +1028,12 @@
         {
             "type": 0, 
             "iname": "raid_daily_free_max", 
-            "value": 30
+            "value": 20
         }, 
         {
             "type": 0, 
             "iname": "raid_challenge_boss_count", 
-            "value": 20
+            "value": 10
         }, 
         {
             "type": 2, 
@@ -1028,12 +1043,12 @@
         {
             "type": 2, 
             "iname": "raid_follow_bonus_item_iname", 
-            "value": "IT_EC_FF14_1"
+            "value": "IT_EC_RAID_02"
         }, 
         {
             "type": 2, 
             "iname": "raid_coin_item_iname", 
-            "value": "IT_EC_FF14_1"
+            "value": "IT_EC_RAID_02"
         }, 
         {
             "type": 0, 
@@ -1127,13 +1142,23 @@
         }, 
         {
             "type": 0, 
-            "iname": "barracks_limit_faith", 
-            "value": 30
+            "iname": "barracks_default_unit_count", 
+            "value": 1
         }, 
         {
             "type": 0, 
-            "iname": "barracks_default_unit_count", 
-            "value": 1
+            "iname": "barracks_settings_faith_default", 
+            "value": 0
+        }, 
+        {
+            "type": 0, 
+            "iname": "barracks_upper_limit_faith", 
+            "value": 70
+        }, 
+        {
+            "type": 0, 
+            "iname": "barracks_lower_limit_faith", 
+            "value": 30
         }, 
         {
             "type": 0, 
@@ -1411,9 +1436,49 @@
             "value": 14
         }, 
         {
+            "type": 0, 
+            "iname": "comeback_period", 
+            "value": 7
+        }, 
+        {
             "type": 1, 
             "iname": "quest_reset_cost", 
             "value": "50,100"
+        }, 
+        {
+            "type": 0, 
+            "iname": "support_daily_limit_count", 
+            "value": 10
+        }, 
+        {
+            "type": 0, 
+            "iname": "guildbattle_latest_opponent_save_count", 
+            "value": 5
+        }, 
+        {
+            "type": 0, 
+            "iname": "cstdmg", 
+            "value": 0
+        }, 
+        {
+            "type": 0, 
+            "iname": "tower_hp_rate_denominator", 
+            "value": 1000000
+        }, 
+        {
+            "type": 0, 
+            "iname": "guidance_supporter_player_rank", 
+            "value": 10
+        }, 
+        {
+            "type": 2, 
+            "iname": "guidance_supporter_unit_iname", 
+            "value": "UN_LW_P_ELDE"
+        }, 
+        {
+            "type": 0, 
+            "iname": "guidance_supporter_unit_level", 
+            "value": 30
         }, 
         {
             "type": 0, 

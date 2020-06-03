@@ -63,6 +63,16 @@
                     "name": "area_10"
                 }
             ]
+        }, 
+        {
+            "iname": "CH_WD_0102", 
+            "area": [
+                {
+                    "sval": "SE_WD_010201", 
+                    "type": 1, 
+                    "name": "area_01"
+                }
+            ]
         }
     ]
 }

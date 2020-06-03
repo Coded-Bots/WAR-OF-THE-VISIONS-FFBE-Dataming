@@ -3,12 +3,6 @@
         {
             "rewards": [
                 {
-                    "rate": 100, 
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_PI_LW_MRND"
-                }, 
-                {
                     "rate": 200, 
                     "num": 1, 
                     "type": 0, 
@@ -42,6 +36,12 @@
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_PI_LW_ELDE"
+                }, 
+                {
+                    "rate": 200, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_ADLD"
                 }, 
                 {
                     "rate": 200, 
@@ -83,12 +83,6 @@
                     "num": 1, 
                     "type": 0, 
                     "iname": "IT_PI_LW_AILN"
-                }, 
-                {
-                    "rate": 200, 
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_PI_LW_DRND"
                 }, 
                 {
                     "rate": 200, 
@@ -289,6 +283,12 @@
         }, 
         {
             "rewards": [
+                {
+                    "rate": 100, 
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_PI_LW_LUCA"
+                }, 
                 {
                     "rate": 100, 
                     "num": 1, 

@@ -161,16 +161,6 @@
             "bodyId": "LAPScact_01"
         }, 
         {
-            "iname": "UN_LW_E_LAMA_01", 
-            "img": "LAPSlama_01", 
-            "bodyId": "LAPSlama_01"
-        }, 
-        {
-            "iname": "UN_LW_E_LAMA_02", 
-            "img": "LAPSlama_02", 
-            "bodyId": "LAPSlama_02"
-        }, 
-        {
             "bodyTex": "GMCKswch_01", 
             "iname": "UN_GM_SWITCH_01", 
             "img": "GMCKswch_01", 
@@ -207,6 +197,16 @@
             "iname": "UN_LW_E_STRN_01", 
             "img": "LAPSstrn_01", 
             "bodyId": "LAPSstrn_01"
+        }, 
+        {
+            "iname": "UN_LW_E_LAMA_01", 
+            "img": "LAPSlama_01", 
+            "bodyId": "LAPSlama_01"
+        }, 
+        {
+            "iname": "UN_LW_E_LAMA_02", 
+            "img": "LAPSlama_02", 
+            "bodyId": "LAPSlama_02"
         }, 
         {
             "iname": "UN_LW_S_LAMA_01", 

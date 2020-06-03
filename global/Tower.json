@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "updown": 0, 
+            "bg": "TowerBG_0001", 
+            "iname": "TW_01", 
+            "bg_scroll": 1, 
+            "medal_iname": "IT_EC_FRIEND"
+        }
+    ]
+}

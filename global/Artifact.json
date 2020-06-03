@@ -8526,7 +8526,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 8, 
+                    "atk": 7, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -8535,7 +8535,7 @@
                 {
                     "hp": 69, 
                     "hit": 17, 
-                    "atk": 168, 
+                    "atk": 144, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -8560,7 +8560,13 @@
             "cat": [
                 10
             ], 
+            "skl2": [
+                "SK_LW_AF_ICE_PA_1"
+            ], 
             "asset": "LAPSwpn_spe_004", 
+            "skl3": [
+                "SK_LW_AF_ICE_PA_1"
+            ], 
             "randr": [
                 {
                     "hp": 30, 
@@ -8571,7 +8577,16 @@
                 }
             ], 
             "equip": "AEC_LANCE", 
-            "type": 0
+            "skl1": [
+                "SK_LW_AF_ICE_PA_1"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_AF_ICE_PA_1"
+            ], 
+            "skl5": [
+                "SK_LW_AF_ICE_PA_5"
+            ]
         }, 
         {
             "sell": 25000, 
@@ -8580,7 +8595,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 8, 
+                    "atk": 7, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -8589,7 +8604,7 @@
                 {
                     "hp": 69, 
                     "hit": 17, 
-                    "atk": 168, 
+                    "atk": 144, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -8615,11 +8630,13 @@
                 10
             ], 
             "skl2": [
-                "SK_LW_SPEAR_1"
+                "SK_LW_SPEAR_1", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "asset": "LAPSwpn_spe_004", 
             "skl3": [
-                "SK_LW_SPEAR_1"
+                "SK_LW_SPEAR_1", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "randr": [
                 {
@@ -8632,14 +8649,17 @@
             ], 
             "equip": "AEC_LANCE", 
             "skl1": [
-                "SK_LW_SPEAR_1"
+                "SK_LW_SPEAR_1", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SPEAR_1"
+                "SK_LW_SPEAR_1", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "skl5": [
-                "SK_LW_SPEAR_1"
+                "SK_LW_SPEAR_1", 
+                "SK_LW_AF_ICE_PA_5"
             ]
         }, 
         {
@@ -8649,7 +8669,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 8, 
+                    "atk": 7, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -8658,7 +8678,7 @@
                 {
                     "hp": 69, 
                     "hit": 17, 
-                    "atk": 168, 
+                    "atk": 144, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -8684,11 +8704,13 @@
                 10
             ], 
             "skl2": [
-                "SK_LW_SPEAR_2"
+                "SK_LW_SPEAR_2", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "asset": "LAPSwpn_spe_004", 
             "skl3": [
-                "SK_LW_SPEAR_2"
+                "SK_LW_SPEAR_2", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "randr": [
                 {
@@ -8701,14 +8723,17 @@
             ], 
             "equip": "AEC_LANCE", 
             "skl1": [
-                "SK_LW_SPEAR_2"
+                "SK_LW_SPEAR_2", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SPEAR_2"
+                "SK_LW_SPEAR_2", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "skl5": [
-                "SK_LW_SPEAR_2"
+                "SK_LW_SPEAR_2", 
+                "SK_LW_AF_ICE_PA_5"
             ]
         }, 
         {
@@ -8718,7 +8743,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 8, 
+                    "atk": 7, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -8727,7 +8752,7 @@
                 {
                     "hp": 69, 
                     "hit": 17, 
-                    "atk": 168, 
+                    "atk": 144, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -8753,11 +8778,13 @@
                 10
             ], 
             "skl2": [
-                "SK_LW_SPEAR_3"
+                "SK_LW_SPEAR_3", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "asset": "LAPSwpn_spe_004", 
             "skl3": [
-                "SK_LW_SPEAR_3"
+                "SK_LW_SPEAR_3", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "randr": [
                 {
@@ -8770,14 +8797,17 @@
             ], 
             "equip": "AEC_LANCE", 
             "skl1": [
-                "SK_LW_SPEAR_3"
+                "SK_LW_SPEAR_3", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SPEAR_3"
+                "SK_LW_SPEAR_3", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "skl5": [
-                "SK_LW_SPEAR_3"
+                "SK_LW_SPEAR_3", 
+                "SK_LW_AF_ICE_PA_5"
             ]
         }, 
         {
@@ -8787,7 +8817,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 8, 
+                    "atk": 7, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -8796,7 +8826,7 @@
                 {
                     "hp": 69, 
                     "hit": 17, 
-                    "atk": 168, 
+                    "atk": 144, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -8822,11 +8852,13 @@
                 10
             ], 
             "skl2": [
-                "SK_LW_SPEAR_4_SSR"
+                "SK_LW_SPEAR_4_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "asset": "LAPSwpn_spe_004", 
             "skl3": [
-                "SK_LW_SPEAR_4_SSR"
+                "SK_LW_SPEAR_4_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "randr": [
                 {
@@ -8839,14 +8871,17 @@
             ], 
             "equip": "AEC_LANCE", 
             "skl1": [
-                "SK_LW_SPEAR_4_SSR"
+                "SK_LW_SPEAR_4_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SPEAR_4_SSR"
+                "SK_LW_SPEAR_4_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "skl5": [
-                "SK_LW_SPEAR_4_SSR"
+                "SK_LW_SPEAR_4_SSR", 
+                "SK_LW_AF_ICE_PA_5"
             ]
         }, 
         {
@@ -8856,7 +8891,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 8, 
+                    "atk": 7, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -8865,7 +8900,7 @@
                 {
                     "hp": 69, 
                     "hit": 17, 
-                    "atk": 168, 
+                    "atk": 144, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -8891,11 +8926,13 @@
                 10
             ], 
             "skl2": [
-                "SK_LW_SPEAR_5_SSR"
+                "SK_LW_SPEAR_5_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "asset": "LAPSwpn_spe_004", 
             "skl3": [
-                "SK_LW_SPEAR_5_SSR"
+                "SK_LW_SPEAR_5_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "randr": [
                 {
@@ -8908,14 +8945,17 @@
             ], 
             "equip": "AEC_LANCE", 
             "skl1": [
-                "SK_LW_SPEAR_5_SSR"
+                "SK_LW_SPEAR_5_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "type": 0, 
             "skl4": [
-                "SK_LW_SPEAR_5_SSR"
+                "SK_LW_SPEAR_5_SSR", 
+                "SK_LW_AF_ICE_PA_1"
             ], 
             "skl5": [
-                "SK_LW_SPEAR_5_SSR"
+                "SK_LW_SPEAR_5_SSR", 
+                "SK_LW_AF_ICE_PA_5"
             ]
         }, 
         {
@@ -10602,7 +10642,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 7, 
-                    "atk": 6, 
+                    "atk": 9, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10611,7 +10651,7 @@
                 {
                     "hp": 137, 
                     "hit": 19, 
-                    "atk": 126, 
+                    "atk": 186, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -10621,7 +10661,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 3, 
+                    "atk": 5, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10639,7 +10679,7 @@
             "asset": "LAPSwpn_dag_006", 
             "randr": [
                 {
-                    "hp": 26, 
+                    "hp": 36, 
                     "hit": 11, 
                     "atk": 32, 
                     "mag": 16, 
@@ -10656,7 +10696,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 7, 
-                    "atk": 6, 
+                    "atk": 9, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10665,7 +10705,7 @@
                 {
                     "hp": 137, 
                     "hit": 19, 
-                    "atk": 126, 
+                    "atk": 186, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -10675,7 +10715,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 3, 
+                    "atk": 5, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10699,7 +10739,7 @@
             ], 
             "randr": [
                 {
-                    "hp": 28, 
+                    "hp": 38, 
                     "hit": 12, 
                     "atk": 34, 
                     "mag": 17, 
@@ -10725,7 +10765,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 7, 
-                    "atk": 6, 
+                    "atk": 9, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10734,7 +10774,7 @@
                 {
                     "hp": 137, 
                     "hit": 19, 
-                    "atk": 126, 
+                    "atk": 186, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -10744,7 +10784,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 3, 
+                    "atk": 5, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10768,7 +10808,7 @@
             ], 
             "randr": [
                 {
-                    "hp": 30, 
+                    "hp": 40, 
                     "hit": 13, 
                     "atk": 36, 
                     "mag": 18, 
@@ -10794,7 +10834,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 7, 
-                    "atk": 6, 
+                    "atk": 9, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10803,7 +10843,7 @@
                 {
                     "hp": 137, 
                     "hit": 19, 
-                    "atk": 126, 
+                    "atk": 186, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -10813,7 +10853,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 3, 
+                    "atk": 5, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10837,7 +10877,7 @@
             ], 
             "randr": [
                 {
-                    "hp": 32, 
+                    "hp": 42, 
                     "hit": 14, 
                     "atk": 38, 
                     "mag": 19, 
@@ -10863,7 +10903,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 7, 
-                    "atk": 6, 
+                    "atk": 9, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10872,7 +10912,7 @@
                 {
                     "hp": 137, 
                     "hit": 19, 
-                    "atk": 126, 
+                    "atk": 186, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -10882,7 +10922,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 3, 
+                    "atk": 5, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10906,7 +10946,7 @@
             ], 
             "randr": [
                 {
-                    "hp": 34, 
+                    "hp": 44, 
                     "hit": 15, 
                     "atk": 40, 
                     "mag": 20, 
@@ -10932,7 +10972,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 7, 
-                    "atk": 6, 
+                    "atk": 9, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10941,7 +10981,7 @@
                 {
                     "hp": 137, 
                     "hit": 19, 
-                    "atk": 126, 
+                    "atk": 186, 
                     "mag": 21, 
                     "crt": 17
                 }
@@ -10951,7 +10991,7 @@
                     "hit": 1, 
                     "crt": 1, 
                     "hp": 3, 
-                    "atk": 3, 
+                    "atk": 5, 
                     "mag": 1, 
                     "avd": 0, 
                     "mnd": 0, 
@@ -10975,7 +11015,7 @@
             ], 
             "randr": [
                 {
-                    "hp": 36, 
+                    "hp": 46, 
                     "hit": 16, 
                     "atk": 42, 
                     "mag": 21, 
@@ -28561,6 +28601,47 @@
             ], 
             "skl5": [
                 "SK_ARM_LW_LUCA_1_1"
+            ]
+        }, 
+        {
+            "sell": 0, 
+            "status": [
+                {
+                    "hp": 102, 
+                    "atk": 82, 
+                    "mag": 96
+                }, 
+                {
+                    "hp": 102, 
+                    "atk": 82, 
+                    "mag": 96
+                }
+            ], 
+            "skl1": [
+                "SK_SWO_LW_ADLD_1_1"
+            ], 
+            "rare": 3, 
+            "iname": "AF_SWO_LW_ADLD_1", 
+            "rtype": "AF_LOT_TRUST", 
+            "cap": 99, 
+            "cat": [
+                2
+            ], 
+            "asset": "LAPSwpn_swo_014", 
+            "skl3": [
+                "SK_SWO_LW_ADLD_1_1"
+            ], 
+            "skl2": [
+                "SK_SWO_LW_ADLD_1_1"
+            ], 
+            "equip": "AEC_SWORD", 
+            "trust": 1, 
+            "type": 0, 
+            "skl4": [
+                "SK_SWO_LW_ADLD_1_1"
+            ], 
+            "skl5": [
+                "SK_SWO_LW_ADLD_1_1"
             ]
         }, 
         {

@@ -63,6 +63,16 @@
         {
             "curve": [
                 {
+                    "lv": 80, 
+                    "num": 1, 
+                    "val": 1
+                }
+            ], 
+            "type": "RAID_DEFAULT_2"
+        }, 
+        {
+            "curve": [
+                {
                     "lv": 20, 
                     "num": 1, 
                     "val": 1

@@ -73,6 +73,31 @@
                     "num": 2000, 
                     "type": 3, 
                     "point": 100
+                }, 
+                {
+                    "num": 2000, 
+                    "type": 3, 
+                    "point": 150
+                }, 
+                {
+                    "num": 2000, 
+                    "type": 3, 
+                    "point": 200
+                }, 
+                {
+                    "num": 2000, 
+                    "type": 3, 
+                    "point": 250
+                }, 
+                {
+                    "num": 2000, 
+                    "type": 3, 
+                    "point": 300
+                }, 
+                {
+                    "num": 2000, 
+                    "type": 3, 
+                    "point": 350
                 }
             ], 
             "type": 3, 
@@ -1647,15 +1672,74 @@
                     "num": 500, 
                     "type": 3, 
                     "point": 5
-                }, 
-                {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_ALL", 
-                    "point": 5
                 }
             ], 
             "banner": "LoginBonus_PeriodBanner_Global_0006"
+        }, 
+        {
+            "begin_at": "2020/06/02 18:30:00", 
+            "iname": "LB_LIMIT_GL0007", 
+            "type": 6, 
+            "end_at": "2020/06/09 20:59:59", 
+            "priority": 2, 
+            "bonuses": [
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 1
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "iname": "IT_US_EXP_02", 
+                    "point": 1
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 2
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_02", 
+                    "point": 2
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 3
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "iname": "IT_AF_EXP_03", 
+                    "point": 3
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 4
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "iname": "IT_ACTP_01", 
+                    "point": 4
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 5
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "iname": "IT_TICKET_STORY", 
+                    "point": 5
+                }
+            ], 
+            "banner": "LoginBonus_PeriodBanner_Global_0007"
         }
     ]
 }

@@ -1,0 +1,377 @@
+{
+    "items": [
+        {
+            "map": {
+                "scn": "lio_cas/lio_cas_002_A_1", 
+                "set": "tw/tw_01_001_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_001", 
+            "ap": 6, 
+            "floor_no": 1, 
+            "joblv": 5, 
+            "lv": 20, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "reward_id": "TWR_01_001"
+        }, 
+        {
+            "map": {
+                "scn": "lio_cas/lio_cas_003_A_1", 
+                "set": "tw/tw_01_002_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_002", 
+            "ap": 6, 
+            "floor_no": 2, 
+            "joblv": 5, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 20, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_001", 
+            "reward_id": "TWR_01_002"
+        }, 
+        {
+            "map": {
+                "scn": "lio_anr/lio_anr_002_N_1", 
+                "set": "tw/tw_01_003_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_003", 
+            "ap": 6, 
+            "floor_no": 3, 
+            "joblv": 6, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 25, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_002", 
+            "reward_id": "TWR_01_003"
+        }, 
+        {
+            "map": {
+                "scn": "lio_anc/lio_anc_001_N_1", 
+                "set": "tw/tw_01_004_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_004", 
+            "ap": 6, 
+            "floor_no": 4, 
+            "joblv": 6, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 25, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_003", 
+            "reward_id": "TWR_01_004"
+        }, 
+        {
+            "map": {
+                "scn": "lio_ups/lio_ups_001_N_1", 
+                "set": "tw/tw_01_005_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_005", 
+            "ap": 6, 
+            "floor_no": 5, 
+            "joblv": 8, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 45, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_004", 
+            "reward_id": "TWR_01_005"
+        }, 
+        {
+            "map": {
+                "scn": "wez_cav/wez_cav_001_A_1", 
+                "set": "tw/tw_01_006_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_006", 
+            "ap": 6, 
+            "floor_no": 6, 
+            "joblv": 7, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 35, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_005", 
+            "reward_id": "TWR_01_006"
+        }, 
+        {
+            "map": {
+                "scn": "lio_cas/lio_cas_003_A_1", 
+                "set": "tw/tw_01_007_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_007", 
+            "ap": 6, 
+            "floor_no": 7, 
+            "joblv": 7, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 35, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_006", 
+            "reward_id": "TWR_01_007"
+        }, 
+        {
+            "map": {
+                "scn": "ext_gcs/ext_gcs_002_A_1", 
+                "set": "tw/tw_01_008_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_008", 
+            "ap": 6, 
+            "floor_no": 8, 
+            "joblv": 8, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 40, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_007", 
+            "reward_id": "TWR_01_008"
+        }, 
+        {
+            "map": {
+                "scn": "ext_gcs/ext_gcs_001_A_1", 
+                "set": "tw/tw_01_009_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_009", 
+            "ap": 6, 
+            "floor_no": 9, 
+            "joblv": 8, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 40, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_008", 
+            "reward_id": "TWR_01_009"
+        }, 
+        {
+            "map": {
+                "scn": "hor_cas/hor_cas_001_A_1", 
+                "set": "tw/tw_01_010_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_010", 
+            "ap": 6, 
+            "floor_no": 10, 
+            "joblv": 11, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 65, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_009", 
+            "reward_id": "TWR_01_010"
+        }, 
+        {
+            "map": {
+                "scn": "hor_cas/hor_cas_007_A_1", 
+                "set": "tw/tw_01_ex1_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_EX1", 
+            "ap": 6, 
+            "floor_no": 10, 
+            "joblv": 11, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 65, 
+            "tower_iname": "TW_01", 
+            "ex": 1, 
+            "cond_quest": "TW_01_010", 
+            "reward_id": "TWR_01_EX1"
+        }, 
+        {
+            "map": {
+                "scn": "wez_cas/wez_cas_002_A_1", 
+                "set": "tw/tw_01_011_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_011", 
+            "ap": 6, 
+            "floor_no": 11, 
+            "joblv": 9, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 50, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_010", 
+            "reward_id": "TWR_01_011"
+        }, 
+        {
+            "map": {
+                "scn": "lio_ups/lio_ups_001_N_1", 
+                "set": "tw/tw_01_012_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_012", 
+            "ap": 6, 
+            "floor_no": 12, 
+            "joblv": 9, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 50, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_011", 
+            "reward_id": "TWR_01_012"
+        }, 
+        {
+            "map": {
+                "scn": "ext_gcs/ext_gcs_002_A_1", 
+                "set": "tw/tw_01_013_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_013", 
+            "ap": 6, 
+            "floor_no": 13, 
+            "joblv": 10, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 60, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_012", 
+            "reward_id": "TWR_01_013"
+        }, 
+        {
+            "map": {
+                "scn": "ext_gcs/ext_gcs_001_A_1", 
+                "set": "tw/tw_01_014_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_014", 
+            "ap": 6, 
+            "floor_no": 14, 
+            "joblv": 10, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 60, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_013", 
+            "reward_id": "TWR_01_014"
+        }, 
+        {
+            "map": {
+                "scn": "lio_anc/lio_anc_001_N_1", 
+                "set": "tw/tw_01_015_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_015", 
+            "ap": 6, 
+            "floor_no": 15, 
+            "joblv": 11, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 70, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_014", 
+            "reward_id": "TWR_01_015"
+        }, 
+        {
+            "map": {
+                "scn": "lio_cas/lio_cas_003_A_1", 
+                "set": "tw/tw_01_016_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_016", 
+            "ap": 6, 
+            "floor_no": 16, 
+            "joblv": 11, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 70, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_015", 
+            "reward_id": "TWR_01_016"
+        }, 
+        {
+            "map": {
+                "scn": "wez_cav/wez_cav_001_A_1", 
+                "set": "tw/tw_01_017_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_017", 
+            "ap": 6, 
+            "floor_no": 17, 
+            "joblv": 11, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 70, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_016", 
+            "reward_id": "TWR_01_017"
+        }, 
+        {
+            "map": {
+                "scn": "ext_gcs/ext_gcs_001_A_1", 
+                "set": "tw/tw_01_018_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_018", 
+            "ap": 6, 
+            "floor_no": 18, 
+            "joblv": 12, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 80, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_017", 
+            "reward_id": "TWR_01_018"
+        }, 
+        {
+            "map": {
+                "scn": "hor_cas/hor_cas_001_A_1", 
+                "set": "tw/tw_01_019_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_019", 
+            "ap": 6, 
+            "floor_no": 19, 
+            "joblv": 12, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 80, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_018", 
+            "reward_id": "TWR_01_019"
+        }, 
+        {
+            "map": {
+                "scn": "lio_cas/lio_cas_001_A_1", 
+                "set": "tw/tw_01_ex2_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_EX2", 
+            "ap": 6, 
+            "floor_no": 19, 
+            "joblv": 15, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 90, 
+            "tower_iname": "TW_01", 
+            "ex": 1, 
+            "cond_quest": "TW_01_019", 
+            "reward_id": "TWR_01_EX2"
+        }, 
+        {
+            "map": {
+                "scn": "wez_cas/wez_cas_002_A_1", 
+                "set": "tw/tw_01_020_set", 
+                "bgm": "law_206_battle_tower"
+            }, 
+            "iname": "TW_01_020", 
+            "ap": 6, 
+            "floor_no": 20, 
+            "joblv": 15, 
+            "rule_id": "TW_RL_DEFAULT", 
+            "lv": 90, 
+            "tower_iname": "TW_01", 
+            "ex": 0, 
+            "cond_quest": "TW_01_019", 
+            "reward_id": "TWR_01_020"
+        }
+    ]
+}

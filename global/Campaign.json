@@ -2012,7 +2012,8 @@
                 "SE_ST_010401", 
                 "SE_ST_010402", 
                 "SE_ST_010403", 
-                "SE_ST_010501"
+                "SE_ST_010501", 
+                "SE_ST_010502"
             ], 
             "jp_unit": 2, 
             "exp_player": 1, 
@@ -2041,7 +2042,8 @@
                 "SE_ST_010401", 
                 "SE_ST_010402", 
                 "SE_ST_010403", 
-                "SE_ST_010501"
+                "SE_ST_010501", 
+                "SE_ST_010502"
             ], 
             "jp_unit": 1, 
             "exp_player": 1, 
@@ -4028,6 +4030,320 @@
                 "SE_MU_SM_WIND_01"
             ], 
             "jp_unit": 1, 
+            "exp_player": 1, 
+            "drop_rate": 1
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_MON", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 1, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 1, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_UNITEXP_01", 
+                "SE_EV_GIL_01", 
+                "SE_EV_AFEXP_01", 
+                "SE_EV_VCEXP_01", 
+                "SE_EV_WAEXP_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_TUE", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 2, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 2, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_AW_FIRE", 
+                "SE_EV_AW_WIND", 
+                "SE_EV_SM_FIRE_01", 
+                "SE_EV_SM_WIND_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_WED", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 3, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 3, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_AW_WATER", 
+                "SE_EV_AW_ICE", 
+                "SE_EV_SM_WTR_01", 
+                "SE_EV_SM_ICE_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_THU", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 4, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 4, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_AW_SOIL", 
+                "SE_EV_AW_DARK", 
+                "SE_EV_SM_EAR_01", 
+                "SE_EV_SM_DARK_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_FRI", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 5, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 5, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_AW_THUN", 
+                "SE_EV_AW_SHIN", 
+                "SE_EV_SM_THUN_01", 
+                "SE_EV_SM_SHIN_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_SAT", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 2, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 6, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 6, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_AW_HIGH_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_TUE_M", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 4, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 2, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 2, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_MU_AW_FIRE", 
+                "SE_MU_AW_WIND", 
+                "SE_MU_SM_FIRE_01", 
+                "SE_MU_SM_WIND_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_WED_M", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 4, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 3, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 3, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_MU_AW_WATER", 
+                "SE_MU_AW_ICE", 
+                "SE_MU_SM_WTR_01", 
+                "SE_MU_SM_ICE_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_THU_M", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 4, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 4, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 4, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_MU_AW_SOIL", 
+                "SE_MU_AW_DARK", 
+                "SE_MU_SM_EAR_01", 
+                "SE_MU_SM_DARK_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_FRI_M", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 4, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 5, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 5, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_MU_AW_THUN", 
+                "SE_MU_AW_SHIN", 
+                "SE_MU_SM_THUN_01", 
+                "SE_MU_SM_SHIN_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "iname": "CP_GL_PERM_SAT_M", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 4, 
+            "arti_rank": 1, 
+            "drop_num": 2, 
+            "drop_rate": 1, 
+            "time": [
+                {
+                    "start_wdays": 6, 
+                    "start_time": "0:00:00", 
+                    "end_wdays": 6, 
+                    "end_time": "23:59:59"
+                }
+            ], 
+            "jp_unit": 1, 
+            "exp_player": 1, 
+            "section_inames": [
+                "SE_EV_AW_HIGH_01"
+            ]
+        }, 
+        {
+            "whole_challenge_limit": 1, 
+            "end": "2020/06/09 20:59:59", 
+            "iname": "CP_GL_STORY_006", 
+            "ap_rate": 1, 
+            "exp_unit": 1, 
+            "quest_type": 1, 
+            "arti_rank": 1, 
+            "start": "2020/06/02 18:30:00", 
+            "drop_num": 2, 
+            "section_inames": [
+                "SE_ST_010101", 
+                "SE_ST_010102", 
+                "SE_ST_010103", 
+                "SE_ST_010201", 
+                "SE_ST_010202", 
+                "SE_ST_010203", 
+                "SE_ST_010301", 
+                "SE_ST_010302", 
+                "SE_ST_010303", 
+                "SE_ST_010401", 
+                "SE_ST_010402", 
+                "SE_ST_010403", 
+                "SE_ST_010501", 
+                "SE_ST_010502", 
+                "SE_ST_010503", 
+                "SE_ST_010601", 
+                "SE_ST_010602"
+            ], 
+            "jp_unit": 2, 
             "exp_player": 1, 
             "drop_rate": 1
         }

@@ -647,6 +647,28 @@
             }, 
             "id": 84, 
             "condition": 84
+        }, 
+        {
+            "setting": {
+                "type": 0
+            }, 
+            "id": 85, 
+            "condition": 85
+        }, 
+        {
+            "setting": {
+                "type": 1, 
+                "unlock_id": "VisionCard"
+            }, 
+            "id": 86, 
+            "condition": 86
+        }, 
+        {
+            "setting": {
+                "type": 0
+            }, 
+            "id": 87, 
+            "condition": 87
         }
     ]
 }

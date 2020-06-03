@@ -1,0 +1,57 @@
+{
+    "items": [
+        {
+            "iname": "TW_01_SCORE", 
+            "threshold_vals": [
+                {
+                    "retire": 20, 
+                    "rank": "S", 
+                    "turn": 400, 
+                    "score": 10, 
+                    "recover": 1, 
+                    "died": 10
+                }, 
+                {
+                    "retire": 40, 
+                    "rank": "A", 
+                    "turn": 650, 
+                    "score": 20, 
+                    "recover": 2, 
+                    "died": 20
+                }, 
+                {
+                    "retire": 60, 
+                    "rank": "B", 
+                    "turn": 800, 
+                    "score": 30, 
+                    "recover": 3, 
+                    "died": 35
+                }, 
+                {
+                    "retire": 80, 
+                    "rank": "C", 
+                    "turn": 1000, 
+                    "score": 40, 
+                    "recover": 4, 
+                    "died": 55
+                }, 
+                {
+                    "retire": 100, 
+                    "rank": "D", 
+                    "turn": 1200, 
+                    "score": 50, 
+                    "recover": 5, 
+                    "died": 80
+                }, 
+                {
+                    "retire": -1, 
+                    "rank": "E", 
+                    "turn": -1, 
+                    "score": 60, 
+                    "recover": -1, 
+                    "died": -1
+                }
+            ]
+        }
+    ]
+}

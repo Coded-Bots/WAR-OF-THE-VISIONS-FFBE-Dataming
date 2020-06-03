@@ -94,10 +94,6 @@
         }, 
         {
             "guidance": "Battle1", 
-            "iname": "SupportUnit"
-        }, 
-        {
-            "guidance": "Battle1", 
             "iname": "Mission"
         }, 
         {
@@ -107,6 +103,18 @@
         {
             "guidance": "SubQuest", 
             "iname": "CharaQuest"
+        }, 
+        {
+            "guidance": "CharaQuest", 
+            "iname": "ItemExchange"
+        }, 
+        {
+            "guidance": "Battle1", 
+            "iname": "SupportUnit"
+        }, 
+        {
+            "guidance": "MultiQuest", 
+            "iname": "Tower"
         }
     ]
 }
