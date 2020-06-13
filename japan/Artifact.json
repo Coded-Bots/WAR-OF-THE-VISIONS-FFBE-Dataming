@@ -6504,6 +6504,445 @@
             ]
         }, 
         {
+            "sell": 50000, 
+            "status": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 4, 
+                    "atk": 8, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }, 
+                {
+                    "hp": 74, 
+                    "hit": 12, 
+                    "atk": 159, 
+                    "mag": 9, 
+                    "crt": 13
+                }
+            ], 
+            "randa": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 2, 
+                    "atk": 4, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_LW_KAT_008", 
+            "rtype": "AF_LOT_LW_KAT_008", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "skl2": [
+                "SK_LW_KAT_008_1"
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "skl3": [
+                "SK_LW_KAT_008_1"
+            ], 
+            "randr": [
+                {
+                    "hp": 30, 
+                    "hit": 12, 
+                    "atk": 32, 
+                    "mag": 16, 
+                    "crt": 14
+                }
+            ], 
+            "equip": "AEC_KATANA", 
+            "skl1": [
+                "SK_LW_KAT_008_1"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_KAT_008_1"
+            ], 
+            "skl5": [
+                "SK_LW_KAT_008_5"
+            ]
+        }, 
+        {
+            "sell": 50000, 
+            "status": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 4, 
+                    "atk": 8, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }, 
+                {
+                    "hp": 74, 
+                    "hit": 12, 
+                    "atk": 159, 
+                    "mag": 9, 
+                    "crt": 13
+                }
+            ], 
+            "randa": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 2, 
+                    "atk": 4, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_LW_KAT_008_1", 
+            "rtype": "AF_LOT_LW_KAT_008", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "skl2": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_1"
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "skl3": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_1"
+            ], 
+            "randr": [
+                {
+                    "hp": 32, 
+                    "hit": 13, 
+                    "atk": 34, 
+                    "mag": 17, 
+                    "crt": 15
+                }
+            ], 
+            "equip": "AEC_KATANA", 
+            "skl1": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_1"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_1"
+            ], 
+            "skl5": [
+                "SK_LW_KAT_008_5", 
+                "SK_LW_SLASH_1"
+            ]
+        }, 
+        {
+            "sell": 50000, 
+            "status": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 4, 
+                    "atk": 8, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }, 
+                {
+                    "hp": 74, 
+                    "hit": 12, 
+                    "atk": 159, 
+                    "mag": 9, 
+                    "crt": 13
+                }
+            ], 
+            "randa": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 2, 
+                    "atk": 4, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_LW_KAT_008_2", 
+            "rtype": "AF_LOT_LW_KAT_008", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "skl2": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_2"
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "skl3": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_2"
+            ], 
+            "randr": [
+                {
+                    "hp": 34, 
+                    "hit": 14, 
+                    "atk": 36, 
+                    "mag": 18, 
+                    "crt": 16
+                }
+            ], 
+            "equip": "AEC_KATANA", 
+            "skl1": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_2"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_2"
+            ], 
+            "skl5": [
+                "SK_LW_KAT_008_5", 
+                "SK_LW_SLASH_2"
+            ]
+        }, 
+        {
+            "sell": 50000, 
+            "status": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 4, 
+                    "atk": 8, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }, 
+                {
+                    "hp": 74, 
+                    "hit": 12, 
+                    "atk": 159, 
+                    "mag": 9, 
+                    "crt": 13
+                }
+            ], 
+            "randa": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 2, 
+                    "atk": 4, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_LW_KAT_008_3", 
+            "rtype": "AF_LOT_LW_KAT_008", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "skl2": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_3"
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "skl3": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_3"
+            ], 
+            "randr": [
+                {
+                    "hp": 36, 
+                    "hit": 15, 
+                    "atk": 38, 
+                    "mag": 19, 
+                    "crt": 17
+                }
+            ], 
+            "equip": "AEC_KATANA", 
+            "skl1": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_3"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_3"
+            ], 
+            "skl5": [
+                "SK_LW_KAT_008_5", 
+                "SK_LW_SLASH_3"
+            ]
+        }, 
+        {
+            "sell": 50000, 
+            "status": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 4, 
+                    "atk": 8, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }, 
+                {
+                    "hp": 74, 
+                    "hit": 12, 
+                    "atk": 159, 
+                    "mag": 9, 
+                    "crt": 13
+                }
+            ], 
+            "randa": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 2, 
+                    "atk": 4, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_LW_KAT_008_4", 
+            "rtype": "AF_LOT_LW_KAT_008", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "skl2": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_4_UR"
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "skl3": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_4_UR"
+            ], 
+            "randr": [
+                {
+                    "hp": 38, 
+                    "hit": 16, 
+                    "atk": 40, 
+                    "mag": 20, 
+                    "crt": 18
+                }
+            ], 
+            "equip": "AEC_KATANA", 
+            "skl1": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_4_UR"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_4_UR"
+            ], 
+            "skl5": [
+                "SK_LW_KAT_008_5", 
+                "SK_LW_SLASH_4_UR"
+            ]
+        }, 
+        {
+            "sell": 50000, 
+            "status": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 4, 
+                    "atk": 8, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }, 
+                {
+                    "hp": 74, 
+                    "hit": 12, 
+                    "atk": 159, 
+                    "mag": 9, 
+                    "crt": 13
+                }
+            ], 
+            "randa": [
+                {
+                    "hit": 1, 
+                    "crt": 1, 
+                    "hp": 2, 
+                    "atk": 4, 
+                    "mag": 1, 
+                    "avd": 0, 
+                    "mnd": 0, 
+                    "def": 0
+                }
+            ], 
+            "rare": 4, 
+            "iname": "AF_LW_KAT_008_5", 
+            "rtype": "AF_LOT_LW_KAT_008", 
+            "cap": 99, 
+            "hnum": 10, 
+            "cat": [
+                4
+            ], 
+            "skl2": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_5_UR"
+            ], 
+            "asset": "LAPSwpn_kat_008", 
+            "skl3": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_5_UR"
+            ], 
+            "randr": [
+                {
+                    "hp": 40, 
+                    "hit": 17, 
+                    "atk": 42, 
+                    "mag": 21, 
+                    "crt": 19
+                }
+            ], 
+            "equip": "AEC_KATANA", 
+            "skl1": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_5_UR"
+            ], 
+            "type": 0, 
+            "skl4": [
+                "SK_LW_KAT_008_1", 
+                "SK_LW_SLASH_5_UR"
+            ], 
+            "skl5": [
+                "SK_LW_KAT_008_5", 
+                "SK_LW_SLASH_5_UR"
+            ]
+        }, 
+        {
             "sell": 200, 
             "status": [
                 {

@@ -6994,6 +6994,32 @@
             "type": 28
         }, 
         {
+            "sell": 50, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 2, 
+            "iname": "IT_SB_AW_TITN_R2", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "val": 300, 
+            "coin": 10, 
+            "type": 28
+        }, 
+        {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_SB_AW_TITN_R3", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "val": 300, 
+            "coin": 10, 
+            "type": 28
+        }, 
+        {
             "sell": 10, 
             "ac": 9999, 
             "buy": 30000, 
@@ -7873,6 +7899,18 @@
             "coin": 30000, 
             "type": 13, 
             "icon": "AF_LW_KAT_003"
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_AF_LW_KAT_008", 
+            "mc": 9999, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 13, 
+            "icon": "AF_LW_KAT_008"
         }, 
         {
             "sell": 20, 
@@ -8896,6 +8934,16 @@
             "ac": 9999, 
             "buy": 9999, 
             "rare": 0, 
+            "iname": "IT_EC_RAID_06", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 16
+        }, 
+        {
+            "sell": 10, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 0, 
             "iname": "IT_EC_MATCH", 
             "mc": 9999, 
             "is_valuables": 1, 
@@ -9771,6 +9819,28 @@
             "icon": "IT_US_SE_ITEM_TICKET"
         }, 
         {
+            "sell": 20, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 1, 
+            "iname": "IT_US_SE_SB_EXP_06", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
+            "sell": 50, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 2, 
+            "iname": "IT_US_SE_SB_EXP_07", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
             "sell": 500, 
             "ac": 9999, 
             "buy": 9999, 
@@ -9951,6 +10021,28 @@
             "ac": 9999, 
             "buy": 9999, 
             "rare": 4, 
+            "iname": "IT_US_SE_VPI_04", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 4, 
+            "iname": "IT_US_SE_VPI_05", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 10, 
+            "icon": "IT_US_SE_ITEM_TICKET"
+        }, 
+        {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 4, 
             "iname": "IT_US_SE_PI_01", 
             "mc": 9999, 
             "is_valuables": 1, 
@@ -9963,17 +10055,6 @@
             "buy": 9999, 
             "rare": 4, 
             "iname": "IT_US_SE_PI_02", 
-            "mc": 9999, 
-            "is_valuables": 1, 
-            "type": 10, 
-            "icon": "IT_US_SE_ITEM_TICKET"
-        }, 
-        {
-            "sell": 500, 
-            "ac": 9999, 
-            "buy": 9999, 
-            "rare": 4, 
-            "iname": "IT_US_SE_VPI_04", 
             "mc": 9999, 
             "is_valuables": 1, 
             "type": 10, 
@@ -10391,6 +10472,18 @@
             "type": 36
         }, 
         {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_VPI_LW_TITN", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
             "sell": 100, 
             "ac": 9999, 
             "buy": 30000, 
@@ -10675,6 +10768,18 @@
             "buy": 30000, 
             "rare": 3, 
             "iname": "IT_VPI_LW_ORDR", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_VPI_LW_KING", 
             "mc": 9999, 
             "is_valuables": 1, 
             "steal": 0, 

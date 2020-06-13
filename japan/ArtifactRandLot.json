@@ -222,6 +222,19 @@
             ]
         }, 
         {
+            "iname": "AF_LOT_LW_KAT_008", 
+            "lot": [
+                {
+                    "gwait2": 50, 
+                    "gwait3": 50, 
+                    "gwait1": 50, 
+                    "grow2": "AFGROW_AIM_50", 
+                    "grow3": "AFGROW_CRI_50", 
+                    "grow1": "AFGROW_ASS_50"
+                }
+            ]
+        }, 
+        {
             "iname": "AF_LOT_LW_FIS_001", 
             "lot": [
                 {

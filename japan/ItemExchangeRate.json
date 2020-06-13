@@ -227,6 +227,14 @@
                 }
             ], 
             "iname": "EX_RATE_JB_WPN"
+        }, 
+        {
+            "rates": [
+                {
+                    "rate_1": "2,1"
+                }
+            ], 
+            "iname": "EX_RATE_AF_AW"
         }
     ]
 }

@@ -23182,6 +23182,101 @@
             "cost_ap": 30
         }, 
         {
+            "range_h": 0, 
+            "effnm": "ef_com_hit_00", 
+            "iname": "SK_BHMT_ATK_02", 
+            "lvup_cost_rate": 100, 
+            "eff_val": -30, 
+            "cap": 20, 
+            "atk_type": 1, 
+            "atk_det": 3, 
+            "eff_type": 2, 
+            "elem_pri": 1, 
+            "eff_val1": -30, 
+            "motnm": "LAPSbhmt/atk", 
+            "target": 12, 
+            "timing": 0, 
+            "range_s": 0, 
+            "type": 0, 
+            "atk_base": 1, 
+            "range_l": 1
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_BHMT_M_01_02", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "elem_pri": 1, 
+            "range_s": 0, 
+            "eff_val1": 80, 
+            "range_l": 1, 
+            "slot": 1, 
+            "atk_det": 2, 
+            "atk_base": 1, 
+            "type": 1, 
+            "atk_type": 1, 
+            "eff_val": 40, 
+            "eff_type": 2, 
+            "count": 4, 
+            "effnm": "ef_com_hit_00", 
+            "target": 12, 
+            "cap": 20, 
+            "cost_type": 0, 
+            "motnm": "LAPSbhmt/skl_M1", 
+            "cost_ap": 17
+        }, 
+        {
+            "selfsel": 1, 
+            "iname": "SK_BHMT_M_02_02", 
+            "lvup_cost_rate": 100, 
+            "eff_s": 1, 
+            "eff_l": 2, 
+            "elem_pri": 1, 
+            "eff_h": 0, 
+            "atk_base": 1, 
+            "slot": 1, 
+            "atk_det": 3, 
+            "eff_val1": 80, 
+            "timing": 0, 
+            "type": 1, 
+            "atk_type": 1, 
+            "eff_val": 50, 
+            "eff_type": 2, 
+            "count": 3, 
+            "effnm": "ef_com_hit_00", 
+            "target": 1, 
+            "cap": 20, 
+            "cost_type": 0, 
+            "motnm": "LAPSbhmt/skl_M2", 
+            "cost_ap": 30
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_BHMT_M_03_02", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "elem_pri": 1, 
+            "range_s": 1, 
+            "atk_base": 1, 
+            "range_l": 4, 
+            "slot": 1, 
+            "atk_det": 1, 
+            "crt_hit": -10, 
+            "eff_val1": 140, 
+            "type": 1, 
+            "atk_type": 1, 
+            "eff_val": 100, 
+            "eff_type": 2, 
+            "line": 1, 
+            "count": 3, 
+            "effnm": "ef_LAPSbhmt_M03", 
+            "target": 1, 
+            "cap": 20, 
+            "cost_type": 0, 
+            "motnm": "LAPSbhmt/skl_M3", 
+            "cost_ap": 30
+        }, 
+        {
             "range_h": 1, 
             "effnm": "ef_com_hit_00", 
             "iname": "SK_MABR_ATK", 
@@ -24017,6 +24112,180 @@
                 "BUFF_CACT_M_03_CHECK"
             ], 
             "motnm": "LAPScact/skl_M3"
+        }, 
+        {
+            "range_h": 1, 
+            "effnm": "ef_com_hit_00", 
+            "iname": "SK_TNBR_ATK", 
+            "lvup_cost_rate": 100, 
+            "eff_val": -30, 
+            "cap": 20, 
+            "atk_type": 1, 
+            "atk_det": 2, 
+            "eff_type": 2, 
+            "eff_val1": -30, 
+            "motnm": "LAPStnbr/atk", 
+            "target": 11, 
+            "timing": 0, 
+            "range_s": 0, 
+            "type": 0, 
+            "atk_base": 1, 
+            "range_l": 1
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_TNBR_M_01", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "range_s": 0, 
+            "eff_val1": 80, 
+            "range_l": 1, 
+            "slot": 1, 
+            "atk_det": 2, 
+            "atk_base": 1, 
+            "type": 1, 
+            "atk_type": 1, 
+            "eff_val": 50, 
+            "eff_type": 2, 
+            "count": 5, 
+            "effnm": "ef_LAPStnbr_M01", 
+            "target": 11, 
+            "cap": 20, 
+            "elem": [
+                0
+            ], 
+            "cost_type": 0, 
+            "motnm": "LAPStnbr/skl_M1", 
+            "cost_ap": 10
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_TNBR_M_02", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "range_s": 0, 
+            "atk_base": 1, 
+            "range_l": 1, 
+            "slot": 1, 
+            "atk_det": 2, 
+            "eff_val1": 180, 
+            "type": 1, 
+            "hit": 100, 
+            "atk_type": 1, 
+            "eff_val": 150, 
+            "eff_type": 2, 
+            "count": 3, 
+            "effnm": "ef_LAPStnbr_M02", 
+            "target": 11, 
+            "cap": 20, 
+            "elem": [
+                0
+            ], 
+            "cost_type": 0, 
+            "motnm": "LAPStnbr/skl_M2", 
+            "cost_ap": 18
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_TNBR_M_03", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "range_s": 10, 
+            "atk_base": 3, 
+            "range_l": 3, 
+            "slot": 1, 
+            "atk_det": 0, 
+            "range_w": 1, 
+            "type": 1, 
+            "eff_val1": 80, 
+            "atk_type": 2, 
+            "eff_val": 50, 
+            "eff_type": 2, 
+            "count": 5, 
+            "effnm": "ef_LAPStnbr_M03", 
+            "target": 1, 
+            "cap": 20, 
+            "t_buffs": [
+                "BUFF_TNBR_M_03"
+            ], 
+            "elem": [
+                1
+            ], 
+            "cost_type": 0, 
+            "motnm": "LAPStnbr/skl_M3", 
+            "cost_ap": 24
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_TNBR_M_04", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "elem_pri": 1, 
+            "range_s": 0, 
+            "atk_base": 1, 
+            "range_l": 1, 
+            "slot": 1, 
+            "strength": [
+                {
+                    "dst": 0, 
+                    "rate2": 0, 
+                    "rate1": 100, 
+                    "formula": 0, 
+                    "val1": 12, 
+                    "calc": 0, 
+                    "type": 1
+                }
+            ], 
+            "atk_det": 0, 
+            "eff_val1": 0, 
+            "type": 1, 
+            "hit": 100, 
+            "atk_type": 1, 
+            "eff_val": 0, 
+            "eff_type": 2, 
+            "count": 1, 
+            "effnm": "ef_LAPStnbr_M04", 
+            "target": 1, 
+            "cap": 20, 
+            "cost_type": 0, 
+            "motnm": "LAPStnbr/skl_M4", 
+            "cost_ap": 45
+        }, 
+        {
+            "range_h": 1, 
+            "iname": "SK_TNBR_M_04_R", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "elem_pri": 1, 
+            "range_s": 0, 
+            "atk_base": 1, 
+            "range_l": 1, 
+            "slot": 1, 
+            "strength": [
+                {
+                    "dst": 0, 
+                    "rate2": 0, 
+                    "rate1": 2000, 
+                    "formula": 0, 
+                    "val1": 4, 
+                    "calc": 0, 
+                    "type": 1
+                }
+            ], 
+            "atk_det": 0, 
+            "eff_val1": 0, 
+            "type": 1, 
+            "hit": 100, 
+            "atk_type": 1, 
+            "eff_val": 0, 
+            "eff_type": 2, 
+            "count": 2, 
+            "effnm": "ef_LAPStnbr_M04", 
+            "target": 1, 
+            "cap": 20, 
+            "cost_type": 0, 
+            "motnm": "LAPStnbr/skl_M4", 
+            "cost_ap": 45
         }, 
         {
             "range_h": 0, 
@@ -27522,6 +27791,130 @@
         {
             "range_h": 1, 
             "effnm": "ef_com_hit_00", 
+            "iname": "SK_TITN_ATK", 
+            "lvup_cost_rate": 100, 
+            "eff_val": -30, 
+            "cap": 20, 
+            "atk_type": 1, 
+            "atk_det": 3, 
+            "eff_type": 2, 
+            "eff_val1": -30, 
+            "motnm": "LAPStitn/atk", 
+            "target": 12, 
+            "timing": 0, 
+            "range_s": 0, 
+            "type": 0, 
+            "atk_base": 1, 
+            "range_l": 1
+        }, 
+        {
+            "range_h": 2, 
+            "iname": "SK_TITN_M_01", 
+            "lvup_cost_rate": 100, 
+            "timing": 0, 
+            "range_s": 10, 
+            "atk_base": 1, 
+            "range_l": 4, 
+            "slot": 1, 
+            "atk_det": 3, 
+            "range_w": 1, 
+            "type": 1, 
+            "eff_val1": 80, 
+            "atk_type": 1, 
+            "eff_val": 20, 
+            "eff_type": 2, 
+            "count": 3, 
+            "effnm": "ef_LAPStitn_M01", 
+            "target": 12, 
+            "cap": 20, 
+            "t_buffs": [
+                "BUFF_TITN_M_01"
+            ], 
+            "elem": [
+                4
+            ], 
+            "cost_type": 0, 
+            "motnm": "LAPStitn/skl_M1", 
+            "cost_ap": 11
+        }, 
+        {
+            "slot": 1, 
+            "count": 3, 
+            "effnm": "ef_LAPStitn_M02", 
+            "iname": "SK_TITN_M_02", 
+            "lvup_cost_rate": 100, 
+            "range_h": 1, 
+            "cap": 1, 
+            "t_buffs": [
+                "BUFF_TITN_M_02"
+            ], 
+            "eff_s": 1, 
+            "eff_type": 0, 
+            "eff_l": 2, 
+            "cost_type": 1, 
+            "eff_h": 2, 
+            "motnm": "LAPStitn/skl_M2", 
+            "target": 12, 
+            "timing": 0, 
+            "range_s": 1, 
+            "type": 1, 
+            "cost_mp": 16, 
+            "range_l": 4
+        }, 
+        {
+            "slot": 1, 
+            "count": 1, 
+            "effnm": "ef_LAPStitn_M03", 
+            "iname": "SK_TITN_M_03", 
+            "lvup_cost_rate": 100, 
+            "cap": 20, 
+            "t_buffs": [
+                "BUFF_TITN_M_03"
+            ], 
+            "eff_type": 0, 
+            "cost_type": 1, 
+            "motnm": "LAPStitn/skl_M3", 
+            "timing": 0, 
+            "type": 1, 
+            "cost_mp": 50, 
+            "target": 0
+        }, 
+        {
+            "range_h": 2, 
+            "scn": "\u3042\u308a", 
+            "iname": "SK_TITN_M_04", 
+            "lvup_cost_rate": 100, 
+            "eff_s": 1, 
+            "eff_l": 2, 
+            "eff_h": 2, 
+            "range_s": 1, 
+            "atk_base": 1, 
+            "range_l": 4, 
+            "slot": 1, 
+            "atk_det": 3, 
+            "eff_val1": 200, 
+            "timing": 0, 
+            "type": 1, 
+            "atk_type": 1, 
+            "eff_val": 10, 
+            "eff_type": 2, 
+            "count": 3, 
+            "effnm": "ef_LAPStitn_M04", 
+            "target": 12, 
+            "cap": 20, 
+            "t_buffs": [
+                "BUFF_TITN_M_04"
+            ], 
+            "elem": [
+                4
+            ], 
+            "cost_type": 0, 
+            "motnm": "LAPStitn/skl_M4", 
+            "cost_ap": 24
+        }, 
+        {
+            "range_h": 1, 
+            "effnm": "ef_com_hit_00", 
             "iname": "SK_LW_E_VIK_ATK", 
             "lvup_cost_rate": 100, 
             "eff_val": -30, 
@@ -30007,6 +30400,47 @@
             "wth": {
                 "rate": 100, 
                 "id": "WTH_ICE"
+            }
+        }, 
+        {
+            "range_h": 2, 
+            "iname": "SK_SMN_TITN", 
+            "lvup_cost_rate": 100, 
+            "selfsel": 1, 
+            "eff_s": 1, 
+            "eff_l": 2, 
+            "eff_h": 2, 
+            "range_s": 1, 
+            "atk_det": 3, 
+            "atk_base": 1, 
+            "range_l": 4, 
+            "slot": 5, 
+            "movie": "titn", 
+            "ischa": 1, 
+            "crt_hit": -15, 
+            "eff_val1": 100, 
+            "timing": 0, 
+            "type": 1, 
+            "hit": 100, 
+            "atk_type": 1, 
+            "eff_val": 65, 
+            "eff_type": 2, 
+            "count": 1, 
+            "effnm": "ef_LAPStitn_00", 
+            "target": 12, 
+            "cap": 20, 
+            "t_buffs": [
+                "BUFF_SMN_TITN"
+            ], 
+            "elem": [
+                4
+            ], 
+            "cost_type": 1, 
+            "motnm": "VISION/LAPStitn", 
+            "atk_rev": 2, 
+            "wth": {
+                "rate": 100, 
+                "id": "WTH_SOIL"
             }
         }, 
         {
@@ -33712,6 +34146,32 @@
             "target": 0
         }, 
         {
+            "s_buffs": [
+                "BUFF_LW_KAT_008_1"
+            ], 
+            "iname": "SK_LW_KAT_008_1", 
+            "lvup_cost_rate": 100, 
+            "cap": 50, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 6, 
+            "grow": "ARTIFACT_50", 
+            "target": 0
+        }, 
+        {
+            "s_buffs": [
+                "BUFF_LW_KAT_008_5"
+            ], 
+            "iname": "SK_LW_KAT_008_5", 
+            "lvup_cost_rate": 100, 
+            "cap": 50, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 6, 
+            "grow": "ARTIFACT_50", 
+            "target": 0
+        }, 
+        {
             "range_h": 2, 
             "iname": "SK_ACC_LW_MONT_1_1", 
             "lvup_cost_rate": 100, 
@@ -36325,6 +36785,46 @@
         }, 
         {
             "slot": 8, 
+            "iname": "SK_VC_LW_TITN_GS", 
+            "cap": 99, 
+            "t_buffs": [
+                "BUFF_VC_LW_TITN_GS"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_UR", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_TITN_GS_AW", 
+            "gdupli": "SK_VC_LW_TITN_GS", 
+            "cap": 4, 
+            "t_buffs": [
+                "BUFF_VC_LW_TITN_GS_AW"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_TITN_GSMAX", 
+            "gdupli": "SK_VC_LW_TITN_GS", 
+            "cap": 1, 
+            "t_buffs": [
+                "BUFF_VC_LW_TITN_GSMAX"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
             "iname": "SK_VC_LW_IGNT_GS", 
             "cap": 70, 
             "t_buffs": [
@@ -36964,6 +37464,33 @@
             "cap": 4, 
             "t_buffs": [
                 "BUFF_VC_LW_ORDR_GSAW"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_KING_GS", 
+            "cap": 70, 
+            "t_buffs": [
+                "BUFF_VC_LW_KING_GS"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_SSR", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_KING_GSAW", 
+            "gdupli": "SK_VC_LW_KING_GS", 
+            "cap": 4, 
+            "t_buffs": [
+                "BUFF_VC_LW_KING_GSAW"
             ], 
             "eff_type": 0, 
             "timing": 1, 
@@ -38246,6 +38773,46 @@
         {
             "slot": 3, 
             "s_buffs": [
+                "BUFF_VC_LW_TITN_P"
+            ], 
+            "iname": "SK_VC_LW_TITN_P", 
+            "cap": 99, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_UR", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_TITN_PAW"
+            ], 
+            "iname": "SK_VC_LW_TITN_PAW", 
+            "gdupli": "SK_VC_LW_TITN_P", 
+            "cap": 4, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_TITN_PMAX"
+            ], 
+            "iname": "SK_VC_LW_TITN_PMAX", 
+            "gdupli": "SK_VC_LW_TITN_P", 
+            "cap": 1, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
                 "BUFF_VC_LW_IGNT_P"
             ], 
             "iname": "SK_VC_LW_IGNT_P", 
@@ -38884,6 +39451,33 @@
             ], 
             "iname": "SK_VC_LW_ORDR_PAW", 
             "gdupli": "SK_VC_LW_ORDR_P", 
+            "cap": 4, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_KING_P"
+            ], 
+            "iname": "SK_VC_LW_KING_P", 
+            "cap": 70, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_SSR", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_KING_PAW"
+            ], 
+            "iname": "SK_VC_LW_KING_PAW", 
+            "gdupli": "SK_VC_LW_KING_P", 
             "cap": 4, 
             "eff_type": 0, 
             "timing": 1, 
@@ -41156,6 +41750,17 @@
             "cap": 1, 
             "t_buffs": [
                 "BUFF_BTL_INV_HPDOWN"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 3, 
+            "target": 0
+        }, 
+        {
+            "iname": "SK_BTL_INV_SPDDOWN", 
+            "cap": 1, 
+            "t_buffs": [
+                "BUFF_BTL_INV_SPDDOWN"
             ], 
             "eff_type": 0, 
             "timing": 1, 

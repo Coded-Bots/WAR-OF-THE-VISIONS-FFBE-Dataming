@@ -4225,6 +4225,16 @@
             "type1": 91
         }, 
         {
+            "iname": "BUFF_TNBR_M_03", 
+            "calc1": 30, 
+            "chktiming": 10, 
+            "turn": 30, 
+            "rate": 30, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 97
+        }, 
+        {
             "iname": "BUFF_LAMA_M_01", 
             "calc1": 30, 
             "chktiming": 2, 
@@ -4601,6 +4611,59 @@
             "val1": 60, 
             "chktgt": 0, 
             "type1": 88
+        }, 
+        {
+            "iname": "BUFF_TITN_M_01", 
+            "calc1": 3, 
+            "val11": -60, 
+            "chktiming": 1, 
+            "turn": 3, 
+            "timing": 1, 
+            "val1": -30, 
+            "chktgt": 0, 
+            "type1": 45
+        }, 
+        {
+            "iname": "BUFF_TITN_M_02", 
+            "calc1": 30, 
+            "chktiming": 1, 
+            "turn": 1, 
+            "rate": 10, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 91
+        }, 
+        {
+            "val31": 40, 
+            "val4": 40, 
+            "val21": 100, 
+            "iname": "BUFF_TITN_M_03", 
+            "val41": 40, 
+            "calc1": 2, 
+            "calc2": 2, 
+            "calc3": 1, 
+            "calc4": 1, 
+            "val11": 100, 
+            "chktiming": 0, 
+            "val3": 40, 
+            "type4": 24, 
+            "timing": 2, 
+            "val2": 100, 
+            "val1": 100, 
+            "chktgt": 0, 
+            "type1": 21, 
+            "type3": 22, 
+            "type2": 23
+        }, 
+        {
+            "iname": "BUFF_TITN_M_04", 
+            "calc1": 30, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "rate": 30, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 99
         }, 
         {
             "iname": "BUFF_LB_LW_MONT_B", 
@@ -5148,6 +5211,16 @@
             "val1": 60, 
             "chktgt": 0, 
             "type1": 88
+        }, 
+        {
+            "iname": "BUFF_SMN_TITN", 
+            "calc1": 30, 
+            "chktiming": 2, 
+            "turn": 3, 
+            "rate": 67, 
+            "timing": 2, 
+            "chktgt": 0, 
+            "type1": 99
         }, 
         {
             "type5": 87, 
@@ -7442,6 +7515,48 @@
             "type1": 65
         }, 
         {
+            "iname": "BUFF_VC_LW_TITN_GS", 
+            "calc1": 30, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 7, 
+            "chktgt": 0, 
+            "type1": 126, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_TITN_GS_AW", 
+            "calc1": 30, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 126, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_TITN_GSMAX", 
+            "calc1": 30, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 126, 
+            "tag1": [
+                101
+            ]
+        }, 
+        {
             "iname": "BUFF_VC_LW_IGNT_GS", 
             "calc1": 3, 
             "val11": 10, 
@@ -7944,6 +8059,26 @@
             "val1": 1, 
             "chktgt": 0, 
             "type1": 44
+        }, 
+        {
+            "iname": "BUFF_VC_LW_KING_GS", 
+            "calc1": 1, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 158
+        }, 
+        {
+            "iname": "BUFF_VC_LW_KING_GSAW", 
+            "calc1": 1, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 158
         }, 
         {
             "iname": "BUFF_VC_LW_CACT_GS", 
@@ -8922,6 +9057,36 @@
             "type1": 1
         }, 
         {
+            "iname": "BUFF_VC_LW_TITN_P", 
+            "calc1": 1, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
+            "iname": "BUFF_VC_LW_TITN_PAW", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
+            "iname": "BUFF_VC_LW_TITN_PMAX", 
+            "calc1": 1, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
             "val21": -3, 
             "iname": "BUFF_VC_LW_IGNT_P", 
             "calc1": 1, 
@@ -9470,6 +9635,26 @@
             "type1": 1
         }, 
         {
+            "iname": "BUFF_VC_LW_KING_P", 
+            "calc1": 2, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 21
+        }, 
+        {
+            "iname": "BUFF_VC_LW_KING_PAW", 
+            "calc1": 2, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 21
+        }, 
+        {
             "val21": -5, 
             "iname": "BUFF_VC_LW_CACT_P", 
             "calc1": 2, 
@@ -9918,6 +10103,26 @@
             "val1": -20, 
             "chktgt": 0, 
             "type1": 22
+        }, 
+        {
+            "iname": "BUFF_LW_KAT_008_1", 
+            "calc1": 1, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 43
+        }, 
+        {
+            "iname": "BUFF_LW_KAT_008_5", 
+            "calc1": 1, 
+            "val11": 30, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 20, 
+            "chktgt": 0, 
+            "type1": 43
         }, 
         {
             "iname": "BUFF_LW_SLASH_1", 
@@ -15446,6 +15651,16 @@
             "type1": 201
         }, 
         {
+            "iname": "BUFF_BTL_INV_SPDDOWN", 
+            "calc1": 1, 
+            "val11": 999, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 999, 
+            "chktgt": 0, 
+            "type1": 207
+        }, 
+        {
             "iname": "BUFF_BTL_INV_MKBT", 
             "calc1": 1, 
             "calc2": 40, 
@@ -20547,6 +20762,372 @@
             "tag1": [
                 8
             ]
+        }, 
+        {
+            "iname": "BUFF_TITN_01", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 155
+        }, 
+        {
+            "iname": "BUFF_TITN_02", 
+            "calc1": 30, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                103
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_03", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 158
+        }, 
+        {
+            "iname": "BUFF_TITN_04", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 24
+        }, 
+        {
+            "iname": "BUFF_TITN_05", 
+            "calc1": 2, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 21
+        }, 
+        {
+            "iname": "BUFF_TITN_06", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_TITN_07", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_TITN_08", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 155
+        }, 
+        {
+            "iname": "BUFF_TITN_09", 
+            "calc1": 30, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 119, 
+            "tag1": [
+                6
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_10", 
+            "calc1": 30, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 119, 
+            "tag1": [
+                6
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_11", 
+            "calc1": 30, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                103
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_12", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 158
+        }, 
+        {
+            "iname": "BUFF_TITN_13", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
+            "iname": "BUFF_TITN_14", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
+            "iname": "BUFF_TITN_15", 
+            "calc1": 1, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 24
+        }, 
+        {
+            "iname": "BUFF_TITN_16", 
+            "calc1": 2, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 21
+        }, 
+        {
+            "iname": "BUFF_TITN_17", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 44
+        }, 
+        {
+            "iname": "BUFF_TITN_18", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 44
+        }, 
+        {
+            "iname": "BUFF_TITN_19", 
+            "calc1": 1, 
+            "val11": 1, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_TITN_20", 
+            "calc1": 30, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 119, 
+            "tag1": [
+                6
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_21", 
+            "calc1": 30, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 119, 
+            "tag1": [
+                6
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_22", 
+            "calc1": 30, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                103
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_23", 
+            "calc1": 30, 
+            "val11": 6, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 6, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                103
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_24", 
+            "calc1": 1, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
+            "iname": "BUFF_TITN_25", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 62
+        }, 
+        {
+            "iname": "BUFF_TITN_26", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 24
+        }, 
+        {
+            "iname": "BUFF_TITN_27", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 3, 
+            "chktgt": 0, 
+            "type1": 24
+        }, 
+        {
+            "iname": "BUFF_TITN_28", 
+            "calc1": 3, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 44
+        }, 
+        {
+            "iname": "BUFF_TITN_29", 
+            "calc1": 3, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 44
+        }, 
+        {
+            "iname": "BUFF_TITN_30", 
+            "calc1": 1, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_TITN_31", 
+            "calc1": 1, 
+            "val11": 4, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 4, 
+            "chktgt": 0, 
+            "type1": 313
+        }, 
+        {
+            "iname": "BUFF_TITN_32", 
+            "calc1": 30, 
+            "val11": 10, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 120, 
+            "tag1": [
+                103
+            ]
+        }, 
+        {
+            "iname": "BUFF_TITN_33", 
+            "calc1": 1, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 24
         }, 
         {
             "iname": "BUFF_IGNT_01", 

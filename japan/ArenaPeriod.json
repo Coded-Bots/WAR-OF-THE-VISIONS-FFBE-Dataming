@@ -704,7 +704,7 @@
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_013", 
             "quest_id": "QE_ARENA_00006", 
-            "bonus_unit": "ARENA_BU_00027", 
+            "bonus_unit": "ARENA_BU_00028", 
             "daily_reward": "ARENA_DREWARD_002", 
             "thumbnail": "MapIcon_0011"
         }, 
@@ -716,7 +716,7 @@
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_014", 
             "quest_id": "QE_ARENA_00006", 
-            "bonus_unit": "ARENA_BU_00027", 
+            "bonus_unit": "ARENA_BU_00028", 
             "daily_reward": "ARENA_DREWARD_002", 
             "thumbnail": "MapIcon_0011"
         }, 
@@ -728,7 +728,7 @@
             "npc_grp_id": "ARENA_NPCGRP01", 
             "weekly_reward": "ARENA_WREWARD_015", 
             "quest_id": "QE_ARENA_00006", 
-            "bonus_unit": "ARENA_BU_00027", 
+            "bonus_unit": "ARENA_BU_00028", 
             "daily_reward": "ARENA_DREWARD_002", 
             "thumbnail": "MapIcon_0011"
         }

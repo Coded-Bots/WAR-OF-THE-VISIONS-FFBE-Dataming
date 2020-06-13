@@ -44,6 +44,11 @@
             "rate_iname": "EX_RATE_JB_WPN", 
             "iname": "EX_JB_WEAPON", 
             "icon": "IT_JB_SWORD_05"
+        }, 
+        {
+            "rate_iname": "EX_RATE_AF_AW", 
+            "iname": "EX_AF_AW", 
+            "icon": "IT_AF_AW_SWORD"
         }
     ]
 }

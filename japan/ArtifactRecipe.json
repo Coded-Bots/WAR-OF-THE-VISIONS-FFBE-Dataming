@@ -2432,6 +2432,258 @@
                 {
                     "num": 1, 
                     "type": 0, 
+                    "id": "IT_AF_LW_KAT_008"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MYTHRIL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_ICE_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_KAT_008", 
+            "iname": "AF_LW_KAT_008"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_KAT_008"
+                }, 
+                {
+                    "lv": 1, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008"
+                }, 
+                {
+                    "lv": 1, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MYTHRIL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_ICE_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_KAT_008", 
+            "iname": "AF_LW_KAT_008_1"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_KAT_008"
+                }, 
+                {
+                    "lv": 10, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_1"
+                }, 
+                {
+                    "lv": 10, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_1"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MYTHRIL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_ICE_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_KAT_008", 
+            "iname": "AF_LW_KAT_008_2"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_KAT_008"
+                }, 
+                {
+                    "lv": 20, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_2"
+                }, 
+                {
+                    "lv": 20, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_2"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MYTHRIL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_ICE_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_KAT_008", 
+            "iname": "AF_LW_KAT_008_3"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_KAT_008"
+                }, 
+                {
+                    "lv": 30, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_3"
+                }, 
+                {
+                    "lv": 30, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_3"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MYTHRIL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_ICE_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_KAT_008", 
+            "iname": "AF_LW_KAT_008_4"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "id": "IT_AF_LW_KAT_008"
+                }, 
+                {
+                    "lv": 40, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_4"
+                }, 
+                {
+                    "lv": 40, 
+                    "num": 1, 
+                    "type": 1, 
+                    "id": "AF_LW_KAT_008_4"
+                }, 
+                {
+                    "num": 30, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_03"
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_SAND_04"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_MYTHRIL"
+                }, 
+                {
+                    "num": 10, 
+                    "type": 0, 
+                    "id": "IT_AF_MAT_ICE_02"
+                }
+            ], 
+            "gil": 25000, 
+            "recipe": "IT_AF_LW_KAT_008", 
+            "iname": "AF_LW_KAT_008_5"
+        }, 
+        {
+            "craft": [
+                {
+                    "num": 1, 
+                    "type": 0, 
                     "id": "IT_AF_LW_FIS_001"
                 }, 
                 {

@@ -3,7 +3,7 @@
         {
             "begin_at": "2019/02/01", 
             "iname": "LB_BEGINNER_001", 
-            "end_at": "2100/12/31", 
+            "end_at": "2120/06/11 4:59:59", 
             "priority": 1, 
             "bonuses": [
                 {
@@ -4079,6 +4079,94 @@
                 }
             ], 
             "banner": "LoginBonus_PeriodBanner_0027"
+        }, 
+        {
+            "begin_at": "2020/06/10 14:30:00", 
+            "iname": "LB_LIMIT_0028", 
+            "type": 6, 
+            "at_first_already_login_ok": 1, 
+            "end_at": "2020/06/17 9:59:59", 
+            "priority": 2, 
+            "bonuses": [
+                {
+                    "num": 300, 
+                    "type": 3, 
+                    "point": 1
+                }, 
+                {
+                    "num": 2, 
+                    "type": 0, 
+                    "iname": "IT_RAIDAP_01", 
+                    "point": 1
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 2
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_TICKET_STORY", 
+                    "point": 2
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 3
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_04", 
+                    "point": 3
+                }, 
+                {
+                    "num": 400, 
+                    "type": 3, 
+                    "point": 4
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "point": 4
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 5
+                }, 
+                {
+                    "num": 50, 
+                    "type": 0, 
+                    "iname": "IT_VC_EXP_04", 
+                    "point": 5
+                }, 
+                {
+                    "num": 500, 
+                    "type": 3, 
+                    "point": 6
+                }, 
+                {
+                    "num": 100, 
+                    "type": 0, 
+                    "iname": "IT_CG_03", 
+                    "point": 6
+                }, 
+                {
+                    "num": 1000, 
+                    "type": 3, 
+                    "point": 7
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AW_VBALL_UR", 
+                    "point": 7
+                }
+            ], 
+            "banner": "LoginBonus_PeriodBanner_0028"
         }
     ]
 }

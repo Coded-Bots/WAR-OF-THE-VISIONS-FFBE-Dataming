@@ -510,6 +510,118 @@
             "exchange_iname": "EX_JB_WEAPON", 
             "iname": "EX_SUB_JB_AXE", 
             "icon": "IT_JB_AXE_05"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_SWORD"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_SW", 
+            "icon": "IT_AF_AW_SWORD"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_LSWORD"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_LS", 
+            "icon": "IT_AF_AW_LSWORD"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_JSWORD"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_JS", 
+            "icon": "IT_AF_AW_JSWORD"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_FIST"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_FI", 
+            "icon": "IT_AF_AW_FIST"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_SPEAR"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_SP", 
+            "icon": "IT_AF_AW_SPEAR"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_SSWORD"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_SS", 
+            "icon": "IT_AF_AW_SSWORD"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_KUNAI"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_KU", 
+            "icon": "IT_AF_AW_KUNAI"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_BOW"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_BO", 
+            "icon": "IT_AF_AW_BOW"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_GUN"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_GU", 
+            "icon": "IT_AF_AW_GUN"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_STAFF"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_ST", 
+            "icon": "IT_AF_AW_STAFF"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_MACE"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_MA", 
+            "icon": "IT_AF_AW_MACE"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_AXE"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_AX", 
+            "icon": "IT_AF_AW_AXE"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_ARMOR"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_AR", 
+            "icon": "IT_AF_AW_ARMOR"
+        }, 
+        {
+            "items": [
+                "IT_AF_AW_ACCE"
+            ], 
+            "exchange_iname": "EX_AF_AW", 
+            "iname": "EX_SUB_AF_AW_AC", 
+            "icon": "IT_AF_AW_ACCE"
         }
     ]
 }
