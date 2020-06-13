@@ -5791,6 +5791,56 @@
             "type1": 61
         }, 
         {
+            "iname": "BUFF_VC_LW_VALE1_GS", 
+            "calc1": 2, 
+            "val11": 25, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 15, 
+            "chktgt": 0, 
+            "type1": 27
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE1_GSAW", 
+            "calc1": 2, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 27
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE1_GSMAX", 
+            "calc1": 2, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 27
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE2_GS", 
+            "calc1": 1, 
+            "val11": 20, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 10, 
+            "chktgt": 0, 
+            "type1": 203
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE2_GSAW", 
+            "calc1": 1, 
+            "val11": 10, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 203
+        }, 
+        {
             "iname": "BUFF_VC_LW_CACT_GS", 
             "calc1": 1, 
             "val11": 9, 
@@ -6843,6 +6893,68 @@
             "val1": 1, 
             "chktgt": 0, 
             "type1": 22
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE1_P", 
+            "calc1": 1, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 45
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE1_PAW", 
+            "calc1": 1, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 45
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE1_PMAX", 
+            "calc1": 1, 
+            "val11": 2, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 2, 
+            "chktgt": 0, 
+            "type1": 45
+        }, 
+        {
+            "val21": -10, 
+            "iname": "BUFF_VC_LW_VALE2_P", 
+            "calc1": 30, 
+            "calc2": 2, 
+            "val11": 15, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "type2": 25, 
+            "timing": 0, 
+            "val2": -10, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 119, 
+            "tag1": [
+                5
+            ]
+        }, 
+        {
+            "iname": "BUFF_VC_LW_VALE2_PAW", 
+            "calc1": 30, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "rate": 200, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 119, 
+            "tag1": [
+                5
+            ]
         }, 
         {
             "val21": -5, 
@@ -8746,11 +8858,10 @@
         {
             "iname": "BUFF_ARM_LW_KTON_1_1", 
             "calc1": 1, 
-            "val11": -60, 
-            "chktiming": 1, 
-            "turn": 3, 
+            "val11": -8, 
+            "chktiming": 0, 
             "timing": 2, 
-            "val1": -30, 
+            "val1": -6, 
             "chktgt": 0, 
             "type1": 180
         }, 
@@ -9547,6 +9658,26 @@
             "val1": 10, 
             "chktgt": 0, 
             "type1": 88
+        }, 
+        {
+            "iname": "BUFF_LW_RNG_005_1_S", 
+            "calc1": 3, 
+            "val11": 3, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 1, 
+            "chktgt": 0, 
+            "type1": 50
+        }, 
+        {
+            "iname": "BUFF_LW_RNG_005_5_S", 
+            "calc1": 3, 
+            "val11": 5, 
+            "chktiming": 0, 
+            "timing": 0, 
+            "val1": 5, 
+            "chktgt": 0, 
+            "type1": 50
         }, 
         {
             "iname": "BUFF_WTH_SUN", 

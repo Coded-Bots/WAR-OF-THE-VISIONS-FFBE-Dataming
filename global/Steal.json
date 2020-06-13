@@ -791,6 +791,54 @@
                     "weight": 5
                 }
             ]
+        }, 
+        {
+            "num": 1, 
+            "iname": "ST_LW_CSLI", 
+            "drop_data": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_02", 
+                    "weight": 70
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_03", 
+                    "weight": 25
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "weight": 5
+                }
+            ]
+        }, 
+        {
+            "num": 1, 
+            "iname": "ST_LW_SLIM", 
+            "drop_data": [
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_01", 
+                    "weight": 70
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_02", 
+                    "weight": 25
+                }, 
+                {
+                    "num": 1, 
+                    "type": 0, 
+                    "iname": "IT_AF_MAT_LIQUID_03", 
+                    "weight": 5
+                }
+            ]
         }
     ]
 }

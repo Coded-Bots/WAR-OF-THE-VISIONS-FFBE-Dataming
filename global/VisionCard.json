@@ -325,6 +325,38 @@
             "icon": "LAPSHoly"
         }, 
         {
+            "sell": 1000, 
+            "status": [
+                {
+                    "hp": 37, 
+                    "atk": 43, 
+                    "mag": 9
+                }, 
+                {
+                    "hp": 292, 
+                    "atk": 168, 
+                    "mag": 32
+                }
+            ], 
+            "add_card_skill_buff_awake": "SK_VC_LW_VALE1_GSAW", 
+            "rare": 4, 
+            "iname": "VC_LW_VALE1", 
+            "piece_num": 25, 
+            "add_card_skill_buff_lvmax": "SK_VC_LW_VALE1_GSMAX", 
+            "sell_mdl": 100, 
+            "self_buff": "SK_VC_LW_VALE1_P", 
+            "add_self_buff_lvmax": "SK_VC_LW_VALE1_PMAX", 
+            "add_self_buff_awake": "SK_VC_LW_VALE1_PAW", 
+            "cost": 70, 
+            "en_cost": 2000, 
+            "en_exp": 20000, 
+            "db_num": 1, 
+            "card_skill": "SK_VC_LW_VALE1_GS", 
+            "piece": "IT_VPI_LW_VALE1", 
+            "type": 0, 
+            "icon": "LAPSVale1"
+        }, 
+        {
             "sell": 800, 
             "status": [
                 {
@@ -482,6 +514,36 @@
             "piece": "IT_VPI_LW_RAMU", 
             "type": 0, 
             "icon": "LAPSRamu"
+        }, 
+        {
+            "sell": 800, 
+            "status": [
+                {
+                    "hp": 33, 
+                    "atk": 23, 
+                    "mag": 17
+                }, 
+                {
+                    "hp": 268, 
+                    "atk": 92, 
+                    "mag": 68
+                }
+            ], 
+            "add_card_skill_buff_awake": "SK_VC_LW_VALE2_GSAW", 
+            "rare": 3, 
+            "iname": "VC_LW_VALE2", 
+            "piece_num": 20, 
+            "sell_mdl": 20, 
+            "self_buff": "SK_VC_LW_VALE2_P", 
+            "add_self_buff_awake": "SK_VC_LW_VALE2_PAW", 
+            "cost": 50, 
+            "en_cost": 1000, 
+            "en_exp": 10000, 
+            "db_num": 1, 
+            "card_skill": "SK_VC_LW_VALE2_GS", 
+            "piece": "IT_VPI_LW_VALE2", 
+            "type": 0, 
+            "icon": "LAPSVale2"
         }, 
         {
             "sell": 1000, 

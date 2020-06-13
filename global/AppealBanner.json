@@ -506,6 +506,34 @@
             "transition_destination": 0, 
             "id": 37, 
             "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020/06/09 21:30:00", 
+            "iname": "GachaBanner_0048", 
+            "sval": "GachaBanner_0048", 
+            "end_at": "2020/06/16 23:59:59", 
+            "priority": 3, 
+            "setting": {
+                "type": 0, 
+                "unlock_id": "None"
+            }, 
+            "transition_destination": 0, 
+            "id": 38, 
+            "appeal_category": 2
+        }, 
+        {
+            "start_at": "2020/06/09 21:30:00", 
+            "iname": "ev_art_secret_02", 
+            "sval": "ev_art_secret_02", 
+            "end_at": "2020/06/16 23:59:59", 
+            "priority": 4, 
+            "setting": {
+                "type": 1, 
+                "unlock_id": "EventQuest"
+            }, 
+            "transition_destination": 4, 
+            "id": 39, 
+            "appeal_category": 0
         }
     ]
 }

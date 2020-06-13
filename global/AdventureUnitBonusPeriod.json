@@ -71,6 +71,12 @@
             "bonus_set_id": "BONUS_GL_007", 
             "iname": "GL_PERIOD_010", 
             "end_at": "2020/06/09 20:59:59"
+        }, 
+        {
+            "begin_at": "2020/06/09 21:30:00", 
+            "bonus_set_id": "BONUS_GL_008", 
+            "iname": "GL_PERIOD_011", 
+            "end_at": "2020/06/16 23:59:59"
         }
     ]
 }

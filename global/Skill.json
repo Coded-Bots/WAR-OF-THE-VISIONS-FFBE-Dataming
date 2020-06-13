@@ -27494,6 +27494,32 @@
             "target": 0
         }, 
         {
+            "s_buffs": [
+                "BUFF_LW_RNG_005_1_S"
+            ], 
+            "iname": "SK_LW_RNG_005_1", 
+            "lvup_cost_rate": 100, 
+            "cap": 50, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 6, 
+            "grow": "ARTIFACT_50", 
+            "target": 0
+        }, 
+        {
+            "s_buffs": [
+                "BUFF_LW_RNG_005_5_S"
+            ], 
+            "iname": "SK_LW_RNG_005_5", 
+            "lvup_cost_rate": 100, 
+            "cap": 50, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 6, 
+            "grow": "ARTIFACT_50", 
+            "target": 0
+        }, 
+        {
             "range_h": 2, 
             "iname": "SK_ACC_LW_MONT_1_1", 
             "lvup_cost_rate": 100, 
@@ -30046,6 +30072,73 @@
             "target": 10
         }, 
         {
+            "slot": 8, 
+            "iname": "SK_VC_LW_VALE1_GS", 
+            "cap": 99, 
+            "t_buffs": [
+                "BUFF_VC_LW_VALE1_GS"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_UR", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_VALE1_GSAW", 
+            "gdupli": "SK_VC_LW_VALE1_GS", 
+            "cap": 4, 
+            "t_buffs": [
+                "BUFF_VC_LW_VALE1_GSAW"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_VALE1_GSMAX", 
+            "gdupli": "SK_VC_LW_VALE1_GS", 
+            "cap": 1, 
+            "t_buffs": [
+                "BUFF_VC_LW_VALE1_GSMAX"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_VALE2_GS", 
+            "cap": 70, 
+            "t_buffs": [
+                "BUFF_VC_LW_VALE2_GS"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_SSR", 
+            "target": 10
+        }, 
+        {
+            "slot": 8, 
+            "iname": "SK_VC_LW_VALE2_GSAW", 
+            "gdupli": "SK_VC_LW_VALE2_GS", 
+            "cap": 4, 
+            "t_buffs": [
+                "BUFF_VC_LW_VALE2_GSAW"
+            ], 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 10
+        }, 
+        {
             "slot": 3, 
             "s_buffs": [
                 "BUFF_VC_LW_GLEM_P"
@@ -31355,6 +31448,73 @@
             ], 
             "iname": "SK_VC_LW_LILS_PAW", 
             "gdupli": "SK_VC_LW_LILS_P", 
+            "cap": 4, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_VALE1_P"
+            ], 
+            "iname": "SK_VC_LW_VALE1_P", 
+            "cap": 99, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_UR", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_VALE1_PAW"
+            ], 
+            "iname": "SK_VC_LW_VALE1_PAW", 
+            "gdupli": "SK_VC_LW_VALE1_P", 
+            "cap": 4, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCAWAKE", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_VALE1_PMAX"
+            ], 
+            "iname": "SK_VC_LW_VALE1_PMAX", 
+            "gdupli": "SK_VC_LW_VALE1_P", 
+            "cap": 1, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_VALE2_P"
+            ], 
+            "iname": "SK_VC_LW_VALE2_P", 
+            "cap": 70, 
+            "eff_type": 0, 
+            "timing": 1, 
+            "type": 9, 
+            "grow": "VCGROW_SSR", 
+            "target": 0
+        }, 
+        {
+            "slot": 3, 
+            "s_buffs": [
+                "BUFF_VC_LW_VALE2_PAW"
+            ], 
+            "iname": "SK_VC_LW_VALE2_PAW", 
+            "gdupli": "SK_VC_LW_VALE2_P", 
             "cap": 4, 
             "eff_type": 0, 
             "timing": 1, 

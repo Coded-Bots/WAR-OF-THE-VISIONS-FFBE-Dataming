@@ -104,6 +104,21 @@
             "pri": 20, 
             "type": 9, 
             "iname": "TIPS_MULTI_001"
+        }, 
+        {
+            "pri": 20, 
+            "type": 1, 
+            "iname": "TIPS_PVP_001"
+        }, 
+        {
+            "pri": 20, 
+            "type": 8, 
+            "iname": "TIPS_RAID_001"
+        }, 
+        {
+            "pri": 20, 
+            "type": 8, 
+            "iname": "TIPS_RAID_002"
         }
     ]
 }

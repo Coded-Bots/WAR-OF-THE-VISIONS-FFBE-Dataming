@@ -25161,6 +25161,49 @@
             "cost": 1, 
             "type": 10, 
             "size": 0
+        }, 
+        {
+            "status": [
+                {
+                    "cda": 999, 
+                    "cbe": 999, 
+                    "cdm": 999, 
+                    "cdo": 999, 
+                    "cbl": 999, 
+                    "cpe": 999, 
+                    "ap": 1, 
+                    "spd": 20, 
+                    "csl": 999, 
+                    "cfr": 999, 
+                    "cst": 999, 
+                    "csw": 999, 
+                    "luk": 20, 
+                    "cch": 999, 
+                    "hp": 1000, 
+                    "mnd": 20, 
+                    "mag": 20, 
+                    "dex": 20, 
+                    "cpo": 999, 
+                    "cpa": 999, 
+                    "atk": 20, 
+                    "mp": 1, 
+                    "cmu": 999, 
+                    "ccf": 999, 
+                    "def": 20
+                }
+            ], 
+            "anm_type": 3, 
+            "rare": 0, 
+            "iname": "UN_GM_PLACED_BASH", 
+            "notsmn": 1, 
+            "stop": 1, 
+            "sex": 3, 
+            "cost": 1, 
+            "no_kb": 1, 
+            "charaId": "GMCKbash", 
+            "height": 150, 
+            "type": 6, 
+            "size": 10
         }
     ]
 }

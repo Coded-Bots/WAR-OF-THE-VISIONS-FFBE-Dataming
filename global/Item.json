@@ -7340,6 +7340,18 @@
             "icon": "AF_LW_AXE_003"
         }, 
         {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_AF_LW_RNG_005", 
+            "mc": 9999, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 13, 
+            "icon": "AF_LW_RNG_005"
+        }, 
+        {
             "sell": 50, 
             "ac": 9999, 
             "buy": 30000, 
@@ -7999,16 +8011,6 @@
             "buy": 9999, 
             "rare": 0, 
             "iname": "IT_EC_EV02_1", 
-            "mc": 9999, 
-            "is_valuables": 1, 
-            "type": 16
-        }, 
-        {
-            "sell": 10, 
-            "ac": 9999, 
-            "buy": 9999, 
-            "rare": 0, 
-            "iname": "IT_EC_RAID_02", 
             "mc": 9999, 
             "is_valuables": 1, 
             "type": 16
@@ -9103,6 +9105,30 @@
             "type": 36
         }, 
         {
+            "sell": 500, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 4, 
+            "iname": "IT_VPI_LW_VALE1", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
+            "sell": 100, 
+            "ac": 9999, 
+            "buy": 30000, 
+            "rare": 3, 
+            "iname": "IT_VPI_LW_VALE2", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "steal": 0, 
+            "coin": 30000, 
+            "type": 36
+        }, 
+        {
             "sell": 10, 
             "ac": 9999, 
             "buy": 30000, 
@@ -9323,6 +9349,16 @@
             "mc": 9999, 
             "coin": 999, 
             "type": 32
+        }, 
+        {
+            "sell": 10, 
+            "ac": 9999, 
+            "buy": 9999, 
+            "rare": 0, 
+            "iname": "IT_EC_RAID_02", 
+            "mc": 9999, 
+            "is_valuables": 1, 
+            "type": 16
         }, 
         {
             "sell": 20, 
