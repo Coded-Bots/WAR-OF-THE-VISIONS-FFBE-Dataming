@@ -1,116 +1,116 @@
 {
     "items": [
         {
-            "channel_type": 2, 
-            "category_type": 0, 
-            "is_valid": 1, 
-            "id": 1, 
-            "is_speakable": 1
-        }, 
+            "id": 1,
+            "category_type": 0,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 2
+        },
         {
-            "channel_type": 2, 
-            "category_type": 1, 
-            "is_valid": 1, 
-            "id": 2, 
-            "is_speakable": 1
-        }, 
+            "id": 2,
+            "category_type": 1,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 2
+        },
         {
-            "channel_type": 3, 
-            "category_type": 2, 
-            "is_valid": 1, 
-            "id": 3, 
-            "is_speakable": 1
-        }, 
+            "id": 3,
+            "category_type": 2,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 2, 
-            "is_valid": 1, 
-            "id": 4, 
-            "is_speakable": 0
-        }, 
+            "id": 4,
+            "category_type": 2,
+            "is_speakable": 0,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 2, 
-            "is_valid": 1, 
-            "id": 5, 
-            "is_speakable": 1
-        }, 
+            "id": 5,
+            "category_type": 2,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 2, 
-            "is_valid": 1, 
-            "id": 6, 
-            "is_speakable": 1
-        }, 
+            "id": 6,
+            "category_type": 2,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 2, 
-            "category_type": 3, 
-            "is_valid": 1, 
-            "id": 17, 
-            "is_speakable": 1
-        }, 
+            "id": 17,
+            "category_type": 3,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 2
+        },
         {
-            "channel_type": 2, 
-            "category_type": 3, 
-            "is_valid": 1, 
-            "id": 18, 
-            "is_speakable": 1
-        }, 
+            "id": 18,
+            "category_type": 3,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 2
+        },
         {
-            "channel_type": 3, 
-            "category_type": 3, 
-            "is_valid": 1, 
-            "id": 19, 
-            "is_speakable": 1
-        }, 
+            "id": 19,
+            "category_type": 3,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 1, 
-            "category_type": 3, 
-            "is_valid": 1, 
-            "id": 20, 
-            "is_speakable": 1
-        }, 
+            "id": 20,
+            "category_type": 3,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 1
+        },
         {
-            "channel_type": 3, 
-            "category_type": 4, 
-            "is_valid": 1, 
-            "id": 101, 
-            "is_speakable": 1
-        }, 
+            "id": 101,
+            "category_type": 4,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 4, 
-            "is_valid": 1, 
-            "id": 201, 
-            "is_speakable": 1
-        }, 
+            "id": 201,
+            "category_type": 4,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 4, 
-            "is_valid": 1, 
-            "id": 301, 
-            "is_speakable": 1
-        }, 
+            "id": 301,
+            "category_type": 4,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 4, 
-            "is_valid": 1, 
-            "id": 401, 
-            "is_speakable": 1
-        }, 
+            "id": 401,
+            "category_type": 4,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 4, 
-            "is_valid": 1, 
-            "id": 501, 
-            "is_speakable": 1
-        }, 
+            "id": 501,
+            "category_type": 4,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
+        },
         {
-            "channel_type": 3, 
-            "category_type": 4, 
-            "is_valid": 1, 
-            "id": 601, 
-            "is_speakable": 1
+            "id": 601,
+            "category_type": 4,
+            "is_speakable": 1,
+            "is_valid": 1,
+            "channel_type": 3
         }
     ]
 }

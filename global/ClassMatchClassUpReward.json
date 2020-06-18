@@ -1,74 +1,74 @@
 {
     "items": [
         {
+            "iname": "CMPWR_DIAMOND_MASTER",
             "rewards": [
                 {
-                    "num": 2000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 2000
+                },
                 {
-                    "num": 2500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 2500
                 }
-            ], 
-            "iname": "CMPWR_DIAMOND_MASTER"
-        }, 
+            ]
+        },
         {
+            "iname": "CMPWR_DIAMOND_3",
             "rewards": [
                 {
-                    "num": 1000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1000
+                },
                 {
-                    "num": 1500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 1500
                 }
-            ], 
-            "iname": "CMPWR_DIAMOND_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMPWR_PLATINUM_3",
             "rewards": [
                 {
-                    "num": 600, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 600
+                },
                 {
-                    "num": 500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 500
                 }
-            ], 
-            "iname": "CMPWR_PLATINUM_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMPWR_GOLD3",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 200
+                },
                 {
-                    "num": 250, 
-                    "type": 3
+                    "type": 3,
+                    "num": 250
                 }
-            ], 
-            "iname": "CMPWR_GOLD3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMPWR_SILVER3",
             "rewards": [
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 100
+                },
                 {
-                    "num": 250, 
-                    "type": 3
+                    "type": 3,
+                    "num": 250
                 }
-            ], 
-            "iname": "CMPWR_SILVER3"
+            ]
         }
     ]
 }

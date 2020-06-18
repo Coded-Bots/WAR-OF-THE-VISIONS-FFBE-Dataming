@@ -1,120 +1,120 @@
 {
     "items": [
         {
+            "iname": "BUFFPRI_PHYATK",
             "vals": [
-                21, 
-                26, 
+                21,
+                26,
                 25
-            ], 
-            "iname": "BUFFPRI_PHYATK"
-        }, 
+            ]
+        },
         {
+            "iname": "BUFFPRI_MAGATK",
             "vals": [
-                23, 
-                26, 
+                23,
+                26,
                 25
-            ], 
-            "iname": "BUFFPRI_MAGATK"
-        }, 
+            ]
+        },
         {
+            "iname": "BUFFPRI_PHYTANK",
             "vals": [
-                22, 
-                24, 
+                22,
+                24,
                 26
-            ], 
-            "iname": "BUFFPRI_PHYTANK"
-        }, 
+            ]
+        },
         {
+            "iname": "BUFFPRI_MAGTANK",
             "vals": [
-                24, 
-                22, 
+                24,
+                22,
                 26
-            ], 
-            "iname": "BUFFPRI_MAGTANK"
-        }, 
+            ]
+        },
         {
+            "iname": "BUFFPRI_HEALER",
             "vals": [
-                23, 
-                22, 
+                23,
+                22,
                 24
-            ], 
-            "iname": "BUFFPRI_HEALER"
-        }, 
+            ]
+        },
         {
+            "iname": "BUFFPRI_SHOOT",
             "vals": [
-                64, 
-                152, 
-                21, 
-                26, 
+                64,
+                152,
+                21,
+                26,
                 25
-            ], 
-            "iname": "BUFFPRI_SHOOT"
-        }, 
+            ]
+        },
         {
+            "iname": "BUFFPRI_AVOID",
             "vals": [
-                156, 
-                21, 
+                156,
+                21,
                 26
-            ], 
-            "iname": "BUFFPRI_AVOID"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_PHYATK",
             "vals": [
-                21, 
-                26, 
+                21,
+                26,
                 25
-            ], 
-            "iname": "DEBUFFPRI_PHYATK"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_MAGATK",
             "vals": [
-                23, 
-                26, 
+                23,
+                26,
                 25
-            ], 
-            "iname": "DEBUFFPRI_MAGATK"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_PHYTANK",
             "vals": [
-                22, 
-                24, 
+                22,
+                24,
                 26
-            ], 
-            "iname": "DEBUFFPRI_PHYTANK"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_MAGTANK",
             "vals": [
-                24, 
-                22, 
+                24,
+                22,
                 26
-            ], 
-            "iname": "DEBUFFPRI_MAGTANK"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_HEALER",
             "vals": [
-                23, 
-                22, 
+                23,
+                22,
                 24
-            ], 
-            "iname": "DEBUFFPRI_HEALER"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_SHOOT",
             "vals": [
-                64, 
-                152, 
-                21, 
-                26, 
+                64,
+                152,
+                21,
+                26,
                 25
-            ], 
-            "iname": "DEBUFFPRI_SHOOT"
-        }, 
+            ]
+        },
         {
+            "iname": "DEBUFFPRI_AVOID",
             "vals": [
-                156, 
-                21, 
+                156,
+                21,
                 26
-            ], 
-            "iname": "DEBUFFPRI_AVOID"
+            ]
         }
     ]
 }

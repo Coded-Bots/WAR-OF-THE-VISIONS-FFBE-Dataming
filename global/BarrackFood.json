@@ -1,49 +1,49 @@
 {
     "items": [
         {
-            "item_id": "IT_GU_FOOD_01", 
-            "is_default": 1, 
-            "cost": 5000, 
-            "iname": "BF_CANDY", 
-            "payment_type": 0
-        }, 
+            "iname": "BF_CANDY",
+            "item_id": "IT_GU_FOOD_01",
+            "payment_type": 0,
+            "cost": 5000,
+            "is_default": 1
+        },
         {
-            "item_id": "IT_GU_FOOD_02", 
-            "is_default": 1, 
-            "cost": 7500, 
-            "iname": "BF_MEET", 
-            "payment_type": 0
-        }, 
+            "iname": "BF_MEET",
+            "item_id": "IT_GU_FOOD_02",
+            "payment_type": 0,
+            "cost": 7500,
+            "is_default": 1
+        },
         {
-            "item_id": "IT_GU_FOOD_03", 
-            "is_default": 1, 
-            "cost": 10000, 
-            "iname": "BF_MANZYU", 
-            "payment_type": 0
-        }, 
+            "iname": "BF_MANZYU",
+            "item_id": "IT_GU_FOOD_03",
+            "payment_type": 0,
+            "cost": 10000,
+            "is_default": 1
+        },
         {
-            "effect_time": 3600, 
-            "iname": "BF_SALAD", 
-            "cost": 50000, 
-            "effect_id": "BFE_SALAD", 
-            "payment_type": 0, 
-            "item_id": "IT_GU_FOOD_04"
-        }, 
+            "iname": "BF_SALAD",
+            "item_id": "IT_GU_FOOD_04",
+            "payment_type": 0,
+            "cost": 50000,
+            "effect_id": "BFE_SALAD",
+            "effect_time": 3600
+        },
         {
-            "effect_time": 3600, 
-            "iname": "BF_SOUP", 
-            "cost": 100, 
-            "effect_id": "BFE_SOUP", 
-            "payment_type": 1, 
-            "item_id": "IT_GU_FOOD_05"
-        }, 
+            "iname": "BF_SOUP",
+            "item_id": "IT_GU_FOOD_05",
+            "payment_type": 1,
+            "cost": 100,
+            "effect_id": "BFE_SOUP",
+            "effect_time": 3600
+        },
         {
-            "effect_time": 3600, 
-            "iname": "BF_STEAK", 
-            "cost": 200, 
-            "effect_id": "BFE_STEAK", 
-            "payment_type": 1, 
-            "item_id": "IT_GU_FOOD_06"
+            "iname": "BF_STEAK",
+            "item_id": "IT_GU_FOOD_06",
+            "payment_type": 1,
+            "cost": 200,
+            "effect_id": "BFE_STEAK",
+            "effect_time": 3600
         }
     ]
 }

@@ -1,54 +1,54 @@
 {
     "items": [
         {
+            "level": 1,
             "reward": [
                 {
-                    "item_id": "IT_EC_GUILD", 
-                    "reward_type": 0, 
+                    "reward_type": 0,
+                    "item_id": "IT_EC_GUILD",
                     "num": 10
                 }
-            ], 
-            "level": 1
-        }, 
+            ]
+        },
         {
+            "level": 2,
             "reward": [
                 {
-                    "item_id": "IT_EC_GUILD", 
-                    "reward_type": 0, 
+                    "reward_type": 0,
+                    "item_id": "IT_EC_GUILD",
                     "num": 11
                 }
-            ], 
-            "level": 2
-        }, 
+            ]
+        },
         {
+            "level": 3,
             "reward": [
                 {
-                    "item_id": "IT_EC_GUILD", 
-                    "reward_type": 0, 
+                    "reward_type": 0,
+                    "item_id": "IT_EC_GUILD",
                     "num": 12
                 }
-            ], 
-            "level": 3
-        }, 
+            ]
+        },
         {
+            "level": 4,
             "reward": [
                 {
-                    "item_id": "IT_EC_GUILD", 
-                    "reward_type": 0, 
+                    "reward_type": 0,
+                    "item_id": "IT_EC_GUILD",
                     "num": 13
                 }
-            ], 
-            "level": 4
-        }, 
+            ]
+        },
         {
+            "level": 5,
             "reward": [
                 {
-                    "item_id": "IT_EC_GUILD", 
-                    "reward_type": 0, 
+                    "reward_type": 0,
+                    "item_id": "IT_EC_GUILD",
                     "num": 14
                 }
-            ], 
-            "level": 5
+            ]
         }
     ]
 }

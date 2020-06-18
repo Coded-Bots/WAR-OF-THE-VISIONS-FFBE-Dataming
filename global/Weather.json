@@ -1,236 +1,236 @@
 {
     "items": [
         {
-            "effect": "eff_bg_empty_field", 
-            "geo": "Sun    ", 
-            "iname": "WTH_DEFAULT", 
-            "icon": "Icon_Shiny"
-        }, 
+            "iname": "WTH_DEFAULT",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_empty_field",
+            "geo": "Sun    "
+        },
         {
-            "iname": "WTH_FIRE", 
+            "iname": "WTH_FIRE",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_fire_field",
+            "color": [
+                107,
+                77,
+                45,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Fire   ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_FIRE"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_FIRE02"
                 }
-            ], 
-            "color": [
-                107, 
-                77, 
-                45, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_fire_field", 
-            "geo": "Fire   ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_FIRE01", 
+            "iname": "WTH_FIRE01",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_fire_field",
+            "color": [
+                107,
+                77,
+                45,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Fire   ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_FIRE03"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_FIRE04"
                 }
-            ], 
-            "color": [
-                107, 
-                77, 
-                45, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_fire_field", 
-            "geo": "Fire   ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_ICE", 
+            "iname": "WTH_ICE",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_ice_field",
+            "color": [
+                73,
+                78,
+                92,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Ice    ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_ICE"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_ICE02"
                 }
-            ], 
-            "color": [
-                73, 
-                78, 
-                92, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_ice_field", 
-            "geo": "Ice    ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_WIND", 
+            "iname": "WTH_WIND",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_wind_field",
+            "color": [
+                85,
+                109,
+                69,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Wind   ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_WIND"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_WIND02"
                 }
-            ], 
-            "color": [
-                85, 
-                109, 
-                69, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_wind_field", 
-            "geo": "Wind   ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_SOIL", 
+            "iname": "WTH_SOIL",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_earth_field",
+            "color": [
+                92,
+                70,
+                34,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Earth  ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_SOIL"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_SOIL02"
                 }
-            ], 
-            "color": [
-                92, 
-                70, 
-                34, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_earth_field", 
-            "geo": "Earth  ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_THUN", 
+            "iname": "WTH_THUN",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_thunder_field",
+            "color": [
+                111,
+                105,
+                66,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Thunder",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_THUN"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_THUN02"
                 }
-            ], 
-            "color": [
-                111, 
-                105, 
-                66, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_thunder_field", 
-            "geo": "Thunder", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_WATR", 
+            "iname": "WTH_WATR",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_water_field",
+            "color": [
+                55,
+                97,
+                97,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Water  ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_WATR"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_WATR02"
                 }
-            ], 
-            "color": [
-                55, 
-                97, 
-                97, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_water_field", 
-            "geo": "Water  ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_SHIN", 
+            "iname": "WTH_SHIN",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_shine_field",
+            "color": [
+                126,
+                115,
+                96,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Shine  ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_SHIN"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_SHIN02"
                 }
-            ], 
-            "color": [
-                126, 
-                115, 
-                96, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_shine_field", 
-            "geo": "Shine  ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_DARK", 
+            "iname": "WTH_DARK",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_dark_field",
+            "color": [
+                75,
+                73,
+                92,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Dark   ",
             "buffs": [
                 {
-                    "side": 2, 
+                    "side": 2,
                     "buff1": "BUFF_WTH_DARK"
-                }, 
+                },
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_DARK02"
                 }
-            ], 
-            "color": [
-                75, 
-                73, 
-                92, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_dark_field", 
-            "geo": "Dark   ", 
-            "icon": "Icon_Shiny"
-        }, 
+            ]
+        },
         {
-            "iname": "WTH_NONE", 
+            "iname": "WTH_NONE",
+            "icon": "Icon_Shiny",
+            "effect": "eff_bg_dark_field",
+            "color": [
+                128,
+                128,
+                128,
+                255
+            ],
+            "clock_time": 40,
+            "geo": "Sun    ",
             "buffs": [
                 {
-                    "side": 1, 
+                    "side": 1,
                     "buff1": "BUFF_WTH_NONE"
                 }
-            ], 
-            "color": [
-                128, 
-                128, 
-                128, 
-                255
-            ], 
-            "clock_time": 40, 
-            "effect": "eff_bg_dark_field", 
-            "geo": "Sun    ", 
-            "icon": "Icon_Shiny"
+            ]
         }
     ]
 }

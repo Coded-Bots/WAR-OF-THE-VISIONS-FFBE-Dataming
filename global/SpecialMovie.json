@@ -1,8 +1,8 @@
 {
     "items": [
         {
-            "path": "Opening/op", 
-            "iname": "MV_OP"
+            "iname": "MV_OP",
+            "path": "Opening/op"
         }
     ]
 }

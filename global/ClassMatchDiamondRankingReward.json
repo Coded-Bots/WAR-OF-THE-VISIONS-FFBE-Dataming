@@ -1,88 +1,88 @@
 {
     "items": [
         {
+            "iname": "CMDMRR_1",
             "rewards": [
                 {
-                    "num": 12000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 12000
+                },
                 {
-                    "num": 6000, 
-                    "type": 3
+                    "type": 3,
+                    "num": 6000
                 }
-            ], 
-            "iname": "CMDMRR_1"
-        }, 
+            ]
+        },
         {
+            "iname": "CMDMRR_2",
             "rewards": [
                 {
-                    "num": 11250, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 11250
+                },
                 {
-                    "num": 5500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 5500
                 }
-            ], 
-            "iname": "CMDMRR_2"
-        }, 
+            ]
+        },
         {
+            "iname": "CMDMRR_3",
             "rewards": [
                 {
-                    "num": 11000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 11000
+                },
                 {
-                    "num": 5000, 
-                    "type": 3
+                    "type": 3,
+                    "num": 5000
                 }
-            ], 
-            "iname": "CMDMRR_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMDMRR_4",
             "rewards": [
                 {
-                    "num": 10750, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 10750
+                },
                 {
-                    "num": 4500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 4500
                 }
-            ], 
-            "iname": "CMDMRR_4"
-        }, 
+            ]
+        },
         {
+            "iname": "CMDMRR_5",
             "rewards": [
                 {
-                    "num": 10500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 10500
+                },
                 {
-                    "num": 4000, 
-                    "type": 3
+                    "type": 3,
+                    "num": 4000
                 }
-            ], 
-            "iname": "CMDMRR_5"
-        }, 
+            ]
+        },
         {
+            "iname": "CMDMRR_6",
             "rewards": [
                 {
-                    "num": 10250, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 10250
+                },
                 {
-                    "num": 3500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 3500
                 }
-            ], 
-            "iname": "CMDMRR_6"
+            ]
         }
     ]
 }

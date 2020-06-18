@@ -1,8 +1,8 @@
 {
     "items": [
         {
-            "type": 1, 
-            "iname": "GMG_NORMAL"
+            "iname": "GMG_NORMAL",
+            "type": 1
         }
     ]
 }

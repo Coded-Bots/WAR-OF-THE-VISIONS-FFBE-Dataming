@@ -1,120 +1,120 @@
 {
     "items": [
         {
-            "guidance": "Quest", 
-            "iname": "Party"
-        }, 
+            "iname": "Party",
+            "guidance": "Quest"
+        },
         {
-            "guidance": "UnitStrength", 
-            "iname": "Unit"
-        }, 
+            "iname": "Unit",
+            "guidance": "UnitStrength"
+        },
         {
-            "guidance": "UnitStrength", 
-            "iname": "UnitJobStrength"
-        }, 
+            "iname": "UnitJobStrength",
+            "guidance": "UnitStrength"
+        },
         {
-            "guidance": "UnitStrength", 
-            "iname": "UnitAbilitybord"
-        }, 
+            "iname": "UnitAbilitybord",
+            "guidance": "UnitStrength"
+        },
         {
-            "guidance": "UnitStrength", 
-            "iname": "UnitAbilityStrength"
-        }, 
+            "iname": "UnitAbilityStrength",
+            "guidance": "UnitStrength"
+        },
         {
-            "guidance": "UnitStrength", 
-            "iname": "UnitStrengthLB"
-        }, 
+            "iname": "UnitStrengthLB",
+            "guidance": "UnitStrength"
+        },
         {
-            "guidance": "UnitAwake", 
-            "iname": "UnitAwake"
-        }, 
+            "iname": "UnitAwake",
+            "guidance": "UnitAwake"
+        },
         {
-            "guidance": "UnitAwake", 
-            "iname": "UnitRank"
-        }, 
+            "iname": "UnitRank",
+            "guidance": "UnitAwake"
+        },
         {
-            "guidance": "ArtifactCraft", 
-            "iname": "Artifact"
-        }, 
+            "iname": "Artifact",
+            "guidance": "ArtifactCraft"
+        },
         {
-            "guidance": "ArtifactCraft", 
-            "iname": "ArtifactCraft"
-        }, 
+            "iname": "ArtifactCraft",
+            "guidance": "ArtifactCraft"
+        },
         {
-            "guidance": "ArtifactCraft", 
-            "iname": "ArtifactAwake"
-        }, 
+            "iname": "ArtifactAwake",
+            "guidance": "ArtifactCraft"
+        },
         {
-            "guidance": "ArtifactCraft", 
-            "iname": "UnitArtifactFav"
-        }, 
+            "iname": "UnitArtifactFav",
+            "guidance": "ArtifactCraft"
+        },
         {
-            "guidance": "UnitAwake", 
-            "iname": "UnitSubJob"
-        }, 
+            "iname": "UnitSubJob",
+            "guidance": "UnitAwake"
+        },
         {
-            "guidance": "UnitAwake", 
-            "iname": "UnitAbilitySet"
-        }, 
+            "iname": "UnitAbilitySet",
+            "guidance": "UnitAwake"
+        },
         {
-            "guidance": "EventQuest", 
-            "iname": "EventQuest"
-        }, 
+            "iname": "EventQuest",
+            "guidance": "EventQuest"
+        },
         {
-            "guidance": "VisionCard", 
-            "iname": "VisionCard"
-        }, 
+            "iname": "VisionCard",
+            "guidance": "VisionCard"
+        },
         {
-            "guidance": "ExplorationChocobo", 
-            "iname": "ExplorationChocobo"
-        }, 
+            "iname": "ExplorationChocobo",
+            "guidance": "ExplorationChocobo"
+        },
         {
-            "guidance": "ExplorationChocobo", 
-            "iname": "NetherBeast"
-        }, 
+            "iname": "NetherBeast",
+            "guidance": "ExplorationChocobo"
+        },
         {
-            "guidance": "ExplorationChocobo", 
-            "iname": "NBeastQuest"
-        }, 
+            "iname": "NBeastQuest",
+            "guidance": "ExplorationChocobo"
+        },
         {
-            "guidance": "MultiQuest", 
-            "iname": "MultiQuest"
-        }, 
+            "iname": "MultiQuest",
+            "guidance": "MultiQuest"
+        },
         {
-            "guidance": "GuildJoin", 
-            "iname": "Guild"
-        }, 
+            "iname": "Guild",
+            "guidance": "GuildJoin"
+        },
         {
-            "guidance": "Arena", 
-            "iname": "Arena"
-        }, 
+            "iname": "Arena",
+            "guidance": "Arena"
+        },
         {
-            "guidance": "FreeMatch", 
-            "iname": "Match"
-        }, 
+            "iname": "Match",
+            "guidance": "FreeMatch"
+        },
         {
-            "guidance": "Battle1", 
-            "iname": "Mission"
-        }, 
+            "iname": "Mission",
+            "guidance": "Battle1"
+        },
         {
-            "guidance": "SubQuest", 
-            "iname": "HardQuest"
-        }, 
+            "iname": "HardQuest",
+            "guidance": "SubQuest"
+        },
         {
-            "guidance": "SubQuest", 
-            "iname": "CharaQuest"
-        }, 
+            "iname": "CharaQuest",
+            "guidance": "SubQuest"
+        },
         {
-            "guidance": "CharaQuest", 
-            "iname": "ItemExchange"
-        }, 
+            "iname": "ItemExchange",
+            "guidance": "CharaQuest"
+        },
         {
-            "guidance": "Battle1", 
-            "iname": "SupportUnit"
-        }, 
+            "iname": "SupportUnit",
+            "guidance": "Battle1"
+        },
         {
-            "guidance": "MultiQuest", 
-            "iname": "Tower"
+            "iname": "Tower",
+            "guidance": "MultiQuest"
         }
     ]
 }
