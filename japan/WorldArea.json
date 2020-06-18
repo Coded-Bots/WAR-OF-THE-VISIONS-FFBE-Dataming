@@ -1,106 +1,112 @@
 {
     "items": [
         {
-            "iname": "CH_WD_0101", 
+            "iname": "CH_WD_0101",
             "area": [
                 {
-                    "sval": "SE_WD_010101", 
-                    "type": 1, 
-                    "name": "area_01"
-                }, 
+                    "name": "area_01",
+                    "type": 1,
+                    "sval": "SE_WD_010101"
+                },
                 {
-                    "line_area_name_1": "area_01", 
-                    "sval": "SE_WD_010102", 
-                    "type": 1, 
-                    "name": "area_02"
-                }, 
+                    "name": "area_02",
+                    "type": 1,
+                    "sval": "SE_WD_010102",
+                    "line_area_name_1": "area_01"
+                },
                 {
-                    "line_area_name_1": "area_02", 
-                    "sval": "SE_WD_010103", 
-                    "type": 1, 
-                    "name": "area_03"
-                }, 
+                    "name": "area_03",
+                    "type": 1,
+                    "sval": "SE_WD_010103",
+                    "line_area_name_1": "area_02"
+                },
                 {
-                    "line_area_name_1": "area_05", 
-                    "sval": "SE_WD_010105", 
-                    "type": 1, 
-                    "name": "area_04"
-                }, 
+                    "name": "area_04",
+                    "type": 1,
+                    "sval": "SE_WD_010105",
+                    "line_area_name_1": "area_05"
+                },
                 {
-                    "line_area_name_1": "area_02", 
-                    "sval": "SE_WD_010104", 
-                    "type": 1, 
-                    "name": "area_05"
-                }, 
+                    "name": "area_05",
+                    "type": 1,
+                    "sval": "SE_WD_010104",
+                    "line_area_name_1": "area_02"
+                },
                 {
-                    "line_area_name_1": "area_05", 
-                    "sval": "SE_WD_010107", 
-                    "type": 1, 
-                    "name": "area_06"
-                }, 
+                    "name": "area_06",
+                    "type": 1,
+                    "sval": "SE_WD_010107",
+                    "line_area_name_1": "area_05"
+                },
                 {
-                    "line_area_name_1": "area_06", 
-                    "sval": "SE_WD_010108", 
-                    "type": 1, 
-                    "name": "area_07"
-                }, 
+                    "name": "area_07",
+                    "type": 1,
+                    "sval": "SE_WD_010108",
+                    "line_area_name_1": "area_06"
+                },
                 {
-                    "line_area_name_1": "area_05", 
-                    "sval": "SE_WD_010106", 
-                    "type": 1, 
-                    "name": "area_08"
-                }, 
+                    "name": "area_08",
+                    "type": 1,
+                    "sval": "SE_WD_010106",
+                    "line_area_name_1": "area_05"
+                },
                 {
-                    "line_area_name_1": "area_07", 
-                    "sval": "SE_WD_010109", 
-                    "type": 1, 
-                    "name": "area_09"
-                }, 
+                    "name": "area_09",
+                    "type": 1,
+                    "sval": "SE_WD_010109",
+                    "line_area_name_1": "area_07"
+                },
                 {
-                    "line_area_name_1": "area_09", 
-                    "sval": "SE_WD_010110", 
-                    "type": 1, 
-                    "name": "area_10"
+                    "name": "area_10",
+                    "type": 1,
+                    "sval": "SE_WD_010110",
+                    "line_area_name_1": "area_09"
                 }
             ]
-        }, 
+        },
         {
-            "iname": "CH_WD_0102", 
+            "iname": "CH_WD_0102",
             "area": [
                 {
-                    "sval": "SE_WD_010201", 
-                    "type": 1, 
-                    "name": "area_01"
-                }, 
+                    "name": "area_01",
+                    "type": 1,
+                    "sval": "SE_WD_010201"
+                },
                 {
-                    "line_area_name_1": "area_01", 
-                    "sval": "SE_WD_010202", 
-                    "type": 1, 
-                    "name": "area_02"
-                }, 
+                    "name": "area_02",
+                    "type": 1,
+                    "sval": "SE_WD_010202",
+                    "line_area_name_1": "area_01"
+                },
                 {
-                    "line_area_name_1": "area_02", 
-                    "sval": "SE_WD_010203", 
-                    "type": 1, 
-                    "name": "area_03"
-                }, 
+                    "name": "area_03",
+                    "type": 1,
+                    "sval": "SE_WD_010203",
+                    "line_area_name_1": "area_02"
+                },
                 {
-                    "line_area_name_1": "area_02", 
-                    "sval": "SE_WD_010204", 
-                    "type": 1, 
-                    "name": "area_04"
-                }, 
+                    "name": "area_04",
+                    "type": 1,
+                    "sval": "SE_WD_010204",
+                    "line_area_name_1": "area_02"
+                },
                 {
-                    "line_area_name_1": "area_02", 
-                    "sval": "SE_WD_010205", 
-                    "type": 1, 
-                    "name": "area_05"
-                }, 
+                    "name": "area_05",
+                    "type": 1,
+                    "sval": "SE_WD_010205",
+                    "line_area_name_1": "area_02"
+                },
                 {
-                    "line_area_name_1": "area_05", 
-                    "sval": "SE_WD_010206", 
-                    "type": 1, 
-                    "name": "area_06"
+                    "name": "area_06",
+                    "type": 1,
+                    "sval": "SE_WD_010206",
+                    "line_area_name_1": "area_05"
+                },
+                {
+                    "name": "area_07",
+                    "type": 1,
+                    "sval": "SE_WD_010207",
+                    "line_area_name_1": "area_05"
                 }
             ]
         }

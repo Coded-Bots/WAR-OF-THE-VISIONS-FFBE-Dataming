@@ -1,22 +1,22 @@
 {
     "items": [
         {
-            "has_limited": 1, 
-            "num": 5, 
-            "type": 0, 
-            "iname": "IT_US_POTION"
-        }, 
+            "iname": "IT_US_POTION",
+            "type": 0,
+            "num": 5,
+            "has_limited": 1
+        },
         {
-            "has_limited": 1, 
-            "num": 10, 
-            "type": 0, 
-            "iname": "IT_US_HIPOTION"
-        }, 
+            "iname": "IT_US_HIPOTION",
+            "type": 0,
+            "num": 10,
+            "has_limited": 1
+        },
         {
-            "has_limited": 1, 
-            "num": 5, 
-            "type": 0, 
-            "iname": "IT_US_EXPOTION"
+            "iname": "IT_US_EXPOTION",
+            "type": 0,
+            "num": 5,
+            "has_limited": 1
         }
     ]
 }

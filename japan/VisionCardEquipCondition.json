@@ -1,19 +1,19 @@
 {
     "items": [
         {
-            "series": [
-                1
-            ], 
+            "iname": "VEC_SAMPLE",
             "elements": [
-                0, 
-                6, 
+                0,
+                6,
                 7
-            ], 
+            ],
+            "sex": 1,
             "births": [
                 2
-            ], 
-            "iname": "VEC_SAMPLE", 
-            "sex": 1
+            ],
+            "series": [
+                1
+            ]
         }
     ]
 }

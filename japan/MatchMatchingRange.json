@@ -1,24 +1,24 @@
 {
     "items": [
         {
-            "max_level": 40, 
-            "min_level": 1, 
-            "id": 1
-        }, 
+            "id": 1,
+            "min_level": 1,
+            "max_level": 40
+        },
         {
-            "max_level": 70, 
-            "min_level": 41, 
-            "id": 2
-        }, 
+            "id": 2,
+            "min_level": 41,
+            "max_level": 70
+        },
         {
-            "max_level": 100, 
-            "min_level": 71, 
-            "id": 3
-        }, 
+            "id": 3,
+            "min_level": 71,
+            "max_level": 100
+        },
         {
-            "max_level": 999, 
-            "min_level": 101, 
-            "id": 4
+            "id": 4,
+            "min_level": 101,
+            "max_level": 999
         }
     ]
 }

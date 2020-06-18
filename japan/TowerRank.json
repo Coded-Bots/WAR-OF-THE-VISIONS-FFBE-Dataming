@@ -1,68 +1,68 @@
 {
     "items": [
         {
-            "score": 13, 
-            "iname": "S"
-        }, 
+            "iname": "S",
+            "score": 13
+        },
         {
-            "score": 15, 
-            "iname": "A+"
-        }, 
+            "iname": "A+",
+            "score": 15
+        },
         {
-            "score": 18, 
-            "iname": "A"
-        }, 
+            "iname": "A",
+            "score": 18
+        },
         {
-            "score": 20, 
-            "iname": "A-"
-        }, 
+            "iname": "A-",
+            "score": 20
+        },
         {
-            "score": 23, 
-            "iname": "B+"
-        }, 
+            "iname": "B+",
+            "score": 23
+        },
         {
-            "score": 25, 
-            "iname": "B"
-        }, 
+            "iname": "B",
+            "score": 25
+        },
         {
-            "score": 30, 
-            "iname": "B-"
-        }, 
+            "iname": "B-",
+            "score": 30
+        },
         {
-            "score": 33, 
-            "iname": "C+"
-        }, 
+            "iname": "C+",
+            "score": 33
+        },
         {
-            "score": 35, 
-            "iname": "C"
-        }, 
+            "iname": "C",
+            "score": 35
+        },
         {
-            "score": 40, 
-            "iname": "C-"
-        }, 
+            "iname": "C-",
+            "score": 40
+        },
         {
-            "score": 43, 
-            "iname": "D+"
-        }, 
+            "iname": "D+",
+            "score": 43
+        },
         {
-            "score": 45, 
-            "iname": "D"
-        }, 
+            "iname": "D",
+            "score": 45
+        },
         {
-            "score": 50, 
-            "iname": "D-"
-        }, 
+            "iname": "D-",
+            "score": 50
+        },
         {
-            "score": 53, 
-            "iname": "E+"
-        }, 
+            "iname": "E+",
+            "score": 53
+        },
         {
-            "score": 55, 
-            "iname": "E"
-        }, 
+            "iname": "E",
+            "score": 55
+        },
         {
-            "score": 60, 
-            "iname": "E-"
+            "iname": "E-",
+            "score": 60
         }
     ]
 }

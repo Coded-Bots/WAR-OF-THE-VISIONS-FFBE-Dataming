@@ -1,1305 +1,1305 @@
 {
     "items": [
         {
+            "iname": "TWR_01_001",
             "rewards": [
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_GACHA_01", 
+                    "type": 0,
+                    "iname": "IT_US_GACHA_01",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_001"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_002",
             "rewards": [
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_002"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_003",
             "rewards": [
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_GACHA_01", 
+                    "type": 0,
+                    "iname": "IT_US_GACHA_01",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_003"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_004",
             "rewards": [
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_004"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_005",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_SSR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_SSR",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 100,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_005"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_006",
             "rewards": [
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_006"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_007",
             "rewards": [
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_G_N_TW_10", 
+                    "type": 0,
+                    "iname": "IT_US_G_N_TW_10",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_007"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_008",
             "rewards": [
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_008"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_009",
             "rewards": [
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_G_N_TW_10", 
+                    "type": 0,
+                    "iname": "IT_US_G_N_TW_10",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_009"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_010",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_UR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_GACHA_10", 
+                    "type": 0,
+                    "iname": "IT_US_GACHA_10",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 200, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 200,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_010"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_EX1",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_ALL", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_ALL",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_AF_AW_LSWORD", 
+                    "type": 0,
+                    "iname": "IT_AF_AW_LSWORD",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_AF_AW_LSWORD", 
+                    "type": 0,
+                    "iname": "IT_AF_AW_LSWORD",
+                    "num": 10,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_EX1"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_011",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_SOIL", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_SOIL",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_SOIL", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_SOIL",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_011"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_012",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_DARK", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_DARK",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_DARK", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_DARK",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_012"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_013",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_WIND", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_WIND",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_WIND", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_WIND",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_013"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_014",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_ICE", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_ICE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_ICE", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_ICE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_014"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_015",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 2, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_SSR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_SSR",
+                    "num": 2,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 300, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 300,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_015"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_016",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_WATER", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_WATER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_WATER", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_WATER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_016"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_017",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_THUNDER", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_THUNDER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_THUNDER", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_THUNDER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_017"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_018",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_FIRE", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_FIRE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_FIRE", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_FIRE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_018"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_019",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_SHINE", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_SHINE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_SHINE", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_SHINE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_019"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_EX2",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_ALL", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_ALL",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20, 
-                    "type": 0, 
-                    "iname": "IT_AF_AW_LSWORD", 
+                    "type": 0,
+                    "iname": "IT_AF_AW_LSWORD",
+                    "num": 20,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 20, 
-                    "type": 0, 
-                    "iname": "IT_AF_AW_LSWORD", 
+                    "type": 0,
+                    "iname": "IT_AF_AW_LSWORD",
+                    "num": 20,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_EX2"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_01_020",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_UR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 1, 
-                    "iname": "AF_LW_BSW_011", 
+                    "type": 1,
+                    "iname": "AF_LW_BSW_011",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 400, 
-                    "type": 0, 
-                    "iname": "IT_EC_TOWER_001", 
+                    "type": 0,
+                    "iname": "IT_EC_TOWER_001",
+                    "num": 400,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_01_020"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_001",
             "rewards": [
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_GACHA_01", 
+                    "type": 0,
+                    "iname": "IT_US_GACHA_01",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_FIRE", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_FIRE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_FIRE", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_FIRE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 10000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_001"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_002",
             "rewards": [
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_SHINE", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_SHINE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_SHINE", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_SHINE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_002"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_003",
             "rewards": [
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_SOIL", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_SOIL",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_SOIL", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_SOIL",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_003"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_004",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_DARK", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_DARK",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_DARK", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_DARK",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 12500, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 12500,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_004"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_005",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 2, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_SSR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_SSR",
+                    "num": 2,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_UR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 1, 
-                    "iname": "AF_FFT_SWO_002", 
+                    "type": 1,
+                    "iname": "AF_FFT_SWO_002",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_ICE_02", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_ICE_02",
+                    "num": 1,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_005"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_006",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_WATER", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_WATER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_WATER", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_WATER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 15000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 5, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 5,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_006"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_007",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_THUNDER", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_THUNDER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_THUNDER", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_THUNDER",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 10,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_007"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_008",
             "rewards": [
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_CG_03", 
+                    "type": 0,
+                    "iname": "IT_CG_03",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_ICE", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_ICE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_ICE", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_ICE",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 15,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 15, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 15,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_008"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_009",
             "rewards": [
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_N_GACHA_10", 
+                    "type": 0,
+                    "iname": "IT_US_N_GACHA_10",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_UN_AW_WIND", 
+                    "type": 0,
+                    "iname": "IT_UN_AW_WIND",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_WIND", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_WIND",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 15, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 15,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 15, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_LIQUID_04", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_LIQUID_04",
+                    "num": 15,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_009"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_EX1",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_PI_COM_ALL", 
+                    "type": 0,
+                    "iname": "IT_PI_COM_ALL",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 20, 
-                    "type": 0, 
-                    "iname": "IT_AF_AW_SWORD", 
+                    "type": 0,
+                    "iname": "IT_AF_AW_SWORD",
+                    "num": 20,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_EX1"
-        }, 
+            ]
+        },
         {
+            "iname": "TWR_02_010",
             "rewards": [
                 {
-                    "num": 200, 
-                    "type": 3, 
+                    "type": 3,
+                    "num": 200,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_AW_VBALL_UR", 
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 1, 
-                    "type": 0, 
-                    "iname": "IT_US_GACHA_10", 
+                    "type": 0,
+                    "iname": "IT_US_GACHA_10",
+                    "num": 1,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 10, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_ICE_02", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_ICE_02",
+                    "num": 10,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 100, 
-                    "type": 0, 
-                    "iname": "IT_AF_AW_SWORD", 
+                    "type": 0,
+                    "iname": "IT_AF_AW_SWORD",
+                    "num": 100,
                     "round": 0
-                }, 
+                },
                 {
-                    "num": 20000, 
-                    "type": 2, 
+                    "type": 2,
+                    "num": 20000,
                     "round": 1
-                }, 
+                },
                 {
-                    "num": 2, 
-                    "type": 0, 
-                    "iname": "IT_AF_MAT_ICE_02", 
+                    "type": 0,
+                    "iname": "IT_AF_MAT_ICE_02",
+                    "num": 2,
                     "round": 1
                 }
-            ], 
-            "iname": "TWR_02_010"
+            ]
         }
     ]
 }

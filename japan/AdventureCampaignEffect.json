@@ -1,377 +1,419 @@
 {
     "items": [
         {
-            "campaign_id": 1, 
+            "campaign_id": 1,
             "effects": [
                 {
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 150, 
-                    "mon": 1
-                }, 
+                    "effect": "unit_exp_up",
+                    "value": 150,
+                    "mon": 1,
+                    "thu": 1
+                },
                 {
-                    "sun": 1, 
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
+                    "sun": 1,
                     "wed": 1
-                }, 
+                },
                 {
-                    "effect": "item_drop_up", 
-                    "value": 200, 
+                    "effect": "item_drop_up",
+                    "value": 200,
                     "mon": 1
-                }, 
+                },
                 {
-                    "sun": 1, 
-                    "effect": "speedup_limit_up", 
-                    "value": 200, 
+                    "effect": "speedup_limit_up",
+                    "value": 200,
+                    "sun": 1,
                     "sat": 1
-                }, 
+                },
                 {
-                    "sun": 1, 
-                    "effect": "speedup_drop_exp_up", 
-                    "value": 200, 
+                    "effect": "speedup_drop_exp_up",
+                    "value": 200,
+                    "sun": 1,
                     "sat": 1
-                }, 
+                },
                 {
-                    "fri": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "tue": 1
+                    "effect": "gil_up",
+                    "value": 200,
+                    "tue": 1,
+                    "fri": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 2, 
+            "campaign_id": 2,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }
-            ]
-        }, 
-        {
-            "campaign_id": 3, 
-            "effects": [
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
                     "sat": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 4, 
+            "campaign_id": 3,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
-                    "mon": 1
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 5, 
+            "campaign_id": 4,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 6, 
+            "campaign_id": 5,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 7, 
+            "campaign_id": 6,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 8, 
+            "campaign_id": 7,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 9, 
+            "campaign_id": 8,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 10, 
+            "campaign_id": 9,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 11, 
+            "campaign_id": 10,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 12, 
+            "campaign_id": 11,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 13, 
+            "campaign_id": 12,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 14, 
+            "campaign_id": 13,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 15, 
+            "campaign_id": 14,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 16, 
+            "campaign_id": 15,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 17, 
+            "campaign_id": 16,
             "effects": [
                 {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "unit_exp_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "wed": 1, 
-                    "sun": 1, 
-                    "thu": 1, 
-                    "effect": "gil_up", 
-                    "value": 200, 
-                    "mon": 1, 
-                    "fri": 1, 
-                    "tue": 1, 
-                    "sat": 1
-                }, 
-                {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]
-        }, 
+        },
         {
-            "campaign_id": 18, 
+            "campaign_id": 17,
             "effects": [
                 {
-                    "effect": "drop_rare_up", 
-                    "value": "campaign_1", 
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
+                    "mon": 1
+                }
+            ]
+        },
+        {
+            "campaign_id": 18,
+            "effects": [
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
+                    "mon": 1
+                }
+            ]
+        },
+        {
+            "campaign_id": 19,
+            "effects": [
+                {
+                    "effect": "unit_exp_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "gil_up",
+                    "value": 200,
+                    "sun": 1,
+                    "mon": 1,
+                    "tue": 1,
+                    "wed": 1,
+                    "thu": 1,
+                    "fri": 1,
+                    "sat": 1
+                },
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
+                    "mon": 1
+                }
+            ]
+        },
+        {
+            "campaign_id": 20,
+            "effects": [
+                {
+                    "effect": "drop_rare_up",
+                    "value": "campaign_1",
                     "mon": 1
                 }
             ]

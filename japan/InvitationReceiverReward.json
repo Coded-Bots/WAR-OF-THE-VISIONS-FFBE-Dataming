@@ -1,13 +1,13 @@
 {
     "items": [
         {
+            "iname": "IRR_1",
             "rewards": [
                 {
-                    "num": 500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 500
                 }
-            ], 
-            "iname": "IRR_1"
+            ]
         }
     ]
 }

@@ -1,289 +1,289 @@
 {
     "items": [
         {
+            "iname": "PR_TUTORIAL",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 4, 
-                    "type_4": 4
+                    "party_type": 1,
+                    "type_1": 4,
+                    "type_2": 4,
+                    "type_3": 4,
+                    "type_4": 4,
+                    "type_5": 4,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_TUTORIAL"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_01",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_2": "UN_LW_BGN_RAMD", 
-                    "party_type": 1, 
-                    "type_3": 1, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_RAMD",
+                    "type_3": 1,
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_01"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_02",
             "slot_info": [
                 {
-                    "unit_4": "UN_LW_BGN_BYLO", 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_LILS", 
-                    "unit_2": "UN_LW_BGN_STRN", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_s": 1, 
-                    "type_5": 1, 
-                    "type_4": 4
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_STRN",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_LILS",
+                    "type_4": 4,
+                    "unit_4": "UN_LW_BGN_BYLO",
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_02"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_03",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MICE", 
-                    "unit_3": "UN_LW_BGN_SEVR", 
-                    "unit_2": "UN_LW_BGN_MDNA", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MICE",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_MDNA",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_SEVR",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_03"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_04",
             "slot_info": [
                 {
-                    "unit_4": "UN_LW_BGN_RAMD", 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_STRN", 
-                    "unit_2": "UN_LW_BGN_MDNA", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_s": 1, 
-                    "type_5": 1, 
-                    "type_4": 4
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_MDNA",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_STRN",
+                    "type_4": 4,
+                    "unit_4": "UN_LW_BGN_RAMD",
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_04"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_05_0",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_RAMD", 
-                    "unit_2": "UN_LW_BGN_LILS", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_LILS",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_RAMD",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_05_0"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_05",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_RAMD", 
-                    "unit_2": "UN_LW_BGN_LILS", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_LILS",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_RAMD",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_05"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_06",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_AILN", 
-                    "unit_2": "UN_LW_BGN_BYLO", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_BYLO",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_AILN",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_06"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_07",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_MACR", 
-                    "unit_2": "UN_LW_BGN_RAMD", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_RAMD",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_MACR",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_07"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_08",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_RAMD", 
-                    "unit_2": "UN_LW_BGN_MDNA", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_MDNA",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_RAMD",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_08"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_09",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_2": "UN_LW_BGN_RART", 
-                    "party_type": 1, 
-                    "type_3": 1, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_RART",
+                    "type_3": 1,
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_09"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_10",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_KTON", 
-                    "unit_2": "UN_LW_BGN_RAMD", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_RAMD",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_KTON",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_10"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_11",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_AYKA", 
-                    "unit_2": "UN_LW_BGN_RART", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_RART",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_AYKA",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_11"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_12",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_RART", 
-                    "unit_2": "UN_LW_BGN_RAMD", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_RAMD",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_RART",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_12"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_BGN_13",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "unit_1": "UN_LW_BGN_MONT", 
-                    "unit_3": "UN_LW_BGN_ELDE", 
-                    "unit_2": "UN_LW_BGN_LILS", 
-                    "party_type": 1, 
-                    "type_3": 4, 
-                    "type_2": 4, 
-                    "type_1": 4, 
-                    "type_5": 1, 
-                    "type_4": 1
+                    "party_type": 1,
+                    "type_1": 4,
+                    "unit_1": "UN_LW_BGN_MONT",
+                    "type_2": 4,
+                    "unit_2": "UN_LW_BGN_LILS",
+                    "type_3": 4,
+                    "unit_3": "UN_LW_BGN_ELDE",
+                    "type_4": 1,
+                    "type_5": 1,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_BGN_13"
-        }, 
+            ]
+        },
         {
+            "iname": "PR_TW_01",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "party_type": 7, 
-                    "type_3": 0, 
-                    "type_2": 0, 
-                    "type_1": 0, 
-                    "type_5": 0, 
-                    "type_4": 0
+                    "party_type": 7,
+                    "type_1": 0,
+                    "type_2": 0,
+                    "type_3": 0,
+                    "type_4": 0,
+                    "type_5": 0,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_TW_01", 
+            ],
             "limit_info": [
                 {
                     "lv_min": 20
                 }
             ]
-        }, 
+        },
         {
+            "iname": "PR_NO_YOHEI",
             "slot_info": [
                 {
-                    "type_s": 1, 
-                    "party_type": 1, 
-                    "type_3": 0, 
-                    "type_2": 0, 
-                    "type_1": 0, 
-                    "type_5": 0, 
-                    "type_4": 0
+                    "party_type": 1,
+                    "type_1": 0,
+                    "type_2": 0,
+                    "type_3": 0,
+                    "type_4": 0,
+                    "type_5": 0,
+                    "type_s": 1
                 }
-            ], 
-            "iname": "PR_NO_YOHEI"
+            ]
         }
     ]
 }

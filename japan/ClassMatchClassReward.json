@@ -1,270 +1,340 @@
 {
     "items": [
         {
+            "iname": "CMCR_DIAMOND_1",
             "rewards": [
                 {
-                    "num": 10000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 2000
+                },
                 {
-                    "num": 3250, 
-                    "type": 3
+                    "type": 3,
+                    "num": 800
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_PI_COM_ALL",
+                    "num": 1
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 5
                 }
-            ], 
-            "iname": "CMCR_DIAMOND_1"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_DIAMOND_2",
             "rewards": [
                 {
-                    "num": 9750, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 2000
+                },
                 {
-                    "num": 3000, 
-                    "type": 3
+                    "type": 3,
+                    "num": 800
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_PI_COM_ALL",
+                    "num": 1
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 5
                 }
-            ], 
-            "iname": "CMCR_DIAMOND_2"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_DIAMOND_3",
             "rewards": [
                 {
-                    "num": 9500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 2000
+                },
                 {
-                    "num": 2750, 
-                    "type": 3
+                    "type": 3,
+                    "num": 800
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_PI_COM_ALL",
+                    "num": 1
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 5
                 }
-            ], 
-            "iname": "CMCR_DIAMOND_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_PLATINUM_MASTER",
             "rewards": [
                 {
-                    "num": 9250, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1500
+                },
                 {
-                    "num": 2500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 500
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 3
                 }
-            ], 
-            "iname": "CMCR_PLATINUM_MASTER"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_PLATINUM_1",
             "rewards": [
                 {
-                    "num": 9000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1500
+                },
                 {
-                    "num": 2250, 
-                    "type": 3
+                    "type": 3,
+                    "num": 500
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 3
                 }
-            ], 
-            "iname": "CMCR_PLATINUM_1"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_PLATINUM_2",
             "rewards": [
                 {
-                    "num": 8750, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1500
+                },
                 {
-                    "num": 2000, 
-                    "type": 3
+                    "type": 3,
+                    "num": 500
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 3
                 }
-            ], 
-            "iname": "CMCR_PLATINUM_2"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_PLATINUM_3",
             "rewards": [
                 {
-                    "num": 8500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1500
+                },
                 {
-                    "num": 1750, 
-                    "type": 3
+                    "type": 3,
+                    "num": 500
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 3
                 }
-            ], 
-            "iname": "CMCR_PLATINUM_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_GOLD_MASTER",
             "rewards": [
                 {
-                    "num": 8000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1000
+                },
                 {
-                    "num": 1500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 300
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1
                 }
-            ], 
-            "iname": "CMCR_GOLD_MASTER"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_GOLD_1",
             "rewards": [
                 {
-                    "num": 7500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1000
+                },
                 {
-                    "num": 1350, 
-                    "type": 3
+                    "type": 3,
+                    "num": 300
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1
                 }
-            ], 
-            "iname": "CMCR_GOLD_1"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_GOLD_2",
             "rewards": [
                 {
-                    "num": 7000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1000
+                },
                 {
-                    "num": 1200, 
-                    "type": 3
+                    "type": 3,
+                    "num": 300
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1
                 }
-            ], 
-            "iname": "CMCR_GOLD_2"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_GOLD_3",
             "rewards": [
                 {
-                    "num": 6500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 1000
+                },
                 {
-                    "num": 1050, 
-                    "type": 3
+                    "type": 3,
+                    "num": 300
+                },
+                {
+                    "type": 0,
+                    "iname": "IT_AW_VBALL_UR",
+                    "num": 1
                 }
-            ], 
-            "iname": "CMCR_GOLD_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_SILVER_MASTER",
             "rewards": [
                 {
-                    "num": 6000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 500
+                },
                 {
-                    "num": 900, 
-                    "type": 3
+                    "type": 3,
+                    "num": 200
                 }
-            ], 
-            "iname": "CMCR_SILVER_MASTER"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_SILVER_1",
             "rewards": [
                 {
-                    "num": 5500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 500
+                },
                 {
-                    "num": 800, 
-                    "type": 3
+                    "type": 3,
+                    "num": 200
                 }
-            ], 
-            "iname": "CMCR_SILVER_1"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_SILVER_2",
             "rewards": [
                 {
-                    "num": 5000, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 500
+                },
                 {
-                    "num": 700, 
-                    "type": 3
+                    "type": 3,
+                    "num": 200
                 }
-            ], 
-            "iname": "CMCR_SILVER_2"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_SILVER_3",
             "rewards": [
                 {
-                    "num": 4500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 500
+                },
                 {
-                    "num": 600, 
-                    "type": 3
+                    "type": 3,
+                    "num": 200
                 }
-            ], 
-            "iname": "CMCR_SILVER_3"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_BRONZE_MASTER",
             "rewards": [
                 {
-                    "num": 3500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 200
+                },
                 {
-                    "num": 500, 
-                    "type": 3
+                    "type": 3,
+                    "num": 100
                 }
-            ], 
-            "iname": "CMCR_BRONZE_MASTER"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_BRONZE_1",
             "rewards": [
                 {
-                    "num": 2500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 200
+                },
                 {
-                    "num": 350, 
-                    "type": 3
+                    "type": 3,
+                    "num": 100
                 }
-            ], 
-            "iname": "CMCR_BRONZE_1"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_BRONZE_2",
             "rewards": [
                 {
-                    "num": 1500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 200
+                },
                 {
-                    "num": 300, 
-                    "type": 3
+                    "type": 3,
+                    "num": 100
                 }
-            ], 
-            "iname": "CMCR_BRONZE_2"
-        }, 
+            ]
+        },
         {
+            "iname": "CMCR_BRONZE_3",
             "rewards": [
                 {
-                    "num": 500, 
-                    "type": 0, 
-                    "iname": "IT_EC_MATCH"
-                }, 
+                    "type": 0,
+                    "iname": "IT_EC_MATCH",
+                    "num": 100
+                },
                 {
-                    "num": 250, 
-                    "type": 3
+                    "type": 3,
+                    "num": 50
                 }
-            ], 
-            "iname": "CMCR_BRONZE_3"
+            ]
         }
     ]
 }
