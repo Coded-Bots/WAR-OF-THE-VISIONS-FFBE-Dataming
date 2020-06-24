@@ -3,56 +3,56 @@
         {
             "kind": 1,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
             "kind": 2,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
             "kind": 3,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
             "kind": 4,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
             "kind": 5,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 20,
+            "coef2": 10
         },
         {
             "kind": 6,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
             "kind": 7,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 20,
+            "coef2": 10
         },
         {
             "kind": 9,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 40,
+            "coef2": 30
         },
         {
             "kind": 10,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
             "kind": 19,
@@ -157,22 +157,34 @@
             "coef2": 0
         },
         {
-            "kind": 0,
+            "kind": 8,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
-            "kind": 0,
+            "kind": 36,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 50,
+            "coef2": 30
         },
         {
-            "kind": 0,
+            "kind": 37,
             "coef0": 100,
-            "coef1": 0,
-            "coef2": 0
+            "coef1": 30,
+            "coef2": 20
+        },
+        {
+            "kind": 38,
+            "coef0": 100,
+            "coef1": 50,
+            "coef2": 30
+        },
+        {
+            "kind": 39,
+            "coef0": 100,
+            "coef1": 50,
+            "coef2": 30
         }
     ]
 }

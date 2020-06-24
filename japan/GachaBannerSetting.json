@@ -9,6 +9,31 @@
             "id": 2,
             "banner_id": "GachaBanner_0132",
             "gname": "no_coin_gacha_20200617_10"
+        },
+        {
+            "id": 3,
+            "banner_id": "GachaBanner_0137_ww",
+            "gname": "element-p_gacha_20200624_a"
+        },
+        {
+            "id": 4,
+            "banner_id": "GachaBanner_0137_dt",
+            "gname": "element-p_gacha_20200624_b"
+        },
+        {
+            "id": 5,
+            "banner_id": "GachaBanner_0137_ss",
+            "gname": "element-p_gacha_20200624_c"
+        },
+        {
+            "id": 6,
+            "banner_id": "GachaBanner_0137_fi",
+            "gname": "element-p_gacha_20200624_d"
+        },
+        {
+            "id": 7,
+            "banner_id": "GachaBanner_0136",
+            "gname": "p_gacha_vc_20200624"
         }
     ]
 }

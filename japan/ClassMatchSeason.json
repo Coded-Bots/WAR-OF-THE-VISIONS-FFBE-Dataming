@@ -913,11 +913,11 @@
         },
         {
             "iname": "CMS_2020XX",
-            "season_group_id": "CMSG",
-            "start_at": "2020/07/17 10:30:00",
-            "battle_end_at": "2020/07/24 22:59:59",
-            "ranking_start_at": "2020/07/24 23:00:00",
-            "end_at": "2020/07/31 23:59:59",
+            "season_group_id": "CMSG_1",
+            "start_at": "2020/05/17 10:30:00",
+            "battle_end_at": "2020/05/24 22:59:59",
+            "ranking_start_at": "2020/05/24 23:00:00",
+            "end_at": "2020/05/31 23:59:59",
             "quest_id": "QE_PVP_RANK_0002",
             "thumbnail": "MapIcon_0001",
             "schedule": [

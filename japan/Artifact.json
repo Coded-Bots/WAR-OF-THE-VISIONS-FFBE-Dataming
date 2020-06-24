@@ -29293,6 +29293,69 @@
             ]
         },
         {
+            "iname": "AF_LW_RNG_007",
+            "asset": "LAPSwpn_rng_007",
+            "type": 2,
+            "cat": [
+                22
+            ],
+            "rare": 4,
+            "cap": 1,
+            "sell": 0,
+            "hnum": 10,
+            "equip": "AEC_RNG_007",
+            "status": [
+                {
+                    "hp": 17,
+                    "atk": 5,
+                    "def": 1,
+                    "mag": 5,
+                    "mnd": 1
+                },
+                {
+                    "hp": 346,
+                    "atk": 100,
+                    "def": 24,
+                    "mag": 100,
+                    "mnd": 24
+                }
+            ],
+            "randr": [
+                {
+                    "hp": 36,
+                    "atk": 32,
+                    "def": 12,
+                    "mag": 32,
+                    "mnd": 12
+                }
+            ],
+            "randa": [
+                {
+                    "hp": 7,
+                    "atk": 3,
+                    "def": 2,
+                    "mag": 3,
+                    "mnd": 2
+                }
+            ],
+            "rtype": "AF_LOT_LW_RNG_007",
+            "skl1": [
+                "SK_LW_RNG_007_1"
+            ],
+            "skl2": [
+                "SK_LW_RNG_007_1"
+            ],
+            "skl3": [
+                "SK_LW_RNG_007_1"
+            ],
+            "skl4": [
+                "SK_LW_RNG_007_1"
+            ],
+            "skl5": [
+                "SK_LW_RNG_007_5"
+            ]
+        },
+        {
             "iname": "AF_LW_ACC_002",
             "asset": "LAPSwpn_acc_002",
             "type": 2,

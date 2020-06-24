@@ -726,7 +726,7 @@
             "end_at": "2020/07/5 23:59:59",
             "quest_id": "QE_ARENA_00007",
             "thumbnail": "MapIcon_0012",
-            "bonus_unit": "ARENA_BU_00029",
+            "bonus_unit": "ARENA_BU_00030",
             "join_reward": "ARENA_JREWARD_001",
             "daily_reward": "ARENA_DREWARD_002",
             "weekly_reward": "ARENA_WREWARD_015",
