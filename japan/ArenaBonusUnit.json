@@ -909,6 +909,39 @@
                     "iname": "UN_LW_P_FDRC"
                 }
             ]
+        },
+        {
+            "iname": "ARENA_BU_00031",
+            "units": [
+                {
+                    "rate": 100,
+                    "iname": "UN_FF14_P_TNCR"
+                },
+                {
+                    "rate": 100,
+                    "iname": "UN_LW_P_LILS_01"
+                },
+                {
+                    "rate": 100,
+                    "iname": "UN_LW_P_HWLT"
+                },
+                {
+                    "rate": 100,
+                    "iname": "UN_LW_P_CHEL"
+                },
+                {
+                    "rate": 75,
+                    "iname": "UN_LW_P_SCAL"
+                },
+                {
+                    "rate": 75,
+                    "iname": "UN_LW_P_MRAL"
+                },
+                {
+                    "rate": 50,
+                    "iname": "UN_FF14_P_YSTL"
+                }
+            ]
         }
     ]
 }
