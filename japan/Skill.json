@@ -39,6 +39,19 @@
             ]
         },
         {
+            "iname": "SK_CRYSTAL_04",
+            "cap": 1,
+            "effnm": "ef_com_crystal",
+            "selfsel": 1,
+            "type": 1,
+            "timing": 3,
+            "eff_type": 10,
+            "target": 1,
+            "t_buffs": [
+                "BUFF_CRYSTAL_04"
+            ]
+        },
+        {
             "iname": "SK_LW_WAR_ATK",
             "cap": 20,
             "lvup_cost_rate": 100,
@@ -31585,6 +31598,36 @@
             ]
         },
         {
+            "iname": "SK_FNRR_M_04_2",
+            "slot": 1,
+            "cap": 20,
+            "lvup_cost_rate": 100,
+            "motnm": "LAPSfnrr/skl_M4",
+            "effnm": "ef_LAPSfnrr_M04",
+            "scn": "\u3042\u308a",
+            "count": 3,
+            "cost_type": 0,
+            "cost_ap": 24,
+            "eff_s": 1,
+            "eff_l": 3,
+            "eff_h": 2,
+            "type": 1,
+            "timing": 0,
+            "eff_type": 2,
+            "target": 1,
+            "atk_type": 2,
+            "atk_base": 3,
+            "atk_det": 5,
+            "elem": [
+                2
+            ],
+            "eff_val": 10,
+            "eff_val1": 200,
+            "t_buffs": [
+                "BUFF_FNRR_M_04_2"
+            ]
+        },
+        {
             "iname": "SK_TITN_ATK",
             "cap": 20,
             "lvup_cost_rate": 100,
@@ -34307,6 +34350,45 @@
             ]
         },
         {
+            "iname": "SK_LB_LW_LATH",
+            "slot": 6,
+            "cap": 20,
+            "lvup_cost_rate": 100,
+            "motnm": "LB/LATH",
+            "effnm": "ef_LAPSlath_LB1",
+            "cam_dir": 1,
+            "count": 1,
+            "cost_type": 0,
+            "cost_ap": 49,
+            "range_s": 10,
+            "range_l": 4,
+            "range_w": 1,
+            "range_h": 1,
+            "range_buff": 1,
+            "type": 1,
+            "timing": 0,
+            "eff_type": 2,
+            "target": 12,
+            "atk_type": 1,
+            "atk_base": 1,
+            "atk_formula": 0,
+            "atk_formula_t1": 25,
+            "atk_formula_t2": 0,
+            "atk_formula_t3": 5,
+            "atk_det": 4,
+            "def_wep": "AF_GUN_LW_LATH_2",
+            "def_shi": "AF_GUN_LW_LATH_2",
+            "force_eq": 1,
+            "elem_pri": 1,
+            "eff_val": 65,
+            "eff_val1": 100,
+            "t_buffs": [
+                "BUFF_LB_LW_LATH"
+            ],
+            "combo_num": 2,
+            "combo_rate": 59
+        },
+        {
             "iname": "SK_SMN_IFRT",
             "slot": 5,
             "cap": 20,
@@ -36733,6 +36815,30 @@
             "target": 0,
             "t_buffs": [
                 "BUFF_MA_LW_CHEL"
+            ]
+        },
+        {
+            "iname": "SK_MA_LW_LATH",
+            "slot": 7,
+            "cap": 1,
+            "type": 3,
+            "timing": 1,
+            "eff_type": 0,
+            "target": 0,
+            "t_buffs": [
+                "BUFF_MA_LW_LATH"
+            ]
+        },
+        {
+            "iname": "SK_MA_LW_TITU",
+            "slot": 7,
+            "cap": 1,
+            "type": 3,
+            "timing": 1,
+            "eff_type": 0,
+            "target": 0,
+            "t_buffs": [
+                "BUFF_MA_LW_TITU"
             ]
         },
         {
@@ -39479,6 +39585,19 @@
             ]
         },
         {
+            "iname": "SK_GUN_LW_LATH_2_1",
+            "cap": 1,
+            "grow": "ARTIFACT_50",
+            "lvup_cost_rate": 100,
+            "type": 6,
+            "timing": 1,
+            "eff_type": 0,
+            "target": 0,
+            "s_buffs": [
+                "BUFF_GUN_LW_LATH_2_1"
+            ]
+        },
+        {
             "iname": "SK_HAT_LW_WHIS_1_2",
             "cap": 1,
             "grow": "ARTIFACT_50",
@@ -39853,6 +39972,19 @@
             "target": 0,
             "s_buffs": [
                 "BUFF_ROD_LW_CHEL_1_1"
+            ]
+        },
+        {
+            "iname": "SK_SWO_LW_TITU_1_1",
+            "cap": 1,
+            "grow": "ARTIFACT_50",
+            "lvup_cost_rate": 100,
+            "type": 6,
+            "timing": 1,
+            "eff_type": 0,
+            "target": 0,
+            "s_buffs": [
+                "BUFF_SWO_LW_TITU_1_1"
             ]
         },
         {

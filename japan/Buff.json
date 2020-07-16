@@ -19,6 +19,24 @@
             "val31": 8
         },
         {
+            "iname": "BUFF_CRYSTAL_04",
+            "timing": 2,
+            "chktgt": 0,
+            "chktiming": 1,
+            "type1": 1,
+            "calc1": 11,
+            "val1": 30,
+            "val11": 30,
+            "type2": 3,
+            "calc2": 11,
+            "val2": 30,
+            "val21": 30,
+            "type3": 181,
+            "calc3": 1,
+            "val3": 8,
+            "val31": 8
+        },
+        {
             "iname": "BUFF_LW_WAR_M_1_T",
             "turn": 3,
             "timing": 2,
@@ -4710,6 +4728,18 @@
             "val11": 80
         },
         {
+            "iname": "BUFF_FNRR_M_04_2",
+            "rate": 15,
+            "turn": 3,
+            "timing": 2,
+            "chktgt": 0,
+            "chktiming": 2,
+            "type1": 88,
+            "calc1": 30,
+            "val1": 60,
+            "val11": 80
+        },
+        {
             "iname": "BUFF_TITN_M_01",
             "turn": 3,
             "timing": 1,
@@ -5443,6 +5473,17 @@
             "val11": -38
         },
         {
+            "iname": "BUFF_LB_LW_LATH",
+            "turn": 3,
+            "timing": 2,
+            "chktgt": 0,
+            "chktiming": 1,
+            "type1": 26,
+            "calc1": 2,
+            "val1": -10,
+            "val11": -25
+        },
+        {
             "iname": "BUFF_SMN_THDG",
             "rate": 67,
             "turn": 3,
@@ -5719,7 +5760,9 @@
             "chktgt": 0,
             "chktiming": 1,
             "type1": 91,
-            "calc1": 31
+            "calc1": 31,
+            "type2": 148,
+            "calc2": 31
         },
         {
             "iname": "BUFF_REMEDY",
@@ -7161,6 +7204,42 @@
             "calc2": 1,
             "val2": -250,
             "val21": -250
+        },
+        {
+            "iname": "BUFF_MA_LW_LATH",
+            "rate": 200,
+            "timing": 0,
+            "chktgt": 0,
+            "chktiming": 0,
+            "type1": 21,
+            "calc1": 2,
+            "val1": 10,
+            "val11": 10,
+            "type2": 119,
+            "calc2": 30,
+            "val2": 15,
+            "val21": 15,
+            "tag2": [
+                3
+            ]
+        },
+        {
+            "iname": "BUFF_MA_LW_TITU",
+            "timing": 0,
+            "chktgt": 0,
+            "chktiming": 0,
+            "type1": 62,
+            "calc1": 3,
+            "val1": 10,
+            "val11": 10,
+            "type2": 64,
+            "calc2": 3,
+            "val2": 10,
+            "val21": 10,
+            "type3": 316,
+            "calc3": 1,
+            "val3": 25,
+            "val31": 25
         },
         {
             "iname": "BUFF_VC_LW_GLEM_GS",
@@ -12614,6 +12693,26 @@
             "val51": 5
         },
         {
+            "iname": "BUFF_GUN_LW_LATH_2_1",
+            "rate": 200,
+            "timing": 0,
+            "chktgt": 0,
+            "chktiming": 0,
+            "type1": 123,
+            "calc1": 30,
+            "id1": "BUFF_GUN_LW_LATH_2_1_EN"
+        },
+        {
+            "iname": "BUFF_GUN_LW_LATH_2_1_EN",
+            "rate": 20,
+            "turn": 1,
+            "timing": 2,
+            "chktgt": 0,
+            "chktiming": 2,
+            "type1": 98,
+            "calc1": 30
+        },
+        {
             "iname": "BUFF_ROD_LW_HLNA_1_1",
             "timing": 0,
             "chktgt": 0,
@@ -13082,6 +13181,28 @@
             "calc2": 1,
             "val2": 15,
             "val21": 15
+        },
+        {
+            "iname": "BUFF_SWO_LW_TITU_1_1",
+            "rate": 200,
+            "timing": 0,
+            "chktgt": 0,
+            "chktiming": 0,
+            "type1": 123,
+            "calc1": 30,
+            "id1": "BUFF_SWO_LW_TITU_1_1_EN"
+        },
+        {
+            "iname": "BUFF_SWO_LW_TITU_1_1_EN",
+            "rate": 15,
+            "turn": 3,
+            "timing": 2,
+            "chktgt": 0,
+            "chktiming": 2,
+            "type1": 21,
+            "calc1": 2,
+            "val1": -40,
+            "val11": -40
         },
         {
             "iname": "BUFF_ARM_LW_BYLO_1_1",
@@ -13969,6 +14090,20 @@
             "val11": 20
         },
         {
+            "iname": "BUFF_ARENA_00008",
+            "timing": 0,
+            "chktgt": 0,
+            "chktiming": 0,
+            "type1": 155,
+            "calc1": 1,
+            "val1": 20,
+            "val11": 20,
+            "type2": 311,
+            "calc2": 1,
+            "val2": 20,
+            "val21": 20
+        },
+        {
             "iname": "BUFF_GVG_001",
             "timing": 0,
             "chktgt": 0,
@@ -14020,6 +14155,16 @@
         },
         {
             "iname": "BUFF_CLASSMATCH_001",
+            "timing": 0,
+            "chktgt": 0,
+            "chktiming": 0,
+            "type1": 21,
+            "calc1": 1,
+            "val1": 0,
+            "val11": 0
+        },
+        {
+            "iname": "BUFF_CLASSMATCH_002",
             "timing": 0,
             "chktgt": 0,
             "chktiming": 0,

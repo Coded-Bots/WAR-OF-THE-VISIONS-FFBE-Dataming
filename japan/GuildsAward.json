@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "iname": "LW_GA_00001",
+            "order_no": 1,
+            "type": 1,
+            "grade": 1,
+            "collabo": 0
+        },
+        {
+            "iname": "LW_GA_00002",
+            "order_no": 2,
+            "type": 1,
+            "grade": 1,
+            "collabo": 0
+        }
+    ]
+}

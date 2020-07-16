@@ -245,6 +245,36 @@
                     "num": 1
                 }
             ]
+        },
+        {
+            "iname": "GM_0016",
+            "grpID": "GMG_AWARD",
+            "condition": {
+                "type": 3,
+                "ival": 1
+            },
+            "rewards": [
+                {
+                    "type": 2,
+                    "iname": "LW_GA_00001",
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "iname": "GM_0017",
+            "grpID": "GMG_AWARD",
+            "condition": {
+                "type": 3,
+                "ival": 1
+            },
+            "rewards": [
+                {
+                    "type": 2,
+                    "iname": "LW_GA_00002",
+                    "num": 1
+                }
+            ]
         }
     ]
 }

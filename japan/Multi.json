@@ -48,6 +48,16 @@
             "end": "2020/07/15 9:59:59"
         },
         {
+            "iname": "SE_MU_AW_HIGH_02",
+            "event_type": 3,
+            "image": "ev_aw_high_002"
+        },
+        {
+            "iname": "SE_MU_AW_HIGH_03",
+            "event_type": 3,
+            "image": "ev_aw_high_003"
+        },
+        {
             "iname": "SE_MU_SM_FIRE_01",
             "event_type": 3,
             "image": "ev_summon_002"
@@ -240,6 +250,13 @@
             "image": "ev_summon_013",
             "start": "2020/05/21 15:00:00",
             "end": "2020/06/10 14:59:59"
+        },
+        {
+            "iname": "SE_MU_SB_06",
+            "event_type": 1,
+            "image": "ev_summon_014",
+            "start": "2020/07/15 11:00:00",
+            "end": "2020/07/31 23:59:59"
         },
         {
             "iname": "SE_MU_FF1_01_EX",

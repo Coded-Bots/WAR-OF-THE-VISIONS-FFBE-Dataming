@@ -1,0 +1,175 @@
+{
+    "items": [
+        {
+            "src_sheet_name": "law_001_prelude"
+        },
+        {
+            "src_sheet_name": "law_002_maintheme"
+        },
+        {
+            "src_sheet_name": "law_002_maintheme_arpa_pf_arr"
+        },
+        {
+            "src_sheet_name": "law_003_map_world1"
+        },
+        {
+            "src_sheet_name": "law_004_map_world2"
+        },
+        {
+            "src_sheet_name": "law_005_differentworld"
+        },
+        {
+            "src_sheet_name": "law_006_stand_by_Multi"
+        },
+        {
+            "src_sheet_name": "law_007_stand_by_tower"
+        },
+        {
+            "src_sheet_name": "law_008_stand_by_pvp"
+        },
+        {
+            "src_sheet_name": "law_009_stand_by_guild"
+        },
+        {
+            "src_sheet_name": "law_011_event_chocobo"
+        },
+        {
+            "src_sheet_name": "law_012_battleend"
+        },
+        {
+            "src_sheet_name": "law_100_event_brave"
+        },
+        {
+            "src_sheet_name": "law_101_event_fun"
+        },
+        {
+            "src_sheet_name": "law_102_event_sad"
+        },
+        {
+            "src_sheet_name": "law_103_event_lose"
+        },
+        {
+            "src_sheet_name": "law_104_event_confront"
+        },
+        {
+            "src_sheet_name": "law_105_event_comic"
+        },
+        {
+            "src_sheet_name": "law_106_event_forest"
+        },
+        {
+            "src_sheet_name": "law_107_event_Army"
+        },
+        {
+            "src_sheet_name": "law_108_event_shadow"
+        },
+        {
+            "src_sheet_name": "law_109_event_emergency"
+        },
+        {
+            "src_sheet_name": "law_109_event_hope"
+        },
+        {
+            "src_sheet_name": "law_110_event_Marched"
+        },
+        {
+            "src_sheet_name": "law_111_event_Cheerful"
+        },
+        {
+            "src_sheet_name": "law_112_event_Solemnity"
+        },
+        {
+            "src_sheet_name": "law_113_event_confront"
+        },
+        {
+            "src_sheet_name": "law_201_battle"
+        },
+        {
+            "src_sheet_name": "law_202_battle_midboss"
+        },
+        {
+            "src_sheet_name": "law_203_battle_law_lastboss"
+        },
+        {
+            "src_sheet_name": "law_204_battle_summon_beast"
+        },
+        {
+            "src_sheet_name": "law_205_n010_battle_Multi"
+        },
+        {
+            "src_sheet_name": "law_206_battle_tower"
+        },
+        {
+            "src_sheet_name": "law_207_battle_pvp1"
+        },
+        {
+            "src_sheet_name": "law_208_battle_pvp2"
+        },
+        {
+            "src_sheet_name": "law_209_battle_guild"
+        },
+        {
+            "src_sheet_name": "law_300_leonis"
+        },
+        {
+            "src_sheet_name": "law_301_hourn"
+        },
+        {
+            "src_sheet_name": "law_302_wezett"
+        },
+        {
+            "src_sheet_name": "law_303_crystalfaith"
+        },
+        {
+            "src_sheet_name": "law_304_rundall"
+        },
+        {
+            "src_sheet_name": "law_305_untitled"
+        },
+        {
+            "src_sheet_name": "law_306_aliare"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_battle1"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_fuyujyou"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_main_theme"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_matoya_no_doukutsu"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_opening"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_prelude"
+        },
+        {
+            "src_sheet_name": "bgm_ff1_victory"
+        },
+        {
+            "src_sheet_name": "bgm_ff14_Insatiable"
+        },
+        {
+            "src_sheet_name": "bgm_ff14_Rencounter"
+        },
+        {
+            "src_sheet_name": "bgm_fft_BackFire"
+        },
+        {
+            "src_sheet_name": "bgm_fft_DesertLand"
+        },
+        {
+            "src_sheet_name": "bgm_fft_RandomWaltz"
+        },
+        {
+            "src_sheet_name": "bgm_fft_The_Pervert"
+        },
+        {
+            "src_sheet_name": "bgm_fft_Trisection"
+        }
+    ]
+}
